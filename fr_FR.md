@@ -20,7 +20,7 @@ Au début 2019, une E-commerce entreprise chinoise appelée _Youzan_ a déclaré
 
 Selon la loi sur le travail, les employés qui suivent le schéma de travail "996" méritent de toucher 2,275 fois leur salaire de base. Malheureusement, les gens qui ont atteint "996" sont rarement payés autant.
 
-## D'où vient le nom du repo `996.ICU`(`996.USI en françaiss`)?
+## D'où vient le nom du repo `996.ICU`(`996.USI en français`)?
 
 Si vous suivez systématiquement le mode de fonctionnement «996», vous courez le risque de vous rendre dans l' **U**nité de **S**oins **I**ntensifs.
 
