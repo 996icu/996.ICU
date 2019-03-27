@@ -10,7 +10,7 @@ Serving a company that encourages the "996" work schedule usually means work for
 
 > The employer can prolong work hours due to needs of production or businesses after consultation with its trade union and laborers. The work hours to be prolonged, in general, shall be no longer than one hour a day, or no more than three hours a day if such prolonging is called for due to special reasons and under the condition that the physical health of laborers is guaranteed. The work time to be prolonged shall not exceed, however, 36 hours a month. 
 
-## Gaining more publicity
+## Gaining more popularity and publicity
 
 In early 2019, a Chinese E-commerce company called _Youzan_ has announced the adoption of the "996" work schedule in the future, at the company's Chinese New Year Party. The CEO of Youzan responds: "This would definitely be a good decision when we look back in a few years time.".
 
