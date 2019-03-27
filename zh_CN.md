@@ -21,4 +21,84 @@ CEO 白鸦回应“几年后回看，这次绝对是好事”。
 
 什么是 996.ICU？工作 996，生病 ICU。
 
+国际五一劳动节源于美国芝加哥城的工人大罢工。1886年5月1日，芝加哥的二十一万六千余名工人为争取实行八小时工作制而举行大罢工，经过艰苦的流血斗争，终于获得了胜利。为纪念这次伟大的工人运动，1889年7月第二国际宣布将每年的五月一日定为国际劳动节。这一决定立即得到世界各国工人的积极响应。1890年5月1日，欧美各国的工人阶级率先走向街头，举行盛大的示威游行与集会，争取合法权益。从此，每逢这一天世界各国的劳动人民都要集会、游行，以示庆祝。
+
+Beginning in the late 19th century, as the trade union and labour movements grew, a variety of days were chosen by trade unionists as a day to celebrate labour. In the United States and Canada, a September holiday, called Labor or Labour Day, was first proposed in the 1880s. In 1882, Matthew Maguire, a machinist, first proposed a Labor Day holiday on the first Monday of September[nb 1] while serving as secretary of the Central Labor Union (CLU) of New York.Others argue that it was first proposed by Peter J. McGuire of the American Federation of Labor in May 1882,after witnessing the annual labour festival held in Toronto, Canada.In 1887, Oregon was the first state of the United States to make it an official public holiday. 
+
+
+
+　　起来，饥寒交迫的奴隶，
+　　起来，全世界受苦的人！
+　　满腔的热血已经沸腾，
+　　要为真理而斗争！
+　　旧世界打个落花流水，
+　　奴隶们起来起来！
+　　不要说我们一无所有，
+　　我们要做天下的主人！
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现。
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现！
+　　从来就没有什么救世主，
+　　也不靠神仙皇帝。
+　　要创造人类的幸福，
+　　全靠我们自己！
+　　我们要夺回劳动果实，
+　　让思想冲破牢笼。
+　　快把那炉火烧得通红，
+　　趁热打铁才能成功！
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现。
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现！
+　　是谁创造了人类世界？
+　　是我们劳动群众。
+　　一切归劳动者所有，
+　　哪能容得寄生虫！
+　　最可恨那些毒蛇猛兽，
+　　吃尽了我们的血肉。
+　　一旦把他们消灭干净，
+　　鲜红的太阳照遍全球！
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现。
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现！
+　　压迫的国家，空洞的法律，
+　　苛捐杂税榨穷苦；
+　　豪富们没有任何义务，
+　　穷人的权利是句空话；
+　　受监视的“平等’呻吟已久，
+　　平等需要新的法律，它说：
+　　“平等，没有无义务的权利，
+　　也没有无权利的义务！
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现。
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现！
+　　矿井和铁路的帝王，
+　　在神坛上奇丑无比。
+　　除了搜刮别人的劳动，
+　　他们还做了些什么？
+　　在这帮人的保险柜里，
+　　放的是劳动者的成果。
+　　从剥削者的手里，
+　　劳动者只是讨回血债。
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现。
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现！
+　　国王用谎言来骗我们，
+　　我们要联合向暴君开战。
+　　让战士们在军队里罢工，
+　　停止镇压离开暴力机器，
+　　如果他们坚持护卫暴君，
+　　让我们英勇牺牲，
+　　他们将会知道我们的子弹，
+　　会射向自己国家的将军。
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现。
+　　这是最后的斗争，团结起来到明天，
+　　英特纳雄耐尔就一定要实现 
+
+
 Developers' lives matter.
