@@ -22,3 +22,4 @@ CEO 白鸦回应“几年后回看，这次绝对是好事”。
 什么是 996.ICU？工作 996，生病 ICU。
 
 Developers' lives matter.
+网址： [https://996.icu/#/zh_CN](https://996.icu/#/zh_CN)
