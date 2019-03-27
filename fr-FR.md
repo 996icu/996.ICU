@@ -56,7 +56,7 @@ En vertu du Code du travail, le système de 996 travail n 'est pas défavorable 
 Quoi `996.ICU`? => Travailler 996, être malade ICU.
 ## Addition
 
-附上法律链接：[Labor Law of the People's Republic of China（effective as of , 2018）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
+* [Labor Law of the People's Republic of China（effective as of , 2018）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
 
 Saluez.
 
