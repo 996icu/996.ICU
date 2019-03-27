@@ -18,7 +18,7 @@ In Mid-March 2019, it was reported that Jingdong started adopting "996" or "995"
 
 ## Compensation and benefits
 
-According to the Labor Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who achieved "996" rarely get paid that much.
+According to the Labor Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely get paid that much.
 
 ## Where does the name of the repo `996.ICU` come from?
 
