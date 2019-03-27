@@ -18,6 +18,10 @@ I18n support is ongoing.
 If you would like to contribute more, you can add translations or just write something down in other languages in separate files.   
 The key is increasing our voices.
 
+Stargazers over time
+---
+[![Stargazers over time](https://starcharts.herokuapp.com/996icu/996.ICU.svg)](https://starcharts.herokuapp.com/996icu/996.ICU)
+
 Buy me a cup of coffee
 ---
 (I don't drink coffee.) I said that above because it sounds coooool.   
