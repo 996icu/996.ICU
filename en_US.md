@@ -24,4 +24,4 @@ According to the Labor Law, employees who follow the "996" working pattern deser
 
 If you consistently follow the "996" working pattern, you run the risk of getting yourself into ICU. 
 
-Developers' lives matter.
+Developers' life matter.
