@@ -6,7 +6,7 @@
 In einem Unternehmen tätig zu sein, das die "996"-Arbeitsmuster fördert, bedeutet in der Regel, mindestens 60 Stunden pro Woche zu arbeiten.
 
 ## Arbeitsrecht der Volksrepublik China
-In [Arbeitsrecht der Volksrepublik China] (http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm) Artikel 41 heißt es:
+In [Arbeitsrecht der Volksrepublik China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm) Artikel 41 heißt es:
 
 > Der Arbeitgeber kann die Arbeitszeit aufgrund von Produktions- oder Geschäftsanforderungen nach Absprache mit seiner Gewerkschaft und seinen Arbeitnehmern verlängern. Die zu verlängernde Arbeitszeit darf im Allgemeinen nicht länger als eine Stunde pro Tag oder höchstens drei Stunden pro Tag sein, wenn eine solche Verlängerung aus besonderen Gründen erforderlich ist und unter der Voraussetzung, dass die körperliche Gesundheit der Arbeiter gewährleistet ist . Die zu verlängernde Arbeitszeit darf jedoch 36 Stunden pro Monat nicht überschreiten.
 
@@ -22,6 +22,6 @@ Nach dem Arbeitsgesetz verdienen Arbeitnehmer, die dem "996"-Arbeitsmuster folge
 
 ## Woher kommt der Name des Repos "996.ICU"?
 
-Wenn man konsequent das "996"-Arbeitsmuster befolgt, besteht die Gefahr, dass man in **I**ntensiv **C** **U**nit landet.
+Wenn man konsequent das "996"-Arbeitsmuster befolgt, besteht die Gefahr, dass man in Intensivstation (**I**ntensiv **C**are **U**nit) landet.
 
 Das Leben der Entwickler zählt.
