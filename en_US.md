@@ -22,6 +22,6 @@ According to the Labor Law, employees who follow the "996" working pattern deser
 
 ## Where does the name of the repo `996.ICU` come from?
 
-If you consistently follow the "996" working pattern, you run the risk of getting yourself into ICU. 
+If you consistently follow the "996" working pattern, you run the risk of getting yourself into **I**ntensive **C**are **U**nit. 
 
 Developers' lives matter.
