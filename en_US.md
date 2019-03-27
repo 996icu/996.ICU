@@ -1,28 +1,37 @@
 996.ICU
 ===
 
-"996" job is working from 9am to 9pm, 6 days a week.
+# What is "996"?
+A "996" job refers to an unofficial working pattern (9am - 9pm, 6 days a week) that has been gaining more popularity. 
+Serving a company that encourages the "996" working pattern usually means working for at least 60 hours a week.
 
-The weekly working time for the "996" job is a minimum of 60 hours.
+---
 
-[Labour Law of the People's Republic of China](http://english.mofcom.gov.cn/aarticle/policyrelease/internationalpolicy/200703/20070304475283.html)  
-**Article 36**:  
-The State shall practise a working hour system wherein labourers shall work for no more than eight hours a day and no more than 44 hours a week on the average.  
-**Article 39**:  
-If an enterprise can not follow the stipulations in Article 36 and Article 38 of this Law due to special characteristics of its production, it may follow other rules on work and rest with the approval by labour administrative departments.  
-**Article 43**:  
-The employer shall not prolong the work hours of labourers in violation of the stipulations of this Law.  
-**Article 41**:  
-The employer can prolong work hours due to needs of production or businesses after consultation with its trade union and labourers. The work hours to be prolonged, in general, shall be no longer than one hour a day, or no more than three hours a day if such prolonging is called for due to special reasons and under the condition that the physical health of labourers is guaranteed. The work time to be prolonged shall not exceed, however, 36 hours a month.
+# Labor Law of the People’s Republic of China
+[Labor Law of the People’s Republic of China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm) Article 41 says:
 
-In 2019, a E-commerce Company named China Youzan( In China named Youzan ) has praised Youzan will implementation of the "996" job in the future at the company's annual meeting. The CEO of Youzan respond: "After a few years, this is definitely a good thing".
+> The employer can prolong work hours due to needs of production or businesses after consultation with its trade union and labourers. The work hours to be prolonged, in general, shall be no longer than one hour a day, or no more than three hours a day if such prolonging is called for due to special reasons and under the condition that the physical health of labourers is guaranteed. The work time to be prolonged shall not exceed, however, 36 hours a month. 
 
-In Mid-March of 2019, Some departments of Jingdong started "996" or "995" job, Jingdong PR shows on the maimai(脉脉, a real-name business social platform of China): "devote myself to do".
+---
 
-According to the Labor Law, legal rights are guaranteed only you obtained 2.6 times of the current salary.
+# Gaining more popularity
 
-What is 996.ICU? Who working in "996" job, who live in ICU.
+In early 2019, a Chinese E-commerce company called _Youzan_ has announced the adoption of the "996" working pattern in the future, at the company's Chinese New Year Party. The CEO of Youzan respond: "This would definitely be a good decision when we look back in a few years time.".
 
-References: ["Labour Law of the People's Republic of China"](http://english.mofcom.gov.cn/aarticle/policyrelease/internationalpolicy/200703/20070304475283.html) by Ministry of Commerce of the People's Republic of China.
+In Mid-March 2019, it was reported that Jingdong started adpoting "996" or "995" working pattern in some of the business units. Jingdong PR posted on their maimai(`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with all our hearts (to achieve the business objectives)".
 
-Developers' lives matter.
+---
+
+# Compensation and benefits
+
+According to the Labor Law, employees who follow the "996" working pattern deserve to be paid 2.275 times of their base salary. Unfortunately people who achieved "996" rarely get paid that much.
+
+---
+
+# Where does the name of the repo `996.ICU` come from?
+
+If you consistently follow the "996" working pattern, you run the risk of getting yourself into ICU. 
+
+---
+
+The health of software developers deserves more attention. Employees' lives do matter!
