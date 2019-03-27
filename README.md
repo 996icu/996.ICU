@@ -3,7 +3,7 @@
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay respect to glorious developers.
 
-Suggestions and PRs are welcomed!
+Suggestions and PRs are welcome!
 
 Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 
