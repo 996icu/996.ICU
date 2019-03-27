@@ -18,3 +18,7 @@ I18n
 I18n support is ongoing.  
 If you would like to help in advance, you can add translations or just write something down in other languages in separate files.   
 The key is increasing our voices.
+
+website
+---
+ [https://996.icu/#/zh_CN](https://996.icu/#/zh_CN)
