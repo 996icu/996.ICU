@@ -7,6 +7,10 @@ Suggestions and PRs are welcome!
 
 Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 
+Take the survey [icu996 suvey](https://cloudqa.iego.cn/sr/icu996). All the results will be submited to this git repo daily in csv or json format. (check [#1712](https://github.com/996icu/996.ICU/issues/1712) for more details)
+
+
+
 Contribution
 ---
 Any modification to [this](https://github.com/996icu/996.ICU/blob/master/zh_CN.md) file will be rendered as github flavored markdown and published on the site regularly.   
