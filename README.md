@@ -20,10 +20,10 @@ The key is increasing our voices.
 
 Buy me a cup of coffee
 ---
-I don't drink coffee. It sounds coooool.   
+(I don't drink coffee.) I said that above because it sounds coooool.   
 This website is simple, but I didn't foresee such amount of traffic.   
 Last 24 hours' total requests number is about **6.5 million**, which is still increase, and it is a lot for a side project.  
-And cost a lot for bandwidth also.
+And cost a lot expenses for bandwidth also.
 If you like to help me, scan the qrcode below. I appreciate you deeply.
 
 <img src="https://i.loli.net/2019/03/27/5c9b683446095.jpeg" alt="wechat" width="200"/>
