@@ -2,6 +2,8 @@
 ===
 
 ## What is "996"?
+996 working with you, will be live in ICU.
+
 A "996" job refers to an unofficial working pattern (9am - 9pm, 6 days a week) that has been gaining more popularity. 
 Serving a company that encourages the "996" working pattern usually means working for at least 60 hours a week.
 
