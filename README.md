@@ -1,6 +1,8 @@
 996.ICU
 ===
 
+[English](./en_US.md) | [简体中文](./zh_CN.md)
+
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay respect to glorious developers.
 
 Suggestions and PRs are welcomed!
