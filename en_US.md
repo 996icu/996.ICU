@@ -5,7 +5,7 @@
 
 The weekly working time for the "996" job is a minimum of 60 hours.
 
-[_Labour Law of the People's Republic of China_](http://english.mofcom.gov.cn/aarticle/policyrelease/internationalpolicy/200703/20070304475283.html)  
+[Labour Law of the People's Republic of China](http://english.mofcom.gov.cn/aarticle/policyrelease/internationalpolicy/200703/20070304475283.html)  
 **Article 36**:  
 The State shall practise a working hour system wherein labourers shall work for no more than eight hours a day and no more than 44 hours a week on the average.  
 **Article 39**:  
@@ -23,6 +23,6 @@ According to the Labor Law, legal rights are guaranteed only you obtained 2.6 ti
 
 What is 996.ICU? Who working in "996" job, who live in ICU.
 
-References: [Labour Law of the People's Republic of China](http://english.mofcom.gov.cn/aarticle/policyrelease/internationalpolicy/200703/20070304475283.html)
+References: ["Labour Law of the People's Republic of China"](http://english.mofcom.gov.cn/aarticle/policyrelease/internationalpolicy/200703/20070304475283.html) by Ministry of Commerce of the People's Republic of China.
 
 Developers' lives matter.
