@@ -3,4 +3,4 @@ Empty repo only for counting stars. Press <kbd>F</kbd> to pay respect to gloriou
 
 Suggestions and PRs are welcomed!
 
-Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20)
+Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
