@@ -20,10 +20,10 @@ The key is increasing our voices.
 
 Buy me a cup of coffee
 ---
-(I don't drink coffee.) I said that above because it sounds coooool.   
-This website is simple, but I didn't foresee such amount of traffic.   
-Last 24 hours' total requests number is about **6.5 million**, which is still increasing, and it is a lot for a side project.  
-And cost a lot expenses for bandwidth also.  
-If you like to help me, scan the qrcode below. I appreciate you deeply.
+(FYI, I don't drink coffee.) I said the above because it sounds coooool.   
+The website was created without the ability to handle the current huge traffic in mind.   
+The number of requests of the last 24 hours is about **6.5 million**, which is still soaring. As a side project, it is a burden for me to cover the web service bill.
+Your support will help me maintain the website. 
+To make a donation, please scan the QR code below. Any amount is very much appreciated.
 
 <img src="https://i.loli.net/2019/03/27/5c9b8f3aecaa5.jpeg" alt="wechat" width="200"/>
