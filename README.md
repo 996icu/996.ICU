@@ -15,8 +15,8 @@ Feel free to adjust the format, add some content or fix grammatical errors.
 Expand influence
 ---
 I18n support is ongoing.  
-If you would like to contribute more, you can add translations or just write something down in other languages in separate files.   
-The key is increasing our voices.
+If you would like to contribute, you can add translations or just write something down in other languages in separate files.   
+The key is to make ourselves heard and raise public awareness of working hours violations in the workplace of software developers.
 
 Buy me a cup of coffee
 ---
