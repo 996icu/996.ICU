@@ -42,7 +42,7 @@ In early 2019, __*Youzan*__ (`有赞`), a Hangzhou-based E-commerce company, ann
 
 In mid-March 2019, it was reported that __*JD.com*__ (`京东`, a major E-commerce company) started adopting "996" or "995" work schedules in some departments. Its PRs posted on their Maimai (`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with whole hearts (to achieve the business objectives)."  
 
-Although it is only gaining more publicity recently, this work schedule is a known "secret" practiced in a lot of companies in China.
+Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practiced in a lot of companies in China.
 ## Compensation and benefits
 
 According to the Labour Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely receive overtime pay.
