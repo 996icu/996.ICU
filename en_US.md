@@ -29,11 +29,12 @@ Serving a company that encourages the "996" work schedule usually means work for
 
 ## Gaining more popularity and publicity
 
-In early 2019, a Chinese E-commerce company called _Youzan_ announced the adoption of the "996" work schedule in the future, at the company's Chinese New Year Party. The CEO of Youzan responded: "This would definitely be a good decision when we look back in a few years time.".
+In early 2019, a Chinese E-commerce company called _Youzan_ announced their upcoming adoption of the "996" work schedule, at the company's Chinese New Year Party. The CEO of Youzan responded: "This would definitely be a good decision when we look back in a few years."
 
-In Mid-March 2019, it was reported that Jingdong started adopting "996" or "995" work schedule in some of the business units. Jingdong PR posted on their maimai(`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with all our hearts (to achieve the business objectives)".
+In Mid-March 2019, it was reported that Jingdong _(JD.com)_ started adopting "996" or "995" work schedule in some of their business units. Jingdong's PR posted on their maimai (`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with all our hearts (to achieve the business objectives)".
 
-Although it is gaining more publicity recently, this work schedule is a commonly known "secret" practiced in a lot of companies in China.
+Although it is gaining more publicity recently, this work schedule is an open secret practiced in a lot of companies in China.
+
 ## Compensation and benefits
 
 According to the Labor Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely get paid that much.
