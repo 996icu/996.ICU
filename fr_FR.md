@@ -1,7 +1,7 @@
 996.ICU
 ===
 
-## What is "996"?
+## C'est quoi le "996"?
 Un emploi "996" réfère à un régime de travail non officiel(9 heures - 21 heures, 6 jours par semaine) qui gagne en popularité.
 Servir une entreprise qui encourage le modèle de travail "996" signifie généralement travailler au moins 60 heures par semaine.
 
