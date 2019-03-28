@@ -16,3 +16,7 @@ Expand influence
 ---
 I18n support is ongoing.  
 If you would like to contribute, you can add translations or just write something down in other languages in separate files.   
+
+License
+---
+[pull/15642](https://github.com/996icu/996.ICU/pull/15642)
