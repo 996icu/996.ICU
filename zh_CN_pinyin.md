@@ -5,35 +5,41 @@
 
 “996”gōng zuò zhì de zhōu gōng zuò shí jiān wéi zuì dī  60 xiǎo shí 。
 
-**《zhōng huá rén mín gòng hé guó láo dòng fǎ 》**（xià jiǎn chēng  **《láo dòng fǎ 》**）**dì sì zhāng dì sān shí liù tiáo **guī dìng ：  
+**《zhōng huá rén mín gòng hé guó láo dòng fǎ 》**（xià jiǎn chēng  **《láo dòng fǎ 》**）**dì sì zhāng dì sān shí liù tiáo** guī dìng ：  
 > guó jiā shí háng láo dòng zhě měi rì gōng zuò shí jiān bú chāo guò bā xiǎo shí 、píng jun1 měi zhōu gōng zuò shí jiān bú chāo guò sì shí sì xiǎo shí de gōng shí zhì dù 。  
 
-**《láo dòng fǎ 》dì sì zhāng dì sān shí jiǔ tiáo **guī dìng ：  
+**《láo dòng fǎ 》dì sì zhāng dì sān shí jiǔ tiáo** guī dìng ：  
+
 > qǐ yè yīn shēng chǎn tè diǎn bú néng shí háng běn fǎ dì sān shí liù tiáo 、dì sān shí bā tiáo guī dìng de ，
 > jīng láo dòng háng zhèng bù mén pī zhǔn ，kě yǐ shí háng qí tā gōng zuò hé xiū xī bàn fǎ 。  
 
-**《láo dòng fǎ 》dì sì zhāng dì sì shí yī tiáo **guī dìng ：    
+**《láo dòng fǎ 》dì sì zhāng dì sì shí yī tiáo** guī dìng ： 
+
 > yòng rén dān wèi yóu yú shēng chǎn jīng yíng xū yào ，jīng yǔ gōng huì hé láo dòng zhě xié shāng hòu kě yǐ yán zhǎng gōng zuò shí jiān ，
 > yī bān měi rì bú dé chāo guò yī xiǎo shí ；yīn tè shū yuán yīn xū yào yán zhǎng gōng zuò shí jiān de ，
 > zài bǎo zhàng láo dòng zhě shēn tǐ jiàn kāng de tiáo jiàn xià yán zhǎng gōng zuò shí jiān měi rì bú dé chāo guò sān xiǎo shí ，
 > dàn shì měi yuè bú dé chāo guò sān shí liù xiǎo shí 。  
 
-**《láo dòng fǎ 》dì sì zhāng dì sì shí sān tiáo **guī dìng ：  
+**《láo dòng fǎ 》dì sì zhāng dì sì shí sān tiáo** guī dìng ：
+
 > yòng rén dān wèi bú dé wéi fǎn běn fǎ guī dìng yán zhǎng láo dòng zhě de gōng zuò shí jiān 。  
 
-**《láo dòng fǎ 》dì sì zhāng dì sì shí sì tiáo **guī dìng ：  
+**《láo dòng fǎ 》dì sì zhāng dì sì shí sì tiáo** guī dìng ：  
+
 > yǒu xià liè qíng xíng zhī yī de ，yòng rén dān wèi yīng dāng àn zhào xià liè biāo zhǔn zhī fù gāo yú láo dòng zhě zhèng cháng gōng zuò shí jiān gōng zī de gōng zī bào chóu ：  
 >   （yī ）ān pái láo dòng zhě yán zhǎng gōng zuò shí jiān de ，zhī fù bú dī yú gōng zī de bǎi fèn zhī yī bǎi wǔ shí de gōng zī bào chóu ；  
 >   （èr ）xiū xī rì ān pái láo dòng zhě gōng zuò yòu bú néng ān pái bǔ xiū de ，zhī fù bú dī yú gōng zī de bǎi fèn zhī èr bǎi de gōng zī bào chóu ；  
 >   （sān ）fǎ dìng xiū jiǎ rì ān pái láo dòng zhě gōng zuò de ，zhī fù bú dī yú gōng zī de bǎi fèn zhī sān bǎi de gōng zī bào chóu 。  
 
-**《láo dòng fǎ 》dì shí èr zhāng dì jiǔ shí tiáo **guī dìng ：  
+**《láo dòng fǎ 》dì shí èr zhāng dì jiǔ shí tiáo** guī dìng ：
+
 > yòng rén dān wèi wéi fǎn běn fǎ guī dìng ，yán zhǎng láo dòng zhě gōng zuò shí jiān de ，yóu láo dòng háng zhèng bù mén gěi yǔ jǐng gào ，zé lìng gǎi zhèng ，bìng kě yǐ chù yǐ fá kuǎn 。    
 
-**《láo dòng fǎ 》dì shí èr zhāng dì jiǔ shí yī tiáo **guī dìng ：  
+**《láo dòng fǎ 》dì shí èr zhāng dì jiǔ shí yī tiáo** guī dìng ：  
+
 > yòng rén dān wèi yǒu xià liè qīn hài láo dòng zhě hé fǎ quán yì qíng xíng zhī yī de ，yóu láo dòng háng zhèng bù mén zé lìng zhī fù láo dòng zhě de gōng zī bào chóu 、jīng jì bǔ cháng ，bìng kě yǐ zé lìng zhī fù péi cháng jīn ：  
 >  ……  
->  （èr ）**jù bú zhī fù láo dòng zhě yán zhǎng gōng zuò shí jiān gōng zī bào chóu de **  
+>  （èr ）**jù bú zhī fù láo dòng zhě yán zhǎng gōng zuò shí jiān gōng zī bào chóu de**  
 >  ……
 
 2016 nián  9 yuè chū qǐ ，lù xù yǒu wǎng yǒu bào liào chēng ，58tóng chéng shí háng quán yuán “996”gōng zuò zhì ,qiě zhōu mò jiā bān méi yǒu gōng zī 。gōng sī fāng miàn huí yīng chēng ，wéi yīng duì yè wù liàng gāo fēng qī ，gōng sī měi nián 9、10yuè fèn dōu huì yǒu dòng yuán ，shǔ cháng guī xìng huó dòng ，ér běn cì “996dòng yuán ”bìng fēi qiáng zhì 。
