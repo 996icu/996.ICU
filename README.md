@@ -17,6 +17,10 @@ Expand influence
 I18n support is ongoing.  
 If you would like to contribute, you can add translations or just write something down in other languages in separate files.   
 
+955.WLB
+---
+[955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join  955.
+
 License
 ---
 [pull/15642](https://github.com/996icu/996.ICU/pull/15642)
