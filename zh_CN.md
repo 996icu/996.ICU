@@ -55,4 +55,10 @@ CEO 白鸦回应“几年后回看，这次绝对是好事”。
 
 附上法律链接：[中华人民共和国劳动法（2018年修订版）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
 
+以下为严重加班企业曝光投票，欢迎贡献你宝贵的一票：
+
+[进入投票](https://feathub.com/LinXueyuanStdio/996.ICU)
+
+[![Feature Requests](http://feathub.com/LinXueyuanStdio/996.ICU?format=svg)](http://feathub.com/LinXueyuanStdio/996.ICU)
+
 Developers' lives matter.
