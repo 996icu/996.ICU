@@ -17,7 +17,7 @@ Au début 2019, une E-commerce entreprise chinoise appelée _Youzan_ a déclaré
 
 À mi-mars 2019, il a été signalé que JD (jd.com) avait commencé à adopter le mode de fonctionnement « 996 » ou « 995 » dans certaines unités commerciales. Le département des relations publiquess chez JD a publié sur son compte maimai (`脉脉`, une plate-forme de réseau social d'entreprise chinoise): « Notre culture est de nous consacrer de tout notre cœur pour atteindre les objectifs de l'entreprise. »
 
-## Compensation et récomponse
+## Compensation et récompense
 
 Selon la loi du travail en Chine, les employés qui suivent le schéma de travail « 996 » méritent de toucher 2,275 fois leur salaire de base. Malheureusement, ceux qui ont atteint « 996 » sont rarement payés autant.
 
