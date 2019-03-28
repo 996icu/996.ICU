@@ -25,3 +25,6 @@ According to the Labor Law, employees who follow "996" deserve to be paid 2.275 
 If you consistently follow "996", you run the risk of getting yourself into **I**ntensive **C**are **U**nit. 
 
 Developers' lives matter.
+
+## 9 to 9
+In the U.S., there is a song in the 80s called [9 to 5 by Dolly Parton](https://genius.com/Dolly-parton-9-to-5-lyrics). Dolly complains about her working hours in the song. It now looks pretty good, huh?
