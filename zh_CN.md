@@ -1,6 +1,8 @@
 996.ICU
 ===
 
+[曝光996公司及部门](https://feathub.com/LinXueyuanStdio/996.ICU)
+
 “996”工作制，即每天早 9 点到岗，一直工作到晚上 9 点，每周工作 6 天。
 
 “996”工作制的周工作时间为最低 60 小时。
@@ -56,4 +58,4 @@
 
 附上法律链接：[中华人民共和国劳动法（2018年修订版）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
 
-** Developers' lives matter. **
+Developers' lives matter.
