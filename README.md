@@ -5,7 +5,7 @@ Repo for counting stars and contributing. Press <kbd>F</kbd> to pay respect to g
 
 Suggestions and PRs are welcome!
 
-Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
+Join discussion at [#20](https://github.com/997icu/996.ICU/issues/20).
 
 Contribution
 ---
