@@ -9,23 +9,23 @@ Obsługując firmę, która zachęca do „996” harmonogramu pracy, zazwyczaj 
 
 Cytat z [Prawa pracy Chińskiej Republiki Ludowej] (http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
 
-** Artykuł 36 **:
+**Artykuł 36**:
 > Państwo będzie praktykować system godzin pracy, w którym pracownicy będą pracować nie dłużej niż osiem godzin dziennie i średnio nie więcej niż 44 godziny tygodniowo.
 
-** Artykuł 39 **:
+**Artykuł 39**:
 > Jeśli przedsiębiorstwo nie może przestrzegać postanowień art. 36 i art. 38 tej ustawy ze względu na szczególne cechy jego produkcji, może stosować się do innych zasad dotyczących pracy i odpoczynku po zatwierdzeniu przez służby administracyjne.
 
-** Artykuł 41 **:
+**Artykuł 41**:
 > Pracodawca może przedłużyć godziny pracy z powodu potrzeb produkcyjnych lub biznesowych po konsultacji ze swoim związkiem zawodowym i pracownikami. Przedłużone godziny pracy w zasadzie nie mogą być dłuższe niż jedna godzina dziennie lub nie więcej niż trzy godziny dziennie, jeśli takie przedłużenie jest wymagane ze szczególnych powodów i pod warunkiem, że zdrowie fizyczne pracowników jest zagwarantowane . Przedłużony czas pracy nie może jednak przekraczać 36 godzin miesięcznie.
 
-** Artykuł 43 **:
+**Artykuł 43**:
 > Pracodawca nie może przedłużać godzin pracy pracowników z naruszeniem postanowień niniejszej ustawy.
 
-** Artykuł 90 **:
+**Artykuł 90**:
 
 > Jeśli pracodawca przedłuży godziny pracy z naruszeniem postanowień tej ustawy, departamenty administracji pracy mogą wydać ostrzeżenie, nakazać jej dokonanie poprawek i nałożyć na nie grzywnę.
 
-** Artykuł 91 **:
+**Artykuł 91**:
 > (2) Odmowa płacenia pracownikom wynagrodzeń za dłuższe godziny pracy;
 
 ## Zdobywanie większej popularności i rozgłosu
@@ -41,6 +41,6 @@ Zgodnie z prawem pracy pracownicy, którzy przestrzegają harmonogramu pracy „
 
 ## Skąd pochodzi nazwa repo `996.ICU`?
 
-Jeśli konsekwentnie przestrzegasz harmonogramu pracy „996”, ryzykujesz, że wpadniesz w ** I ** ntensive ** C ** to ** U ** nit.
+Jeśli konsekwentnie przestrzegasz harmonogramu pracy „996”, ryzykujesz, że wpadniesz w **I** ntensive **C** to **U** nit.
 
 Życie twórców ma znaczenie.
