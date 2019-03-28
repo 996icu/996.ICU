@@ -6,9 +6,26 @@
 "996" nói về lịch làm việc không chính thức (996 - 9 giờ sáng đến 9 giờ tối, 6 ngày một tuần) đang càng ngày càng được phổ biến. Người lao động sẽ phải làm việc tối thiểu 60h 1 tuần khi làm cho công ty áp dụng lịch này.
 
 ## Luật Lao Động của Cộng hòa Nhân dân Trung Hoa
-[Luật lao Động của Trung Quốc](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm) - Điều khoản 41 quy định:
+[Luật lao Động của Trung Quốc](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm) - 
+**Điều 36**:  
+> Nhà nước quy định hệ thống giờ làm việc trong đó người lao động sẽ làm việc không quá tám giờ một ngày và trung bình không quá 44 giờ một tuần.
 
+**Điều 39**
+> Nếu doanh nghiệp không thể tuân theo các quy định tại Điều 36 và Điều 38 của bộ Luật này do đặc thù sản xuất của doanh nghiệp, doanh nghiệp có thể tuân theo các quy tắc khác về công việc và nghỉ ngơi với sự đồng thuận của bộ phận hành chính.
+
+**Điều 41**
 > Người sử dụng lao động có thể kéo dài thời gian làm việc do nhu cầu của sản xuất hoặc doanh nghiệp sau khi tham khảo ý kiến với công đoàn và người lao động. Cụ thể, thời gian làm việc sẽ kéo dài không quá một giờ mỗi ngày hoặc không quá ba giờ mỗi ngày nếu việc kéo dài này vì lý do đặc biệt và trong điều kiện sức khỏe của người lao động được đảm bảo. Tuy nhiên, thời gian làm việc được kéo dài sẽ không vượt quá 36 giờ một tháng.
+
+**Điều 43**:  
+> Người sử dụng lao động không được kéo dài thời gian làm việc của người lao động vi phạm các quy định trong bộ Luật này.
+
+**Điều 90**:  
+
+> Nếu người sử dụng lao động kéo dài thời gian làm việc vi phạm các quy định trong bộ Luật này, bộ phận hành chính có thể đưa ra cảnh báo, hoặc yêu cầu sửa đổi và có thể phạt tiền theo quy định hành chính.
+
+**Điều 91**:  
+> (2) Từ chối trả lương cho người lao động khi khi người lao động làm việc nhiều giờ hơn quy định;
+
 
 ## Phổ biến và công khai
 
@@ -27,3 +44,8 @@ Theo Luật Lao động, nhân viên tuân theo lịch làm việc "996" xứng 
 Nếu bạn làm việc lâu dài với lịch "996", bạn có nguy cơ đối diện với việc điều trị tăng cường (ICU = **I**ntensive **C**are **U**nit)
 
 Developers' lives matter.
+
+## 9 đến 9
+
+Có một bài hát của Mỹ trong thập niên 80 tên là [9 to 5 by Dolly Parton] (https://genius.com/Dolly-parton-9-to-5-lyrics). Trong lời bài hát, Dolly phàn nàn về thời gian làm việc của cô. Giờ thì mọi việc có vẻ tốt hơn, có phải không?
+
