@@ -43,6 +43,6 @@ JDの広報部門が脉脉（maimai）、ビジネスSNSので「全心を込め
 
 996.ICUとは？996で仕事、病気でICUへ。
 
-[中華人民共和国労働法（2018年改訂）]（http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm ）
+[中華人民共和国労働法（2018年改訂）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm )
 
 開発者の命を**大切**にしてください。
