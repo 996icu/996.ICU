@@ -7,7 +7,7 @@
 Ett "996" arbetsschema hänvisar till ett inofficiellt arbetsschema (09.00 - 21.00, 6 dagar i veckan) som har blivit mer populär.
 Att betjäna ett företag som uppmuntrar "996" arbetsschema innebär vanligtvis arbete i minst 60 timmar i veckan.
 
-Citat från [Folkrepubliken Kina Arbetsrätt] (http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
+Citat från [Folkrepubliken Kina Arbetsrätt](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
 
 **Artikel 36**:
 > Staten ska utöva ett arbetstidssystem där arbetstagare ska arbeta högst åtta timmar om dagen och högst 44 timmar i veckan i genomsnitt.
