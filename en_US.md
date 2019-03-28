@@ -10,7 +10,7 @@ Serving a company that encourages the "996" work schedule usually means work for
 Quoted from [Labor Law of the People's Republic of China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
 
 **Article 36**:  
-> The State shall practice a working hour system wherein employees shall work for no more than eight hours a day and no more than 44 hours a week on the average.  
+> The State shall practice a working hour system wherein labourers shall work for no more than eight hours a day and no more than 44 hours a week on the average.  
 
 **Article 39**:  
 > If an enterprise can not follow the stipulations in Article 36 and Article 38 of this Law due to special characteristics of its production, it may follow other rules on work and rest with the approval by labour administrative departments.  
