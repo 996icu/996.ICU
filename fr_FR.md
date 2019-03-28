@@ -1,9 +1,9 @@
 996.ICU
 ===
 
-## Qu'est-ce que « 996 »?
+## Qu'est-ce que « 996 » ?
 
-Un "996" emploi réfère un régime de travail non officiel ( de 9h à 21h, 6 jours par semaine) qui gagne en popularité.
+Un emploi « 996 » réfère un régime de travail non officiel ( de 9h à 21h, 6 jours par semaine) qui gagne en popularité.
 Servir une entreprise qui encourage le modèle de travail « 996 » signifie généralement travailler au moins 60 heures par semaine.
 
 ## Loi du travail de la République populaire de Chine
@@ -19,12 +19,10 @@ Au début 2019, une E-commerce entreprise chinoise appelée _Youzan_ a déclaré
 
 ## Compensation et récomponse
 
-Selon la loi sur le travail, les employés qui suivent le schéma de travail « 996 » méritent de toucher 2,275 fois leur salaire de base. Malheureusement, ceux qui ont atteint « 996 » sont rarement payés autant.
+Selon la loi du travail en Chine, les employés qui suivent le schéma de travail « 996 » méritent de toucher 2,275 fois leur salaire de base. Malheureusement, ceux qui ont atteint « 996 » sont rarement payés autant.
 
 ## D'où vient le nom du repo `996.ICU`(`996.USI en français`)?
 
-Le mode de travail  « 996 » risque de rendre dans l' **U**nité de **S**oins **I**ntensifs.
-
-
+Le mode de travail « 996 » risque de rendre dans l'**U**nité de **S**oins **I**ntensifs.
 
 La vie des développeurs compte.
