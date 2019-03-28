@@ -1,7 +1,6 @@
 996.ICU
 ===
-The name `996.ICU` refers to a ironic saying between chinese programmers 
-> **'Working at 996 pattern and being ill in the ICU(Intensive care unit)'**, that means if you consistently follow the "996" work schedule, you run the risk of getting yourself into Intensive Care Unit.
+The name `996.ICU` refers to a ironic saying between chinese programmers **'Working at 996 pattern and being ill in the ICU(Intensive care unit)'**. That means if you consistently follow the "996" work schedule, you run the risk of getting yourself into Intensive Care Unit.
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay respect to glorious developers.
 
