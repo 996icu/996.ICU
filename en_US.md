@@ -32,12 +32,12 @@ Quoted from [Labor Law of the People's Republic of China](http://www.china.org.c
 
 In early 2019, a Chinese E-commerce company called _Youzan_ announced the adoption of the "996" work schedule in the future, at the company's annual party. The CEO of Youzan responded: "This would definitely be a good decision when we look back in a few years time.".
 
-In Mid-March 2019, it was reported that JD.com started adopting "996" or "995" work schedule in some of the business units. JD.com PR posted on their Maimai(`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with all our hearts (to achieve the business objectives)".
+In Mid-March 2019, it was reported that JD.com started adopting "996" or "995" work schedule in some of the business units. JD.com PR posted on their Maimai (`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with all our hearts (to achieve the business objectives)".
 
 Although it is gaining more publicity recently, this work schedule is a commonly known "secret" practiced in a lot of companies in China.
 ## Compensation and benefits
 
-According to the Labor Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely get paid that much.
+According to the Labor Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely get paid for the overtime hours.
 
 ## Where does the name of the repo `996.ICU` come from?
 
