@@ -40,7 +40,7 @@ In early September 2016, words spread that __*58.com*__ (`58同城`, a classifie
 
 In early 2019, __*Youzan*__ (`有赞`), a Hangzhou-based E-commerce company, announced its planned adoption of the "996" work schedule at the company's annual convention. Bai Ya, the CEO of Youzan, responded: "This would definitely prove to be a right decision when we look back in a few years time."  
 
-In mid-March 2019, it was reported that __*JD.com*__ (`京东`, a major E-commerce company) started adopting "996" or "995" work schedules in some departments. Its PRs posted on their Maimai (`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with whole hearts (to achieve the business objectives)."  
+In mid-March 2019, it was reported that __*JD.com*__ (`京东`, a major E-commerce company) started adopting "996" or "995" work schedules in some departments. Its PRs posted the following on their Maimai (`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with whole heart (to achieve the business objectives)."  
 
 Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practiced in a lot of companies in China.
 ## Compensation and benefits
