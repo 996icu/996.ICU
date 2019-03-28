@@ -20,3 +20,7 @@ If you would like to contribute, you can add translations or just write somethin
 License
 ---
 [pull/15642](https://github.com/996icu/996.ICU/pull/15642)
+
+WeChart Small program
+---
+[WeChart Small program](https://git.weixin.qq.com/wx_wx4a235d371beb5cab/996ICU.git) Welcome to join us.
