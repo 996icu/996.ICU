@@ -56,4 +56,8 @@
 
 附上法律链接：[中华人民共和国劳动法（2018年修订版）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
 
+中华人民共和国人力资源和社会保障部链接：[中华人民共和国人力资源和社会保障部](http://www.mohrss.gov.cn/)
+
+全国人力资源社会保障系统公益服务电话：12333
+
 Developers' lives matter.
