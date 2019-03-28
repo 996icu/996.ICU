@@ -2,8 +2,8 @@
 ===
 
 ## What is "996"?
-A "996" job refers to an unofficial working pattern (9 am - 9 pm, 6 days a week) that has been gaining more popularity. 
-Serving a company that encourages the "996" working pattern usually means working for at least 60 hours a week.
+"996" refers to the intensive working hours (9 A.M. to 9 P.M, 6 days a week) that has been gaining more and more popularity among Chinese domestic Internet and software companies. 
+So working in a company that employs or encourages "996" usually means at least 60 working hours a week.
 
 ## Labor Law of the People’s Republic of China
 [Labor Law of the People’s Republic of China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm) Article 41 says:
@@ -18,10 +18,10 @@ In Mid-March 2019, it was reported that Jingdong started adopting "996" or "995"
 
 ## Compensation and benefits
 
-According to the Labor Law, employees who follow the "996" working pattern deserve to be paid 2.275 times of their base salary. Unfortunately, people who achieved "996" rarely get paid that much.
+According to the Labor Law, employees who follow "996" deserve to be paid 2.275 times of their base salary. Unfortunately, people who meet "996" rarely get paid that much.
 
 ## Where does the name of the repo `996.ICU` come from?
 
-If you consistently follow the "996" working pattern, you run the risk of getting yourself into **I**ntensive **C**are **U**nit. 
+If you consistently follow "996", you run the risk of getting yourself into **I**ntensive **C**are **U**nit. 
 
 Developers' lives matter.
