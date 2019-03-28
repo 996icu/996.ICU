@@ -7,6 +7,8 @@ Suggestions and PRs are welcome!
 
 Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 
+Or join irc channel #996irc  [WebIrc](https://webchat.freenode.net/)
+
 Contribution
 ---
 Any modification to [this](https://github.com/996icu/996.ICU/blob/master/zh_CN.md) file will be rendered as github flavored markdown and published on the site regularly.   
