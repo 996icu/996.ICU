@@ -7,7 +7,8 @@
 A "996" work schedule refers to an unofficial work schedule (9 am - 9 pm, 6 days a week) that has been gaining more popularity. 
 Serving a company that encourages the "996" work schedule usually means work for at least 60 hours a week.
 
-[Labor Law of the People’s Republic of China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)  
+Quoted from [Labor Law of the People's Republic of China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
+
 **Article 36**:  
 > The State shall practise a working hour system wherein labourers shall work for no more than eight hours a day and no more than 44 hours a week on the average.  
 
