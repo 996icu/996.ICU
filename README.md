@@ -1,4 +1,4 @@
-996.ICU
+996.ICU码农党群：618651911，还没入党的快上车
 ===
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay respect to glorious developers.
