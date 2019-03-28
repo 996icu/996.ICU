@@ -52,4 +52,6 @@ CEO 白鸦回应“几年后回看，这次绝对是好事”。
 
 附上法律链接：[中华人民共和国劳动法（2018年修订版）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
 
+《共产党宣言》：[共产党宣言](https://www.marxists.org/chinese/marx/01.htm)
+
 Developers' lives matter.
