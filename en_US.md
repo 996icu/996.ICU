@@ -44,5 +44,3 @@ If you consistently follow the "996" work schedule, you run the risk of getting 
 
 Developers' lives matter.
 
-## 9 to 9
-In the U.S., there is a song in the 80s called [9 to 5 by Dolly Parton](https://genius.com/Dolly-parton-9-to-5-lyrics). Dolly complains about her working hours in the song. It now looks pretty good, huh?
