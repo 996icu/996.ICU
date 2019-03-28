@@ -42,10 +42,6 @@ Son zamanlarda daha fazla tanıtım kazanmasına rağmen, bu çalışma takvimi 
 
 ## '996.ICU' deposunun adı nereden geliyor?
 
-If you consistently follow the "996" work schedule, you run the risk of getting yourself into **I**ntensive **C**are **U**nit. 
-
-Developers' lives matter.
-
 Eğer "996" çalışma çizelgesini tutarlı bir şekilde takip ederseniz, kendinizi **I** yoğun **C** Hangi **U** sirke seviyesine sokma riskiniz vardır.
 
 Geliştiricilerin yaşamları önemlidir.
