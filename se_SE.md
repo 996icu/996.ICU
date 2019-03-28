@@ -32,7 +32,7 @@ Citat från [Folkrepubliken Kina Arbetsrätt] (http://www.china.org.cn/living_in
 
 I början av 2019 meddelade ett kinesiskt e-handelsföretag, kallat _Youzan_, att företagets årliga parti antog "996" arbetsschema i framtiden. VD för Youzan svarade: "Detta skulle definitivt vara ett bra beslut när vi tittar tillbaka om några år."
 
-I mitten av mars 2019 rapporterades att JD.com började anta "996" eller "995" arbetsschema i några av affärsenheterna. JD.com PR publicerade på deras Maimai (`` ``, ett kinesiskt företagsnamn för företags sociala nätverk) ":" Vår kultur är att ägna oss åt alla våra hjärtan (för att uppnå affärsmålen) ".
+I mitten av mars 2019 rapporterades att JD.com började anta "996" eller "995" arbetsschema i några av affärsenheterna. JD.com PR publicerade på deras Maimai (``脉脉 ``, ett kinesiskt företagsnamn för företags sociala nätverk) ":" Vår kultur är att ägna oss åt alla våra hjärtan (för att uppnå affärsmålen) ".
 
 Även om det blir mer publicitet nyligen, är detta arbetsschema ett allmänt känt "hemligt" som praktiseras i många företag i Kina.
 ## Ersättning och förmåner
@@ -41,6 +41,6 @@ Enligt Arbetslagstiftningen förtjänar de anställda som följer "996" arbetspl
 
 ## Var kommer namnet på repo'996.ICU` från?
 
-Om du konsekvent följer arbetsschemat "996" löper du risken för att få dig till ** ** ** ** ** är ** U ** nit.
+Om du konsekvent följer arbetsschemat "996" löper du risken för att komma in i Intensive Care Unit(ICU).
 
 Utvecklarens liv betyder något.
