@@ -2,7 +2,7 @@
 ===
 
 ## What is "996"?
-996 working, ICU waiting.
+996 working, ICU awaiting.
 
 A "996" work schedule refers to an unofficial work schedule (9 am - 9 pm, 6 days a week) that has been gaining more popularity. 
 Serving a company that encourages the "996" work schedule usually means work for at least 60 hours a week.
