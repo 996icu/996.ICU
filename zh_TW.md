@@ -61,4 +61,4 @@
 
 附上法律鏈接：[中華人民共和國勞動法（2018年修訂版）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
 
-我們的要的是什麼？活着！
+Developers' lives matter.
