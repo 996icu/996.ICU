@@ -2,7 +2,7 @@
 ===
 
 ## What is "996"?
-Un "996" emploi réfère un régime de travail non officiel(9 heures - 21 heures, 6 jours par semaine) qui gagne en popularité.
+Un emploi "996" réfère à un régime de travail non officiel(9 heures - 21 heures, 6 jours par semaine) qui gagne en popularité.
 Servir une entreprise qui encourage le modèle de travail "996" signifie généralement travailler au moins 60 heures par semaine.
 
 ## Loi du travail de la République populaire de Chine
@@ -10,11 +10,11 @@ Servir une entreprise qui encourage le modèle de travail "996" signifie génér
 
 > L'employeur peut prolonger les heures de travail pour des besoins de production ou d'entreprises après consultation de son syndicat et de ses ouvriers. En générale, les heures de travail à prolonger ne doivent pas dépasser une heure par jour, ni plus de trois heures par jour si cette prolongation est demandée pour des raisons particulières et à condition que la santé physique des ouvriers soit garantie. Le temps de travail à prolonger ne doit toutefois pas dépasser 36 heures par mois. 
 
-## Gagner plus de popularité
+## Croissance de popularité
 
-Au début 2019, une E-commerce entreprise chinoise appelée _Youzan_ a déclaré l'adoption du régime de travail "996" à l'avenir, lors de la fête du nouvel an chinois de la société. Le PDG de Youzan répond: "Ce serait certainement une bonne décision dans les années à venir."
+Au début 2019, une E-commerce entreprise chinoise appelée _Youzan_ a déclaré l'adoption du régime de travail "996" à la réunion annuelle de la société. Le PDG de Youzan répond: "Ce serait certainement une bonne décision dans les années à venir."
 
-À la mi-mars 2019, il a été signalé que Jingdong avait commencé à adopter le mode de fonctionnement «996» ou «995» dans certaines unités commerciales.Le département des relations publiquess chez Jingdong a publié sur son compte maimai (`脉脉`, une plate-forme de réseau social d'entreprise chinoise): "Notre culture est de nous consacrer de tout notre cœur pour atteindre les objectifs de l'entreprise". 
+À la mi-mars 2019, il a été signalé que Jingdong avait commencé à adopter le mode de fonctionnement «996» ou «995» dans certaines unités commerciales. Le département des relations publiquess chez Jingdong a publié sur son compte maimai (`脉脉`, une plate-forme de réseau social d'entreprise chinoise): "Notre culture est de nous consacrer de tout notre cœur pour atteindre les objectifs de l'entreprise". 
 
 ## Compensation et récomponse
 
