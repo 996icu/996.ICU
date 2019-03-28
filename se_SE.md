@@ -39,7 +39,7 @@ I mitten av mars 2019 rapporterades att JD.com började anta "996" eller "995" a
 
 Enligt Arbetslagstiftningen förtjänar de anställda som följer "996" arbetsplanen att betala 2.275 gånger av grundlönen. Tyvärr får människor som arbetar under "996" sällan betalt så mycket.
 
-## Var kommer namnet på repo '996.ICU' från?
+## Var kommer namnet på repo ``996.ICU`` från?
 
 Om du konsekvent följer arbetsschemat "996" löper du risken för att komma in i Intensive Care Unit(ICU).
 
