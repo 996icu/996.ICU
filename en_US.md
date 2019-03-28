@@ -2,7 +2,6 @@
 ===
 
 ## What is "996"?
-
 996 working, ICU waiting.
 
 A "996" work schedule refers to an unofficial work schedule (9 am - 9 pm, 6 days a week) that has been gaining more popularity. 
@@ -44,3 +43,6 @@ According to the Labor Law, employees who follow the "996" work schedule deserve
 If you consistently follow the "996" work schedule, you run the risk of getting yourself into **I**ntensive **C**are **U**nit. 
 
 Developers' lives matter.
+
+## 9 to 9
+In the U.S., there is a song in the 80s called [9 to 5 by Dolly Parton](https://genius.com/Dolly-parton-9-to-5-lyrics). Dolly complains about her working hours in the song. It now looks pretty good, huh?
