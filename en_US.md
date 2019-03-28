@@ -37,7 +37,7 @@ In Mid-March 2019, it was reported that JD.com started adopting "996" or "995" w
 Although it is gaining more publicity recently, this work schedule is a commonly known "secret" practiced in a lot of companies in China.
 ## Compensation and benefits
 
-According to the Labor Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely get paid that much.
+According to the Labor Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely get paid for the overtime hours.
 
 ## Where does the name of the repo `996.ICU` come from?
 
