@@ -1,31 +1,31 @@
  "996"?
- ===
+===
  "996" trabajando, esperando en la UCI.
 
  Un horario de trabajo "996" se refiere a un horario de trabajo no oficial (9 am - 9 pm, 6 días a la semana) que ha ido ganando más popularidad. Servir a una compañía que fomenta el horario de trabajo "996" generalmente significa trabajar por lo menos 60 horas a la semana.
 
  Citado de la Ley del Trabajo de la República Popular China.
 
-** Artículo 36: **
+**Artículo 36:**
 
 > El Estado deberá practicar un sistema de horas de trabajo en el que los empleados trabajen durante un máximo de ocho horas por día y no más de 44 horas por semana en promedio.
 
-** Artículo 39: **
+**Artículo 39:**
 
 > Si una empresa no puede cumplir con lo estipulado en el artículo 36 y el artículo 38 de esta Ley debido a las características especiales de su producción, puede seguir otras reglas sobre el trabajo y descansar con la aprobación de los departamentos administrativos del trabajo.
-** Artículo 41: **
+**Artículo 41:**
 
 > El empleador puede prolongar las horas de trabajo debido a las necesidades de producción o negocios después de consultar con su sindicato y empleados. Las horas de trabajo que se prolongarán, en general, no deberán durar más de una hora al día, o no más de tres horas al día si se requiere tal prolongación debido a razones especiales y con la condición de garantizar la salud física de los empleados. . El tiempo de trabajo a prolongar no debe exceder, sin embargo, 36 horas al mes.
 
-** Artículo 43: **
+**Artículo 43:**
 
 > El empleador no prolongará las horas de trabajo de los empleados en violación de las estipulaciones de esta Ley.
 
-** Artículo 90: **
+**Artículo 90:**
 
 > Si el empleador prolonga las horas de trabajo en violación de las estipulaciones de esta Ley, los departamentos administrativos de trabajo pueden advertirle, ordenarle que haga correcciones y puede imponerle una multa.
 
-** Artículo 91: **
+**Artículo 91:**
 
 > (2) Negativa a pagar a los trabajadores remuneraciones salariales por trabajar más horas;
 
