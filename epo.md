@@ -8,7 +8,7 @@
 "996" labora horaro rilatas al neoficiala labora horaro (9 am - 9 pm, 6 tagojn semajne), kiu gajnas pli da populareco.
 Servi kompanion, kiu kuraĝigas la laborhoraron, kutime signifas labori dum almenaŭ 60 horoj semajne.
 
-Citita de [Laborleĝo de la Popola Respubliko Ĉinio] (<http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm):>
+Citita de [Laborleĝo de la Popola Respubliko Ĉinio](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm):
 
 **Artikolo 36**:
 > La Ŝtato praktikos labortempan sistemon en kiu laboristoj laboros ne pli ol ok horojn tage kaj ne pli ol 44 horojn semajne averaĝe.
@@ -49,6 +49,6 @@ Laŭ la Labora Juro, dungitoj, kiuj sekvas la laborkanaron "996" meritas pagi 2.
 
 ## De kie venas la nomo de la repo '996.ICU?
 
-Se vi daŭras toleri la laboran horaron, vi riskos vian propran sanon kaj eble bezonos resti en "**" Mi estas entuziasma _**I**ntensive **C**are **U**nit_ iam. (`6` rimoj kun `U` en mandarena)
+Se vi daŭras toleri la laboran horaron, vi riskos vian propran sanon kaj eble bezonos resti en Mi estas entuziasma _**I**ntensive **C**are **U**nit_ iam. (`6` rimoj kun `U` en mandarena)
 
 __Developers' lives matter.__
