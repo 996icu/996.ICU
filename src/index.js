@@ -37,7 +37,7 @@ class softwareEngineer
                         this.bodyStatus="sick";
                     }
                 }else{
-                    this.severityofDisease = "UTC";
+                    this.severityofDisease = "ICU";
                     if(Math.random()>0.1){
                         this.alive = false;
                     }
