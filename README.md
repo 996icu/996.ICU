@@ -14,7 +14,7 @@ A "996" work schedule refers to an unofficial work schedule (9a.m. ~ 9p.m., 6 da
 
 What can I do?
 ---
-You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.  
+You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.
 您可以更新这个[企业黑名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 
 Expand influence
@@ -31,15 +31,15 @@ Community powers
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that designed to let more people know and join the activity of the 996.ICU.
 
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
- 
+
 Where are the issues?
 ---
-Even if with the interaction limits on, the issue area was totally lost of control.  
+Even if with the interaction limits on, the issue area was totally lost of control.
 So I **personally** decided to switch it off, not by GitHub or others.
 
 License
 ---
-[996ICU Licenses](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/)[WIP]  
+[996ICU Licenses](/licenses%5BWIP%5D/)[WIP]
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
 
-If you want to update licenses, please edit [this template](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/genlicense/licenses/996.icu.template.zh-cn.txt) which used by [this tool](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/) to help with generate LICENSE files.
+If you want to update licenses, please edit [this template](/tools/gen-license/genlicense/licenses/996.icu.template.zh-cn.txt) which used by [this tool](/tools/gen-license/) to help with generate LICENSE files.

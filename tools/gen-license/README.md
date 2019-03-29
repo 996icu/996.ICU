@@ -25,5 +25,6 @@ Support [996.ICU Expanded LICENSE](https://github.com/996icu/996.ICU)
     gen-license --list
 
     # Conmmon LICENSE with 996ICU
-    gen-license mit --996icu # generate mit LICENSE with 996ICU
+    gen-license mit --996icu # generate mit LICENSE with 996ICU zh-cn version
+    gen-license mit --996icu en-us # generate mit LICENSE with 996ICU en-us version
 ```

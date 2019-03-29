@@ -15,4 +15,4 @@
 ## 工具
 
 [这个工具](/tools/gen-license/) 可以帮助你随时组合 996ICU 与其他协议.
-如果要更新此目录下的协议, 请将工具目录中的 [协议模板](/tools/gen-license/genlicenses/licenses/) 也同步修改.
+如果要更新此目录下的协议, 请将工具目录中的 [协议模板](/tools/gen-license/genlicense/licenses/) 也同步修改.
