@@ -2,6 +2,9 @@
 =======
 The name `996.ICU` refers to an ironic saying between Chinese programmers **'Working at "996" pattern and being ill in the ICU(Intensive Care Unit)'**. That means if you consistently follow the "996" work schedule, you run the risk of getting yourself into Intensive Care Unit.
 
+<a href="https://996.icu/#/zh_CN"><img src="https://img.shields.io/badge/996-ICU-red.svg"></a>
+<a href="https://github.com/996icu/996.ICU/blob/master/LICENSE.996icu.zh-hans"><img src="https://img.shields.io/badge/license-996ICU-green.svg"></a>
+
 * [简体中文](zh_CN.md)
 * [正體中文](zh_TW.md)
 * [русский](ru_RU.md)
