@@ -46,7 +46,6 @@ If you want to update this LICENSE, Please edit [this file](https://github.com/9
 
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
 
-Tools to generate LICENSE File
----
-
-See [tools/gen-license/](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/)
+- Tools to generate LICENSE File
+ 
+  See [tools/gen-license/](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/)
