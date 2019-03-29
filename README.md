@@ -1,6 +1,6 @@
 996.ICU
 =======
-The name `996.ICU` refers to an ironic saying among Chinese programmers that goes **'Work in "996", sick in ICU'**, which means that following the "996" work schedule, you are risking yoursrlf getting into ICU (Intensive Care Unit).
+The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit).
 
 * [简体中文](zh_CN.md)
 * [正體中文](zh_TW.md)
