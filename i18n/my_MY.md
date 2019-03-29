@@ -61,6 +61,9 @@ Masa kerja adalah 8 jam sehari, dan waktu kerja mingguan purata tidak lebih dari
  #### Perkara 7：
 > Pertubuhan dan agensi nasional mempunyai masa kerja seragam, dan hari Sabtu dan Ahad adalah rehat mingguan.。  
 > Syarikat-syarikat dan institusi-institusi yang tidak dapat memenuhi waktu kerja bersatu seperti yang dinyatakan dalam perenggan terdahulu boleh secara fleksibel mengatur hari rehat mingguan mengikut keadaan sebenar.
+
  Menurut "Undang-undang Buruh"，Menurut 996 sistem kerja, adalah munasabah untuk memperoleh 2.275 kali gaji semasa.
+ 
  Apa itu 996.ICU? Kerja 996, jika saya sakit, saya hanya boleh pergi ke ICU.
+ 
  Developers' lives matter.
