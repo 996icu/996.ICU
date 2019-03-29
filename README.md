@@ -17,7 +17,7 @@ The name `996.ICU` refers to an ironic saying between Chinese programmers **'Wor
 * [Español](es_MX.md)
 * [日本語](ja_JP.md)
 * [ไทย](th_TH.md)
-* [Việt ](vi_VN.md)
+* [Việt Nam](vi_VN.md)
 * [한국어](kr_KP.md)
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay respect to honorable developers.
