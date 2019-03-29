@@ -86,11 +86,11 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 
 ## Gaining in popularity and publicity
 
-In early September 2016, it was said that __*58.com*__ (`58同城`, a classified advertisements company) introduced the "996" work schedule, without paying employees overtime who worked on weekends. The company later claimed that the schedule was only practiced managing extra workflow during peak season - September and October, and that the schedule was not compulsory.
+- In early September 2016, it was said that __*58.com*__ (`58同城` (NYSE：WUBA), a classified advertisements company) introduced the "996" work schedule, without paying employees overtime who worked on weekends. The company later claimed that the schedule was only practiced managing extra workflow during peak season - September and October, and that the schedule was not compulsory.
 
-In early 2019, __*Youzan*__ (`有赞`, a Hangzhou-based E-commerce company) announced the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded: "This will definitely be a right decision when we look back in a few years."
+- In January 2019, __*Youzan*__ (`有赞` (HKG: 8083), a Hangzhou-based E-commerce company) announced the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded: "This will definitely be a right decision when we look back in a few years."
 
-In mid-March 2019, it was reported that __*JD.com*__ (`京东`, a major E-commerce company) started adopting "996" or "995" work schedules in some departments. The PR posted that (Our culture is) to devote ourselves wholeheartedly (to achieve the business objectives) via Maimai (`脉脉`, a Chinese real-name business social network platform).
+- In March 2019, it was reported that __*JD.com*__ (`京东` (NASDAQ: JD), a major E-commerce company) started adopting "996" or "995" work schedules in some departments. The PR posted that (Our culture is) to devote ourselves wholeheartedly (to achieve the business objectives) via Maimai (`脉脉`, a Chinese real-name business social network platform).
 
 Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practiced in a lot of companies in China.
 ## Compensation and benefits
@@ -102,4 +102,3 @@ According to the Labour Law, employees who follow the "996" work schedule deserv
 If you continue to tolerate the "996" work schedule, you will risk your own health and might need to stay in an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
 
 __Developers' lives matter.__
-
