@@ -49,6 +49,6 @@ Laŭ la Labora Juro, dungitoj, kiuj sekvas la laborkanaron "996" meritas pagi 2.
 
 ## De kie venas la nomo de la repo '996.ICU?
 
-Se vi daŭras toleri la laboran horaron, vi riskos vian propran sanon kaj eble bezonos resti en "**" Mi estas entuziasma _**I**ntensive **C**are **U**nit_ iam. ('6` rimoj kun `U` en mandarena)
+Se vi daŭras toleri la laboran horaron, vi riskos vian propran sanon kaj eble bezonos resti en "**" Mi estas entuziasma _**I**ntensive **C**are **U**nit_ iam. (`6` rimoj kun `U` en mandarena)
 
 __Developers' lives matter.__
