@@ -27,6 +27,10 @@ Community powers
 
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
+Participate in the discussion
+---
+Telegram Group: [Telegram](https://t.me/GITHUB_996ICU)
+
 License
 ---
 [996ICU License](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/LICENSE.996icu.zh-hans)
