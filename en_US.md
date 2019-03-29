@@ -4,7 +4,7 @@
 ## What is "996"?
 996 working, ICU waiting.
 
-A "996" work schedule refers to an unofficial work schedule (9a.m. ~ 9p.m., 6 days a week) that has been gaining more popularity.
+A "996" work schedule refers to an unofficial work schedule (9a.m. ~ 9p.m., 6 days a week) that has been gaining in popularity.
 Serving a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
 
 ## Laws and Regulations
@@ -52,7 +52,7 @@ Serving a company that encourages the "996" work schedule usually means working 
 >  3. arranging overtime work but giving no overtime pay;  
 >......  
 
-## Gaining more popularity and publicity
+## Gaining in popularity and publicity
 
 In early September 2016, it was said that __*58.com*__ (`58同城`, a classified advertisements company) introduced the "996" work schedule, without paying employees overtime who worked on weekends. The company later claimed that the schedule was only practiced managing extra workflow during peak season - September and October, and that the schedule was not compulsory.
 
