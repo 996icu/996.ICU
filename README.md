@@ -30,10 +30,12 @@ Community powers
 
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that designed to let more people know and join the activity of the 996.ICU.
 
+- [996.HOLIDAY](https://github.com/955holiday/955.holiday/) is another repo that maintains a list of 955 companies. And advising people to join 955 and enjoy holidays.
+
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
 Where are the issues?
----
+
 Even if with the interaction limits on, the issue area was totally out of control.  
 So I **personally** decided to switch it off, not by GitHub or others.
 
