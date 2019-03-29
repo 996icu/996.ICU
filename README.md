@@ -1,6 +1,6 @@
 996.ICU
 =======
-The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit).
+The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit).
 
 <a href="https://996.icu/#/zh_CN"><img src="https://img.shields.io/badge/996-ICU-red.svg"></a>
 <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE.996icu.zh-hans"><img src="https://img.shields.io/badge/license-996ICU-green.svg"></a>
@@ -19,6 +19,7 @@ The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying 
 * [ไทย](th_TH.md)
 * [Việt Nam](vi_VN.md)
 * [한국어](kr_KP.md)
+* [Gaeilge na hÉireann](ga.md)
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect to honorable developers.
 
@@ -26,11 +27,18 @@ Suggestions and PRs are welcome!
 
 Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 
-An anonymous [vote page](exposure.md) shows a rank list of 996 (or more) companies (Thanks to @LinXueyuanStdio)
+An [anonymous vote page](exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
 Contribution
---- 
+---
 Feel free to adjust the format, add some contents or fix grammatical errors. Please note that add too many translations is getting off the track.
+
+Community powers
+---
+
+ - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join  955.
+
+ - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful infomations about cases between employees and enterprise.
 
 License
 ---
