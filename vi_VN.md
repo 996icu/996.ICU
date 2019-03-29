@@ -6,7 +6,7 @@
 "996" nói về lịch làm việc không chính thức (996 - 9 giờ sáng đến 9 giờ tối, 6 ngày một tuần) đang ngày càng được phổ biến. Người lao động sẽ phải làm việc tối thiểu 60 giờ 1 tuần khi làm cho công ty áp dụng lịch này.
 
 ## Luật Lao Động của Cộng hòa Nhân dân Trung Hoa
-Trích dẫn từ [Bộ Luật lao Động của Trung Quốc](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm) - 
+Trích dẫn từ [Bộ Luật lao Động của Trung Quốc](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
 **Điều 36**:  
 > Nhà nước quy định hệ thống giờ làm việc trong đó người lao động sẽ làm việc không quá 8 giờ một ngày và trung bình không quá 44 giờ một tuần.
 
