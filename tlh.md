@@ -1,40 +1,41 @@
 996.ICU
 ===
 
-## What is "996"?
-996 working, ICU waiting.
+## nuq 'oH 996
+jaj naQ Qap, ICU loS.
 
-A "996" work schedule refers to an unofficial work schedule (9 am - 9 pm, 6 days a week) that has been gaining more popularity. 
-Serving a company that encourages the "996" work schedule usually means work for at least 60 hours a week.
+996 vum qej Qap schedule (9 am-9 pm, 6 jaj net Hogh) 'e' Soq vI'Iprup Qat. 
+'e' 996 vum tungHa' motlh wey qar qo'vaD baj qej qaSlaH 60 rep net Hogh.
 
-Quoted from [Labor Law of the People's Republic of China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
+vo' [jungwoq chut labor](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
 
-**Article 36**:  
-> The State shall practice a working hour system wherein employees shall work for no more than eight hours a day and no more than 44 hours a week on the average.  
+**ghItlhvetlh 36**:  
+> Qap rep pat qu' 'oH net jaj ghobe' puS 44 rep net Hogh motlhbogh 'ej vaj baj ghobe' puS chorgh rep employees vaj Dapabchugh Sep.  
 
-**Article 39**:  
-> If an enterprise can not follow the stipulations in Article 36 and Article 38 of this Law due to special characteristics of its production, it may follow other rules on work and rest with the approval by labour administrative departments.  
+**ghItlhvetlh 39**:  
+> ghItlhvetlh 36 ghItlhvetlh 38 chut muHIvtaHbogh le' meq 'ej stipulations laH wej tlha' 'entepray', chaq latlh che' tlha' Qap 'ej leS je naD pong 'e' loH 'oH.  
 
-**Article 41**:  
-> The employer can prolong work hours due to needs of production or businesses after consultation with its trade union and employees. The work hours to be prolonged, in general, shall be no longer than one hour a day, or no more than three hours a day if such prolonging is called for due to special reasons and under the condition that the physical health of employees is guaranteed. The work time to be prolonged shall not exceed, however, 36 hours a month.  
+**ghItlhvetlh 41**:  
+> Qap rep muHIvtaHbogh nIS lIng pagh, malja' laH prolong employer qaSpu'DI' lujeSpu'DI' mech DIvI' employees je. Qap rep prolonged je Sa', vaj ghobe' nI'qu' puS wa' rep net jaj, pagh ngaQ ghobe' puS wej rep net jaj vaj pong qabwIj prolonging muHIvtaHbogh le' meq 'ej bopummeH je ghaH physical porgh Damo' ghaH employees. 36 rep net jar vaj wej exceed, 'ach Qap poH prolonged.
 
-**Article 43**:  
-> The employer shall not prolong the work hours of employees in violation of the stipulations of this Law.  
+**ghItlhvetlh 43**:  
+> Qap rep wem chut qa' employees vaj wej prolong employer.  
 
-**Article 90**:  
+**ghItlhvetlh 90**:  
 
-> If the employer prolongs work hours in violation of stipulations in this Law, labour administrative departments can give it a warning, order it to make corrections, and may impose a fine thereon.  
+> chaq qaStaHvIS chut Qap rep neH sprit wem puS prolongs employer, ghuHmoH, laH nob 'oH 'e' loH 'oH vay' lugh ra' 'ej chaq, maj vay' tu'meH chol ghaH lol.  
 
-**Article 91**:  
-> (2) Refusal to pay labourers wage remunerations for working longer hours;  
+**ghItlhvetlh 91**:  
+> (2) wage remunerations nI'qu' rep Qap yIDIl je ramjep Qujmey Da'ovQo';
 
-## Gaining more popularity and publicity
+## latlh popularity 'ej publicity Soq
 
-In early 2019, a Chinese E-commerce company called _Youzan_ announced the adoption of the "996" work schedule in the future, at the company's annual party. The CEO of Youzan responded: "This would definitely be a good decision when we look back in a few years time.".
+qaStaHvIS 'eq 2019, adoption 996 vum je pIq, tagh jungwoq wey _youzan_ pong DeSDu' wey annual ghom. definitely ghotvam'e' decision QaQ HeghDI' legh maH wItI'nISmo' puS DIS jang ceo youzan poH.
 
-In Mid-March 2019, it was reported that JD.com started adopting "996" or "995" work schedule in some of the business units. JD.com PR posted on their Maimai(`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with all our hearts (to achieve the business objectives)".
+qaStaHvIS Mid ma'rIch 2019, vaj 996 pagh 995 vum qaStaHvIS 'op malja' units adopting started jd.com ja' 'oH. maimai (`脉脉`, jungwoq real pong malja' platform) account posted jd.com pr: "culture Hoch wIta'pu' devote tIqlIj (malja' objectives chav) ".
 
-Although it is gaining more publicity recently, this work schedule is a commonly known "secret" practiced in a lot of companies in China.
+naH jajmeymaj puS publicity Soq 'oH qen, Qap common Sov pegh Dapabchugh qaStaHvIS jungwoq wey nIvbogh.
+
 ## Compensation and benefits
 
 According to the Labor Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely get paid that much.
