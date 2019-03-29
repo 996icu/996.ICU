@@ -5,8 +5,8 @@ The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying 
 <a href="https://996.icu/#/zh_CN"><img src="https://img.shields.io/badge/996-ICU-red.svg"></a>
 <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE.996icu.zh-hans"><img src="https://img.shields.io/badge/license-996ICU-green.svg"></a>
 
-* [简体中文](zh_CHS.md)
-* [正體中文](zh_CHT.md)
+* [简体中文](zh_Hans.md)
+* [正體中文](zh_Hant.md)
 * [русский](ru_RU.md)
 * [Français](fr_FR.md)
 * [English](en_US.md)
@@ -42,7 +42,7 @@ Community powers
 
 License
 ---
-[996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE.996icu.zh-hans)
+[996ICU License](LICENSE.996icu.zh-Hans)
 [WIP]
 
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
