@@ -29,7 +29,7 @@ Community powers
 
 License
 ---
-[996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE.996icu.zh-hans)
+[996ICU License](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/LICENSE.996icu.zh-hans)
 [WIP]
 
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
