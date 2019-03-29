@@ -2,7 +2,7 @@
 ===
 
 ## Was ist "996"?
-"996"-Arbeitsmuster bezieht sich auf ein inoffizielles Arbeitsrythmus，und zwar von 9 bis 21 Uhr täglich, sechs Tage pro Woche. Zur Zeit ist so ein Arbeitsmuster in China immer gewöhnlicher geworden. Dieses Arbeitsrythmus entspricht mindestens wöchenlich 60 Arbeitsstunden, welche ist gesetzlich nicht erlaubt. 
+Der Name "996-Arbeitsmuster" bezieht sich auf einen inoffiziellen Arbeitsrythmus, und zwar von 9 bis 21 Uhr täglich an sechs Tagen der Woche. Heutzutage wird so ein Arbeitsrythmus in China immer gewöhnlicher, was mindestens 60 Arbeitsstunden wöchenlich entspricht. Dies ist gesetzlich nicht erlaubt.
 
 
 ## Arbeitsrecht der Volksrepublik China
@@ -12,16 +12,16 @@ Artikel 41 des [Arbeitsrechts der Volksrepublik China](http://www.china.org.cn/l
 
 ## Immer häufigeres Auftreten
 
-Anfang 2019 hat ein chinesisches E-Commerce-Unternehmen namens Youzan die Übernahme des "996"-Arbeitsmuster auf der Chinesisches-Neujahr-Party des Unternehmens angekündigt. Der CEO von Youzan sagte dazu: "Das wäre definitiv eine gute Entscheidung, wenn wir in ein paar Jahren zurückblicken."
+Anfang 2019 hat ein chinesisches E-Commerce-Unternehmen namens Youzan die Übernahme des 996-Arbeitsmuster auf der Chinesisches-Neujahr-Party des Unternehmens angekündigt. Der CEO von Youzan sagte dazu: "Das wäre definitiv eine gute Entscheidung, wenn wir in ein paar Jahren zurückblicken."
 
-Mitte März 2019 wurde berichtet, dass Jingdong in einigen Geschäftseinheiten "996" oder "995" zu verwenden begann. Jingdong PR postete auf ihrem Maimai-Konto (`脉脉`, einer chinesischen Social-Network-Plattform für geschäftliche Netzwerke):" (Unsere Kultur ist es), uns mit unserem ganzen Herzen zu widmen (um die Geschäftsziele zu erreichen)".
+Mitte März 2019 wurde berichtet, dass Jingdong in einigen Geschäftseinheiten "996" oder "995" zu verwenden begann. Jingdong PR postete auf ihrem Maimai-Konto (`脉脉`, einer chinesischen Social-Network-Plattform für geschäftliche Netzwerke):"[Unsere Kultur ist es], uns mit unserem ganzen Herzen zu widmen [um die Geschäftsziele zu erreichen]".
 
 ## Kompensation
 
-Dem Arbeitsgesetz zufolge müssten Arbeitnehmer, die dem "996"-Arbeitsmuster folgen, 2,275-fach so viel wie ihr Grundgehalt bezahlt werden. Leider erhalten die unter sochelm Rythmus arbeitenden Leuten selten so viel.
+Dem Arbeitsgesetz zufolge müssten Arbeitnehmer, die dem 996-Arbeitsmuster folgen, mit dem 2,275-Fachen ihres Grundgehalts bezahlt werden. Leider erhalten sie selten so viel.
 
 ## Woher kommt der Name des Repos "996.ICU"?
 
-Wenn man konsequent das "996"-Arbeitsmuster befolgt, besteht die Gefahr, dass man in der Intensivstation (**I**ntensiv **C**are **U**nit) landet.
+Wenn man konsequent das 996-Arbeitsmuster befolgt, besteht die Gefahr, dass man in der Intensivstation (**I**ntensiv **C**are **U**nit) landet.
 
 Das Leben der Entwickler zählt.
