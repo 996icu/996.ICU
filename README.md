@@ -31,3 +31,8 @@ License
 [WIP]
 
 Details see [#15642](https://github.com/996icu/996.ICU/pull/15642)
+
+Awesome 996ICU License
+---
+Awesome projects with 996ICU License
+- TODO  
