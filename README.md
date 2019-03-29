@@ -1,3 +1,4 @@
+![996.ICU](logo.png)
 996.ICU
 =======
 The name `996.ICU` refers to an ironic saying between chinese programmers **'Working at "996" pattern and being ill in the ICU(Intensive Care Unit)'**. That means if you consistently follow the "996" work schedule, you run the risk of getting yourself into Intensive Care Unit.
@@ -15,6 +16,9 @@ The name `996.ICU` refers to an ironic saying between chinese programmers **'Wor
 * [Español](es_MX.md)
 * [ไทย](th_TH.md)
 * [Việt](vi_VN.md)
+* [한국어](kr_KP.md)
+* [svenska](se_SE.md)
+
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay respect to glorious developers.
 
@@ -26,13 +30,13 @@ An anonymous [vote page](exposure.md) show a rank list of 996(or more) companies
 
 Contribution
 ---
-Any merged modification to all files will be rendered as github flavored markdown and published on the site regularly.   
+Any merged modification to all files will be rendered as github flavored markdown and published on the site regularly.
 Feel free to adjust the format, add some contents or fix grammatical errors.
 
 Expand influence
 ---
-I18n support is ongoing.  
-If you would like to contribute, you can add translations or just write something down in other languages in separate files.   
+I18n support is ongoing.
+If you would like to contribute, you can add translations or just write something down in other languages in separate files.
 
 License
 ---
