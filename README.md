@@ -6,7 +6,7 @@ The name `996.ICU` refers to an ironic saying between chinese programmers **'Wor
 * [English](en_US.md)
 * [繁體中文](zh_TW.md)
 * [日本語](ja_JP.md)
-* [Le français](fr_FR.md)
+* [français](fr_FR.md)
 * [Deutsch](de_DE.md)
 * [Greek](gl-IT.md)
 * [Italian](it_IT.md)
