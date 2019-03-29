@@ -15,7 +15,8 @@ LICENSES = [
     "lgpl-3.0",
     "mit",
     "mpl-2.0",
-    "unlicenses"
+    "unlicenses",
+    "996icu-0.1",
 ]
 
 

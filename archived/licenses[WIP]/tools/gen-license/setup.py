@@ -8,7 +8,7 @@ EMAIL = "zombie110year@outlook.com"
 URL = "https://github.com/zombie110year/gen-license"
 
 # * 版本号
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 
 # * 短描述
 DESCRIPTION = "Generate LICENSE Files"
