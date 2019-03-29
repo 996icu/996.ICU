@@ -33,3 +33,5 @@ License
 [WIP]
 
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
+
+加组织telegram 群 https://t.me/ChineseDevelopers
