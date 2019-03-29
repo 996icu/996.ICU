@@ -12,6 +12,8 @@ Suggestions and PRs are welcome!
 
 Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 
+An anonymous [vote page](exposure.md) show a rank list of 996(or more) companies (Thanks @LinXueyuanStdio)
+
 Contribution
 ---
 Any merged modification to all files will be rendered as github flavored markdown and published on the site regularly.   
