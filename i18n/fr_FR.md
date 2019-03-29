@@ -3,7 +3,7 @@
 
 ## Qu'est-ce que « 996 » ?
 
-Un emploi « 996 » fait référence à un régime  de travail non officiel (de 9h à 21h, 6 jours par semaine) qui gagne en popularité.
+Un emploi « 996 » fait référence à un régime  de travail non officiel (de 9h à 21h, 6 jours par semaine) qui gagne en popularité en Chine.
 Travailler pour une entreprise qui encourage le modèle de travail « 996 » signifie en général travailler au moins 60 heures par semaine.
 
 ## Loi du travail de la République populaire de Chine
@@ -18,11 +18,11 @@ En novembre 2018, [Jumei](jumei.com) a commencé à adopter le régime de travai
 
 Début 2019, une entreprise d'e-commerce chinoise appelée _Youzan_ a déclaré son adoption au régime de travail « 996 » lors de la fête du Nouvel An Chinois de la société. Le PDG de Youzan a annoncé que ce sera certainement une bonne décision si une rétrospective est faite quelques années plus tard.
 
-Mi-mars 2019, il a été signalé que [JD](http://jd.com) avait commencé à adopter le mode de fonctionnement « 996 » ou « 995 » dans certaines unités commerciales. Le département des relations publiquess chez JD a publié sur son compte maimai (`脉脉`, une plate-forme de réseau social d'entreprises chinoises): « Notre culture est de nous consacrer de tout notre cœur à atteindre les objectifs de l'entreprise. »
+Mi-mars 2019, il a été signalé que [Jingdong](http://jd.com) avait commencé à adopter le mode de fonctionnement « 996 » ou « 995 » dans certaines unités commerciales. Le département des relations publiquess chez JD a publié sur son compte maimai (`脉脉`, une plate-forme de réseau social d'entreprises chinoises): « (Notre culture consiste à) nous consacrer de tout notre cœur (à atteindre les objectifs de l'entreprise). »
 
 ## Compensation et récompense
 
-Selon la loi du travail en Chine, les employés qui suivent le schéma de travail « 996 » méritent de toucher 2,275 fois leur salaire de base. Malheureusement, ceux qui sont au régime « 996 » sont rarement payés autant.
+Selon la loi du travail en Chine, les employés qui suivent le schéma de travail « 996 » méritent de toucher 2,275 fois leur salaire de base (donc plus du double). Malheureusement, ceux qui sont au régime « 996 » sont rarement payés autant.
 
 ## D'où vient le nom du repo `996.ICU` (`996.USI` en français) ?
 
