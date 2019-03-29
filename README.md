@@ -29,6 +29,8 @@ Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 
 An [anonymous vote page](exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
+Activity of construct programmer union [Programmer Union](https://github.com/frogMama/Programmer-Union)
+
 Contribution
 ---
 Feel free to adjust the format, add some contents or fix grammatical errors. Please note that add too many translations is getting off the track.
