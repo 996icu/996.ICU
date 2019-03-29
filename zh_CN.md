@@ -102,4 +102,6 @@
 
 什么是 996.ICU？工作 996，生病 ICU。
 
+这次大家一定要坚持star,过几年看看肯定是好事!!!!!
+
 __Developers' lives matter.__
