@@ -2,6 +2,9 @@ var theCompaniesofDrinkingBlood = ["JD"];
 var workdays = ["Mon","Tues","Wed","Thur","Fri","Sat"];
 var offdays = ["Sun"];
 const theWeek = offdays.concat(workdays);
+const overtimeRate = 0.999;
+const sickRate = 0.7;
+const deadRate = 0.9;
 class softwareEngineer 
 {
     constructor(inaugurationCompany){
@@ -9,8 +12,14 @@ class softwareEngineer
         this.theTimeofOffWork = 21;
         this.theDaysWorkedperWeek = 7;
         this.alive = true;
-        this.bodyStatus = "normal";// normal、sick
-        this.workStatus = "working";// working、sleeping
+        this.bodyStatus = {
+            NORMAL:"normal",
+            SICK:"sick"
+        };// normal、sick
+        this.workStatus = {
+            WORKING:"working",
+            SLEEPING:"sleeping"
+        };// working、sleeping
         this.inaugurationCompany = inaugurationCompany;
         this.severityofDisease = null;
     }
@@ -22,27 +31,34 @@ class softwareEngineer
                 if(this.bodyStatus!=="sick"){
                     if(workdays.includes(theWeek[currentDate.getDay()])){
                         if(currentDate.getHours()>=this.theTimeofWork&&currentDate.getHours()<=this.theTimeofOffWork){
-                            this.workStatus="working";
+                            this.workStatus=workStatus.WORKING;
                         }else{
-                            if(Math.random()>0.001){
-                                this.workStatus="working"; // overtime
+                            if(Math.random()<overtimeRate){
+                                this.workStatus=workStatus.WORKING; // overtime
+                            }else{
+                                this.workStatus=workStatus.SLEEPING;
                             }
                         }
                     }else{
-                        if(Math.random()>0.001){
-                            this.workStatus="working"; // overtime
+                        if(Math.random()<overtimeRate){
+                            this.workStatus=workStatus.WORKING; // overtime
+                        }else{
+                            this.workStatus=workStatus.SLEEPING;
                         }
                     }
-                    if(Math.random()>0.3){
-                        this.bodyStatus="sick";
+                    if(Math.random()>sickRate){
+                        this.bodyStatus=bodyStatus.SICK;
                     }
                 }else{
                     this.severityofDisease = "ICU";
-                    if(Math.random()>0.1){
+                    if(Math.random()<deadRate){
                         this.alive = false;
                     }
                 }
             }
         }
+    }
+    addtheCompaniesofDrinkingBlood(companyName){
+        this.theCompaniesofDrinkingBlood.push(companyName);
     }
 }
