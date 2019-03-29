@@ -42,4 +42,4 @@ Theo Luật Lao động, nhân viên tuân theo lịch làm việc "996" xứng 
 
 Nếu bạn làm việc lâu dài với lịch "996", bạn có nguy cơ đối diện với việc điều trị tăng cường (ICU = **I**ntensive **C**are **U**nit)
 
-Developers' lives matter.
+__Developers' lives matter.__

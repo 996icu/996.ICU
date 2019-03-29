@@ -25,4 +25,4 @@ Secondo la legge sul lavoro, gli impiegati che seguono l'orario "996" devono ess
 
 Seguendo sistematicamente il sistema "996", si corre il rischio di finire in terapia intensiva. (In inglese, **I**ntensive **C**are **U**nit)
 
-La vita degli sviluppatori conta.
+__La vita degli sviluppatori conta.__

@@ -44,4 +44,4 @@ De acordo com a Lei do Trabalho, os empregados que seguem o horário de trabalho
 
 Basicamente se segues o horário de trabalho "996", corres o risco de ires parar à Unidade de Cuidades Intensivos ou **I**ntensive **C**are **U**nit em inglês.
 
-As vidas dos programadores importam.
+__As vidas dos programadores importam.__

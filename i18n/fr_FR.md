@@ -28,4 +28,4 @@ Selon la loi du travail en Chine, les employés qui suivent le schéma de travai
 
 A cause du mode de travail « 996 », beaucoup de travailleurs risquent de finir dans l'**U**nité de **S**oins **I**ntensifs (**I**ntensive **C**are **U**nit en anglais).
 
-La vie des développeurs compte.
+__La vie des développeurs compte.__

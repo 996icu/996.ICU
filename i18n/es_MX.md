@@ -21,4 +21,4 @@ De acuerdo con la Ley del Trabajo, los empleados que siguen el patrón "996" mer
 ## ¿De dónde viene el nombre del repo `996.ICU`?
 Si sigue constantemente el patrón "996", corre el riesgo de ingresar a la UCI (en Inglés, **I**ntensive **C**are **U**nit).
 
-Developers' lives matter.
+__Developers' lives matter.__

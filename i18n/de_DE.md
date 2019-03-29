@@ -24,4 +24,4 @@ Dem Arbeitsgesetz zufolge müssten Arbeitnehmer, die dem 996-Arbeitsmuster folge
 
 Wenn man konsequent das 996-Arbeitsmuster befolgt, besteht die Gefahr, dass man in der Intensivstation (**I**ntensiv **C**are **U**nit) landet.
 
-Das Leben der Entwickler zählt.
+__Das Leben der Entwickler zählt.__
