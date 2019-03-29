@@ -1,23 +1,23 @@
 996.ICU
 =======
-The name `996.ICU` refers to an ironic saying between chinese programmers **'Working at "996" pattern and being ill in the ICU(Intensive Care Unit)'**. That means if you consistently follow the "996" work schedule, you run the risk of getting yourself into Intensive Care Unit.
+The name `996.ICU` refers to an ironic saying between Chinese programmers **'Working at "996" pattern and being ill in the ICU(Intensive Care Unit)'**. That means if you consistently follow the "996" work schedule, you run the risk of getting yourself into Intensive Care Unit.
 
 * [简体中文](zh_CN.md)
-* [English](en_US.md)
-* [繁體中文](zh_TW.md)
-* [日本語](ja_JP.md)
+* [正體中文](zh_TW.md)
+* [русский](ru_RU.md)
 * [Français](fr_FR.md)
+* [English](en_US.md)
 * [Deutsch](de_DE.md)
 * [Ελληνικά](gl-IT.md)
 * [Italiano](it_IT.md)
 * [Português](pt_PT.md)
-* [русский](ru_RU.md)
 * [Español](es_MX.md)
+* [日本語](ja_JP.md)
 * [ไทย](th_TH.md)
 * [Việt](vi_VN.md)
 * [한국어](kr_KP.md)
 
-Repo for counting stars and contributing. Press <kbd>F</kbd> to pay respect to glorious developers.
+Repo for counting stars and contributing. Press <kbd>F</kbd> to pay respect to honorable developers.
 
 Suggestions and PRs are welcome!
 
@@ -40,4 +40,4 @@ License
 [996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE.996icu.zh-hans)
 [WIP]
 
-Details see [#15642](https://github.com/996icu/996.ICU/pull/15642)
+See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
