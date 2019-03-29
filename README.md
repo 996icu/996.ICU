@@ -1,6 +1,6 @@
 996.ICU
 =======
-The name `996.ICU` refers to an ironic saying between Chinese programmers **'Working at "996" pattern and being ill in the ICU(Intensive Care Unit)'**. That means if you consistently follow the "996" work schedule, you run the risk of getting yourself into Intensive Care Unit.
+The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit).
 
 <a href="https://996.icu/#/zh_CN"><img src="https://img.shields.io/badge/996-ICU-red.svg"></a>
 <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE.996icu.zh-hans"><img src="https://img.shields.io/badge/license-996ICU-green.svg"></a>
@@ -20,18 +20,17 @@ The name `996.ICU` refers to an ironic saying between Chinese programmers **'Wor
 * [Việt](vi_VN.md)
 * [한국어](kr_KP.md)
 
-Repo for counting stars and contributing. Press <kbd>F</kbd> to pay respect to honorable developers.
+Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect to honorable developers.
 
 Suggestions and PRs are welcome!
 
 Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 
-An anonymous [vote page](exposure.md) show a rank list of 996(or more) companies (Thanks @LinXueyuanStdio)
+An anonymous [vote page](exposure.md) shows a rank list of 996 (or more) companies (Thanks to @LinXueyuanStdio)
 
 Contribution
 --- 
 Feel free to adjust the format, add some contents or fix grammatical errors. Please note that add too many translations is getting off the track.
-
 
 License
 ---
