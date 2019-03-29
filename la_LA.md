@@ -4,8 +4,7 @@
 ## Quod 'CMXCVI "?
 CMXCVI operationem, expectantes ICU.
 
-A 'CMXCVI "multiplex feriale opus respicientes refers to an arbiter honorarius medium multiplex feriale opus respicientes (9a.m. ~ 9p.m., VI diebus a septimana) conquirendis plus quam popularis esse.
-Servientes autem turba quae confirmat: «CMXCVI" schedule opus est plerumque quia operantes horas in septimana saltem LX.
+A 'CMXCVI "multiplex feriale opus respicientes refers to an arbiter honorarius medium multiplex feriale opus respicientes (9a.m. ~ 9p.m., VI diebus a septimana) conquirendis plus quam popularis esse. Servientes autem turba quae confirmat: «CMXCVI" schedule opus est plerumque quia operantes horas in septimana saltem LX.
 
 ## Leges et normas
 ### [a labore legis Populi Reipublicae Sinarum](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm) 
@@ -66,7 +65,7 @@ Magis vulgaret nuper potiundi modo, quo multiplex feriale opus respicientes, tam
 
 Secundum Labor legis, operariorum conductorum, qui sequimini quod "CMXCVI" operis pretium sit digna schedule sui basi stipendio de 2.275 temporibus. Infeliciter, populus qui est sub operantur 'CMXCVI "raro tempus subsicivum stipendium accipere.
 
-## Ubi est nomen repo 996.ICU` `venire?
+## Ubi nomen repo 996.ICU venire?
 
 Si permanere tuo ut insolescat per "CMXCVI 'opus schedule, vos mos postulo ad subeundum vestram ipsorum salutem, ut et manere intensum, cura aliquando Unit. (U, in VI de rithimorum mixtura Spanish)
 
