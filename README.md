@@ -9,8 +9,15 @@ Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect
 
 What can I do ?
 ---
-You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.  
-您可以更新这个[企业黑名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
+
+- You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.  
+
+- 您可以更新这个[企业黑名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
+
+- Star this repo to make it the project with most stars on GitHub (300K stars required).
+
+- 点击项目右上角的 star，让它变成 GitHub 上星星数最多的项目（需要30万颗星星）。（https://zhuanlan.zhihu.com/p/60667642)
+
 
 Expand influence
 ---
