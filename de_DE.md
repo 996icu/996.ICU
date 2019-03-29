@@ -2,7 +2,7 @@
 ===
 
 ## Was ist "996"?
-Der Name "996-Arbeitsmuster" bezieht sich auf einen inoffiziellen Arbeitsrythmus, und zwar von 9 bis 21 Uhr täglich an sechs Tagen der Woche. Heutzutage wird so ein Arbeitsrythmus in China immer gewöhnlicher, was mindestens 60 Arbeitsstunden wöchenlich entspricht. Dies ist gesetzlich nicht erlaubt.
+Der Name "996-Arbeitsmuster" bezieht sich auf einen inoffiziellen Arbeitsrhythmus, und zwar von 9 bis 21 Uhr täglich an sechs Tagen der Woche. Heutzutage wird so ein Arbeitsrhythmus in China immer gewöhnlicher, was mindestens 60 Arbeitsstunden wöchenlich entspricht. Dies ist gesetzlich nicht erlaubt.
 
 
 ## Arbeitsrecht der Volksrepublik China
@@ -22,6 +22,6 @@ Dem Arbeitsgesetz zufolge müssten Arbeitnehmer, die dem 996-Arbeitsmuster folge
 
 ## Woher kommt der Name des Repos "996.ICU"?
 
-Wenn man konsequent das 996-Arbeitsmuster befolgt, besteht die Gefahr, dass man in der Intensivstation (**I**ntensiv **C**are **U**nit) landet.
+Wenn man konsequent das 996-Arbeitsmuster befolgt, besteht die Gefahr, dass man auf der Intensivstation (**I**ntensiv **C**are **U**nit) landet.
 
 Das Leben der Entwickler zählt.
