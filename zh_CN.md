@@ -102,4 +102,4 @@
 
 什么是 996.ICU？工作 996，生病 ICU。
 
-__Developers' lives matter.__
+__Lives matter.__
