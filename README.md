@@ -19,6 +19,7 @@ The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying 
 * [ไทย](th_TH.md)
 * [Việt Nam](vi_VN.md)
 * [한국어](kr_KP.md)
+* [Gaeilge na hÉireann](ga.md)
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect to honorable developers.
 
@@ -29,7 +30,7 @@ Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 An [anonymous vote page](exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
 Contribution
---- 
+---
 Feel free to adjust the format, add some contents or fix grammatical errors. Please note that add too many translations is getting off the track.
 
 Community powers
