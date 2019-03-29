@@ -38,7 +38,7 @@ Community powers
 
  - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join  955.
 
- - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful infomations about cases between employees and enterprise.
+ - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful infomation about cases between employees and enterprise.
 
 License
 ---
