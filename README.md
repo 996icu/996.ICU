@@ -4,6 +4,8 @@ The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying 
 
 <a href="https://996.icu/#/zh_CN"><img src="https://img.shields.io/badge/996-ICU-red.svg"></a>
 <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE.996icu.zh-hans"><img src="https://img.shields.io/badge/license-996ICU-green.svg"></a>
+<a href="https://join.slack.com/t/996icuhq/shared_invite/enQtNTkwMzA2OTkxNTM2LWJjZTdkN2YxNmM2ZTBmZTc5MmY1ZmY4MTU4NWIwZGMxMTRmMzU5OWFkMmRiOTcxYjY0NzBjZTIzNGYwNDA2N2I"><img src="https://img.shields.io/badge/slack-996ICU-green.svg"></a>
+
 
 * [简体中文](zh_CN.md)
 * [正體中文](zh_TW.md)
