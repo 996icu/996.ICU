@@ -7,7 +7,8 @@
 A "996" work schedule refers to an unofficial work schedule (9 am - 9 pm, 6 days a week) that has been gaining more popularity. 
 Serving a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
 
-Quoted from [Labour Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm):
+## Laws and Regulations
+### [Labour Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
 
 **Article 36**:  
 > The State shall practice a working hour system wherein labourers shall work for no more than eight hours a day and no more than 44 hours a week on the average.  
@@ -33,6 +34,23 @@ Quoted from [Labour Law of the People's Republic of China](http://english.gov.cn
 >
 > ……
 
+### [Labor Contract Law of the People’s Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
+
+**Article 31**
+> The employing unit shall strictly implement the norm set for labor quota and shall not compel the workers to work overtime or do so in disguised form. If an employing unit arranges for a worker to work overtime, it shall give him overtime pay in accordance with the relevant regulations of the State.
+
+**Article 62**
+> The receiving unit shall perform the following obligations:  
+> ......  
+> &nbsp;&nbsp;&nbsp;&nbsp;3. to give overtime pay and performance bonuses and provide welfare benefits related to specific posts;  
+> ......  
+
+**Article 85**
+> Where an employing unit commits one of the following acts, the administrative department of labor shall order it to pay the labor remuneration, give overtime pay or make other financial compensation within a time limit; if the labor remuneration is lower than the local minimum wage rate, it shall pay the difference. If it fails to make such payment at the expiration of the time limit, it shall be ordered to pay an additional compensation to the worker at a rate of not less than 50 percent but not more than 100 percent of the amount payable:  
+>  1. failing to pay a worker his labor remuneration on time and in full as stipulated in the labor contract or as prescribed by the State;  
+>  2. paying labor remuneration at a rate below the local minimum wage rate;  
+>  3. arranging overtime work but giving no overtime pay;  
+>......  
 
 ## Gaining more popularity and publicity
 
