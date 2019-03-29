@@ -12,7 +12,7 @@ What is 996?
 ---
 A "996" work schedule refers to an unofficial work schedule (9a.m. ~ 9p.m., 6 days a week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
 
-What can I do ?
+What can I do?
 ---
 You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.
 您可以更新这个[企业黑名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
@@ -39,13 +39,7 @@ So I **personally** decided to switch it off, not by GitHub or others.
 
 License
 ---
-[996ICU License](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/LICENSE.996icu.zh-hans)
-[WIP]
-
-If you want to update this LICENSE, Please edit [this file](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/genlicense/licenses/996.icu.template.zh-cn.txt) also.
-
+[996ICU Licenses](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/)[WIP]  
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
 
-- Tools to generate LICENSE File
- 
-  See [tools/gen-license/](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/)
+If you want to update licenses, please edit [this template](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/genlicense/licenses/996.icu.template.zh-cn.txt) which used by [this tool](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/) to help with generate LICENSE files.
