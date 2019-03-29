@@ -93,6 +93,6 @@
 
 按照劳动法规定，996 工作制下只有拿到当前工资的 **2.275** 倍，才在经济账上不吃亏。
 
-什么是 996.ICU？工作 996，生病 ICU。
+什么是 996.ICU？工作 996，生病 ICU（Intensive Care Unit，重症监护室）。
 
 Developers' lives matter.
