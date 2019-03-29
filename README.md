@@ -34,13 +34,13 @@ Community powers
 
 Where are the issues?
 ---
-Even if with the interaction limits on, the issue area was totally out of control.
+Even if with the interaction limits on, the issue area was totally out of control.  
 So I **personally** decided to switch it off, not by GitHub or others.
 
 License
 ---
-[996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE/)
-It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**
+[996ICU License](LICENSE)  
+It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
 It's source are from @Artoria2e5,
-See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
+See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
 This license should be used with other licenses as a practice of multi-licensing.
