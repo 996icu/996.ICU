@@ -6,7 +6,7 @@ The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying 
 <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE.996icu.zh-hans"><img src="https://img.shields.io/badge/license-996ICU-green.svg"></a>
 
 * [简体中文](zh_CN.md)
-* [正體中文](zh_TW.md)
+* [繁體中文](zh_TW.md)
 * [Русский](ru_RU.md)
 * [Français](fr_FR.md)
 * [English](en_US.md)
