@@ -16,7 +16,7 @@ Quoted from [Labour Law of the People's Republic of China](http://english.gov.cn
 > Where an enterprise can not follow the stipulations in Article 36 and Article 38 of this Law due to the special nature of its production, it may, with the approval of the administrative department of labour, adopt other rules on working hours and rest.  
 
 **Article 41**:  
-> The employing unit may extend working hours as necessitated by its production or business operation after consultation with the trade union and labourers, but the extended working hour per day shall generally not exceed one hour; if such extension is needed for special reasons, under the condition that the health of labourers is guaranteed, the extended hours shall not exceed three hours per day. However, the total extension in a month shall not exceed thirty six hours.  
+> The employing unit may extend working hours as necessitated by its production or business operation after consultation with the trade union and labourers, but the extended working hour per day shall generally not exceed one hour; if such extension is needed for special reasons, under the condition that the health of labourers is guaranteed, the extended hours shall not exceed three hours per day. However, the total extension in a month shall not exceed thirty-six hours.  
 
 **Article 43**:  
 > The employing unit shall not extend working hours of labourers in violation of the provisions of this Law.
@@ -38,7 +38,7 @@ Quoted from [Labour Law of the People's Republic of China](http://english.gov.cn
 
 In early September 2016, it was said that __*58.com*__ (`58同城`, a classified advertisements company) introduced the "996" work schedule, without paying employees overtime who worked on weekends. The company later claimed that the schedule was only praticed to manage extral workflow during peak season - September and October, and that the schedule was not compulsory.  
 
-In early 2019, __*Youzan*__ (`有赞`, a Hangzhou-based E-commerce company) announced the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded: "This will definitley be a right decision when we look back in a few years."  
+In early 2019, __*Youzan*__ (`有赞`, a Hangzhou-based E-commerce company) announced the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded: "This will definitely be a right decision when we look back in a few years."  
 
 In mid-March 2019, it was reported that __*JD.com*__ (`京东`, a major E-commerce company) started adopting "996" or "995" work schedules in some departments. The PR posted that (Our culture is) to devote ourselves wholeheartedly (to achieve the business objectives) via Maimai (`脉脉`, a Chinese real-name business social network platform).
 
