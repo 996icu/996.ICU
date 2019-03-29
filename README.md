@@ -29,20 +29,20 @@ Suggestions and PRs are welcome!
 
 Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 
-An [anonymous vote page](exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
+An [anonymous vote page](exposure.md) shows a rank list of companies with 996 work schedule (or worse). Thanks to @LinXueyuanStdio
 
 Contribution
 ---
-Feel free to adjust the format, add some contents or fix grammatical errors. Please note that add too many translations is getting off the track.
+Feel free to adjust the format, add contents or fix grammatical errors. Please note that translations are getting a little out of control.
 
 Community powers
 ---
 
- - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join  955.
+ - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It helps people to break up with 996 and get back to 955.
 
- - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful infomations about cases between employees and enterprise.
+ - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful infomation about law suits between employees and employers.
  
- - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that designed to let more people know and join the activities of the 996.ICU.
+ - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo designed to let more people know and join the activities of the 996.ICU community.
 
 License
 ---
