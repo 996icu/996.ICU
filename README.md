@@ -24,4 +24,7 @@ If you would like to contribute, you can add translations or just write somethin
 
 License
 ---
-[pull/15642](https://github.com/996icu/996.ICU/pull/15642)
+[996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE.996icu.zh-hans)
+[WIP]
+
+Details see [#15642](https://github.com/996icu/996.ICU/pull/15642)
