@@ -46,7 +46,7 @@ Serving a company that encourages the "996" work schedule usually means working 
 > ......  
 
 **Article 85**
-> Where an employing unit commits one of the following acts, the administrative department of labor shall order it to pay the labor remuneration, give overtime pay or make other financial compensation within a time limit; if the labor remuneration is lower than the local minimum wage rate, it shall pay the difference. If it fails to make such payment at the expiration of the time limit, it shall be ordered to pay an additional compensation to the worker at a rate of not less than 50 percent but not more than 100 percent of the amount payable:  
+> Where an employing unit commits one of the following acts, the administrative department of labor shall order it to pay the labor remuneration, give overtime pay or make other financial compensation within a time limit; if the labor remuneration is lower than the local minimum wage rate, it shall pay the difference. If it fails to make such payment at the expiration of the time limit, it shall be ordered to pay additional compensation to the worker at a rate of not less than 50 percent but not more than 100 percent of the amount payable:  
 >  1. failing to pay a worker his labor remuneration on time and in full as stipulated in the labor contract or as prescribed by the State;  
 >  2. paying labor remuneration at a rate below the local minimum wage rate;  
 >  3. arranging overtime work but giving no overtime pay;  
