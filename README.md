@@ -22,6 +22,7 @@ The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying 
 * [Gaeilge na hÉireann](ga.md)
 * [Esperanto](epo.md)
 * [Irish](ga.md)
+* [فارسی](fa_IR.md)
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect to honorable developers.
 
