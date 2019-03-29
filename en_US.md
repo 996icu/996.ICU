@@ -5,7 +5,7 @@
 996 working, ICU waiting.
 
 A "996" work schedule refers to an unofficial work schedule (9 am - 9 pm, 6 days a week) that has been gaining more popularity. 
-Serving a company that encourages the "996" work schedule usually means work for at least 60 hours a week.
+Serving a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
 
 Quoted from [Labor Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
 
@@ -38,7 +38,7 @@ Quoted from [Labor Law of the People's Republic of China](http://english.gov.cn/
 
 In early 2019, a Chinese E-commerce company called _Youzan_ announced the adoption of "996" work schedule at the company's annual party. "This would definitely be a good decision when we look back few years later.", commented by the CEO of Youzan.
 
-In Mid-March 2019, it was reported that JD.com started adopting "996" or "995" work schedule in some of the business units. JD.com PR posted on their Maimai (`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with all our hearts (to achieve the business objectives)".
+In Mid-March 2019, it was reported that JD.com started adopting "996" or "995" work schedule in some of its business units. JD.com PR posted on their Maimai (`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with all our hearts (to achieve the business objectives)".
 
 Although it is gaining more publicity recently, this work schedule is a commonly known "secret" practiced in a lot of companies in China.
 ## Compensation and benefits
