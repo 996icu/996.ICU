@@ -16,7 +16,7 @@ Quoted from [Labour Law of the People's Republic of China](http://english.gov.cn
 > Where an enterprise can not follow the stipulations in Article 36 and Article 38 of this Law due to the special nature of its production, it may, with the approval of the administrative department of labour, adopt other rules on working hours and rest.  
 
 **Article 41**:  
-> The employing unit may extend working hours as necessitated by its production or business operation after consultation with the trade union and labourers, but the extended working hour per day shall generally not exceed one hour; if such extension is needed for special reasons, under the condition that the health of labourers is guaranteed, the extended hours shall not exceed three hours per day. However, the total extension in a month shall not exceed thirty six hours.  
+> The employing unit may extend working hours as necessitated by its production or business operation after consultation with the trade union and labourers, but the extended working hour per day shall generally not exceed one hour; if such extension is needed for special reasons, under the condition that the health of labourers is guaranteed, the extended hours shall not exceed three hours per day. However, the total extension in a month shall not exceed thirty-six hours.  
 
 **Article 43**:  
 > The employing unit shall not extend working hours of labourers in violation of the provisions of this Law.
