@@ -19,7 +19,7 @@ You can update this [blacklist](blacklist/blacklist.md) with evidence to help ev
 
 Expand influence
 ---
-[Translations of 996.ICU's contents](i18n/i18n.md), feel free to adjust the format, add some contents or fix grammatical errors. Please note that add too many translations is getting off the track.
+[Translations of 996.ICU's contents](i18n/i18n.md), feel free to adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
 Community powers
 ---
