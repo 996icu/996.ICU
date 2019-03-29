@@ -31,7 +31,7 @@ Community powers
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that designed to let more people know and join the activity of the 996.ICU.
 
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
- 
+
 Where are the issues?
 ---
 Even if with the interaction limits on, the issue area was totally lost of control.  
@@ -39,7 +39,8 @@ So I **personally** decided to switch it off, not by GitHub or others.
 
 License
 ---
-[996ICU Licenses](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/)[WIP]  
-See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
-
-If you want to update licenses, please edit [this template](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/genlicense/licenses/996.icu.template.zh-cn.txt) which used by [this tool](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/) to help with generate LICENSE files.
+[996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE/)  
+It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
+It's source are from @Artoria2e5,
+See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
+This license should be used with other licenses as a practice of multi-licensing.
