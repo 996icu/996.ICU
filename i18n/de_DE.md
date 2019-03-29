@@ -2,7 +2,7 @@
 ===
 
 ## Was ist "996"?
-Der Name "996-Arbeitsmuster" bezieht sich auf einen inoffiziellen Arbeitsrythmus, und zwar von 9 bis 21 Uhr täglich an sechs Tagen der Woche. Heutzutage wird so ein Arbeitsrythmus in China immer gewöhnlicher. Dieser entspricht mindestens 60 Arbeitsstunden wöchentlich. Dies ist gesetzlich nicht erlaubt.
+Der Name "996-Arbeitsmuster" bezieht sich auf einen inoffiziellen Arbeitsrhythmus, und zwar von 9 bis 21 Uhr täglich an sechs Tagen die Woche. Heutzutage wird so ein Arbeitsrhythmus in China immer gewöhnlicher. Dieser entspricht mindestens 60 Arbeitsstunden pro Woche. Dies ist gesetzlich nicht erlaubt.
 
 
 ## Arbeitsrecht der Volksrepublik China
@@ -12,9 +12,9 @@ Artikel 41 des [Arbeitsrechts der Volksrepublik China](http://www.china.org.cn/l
 
 ## Immer häufigeres Auftreten & mehr Aufmerksamkeit
 
-Anfang 2019 hat das chinesische E-Commerce-Unternehmen Youzan die Übernahme des 996-Arbeitsmuster auf der Chinesisches-Neujahr-Party des Unternehmens angekündigt. Der CEO von Youzan sagte dazu: "Wenn wir in ein paar Jahren zurückblicken, werden wir uns alle einige sein, dass dies die richtige Entscheidung war."
+Anfang 2019 hat das chinesische E-Commerce-Unternehmen Youzan die Einführung des 996-Arbeitsmusters auf der Chinesisches-Neujahr-Party des Unternehmens angekündigt. Der CEO von Youzan sagte dazu: "Wenn wir in ein paar Jahren zurückblicken, werden wir uns alle einig sein, dass dies die richtige Entscheidung war."
 
-Mitte März 2019 wurde berichtet, dass Jingdong in einigen Unternehmensbereich das "996-" oder "995-Arbeitsmuster" einführte. Jingdong PR postete auf ihrem Maimai-Konto (`脉脉`, eine chinesischen Social-Network-Plattform für Unternehmen):"[Unsere Kultur ist es], mit vollem Herzen und Einsatz zu arbeiten [um die Geschäftsziele zu erreichen]".
+Mitte März 2019 wurde berichtet, dass Jingdong in einigen Unternehmensbereichen das "996-" oder "995-Arbeitsmuster" einführte. Jingdong PR postete auf ihrem Maimai-Konto (`脉脉`, eine chinesischen Social-Network-Plattform für Unternehmen):"[Unsere Kultur ist es], mit vollem Herzen und Einsatz zu arbeiten [um die Geschäftsziele zu erreichen]".
 
 ## Kompensation
 
