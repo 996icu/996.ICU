@@ -7,7 +7,7 @@ The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying 
 
 * [简体中文](zh_CN.md)
 * [正體中文](zh_TW.md)
-* [русский](ru_RU.md)
+* [Русский](ru_RU.md)
 * [Français](fr_FR.md)
 * [English](en_US.md)
 * [Deutsch](de_DE.md)
