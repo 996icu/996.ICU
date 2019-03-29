@@ -26,11 +26,18 @@ Suggestions and PRs are welcome!
 
 Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 
-An anonymous [vote page](exposure.md) shows a rank list of 996 (or more) companies (Thanks to @LinXueyuanStdio)
+An [anonymous vote page](exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
 Contribution
 --- 
 Feel free to adjust the format, add some contents or fix grammatical errors. Please note that add too many translations is getting off the track.
+
+Community powers
+---
+
+ - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join  955.
+
+ - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful infomations about cases between employees and enterprise.
 
 License
 ---
