@@ -20,8 +20,6 @@ The name `996.ICU` refers to **'Work in "996", sick in ICU'**, an ironic saying 
 * [Việt Nam](vi_VN.md)
 * [한국어](kr_KP.md)
 * [Gaeilge na hÉireann](ga.md)
-* [Esperanto](epo.md)
-* [Irish](ga.md)
 * [Latine](la_LA.md)
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect to honorable developers.
