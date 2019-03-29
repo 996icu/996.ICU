@@ -32,4 +32,13 @@ License
 [996ICU License](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/LICENSE.996icu.zh-hans)
 [WIP]
 
+We welcome and encourage all supporters to update their previous/future projects to 996ICU flavored licenses.
+
+我们欢迎支持者们将自己的曾经或者未来的项目License更新成 **with [996ICU](https://github.com/996icu/996.ICU/tree/master/licenses%5BWIP%5D)** 的格式。
+
+You can refer to this list of [supported projects](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/projects_supporting_996_LICENSE.md) for citation conventions and licensing variations.
+
+我们欢迎社区支持者们将已经支持`996ICU License`的项目添加到这个[列表](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D)中。
+
+
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
