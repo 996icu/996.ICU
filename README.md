@@ -32,6 +32,8 @@ License
 [996ICU License](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/LICENSE.996icu.zh-hans)
 [WIP]
 
+If you want to update this LICENSE, Please edit [this file](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/genlicense/licenses/996.icu.template.zh-cn.txt) also.
+
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
 
 Tools to generate LICENSE File
