@@ -12,8 +12,8 @@
 996(或其他剥削制度)公司黑名单
 ===
 
-|(城市)公司名称|时间|制度描述|证据内容|
-|:---|:---|:---|:---:|
-|58同城|2016年9月初|996|[58同城](http://www.58.com)|[58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml)|-|
-|有赞|2019年1月|996|[有赞](http://www.youzan.com)|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|-|
-|北京京东|2019年3月|995|[京东](http://www.jd.com)|[京东回应995工作制：不会强制要求 但要全情投入.](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)|-|
+|(城市)公司名称|时间|制度描述|公司官网|证据内容|网页缓存|
+|:---|:---|:---|:---:|:---|:---|
+|58同城|2016年9月初|996|[58同城](http://www.58.com)|[58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml)|[2019年3月29日](https://web.archive.org/web/20190329121231/http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml)|
+|有赞|2019年1月|996|[有赞](http://www.youzan.com)|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|[2019年3月29日](https://web.archive.org/web/20190329115832/http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|
+|北京京东|2019年3月|995|[京东](http://www.jd.com)|[京东回应995工作制：不会强制要求 但要全情投入.](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)|[2019年3月29日](https://web.archive.org/web/20190329115946/http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)|
