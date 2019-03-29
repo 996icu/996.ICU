@@ -40,6 +40,8 @@ Community powers
 
  - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful infomations about cases between employees and enterprise.
 
+ - [Programmers'union](https://programmersunite.org/) is a community whose purpose is to safeguard everyone's legitimate rights and interests.
+
 License
 ---
 [996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE.996icu.zh-hans)
