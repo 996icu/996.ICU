@@ -43,6 +43,8 @@ Community powers
  - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful infomations about cases between employees and enterprise.
  
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that designed to let more people know and join the activity of the 996.ICU.
+ 
+ - [965.SUPPORT](https://965.support) is a website that help to let more people know and join the activity of the 996.ICU.
 
 License
 ---
