@@ -20,3 +20,4 @@
 |[途家网](https://www.tujia.com)|2017年12月|897|[加班邮件](https://user-images.githubusercontent.com/1802494/55235097-9ff12180-5267-11e9-831f-48268db033d2.jpeg)|
 |[六安人论坛](http://www.luanren.com)|2019年03月|007|[微信群](http://vip.luanren.com/20190329.png)|
 |[用友](http://www.yonyou.com/)|2018年12月|997|[知乎大量曝光](https://www.zhihu.com/question/26683235)|
+|[阿里](https://www.alibabagroup.com/)|2018年6月|996|[天天快报](https://kuaibao.qq.com/s/20180612A1FAPU00)|
