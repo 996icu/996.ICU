@@ -1,4 +1,4 @@
-from argparse import ArgumentParser
+from argparse import ArgumentParser, _HelpAction
 from pkgutil import get_data
 from sys import exit
 
@@ -15,7 +15,8 @@ LICENSES = [
     "lgpl-3.0",
     "mit",
     "mpl-2.0",
-    "unlicenses"
+    "unlicenses",
+    "996icu-0.1",
 ]
 
 
@@ -36,15 +37,38 @@ def getparser():
     )
 
     parser.add_argument(
-        "--996icu", dest="icu", help="Expand LICENSE with 996ICU LICENSE", required=False,
-        action="store_true"
+        "--996icu", dest="icu", help="Expand LICENSE with 996ICU LICENSE, Choose a language vesion or default zh-cn",
+        required=False, nargs="?", const="zh-cn", default=None,
+        choices=["en-us", "zh-cn"]
     )
 
     return parser
 
 
+def select_template(language_code):
+    """choose a 996icu LICENSE template according to *language_code*
+    """
+    map_ = {
+        "zh": "zh-cn",
+        "zh-cn": "zh-cn",
+        "zh-hans": "zh-cn",
+        "en": "en-us",
+        "en-us": "en-us",
+    }
+
+    template = get_data(
+        __package__,
+        "licenses/996.icu.template.{}.txt".format(
+            map_.get(language_code, "zh-cn")
+        )
+    ).decode("utf-8")
+
+    return template
+
+
 def main():
-    args = getparser().parse_args()
+    parser = getparser()
+    args = parser.parse_args()
 
     if args.list:
         for license in LICENSES:
@@ -53,16 +77,18 @@ def main():
         exit(0)
     else:  # main
 
+        # if no args input, show help and exit
+        if args.code is None:
+            parser.print_help()
+            parser.exit()
+
         resource = get_data(
             __package__,
             "licenses/{code}.txt".format(code=args.code)
         ).decode("utf-8")
 
-        if args.icu:  # --996icu option enabled
-            template = get_data(
-                __package__,
-                "licenses/996.icu.template.zh-cn.txt"
-            ).decode("utf-8")
+        if args.icu is not None:  # --996icu option enabled
+            template = select_template(args.icu)
 
             output = template.format(
                 other=args.code,
@@ -70,7 +96,7 @@ def main():
             ).encode("utf-8")
 
         else:  # common license
-            output = resource
+            output = resource.encode("utf-8")
 
         with open("LICENSE", "wb") as file:
             file.write(output)

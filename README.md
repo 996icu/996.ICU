@@ -14,7 +14,7 @@ A "996" work schedule refers to an unofficial work schedule (9a.m. ~ 9p.m., 6 da
 
 What can I do?
 ---
-You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.  
+You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.
 您可以更新这个[企业黑名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 
 Expand influence
@@ -34,13 +34,13 @@ Community powers
 
 Where are the issues?
 ---
-Even if with the interaction limits on, the issue area was totally out of control.  
+Even if with the interaction limits on, the issue area was totally out of control.
 So I **personally** decided to switch it off, not by GitHub or others.
 
 License
 ---
-[996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE/)  
-It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
+[996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE/)
+It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**
 It's source are from @Artoria2e5,
-See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
+See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
 This license should be used with other licenses as a practice of multi-licensing.
