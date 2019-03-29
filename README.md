@@ -31,7 +31,7 @@ Community powers
 Where are the issues?
 ---
 Even if with the interaction limits on, the issue area was totally lost of control.  
-So I **personally** decided to switch it off.
+So I **personally** decided to switch it off, not by GitHub or others.
 
 License
 ---
