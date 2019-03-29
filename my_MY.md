@@ -51,36 +51,36 @@ Masa kerja adalah 8 jam sehari, dan waktu kerja mingguan purata tidak lebih dari
 ### [Undang-undang Kontrak Buruh Republik Rakyat China](http://www.npc.gov.cn/wxzl/gongbao/2013-04/15/content_1811058.htm)
 
 #### Bab III Perkara 31：
-> 用人单位应当严格执行劳动定额标准，不得强迫或者变相强迫劳动者加班。用人单位安排加班的，应当按照国家有关规定向劳动者支付加班费。  
+> Majikan mesti menguatkuasakan standard kuota buruh dan tidak boleh memaksa pekerja untuk bekerja lebih masa. Jika majikan meminta lebih banyak masa, mereka perlu membayar lebih banyak untuk tenaga kerja mengikut peraturan negeri.  
 
-#### 第五章第六十二条：
-> 用工单位应当履行下列义务：  
+#### Bab V Perkara 62：
+> Majikan harus memenuhi kewajipan berikut：  
 > ……  
-> （三）支付加班费、绩效奖金，提供与工作岗位相关的福利待遇；  
+> （三）Bayar terlalu banyak perbelanjaan kerja, bonus prestasi dan faedah yang berkaitan dengan pekerjaan；  
 > ……  
 
-#### 第七章第八十五条：
-> 用人单位有下列情形之一的，由劳动行政部门责令限期支付劳动报酬、加班费或者经济补偿；劳动报酬低于当地最低工资标准的，应当支付其差额部分；逾期不支付的，责令用人单位按应付金额百分之五十以上百分之一百以下的标准向劳动者加付赔偿金：  
->  （一）未按照劳动合同的约定或者国家规定及时足额支付劳动者劳动报酬的；  
->  （二）低于当地最低工资标准支付劳动者工资的；  
->  （三）安排加班不支付加班费的；  
+#### Bab VII Perkara 85：
+> Jika majikan mempunyai salah satu keadaan berikut, ia akan membayar yuran, bayaran lebih masa atau yuran pampasan ekonomi dalam had masa yang ditetapkan oleh jabatan pentadbiran buruh kerajaan. Jika upah lebih rendah daripada upah minimum tempatan, majikan mesti membayar perbezaan dan majikan tidak membayar tunggakan. Kerajaan mesti memerintahkan majikan membayar denda 50% hingga 100%：  
+>  （一）Kegagalan membayar pekerja sepenuhnya dan mengikut masa mengikut kontrak buruh atau peraturan negara；  
+>  （二）Bayar kurang daripada gaji minimum tempatan untuk membayar pekerja；  
+>  （三）Memerlukan pekerja bekerja lebih masa tanpa pampasan；  
 ……  
 
-### [《国务院关于职工工作时间的规定》](http://www.mohrss.gov.cn/SYrlzyhshbzb/zcfg/flfg/xzfg/201604/t20160412_237909.html)
+### [《Peraturan Majlis Negeri pada jam kerja pekerja》](http://www.mohrss.gov.cn/SYrlzyhshbzb/zcfg/flfg/xzfg/201604/t20160412_237909.html)
 
-#### 第三条：
-> 职工每日工作８小时、每周工作４０小时。
+#### Perkara 3：
+> Pekerja bekerja 8 jam sehari dan bekerja 40 jam seminggu.
 
-#### 第六条：
-> 任何单位和个人不得擅自延长职工工作时间。因特殊情况和紧急任务确需延长工作时间的，按照国家有关规定执行。
+#### Perkara 6：
+> Tiada unit atau individu boleh melanjutkan waktu bekerja tanpa izin. Sekiranya perlu untuk melanjutkan waktu kerja disebabkan oleh keadaan khas dan tugas yang mendesak, ia akan dilaksanakan mengikut peraturan negeri yang berkaitan.
 
-#### 第七条：
-> 国家机关、事业单位实行统一的工作时间，星期六和星期日为周休息日。  
-> 企业和不能实行前款规定的统一工作时间的事业单位，可以根据实际情况灵活安排周休息日。
+#### Perkara 7：
+> Pertubuhan dan agensi nasional mempunyai masa kerja seragam, dan hari Sabtu dan Ahad adalah rehat mingguan.。  
+> Syarikat-syarikat dan institusi-institusi yang tidak dapat memenuhi waktu kerja bersatu seperti yang dinyatakan dalam perenggan terdahulu boleh secara fleksibel mengatur hari rehat mingguan mengikut keadaan sebenar.
 
 
-按照劳动法规定，996 工作制下只有拿到当前工资的 **2.275** 倍，才在经济账上不吃亏。
+Menurut "Undang-undang Buruh"，Menurut 996 sistem kerja, adalah munasabah untuk memperoleh 2.275 kali gaji semasa.
 
-什么是 996.ICU？工作 996，生病 ICU。
+Apa itu 996.ICU? Kerja 996, jika saya sakit, saya hanya boleh pergi ke ICU.
 
 Developers' lives matter.
