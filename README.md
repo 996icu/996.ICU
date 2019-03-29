@@ -3,7 +3,7 @@
 The name `996.ICU` refers to **'Work by "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit).
 
 <a href="https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ"><img src="https://img.shields.io/badge/slack-996ICU-%23de335e.svg"></a>
-<a href="https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/LICENSE.996icu.zh-hans"><img src="https://img.shields.io/badge/license-996ICU-green.svg"></a>
+<a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg"></a>
 <a href="http://hits.dwyl.io/996icu/996.ICU"><img src="http://hits.dwyl.io/996icu/996.ICU.svg"></a>
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect to honorable developers.
@@ -39,7 +39,8 @@ So I **personally** decided to switch it off, not by GitHub or others.
 
 License
 ---
-[996ICU Licenses](/licenses%5BWIP%5D/)[WIP]
+[996ICU License](https://github.com/996icu/996.ICU/blob/master/LICENSE/)
+It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**
+It's source are from @Artoria2e5,
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
-
-If you want to update licenses, please edit [this template](/archived/licenses%5BWIP%5D/tools/gen-license/genlicense/licenses/996.icu.template.zh-cn.txt) which used by [this tool](/archived/licenses%5BWIP%5D/tools/gen-license/) to help with generate LICENSE files.
+This license should be used with other licenses as a practice of multi-licensing.
