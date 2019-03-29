@@ -31,6 +31,13 @@ Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 
 An [anonymous vote page](exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
+Share
+---
++ [Share on Twitter](http://twitter.com/home?status=https://github.com/996icu/996.ICU%0AWork%20in%20%22996%22%2C%20sick%20in%20ICU)
++ [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p[url]=https://github.com/996icu/996.ICU&p[images][0]=&p[title]=996.ICU&p[summary]=)
++ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/996icu/996.ICU&title=996.ICU&summary=&source=)
++ [Share on Telegram](https://t.me/share/url?url=https://github.com/996icu/996.ICU)
+
 Contribution
 ---
 Feel free to adjust the format, add some contents or fix grammatical errors. Please note that add too many translations is getting off the track.
