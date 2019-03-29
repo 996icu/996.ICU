@@ -27,8 +27,6 @@ Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect
 
 Suggestions and PRs are welcome!
 
-Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
-
 An [anonymous vote page](exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
 Contribution
