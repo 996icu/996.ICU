@@ -41,4 +41,4 @@ License
 [996ICU Licenses](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/)[WIP]  
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
 
-If you want to update licenses, please edit [this template](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/genlicense/licenses/996.icu.template.zh-cn.txt) using [this tool](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/) to generate LICENSE files.
+If you want to update licenses, please edit [this template](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/genlicense/licenses/996.icu.template.zh-cn.txt) after using [this tool](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/) to generate LICENSE files.
