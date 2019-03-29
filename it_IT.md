@@ -19,6 +19,7 @@ Jingdong PR ha postato sul proprio account maimai (`脉脉`, un social network c
 
 ## Compensi e benefici
 
+
 Secondo la legge sul lavoro, gli impiegati che seguono l'orario "996" devono essere pagati 2,275 volte il proprio salario base. Sfortunatamente, le persone che lavorano "996" raramente ricevono tale compenso.
 
 ## Da dove viene il nome del repo "996.ICU"?
