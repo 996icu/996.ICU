@@ -36,13 +36,12 @@ qaStaHvIS Mid ma'rIch 2019, vaj 996 pagh 995 vum qaStaHvIS 'op malja' units adop
 
 naH jajmeymaj puS publicity Soq 'oH qen, Qap common Sov pegh Dapabchugh qaStaHvIS jungwoq wey nIvbogh.
 
-## Compensation and benefits
+## compensation 'ej chepmoH
 
-According to the Labor Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely get paid that much.
+yIDIl 2.275 poH waw' salary qotlh rom 'e' chut employees 'ej QuQ 'Iv 996 vum tlha'. Do'Ha' mamej Suq yIDIl yIn nuvpu' 'Iv 996 'ach ghaytan Qap rarely.
 
-## Where does the name of the repo `996.ICU` come from?
+## nuqDaq chol `996.ICU` pong vo'
 
-If you consistently follow the "996" work schedule, you run the risk of getting yourself into **I**ntensive **C**are **U**nit. 
+vaj 996 Qap consistently Dapab, **I**ntensive **C**are **U**nit bISuDqu' 'e' vaj je Suq qet. 
 
-Developers' lives matter.
-
+Hap developers yIn.
