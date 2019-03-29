@@ -33,6 +33,10 @@ Contribution
 ---
 Feel free to adjust the format, add some contents or fix grammatical errors. Please note that add too many translations is getting off the track.
 
+T-shirt
+---
+<img src="https://user-images.githubusercontent.com/48989823/55215158-c4330b00-5233-11e9-8363-6f7a8d3b269f.jpg">
+
 Community powers
 ---
 
