@@ -9,7 +9,7 @@ Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect
 
 What can I do ?
 ---
-You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.  
+You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.
 您可以更新这个[企业黑名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 
 Expand influence
@@ -33,3 +33,8 @@ License
 [WIP]
 
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
+
+Tools to generate LICENSE File
+---
+
+See [tools/gen-license/](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/)
