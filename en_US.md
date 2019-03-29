@@ -4,10 +4,10 @@
 ## What is "996"?
 996 working, ICU waiting.
 
-A "996" work schedule refers to an unofficial work schedule (9 am - 9 pm, 6 days a week) that has been gaining more popularity. 
-Serving a company that encourages the "996" work schedule usually means work for at least 60 hours a week.
+"996" is an illegal work schedule (9 am - 9 pm, 6 days a week) that has become common. 
+Employees usually work for more than 60 hours a week in companies which adopt the "996" work schedule .
 
-Quoted from [Labor Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
+Quoted from [Labour Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm):
 
 **Article 36**:  
 > The State shall practice a working hour system wherein labourers shall work for no more than eight hours a day and no more than 44 hours a week on the average.  
@@ -36,18 +36,20 @@ Quoted from [Labor Law of the People's Republic of China](http://english.gov.cn/
 
 ## Gaining more popularity and publicity
 
-In early 2019, a Chinese E-commerce company called _Youzan_ announced the adoption of "996" work schedule at the company's annual party. "This would definitely be a good decision when we look back few years later.", commented by the CEO of Youzan.
+In early September 2016, it was said that __*58.com*__ (`58同城`, a classified advertisements company) introduced the "996" work schedule, without paying employees overtime who worked on weekends. The company later claimed that the schedule was only praticed to manage extral workflow during peak season - September and October, and that the schedule was not compulsory.  
 
-In Mid-March 2019, it was reported that JD.com started adopting "996" or "995" work schedule in some of the business units. JD.com PR posted on their Maimai (`脉脉`, a Chinese real-name business social network platform) account: "(Our culture is) to devote ourselves with all our hearts (to achieve the business objectives)".
+In early 2019, __*Youzan*__ (`有赞`, a Hangzhou-based E-commerce company) announced the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded: "This will definitley be a right decision when we look back in a few years."  
 
-Although it is gaining more publicity recently, this work schedule is a commonly known "secret" practiced in a lot of companies in China.
+In mid-March 2019, it was reported that __*JD.com*__ (`京东`, a major E-commerce company) started adopting "996" or "995" work schedules in some departments. The PR posted that (Our culture is) to devote ourselves wholeheartedly (to achieve the business objectives) via Maimai (`脉脉`, a Chinese real-name business social network platform).
+
+Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practiced in a lot of companies in China.
 ## Compensation and benefits
 
-According to the Labor Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely get paid for the overtime hours.
+According to the Labour Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely receive overtime pay.
 
 ## Where does the name of the repo `996.ICU` come from?
 
-If you consistently follow the "996" work schedule, you run the risk of getting yourself into **I**ntensive **C**are **U**nit. 
+If you continue to tolerate the "996" work schedule, you will risk your own health and might need to stay in an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
 
-Developers' lives matter.
+__Developers' lives matter.__
 
