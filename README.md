@@ -14,7 +14,7 @@ A "996" work schedule refers to an unofficial work schedule (9a.m. ~ 9p.m., 6 da
 
 What can I do ?
 ---
-You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.  
+You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.
 您可以更新这个[企业黑名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 
 Expand influence
@@ -42,4 +42,11 @@ License
 [996ICU License](https://github.com/996icu/996.ICU/blob/master/licenses%5BWIP%5D/LICENSE.996icu.zh-hans)
 [WIP]
 
+If you want to update this LICENSE, Please edit [this file](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/genlicense/licenses/996.icu.template.zh-cn.txt) also.
+
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
+
+Tools to generate LICENSE File
+---
+
+See [tools/gen-license/](https://github.com/996icu/996.ICU/blob/master/tools/gen-license/)
