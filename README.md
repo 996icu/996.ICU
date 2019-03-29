@@ -13,6 +13,8 @@ Suggestions and PRs are welcome!
 
 Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 
+If you just looking for a job, before you make your decision you can compare 996.ICU with [995.WLB](https://github.com/formulahendry/955.WLB).
+
 An anonymous [vote page](exposure.md) show a rank list of 996(or more) companies (Thanks @LinXueyuanStdio)
 
 Contribution
