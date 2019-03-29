@@ -26,14 +26,9 @@ Join discussion at [#20](https://github.com/996icu/996.ICU/issues/20).
 An anonymous [vote page](exposure.md) show a rank list of 996(or more) companies (Thanks @LinXueyuanStdio)
 
 Contribution
----
-Any merged modification to all files will be rendered as github flavored markdown and published on the site regularly.   
-Feel free to adjust the format, add some contents or fix grammatical errors.
+--- 
+Feel free to adjust the format, add some contents or fix grammatical errors. Please note that add too many translations is getting off the track.
 
-Expand influence
----
-I18n support is ongoing.  
-If you would like to contribute, you can add translations or just write something down in other languages in separate files.   
 
 License
 ---
