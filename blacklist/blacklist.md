@@ -18,3 +18,4 @@
 |有赞|2019年1月|996|[有赞](http://www.youzan.com)|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|-|
 |北京京东|2019年3月|995|[京东](http://www.jd.com)|[京东回应995工作制：不会强制要求 但要全情投入.](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)|-|
 |[途家网](https://www.tujia.com)|2017年12月|897|[加班邮件](https://user-images.githubusercontent.com/1802494/55235097-9ff12180-5267-11e9-831f-48268db033d2.jpeg)|
+|[六安人论坛](http://www.luanren.com)|2019年03月|007|[微信群](http://vip.luanren.com/20190329.png)|
