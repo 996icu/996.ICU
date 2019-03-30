@@ -30,6 +30,8 @@ Community powers
 
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that is designed to let more people know and join the activity of the 996.ICU.
 
+ - [996db.ICU](https://github.com/996db/996db.ICU) is a repo that collects a blacklist databases of great 996 overtime culture databases of chinese companies and join the activity of the 996.ICU.
+
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
 Where are the issues?
