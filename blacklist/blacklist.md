@@ -26,3 +26,4 @@
 |[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[v2ex](https://www.v2ex.com/t/525495)|-|
 |[华为](https://www.huawei.com/cn/)|2019年3月|9106|[奋斗者协议](https://baike.baidu.com/item/%E5%A5%8B%E6%96%97%E8%80%85%E5%8D%8F%E8%AE%AE)|-|
 |[广州鲸鱼游戏]()|2017年3月|996|[考勤](https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg)|-|
+|[海康威视]()|2019年3月|995.5|[考勤]|[研发部门大小周]
