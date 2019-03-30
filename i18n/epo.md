@@ -36,11 +36,11 @@ Citita de [Laborleĝo de la Popola Respubliko Ĉinio](http://english.gov.cn/arch
 
 ## Akiranta pli da populareco kaj diskonigo
 
-Komence de septembro 2016, oni diris ke __ * 58.com * __ (`58 同城`, kompaniano de reklamaj reklamoj) enkondukis la labork horaron "996", sen pagi al kromlaborantoj kromlaborajn, kiuj laboris dum semajnfinoj. La kompanio poste asertis, ke la horaro nur celis administri ekstran laborfluon dum alta sezono - septembro kaj oktobro, kaj ke la horaro ne estis deviga.
+Komence de septembro 2016, oni diris ke __58.com__ (`58 同城`, kompaniano de reklamaj reklamoj) enkondukis la labork horaron "996", sen pagi al kromlaborantoj kromlaborajn, kiuj laboris dum semajnfinoj. La kompanio poste asertis, ke la horaro nur celis administri ekstran laborfluon dum alta sezono - septembro kaj oktobro, kaj ke la horaro ne estis deviga.
 
-En la komenco de 2019, _Yzanzan_ (`有,`, kompanio de elektronika komerco bazita en Hangzhou) anoncis, ke la kompanio adoptos laboran horaron en la ĉiujara kongreso. Bai Ya, la ĉefoficisto de Youzan, respondis: "Ĉi tio certe estos decido, kiam ni retrorigardos post kelkaj jaroj."
+En la komenco de 2019, __Youzan__ (`有赞`, kompanio de elektronika komerco bazita en Hangzhou) anoncis, ke la kompanio adoptos laboran horaron en la ĉiujara kongreso. Bai Ya, la ĉefoficisto de Youzan, respondis: "Ĉi tio certe estos decido, kiam ni retrorigardos post kelkaj jaroj."
 
-Meze de marto 2019, oni raportis, ke JD.com * __ (`京东`, grava E-komerca firmao) komencis adopti "996" aŭ laborajn horarojn en iuj fakoj. La PR publikigis tion (Nia kulturo) por sin dediĉi tutkore (por atingi la komercajn celojn) per Maimai (`脉脉`, ĉina platformkomerca reto de komercaj sociaj retoj).
+Meze de marto 2019, oni raportis, ke __JD.com__ (`京东`, grava E-komerca firmao) komencis adopti "996" aŭ laborajn horarojn en iuj fakoj. La PR publikigis tion (Nia kulturo) por sin dediĉi tutkore (por atingi la komercajn celojn) per Maimai (`脉脉`, ĉina platformkomerca reto de komercaj sociaj retoj).
 
 Akirante pli da reklamado nur lastatempe, ĉi tiu labora horaro, tamen, jam delonge estas konata "sekreto" praktikita en multaj kompanioj en Ĉinio.
 ## Kompenso kaj avantaĝoj
