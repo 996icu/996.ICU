@@ -28,14 +28,10 @@ Community powers
 ---
 
  - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join 955.
-
  - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprise.
-
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that is designed to let more people know and join the activity of the 996.ICU.
-
+ - [996.LIST](https://github.com/fengT-T/996_list) is a repo that contains a rank list of 996 companies and 955 companies.
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
-
- - [996.LIST](https://github.com/fengT-T/996_list) A rank list of 996 companies and 955 companies.
 
 Where are the issues?
 ---
