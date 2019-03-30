@@ -32,6 +32,8 @@ Community powers
 
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
+ - [996.LIST](https://github.com/fengT-T/996_list) A rank list of 996 companies and 955 companies.
+
 Where are the issues?
 ---
 Even if with the interaction limits on, the issue area was totally out of control.  
