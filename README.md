@@ -21,6 +21,8 @@ Expand influence
 ---
 [Translations of 996.ICU's contents](i18n/i18n.md), feel free to adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
+[Add a badge](externals/instruction.md) to your project to support 996.ICU.
+
 Community powers
 ---
 
@@ -41,6 +43,6 @@ License
 ---
 [996ICU License](LICENSE)  
 It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
-It's source are from @Artoria2e5,
+Its source are from @Artoria2e5,
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
 This license should be used with other licenses as a practice of multi-licensing.
