@@ -26,3 +26,4 @@
 |[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[v2ex](https://www.v2ex.com/t/525495)|-|
 |[华为](https://www.huawei.com/cn/)|2019年3月|9106|[奋斗者协议](https://baike.baidu.com/item/%E5%A5%8B%E6%96%97%E8%80%85%E5%8D%8F%E8%AE%AE)|-|
 |[广州鲸鱼游戏]()|2017年3月|996|[考勤](https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg)|-|
+|深圳市美维软件有限公司|2018年7月|加班异常严重，12点常有的事，每天下班需要在公司微信群报道出队并汇报工作内容|https://tieba.baidu.com/p/6084610292
