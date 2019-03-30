@@ -1,0 +1,53 @@
+Copyright © 2019 <copyright holders>
+The 996ICU License (996ICU)
+
+996ICU License 是一个关于 unlicenses 的扩展协议.
+此协议扩展了 unlicenses, unlicenses 将在本协议文本末尾声明.
+
+要求得到授权的个人履行以下义务:
+
+1. 将此授权文件包含在其任何副本以及软件的重要部分中.
+
+要求得到授权的组织履行以下义务:
+
+1. 将此授权文件包含在其任何副本以及软件的重要部分中.
+2. 不以任何形式或手段强迫其雇佣员工或临时劳动者进行超过当地法定最长劳动时间的劳动, 包括但不限于: 命令, 威胁, 暗示等.
+3. 不以任何形式报复不参与超过法定最长劳动时间的劳动的雇佣员工或临时劳动者, 包括但不限于: 辱骂等精神攻击, 殴打等人身伤害以及非法开除等.
+4. 组织其雇佣员工或临时劳动者进行超时劳动时，按不低于当地法规标准支付经济补偿.
+5. 此组织不在协议规定的黑名单中.
+
+如果获得授权的个人或组织未能履行以上义务任意一条, 则授权将被收回.
+
+此协议未定义的行为, 按 unlicenses 协议处理. unlicenses 与本协议冲突的部分, 按本协议处理.
+
+https://github.com/996icu/996.ICU/pull/15642
+996 from https://feathub.com/LinXueyuanStdio/996.ICU
+黑名单: https://github.com/996icu/996.ICU/blob/master/blacklist/blacklist.md
+
+unlicenses
+
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <http://unlicense.org>
+
