@@ -24,4 +24,4 @@
 |[字节跳动](https://bytedance.com)|2017年7月|加班|[看准](https://www.kanzhun.com/gsr5622411tl56.html)|
 |[苏宁](http://www.suning.com)|2019年3月|996|[知乎](https://www.zhihu.com/question/314152843/answer/613149536)|
 |[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[v2ex](https://www.v2ex.com/t/525495)|
-
+|[盛赫游戏](http://www.shengheyouxi.com)2019年3月|大小周（即这周上六天班，下周上五天）|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
