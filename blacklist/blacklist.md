@@ -29,4 +29,4 @@
 |[华为](https://www.huawei.com/cn/)|2016年8月|9106|[华为：“自愿”的奋斗者协议](http://focus.news.163.com/10/0921/15/6H460OOP00011SM9.html)|-|
 |[广州鲸鱼游戏]()|2017年3月|996|[考勤](https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg)|-|
 |[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
-
+|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
