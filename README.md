@@ -2,9 +2,11 @@
 =======
 The name `996.ICU` refers to **'Work by "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit).
 
-<a href="https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ"><img src="https://img.shields.io/badge/slack-996ICU-%23de335e.svg"></a>
-<a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg"></a>
-<a href="http://hits.dwyl.io/996icu/996.ICU"><img src="http://hits.dwyl.io/996icu/996.ICU.svg"></a>
+[![Slack](https://img.shields.io/badge/slack-996ICU-%23de335e.svg)](https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ)
+[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+[![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://github.com/996icu/996.ICU/blob/master/externals/instruction.md)
+[![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
+
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect to honorable developers.
 
@@ -14,8 +16,11 @@ A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 
 
 What can I do?
 ---
-You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.  
-您可以更新这个[企业黑名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
+
+- Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
+更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
+- Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
+把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
 
 Expand influence
 ---
@@ -34,15 +39,19 @@ Community powers
 
  - [anti996](https://github.com/x007007007/anti996) is a repo that trying to find ways to work with companies to eliminate inefficient rules
 
+ - [996.LIST](https://github.com/fengT-T/996_list) A rank list of 996 companies and 955 companies.
+
+
 Where are the issues?
 ---
 Even if with the interaction limits on, the issue area was totally out of control.  
 So I **personally** decided to switch it off, not by GitHub or others.
 
-License
+The 996ICU License
 ---
 [996ICU License](LICENSE)  
-It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
-It's source are from @Artoria2e5,
-See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
-This license should be used with other licenses as a practice of multi-licensing.
+
+ - The purpose of this license is to prevent 996-style companies from using the software or codes under the license, and force those companies to balance their work schedule.
+ - It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
+ - Its source are from @Artoria2e5, see [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
+ - This license should be used with other licenses as a practice of multi-licensing.
