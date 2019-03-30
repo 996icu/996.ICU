@@ -13,6 +13,8 @@ What is 996?
 ---
 A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
 
+Without loss of generality, we also consider a similar work schedule "10 a.m. ~ 10 p.m., 6 days per week" as "996" in this repository, while it should be called "10106" to be exact.
+
 What can I do?
 ---
 You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.  
