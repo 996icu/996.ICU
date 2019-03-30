@@ -15,8 +15,8 @@ A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 
 
 What can I do?
 ---
-You can update this [blacklist](blacklist/blacklist.md) with evidence to help every worker.  
-您可以更新这个[企业黑名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
+You can update this [list](blacklist/blacklist.md) with evidence to help every worker.  
+您可以更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 
 Expand influence
 ---
