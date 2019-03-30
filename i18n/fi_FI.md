@@ -19,7 +19,7 @@
 >
 > Valtio laajentaa työväestön lepo- ja virkistysmahdollisuuksia ja määrää työntekijöille ja henkilökunnalle työajat ja lomat.
 
-### (Kiinan kansantasavallan työoikeus) (http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
+### [Kiinan kansantasavallan työoikeus](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
 
 #### I luku: 3 artikla:
 > Työntekijöillä on yhtäläiset oikeudet työhön ja ammatinvalintaan, ** oikeus palkkaukseen työvoimasta **, ** lepoon ja lomaan **, työturvallisuuden ja ammatillisten taitojen koulutukseen, sosiaalivakuutukseen Ja hyvinvointi, työoikeudellisten riitojen esittäminen ratkaisusta ja muut työhön liittyvät oikeudet.
@@ -57,7 +57,7 @@ Työllinen yksikkö voi pidentää työtuntejaan, mikäli sen tuotanto tai liike
 >
 > ......
 
-### [Kiinan kansantasavallan työsopimusoikeus] (http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
+### [Kiinan kansantasavallan työsopimusoikeus](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
 
 #### III luku: 31 artikla:
 Työvoimayksikön on noudatettava tiukasti työvoimakiintiötä koskevaa normia eikä se saa pakottaa työntekijöitä tekemään ylitöitä tai tekemään niitä peiteltynä, jos työllistävä yksikkö järjestää työntekijän ylitöitä, sen on annettava hänelle ylityökorvaus. Valtion asiaa koskevat määräykset.
