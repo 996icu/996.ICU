@@ -4,7 +4,7 @@
 ## What is "996"?
 996 working, ICU waiting.
 
-A "996" work schedule refers to an unofficial work schedule (9a.m. ~ 9p.m., 6 days a week) that has been gaining more popularity.
+A "996" work schedule refers to an unofficial work schedule (9a.m. ~ 9p.m., 6 days a week) that has been gaining in popularity.
 Serving a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
 
 ## Laws and Regulations
@@ -14,7 +14,7 @@ Serving a company that encourages the "996" work schedule usually means working 
 > The State shall practice a working hour system wherein labourers shall work for no more than eight hours a day and no more than 44 hours a week on the average.  
 
 **Article 39**:  
-> Where an enterprise can not follow the stipulations in Article 36 and Article 38 of this Law due to the special nature of its production, it may, with the approval of the administrative department of labour, adopt other rules on working hours and rest.  
+> Where an enterprise cannot follow the stipulations in Article 36 and Article 38 of this Law due to the special nature of its production, it may, with the approval of the administrative department of labour, adopt other rules on working hours and rest.  
 
 **Article 41**:  
 > The employing unit may extend working hours as necessitated by its production or business operation after consultation with the trade union and labourers, but the extended working hour per day shall generally not exceed one hour; if such extension is needed for special reasons, under the condition that the health of labourers is guaranteed, the extended hours shall not exceed three hours per day. However, the total extension in a month shall not exceed thirty-six hours.  
@@ -52,7 +52,7 @@ Serving a company that encourages the "996" work schedule usually means working 
 >  3. arranging overtime work but giving no overtime pay;  
 >......  
 
-## Gaining more popularity and publicity
+## Gaining in popularity and publicity
 
 In early September 2016, it was said that __*58.com*__ (`58同城`, a classified advertisements company) introduced the "996" work schedule, without paying employees overtime who worked on weekends. The company later claimed that the schedule was only practiced managing extra workflow during peak season - September and October, and that the schedule was not compulsory.
 
