@@ -4,7 +4,7 @@
 
 :star: 曝光添加996公司，请先搜索，以免重复
 
-:star: 曝光添加996公司，（非强制）建议加上部门、省区、工资范围，越详细越好
+:star: 曝光添加996公司，（非强制）建议加上部门、省区、工资范围，越详细越好，建议带上责任人，毕竟公司的制度是某些人负责推行的
 
 :star: 下面列表可能响应慢加载失败，可以点击<a href="https://feathub.com/LinXueyuanStdio/996.ICU?format=svg" target="_blank"> https://feathub.com/LinXueyuanStdio/996.ICU?format=svg </a>查看
 
