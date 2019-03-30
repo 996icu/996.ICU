@@ -20,7 +20,7 @@ What can I do?
 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
-
+好好好weiqilong
 Expand influence
 ---
 [Translations of 996.ICU's contents](i18n/i18n.md), feel free to adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
