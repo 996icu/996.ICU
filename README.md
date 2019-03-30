@@ -1,3 +1,10 @@
+# Mirror
+
+A mirror is created on https://github.com/freeofwork/996.icu.git  
+
+see https://github.com/freeofwork/996.icu.keys.git  
+
+
 996.ICU
 =======
 The name `996.ICU` refers to **'Work by "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit).
