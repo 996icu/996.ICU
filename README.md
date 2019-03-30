@@ -10,7 +10,7 @@ Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect
 
 What is 996?
 ---
-A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 days a week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
+A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
 
 What can I do?
 ---
@@ -24,7 +24,7 @@ Expand influence
 Community powers
 ---
 
- - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join  955.
+ - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join 955.
 
  - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful infomations about cases between employees and enterprise.
 
