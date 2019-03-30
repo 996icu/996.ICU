@@ -32,6 +32,8 @@ Community powers
 
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
+ - [anti996](https://github.com/x007007007/anti996) is a repo that trying to find ways to work with companies to eliminate inefficient rules
+
 Where are the issues?
 ---
 Even if with the interaction limits on, the issue area was totally out of control.  
