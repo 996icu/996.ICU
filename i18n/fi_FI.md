@@ -102,6 +102,6 @@ Mukaan työlain, työntekijät, jotka seuraavat "996" työvuoroluettelo ansaitse
 
 ## Alkuperä Tämän Repo nimi - `996.ICU`
 
-Jos jatkat sietää "996" työsuunnitelma, saatatte oman terveyden ja ehkä pysyä käytettäessä _ ** I ** ntensive ** C ** ovat ** U ** nit_ joskus. ( `6` rimmaa `U` Mandarin)
+Jos jatkat sietää "996" työsuunnitelma, saatatte oman terveyden ja ehkä pysyä käytettäessä _**I**ntensive **C**ovat **U**nit_ joskus. ( `6` rimmaa `U` Mandarin)
 
 __Developers elämään väliä .__
