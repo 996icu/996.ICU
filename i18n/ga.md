@@ -10,14 +10,14 @@ Is é an t-am oibre 8 n-uaire sa lá, agus is é an meánuaireanta oibre seachta
 
 ## Rialacháin ghaolmhara
 
-### [Bunreacht Phoblacht na Síne] (http://www.npc.gov.cn/npc/xinwen/2018-03/22/content_2052489.htm)
+### [Bunreacht Phoblacht na Síne](http://www.npc.gov.cn/npc/xinwen/2018-03/22/content_2052489.htm)
 
 #### Caibidil 2 Airteagal 43:
 
 > Tá sé de cheart ag sclábhaithe i nDaoine-Phoblacht na Síne a bheith páirteach.
 > Forbraíonn an Stát áiseanna le haghaidh scíthe agus aisghabhála oibrithe, agus ordaíonn sé na huaireanta oibre agus an córas laethanta saoire d'fhostaithe.
 
-### ["Dlí Saothair Phoblacht na Síne"] (http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
+### ["Dlí Saothair Phoblacht na Síne"](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
 
 #### Caibidil 1 Airteagal 3:
 > Tá cearta comhionanna ag oibrithe oibriú agus gairm a roghnú, ** an ceart chun luach saothair a fháil **, ** an ceart chun sosa agus saoire **, an ceart chun oibre sábháilteacht agus cosaint sláinte, an ceart oiliúint scileanna gairme, árachas sóisialta agus An ceart chun leasa, an ceart chun díospóidí saothair, agus cearta saothair eile a láimhseáil mar atá leagtha síos sa dlí.
@@ -49,7 +49,7 @@ Is é an t-am oibre 8 n-uaire sa lá, agus is é an meánuaireanta oibre seachta
 > (2) Diúltú d'oibrithe a íoc chun a gcuid uaireanta agus pá oibre a shíneadh
 > ......
 
-### ["Dlí Conartha Saothair Phoblacht na Síne"] (http://www.npc.gov.cn/wxzl/gongbao/2013-04/15/content_1811058.htm)
+### ["Dlí Conartha Saothair Phoblacht na Síne"](http://www.npc.gov.cn/wxzl/gongbao/2013-04/15/content_1811058.htm)
 
 #### Caibidil III Airteagal 31:
 > Ba chóir d'fhostóirí caighdeáin cuóta saothair a fhorfheidhmiú go dian agus níor chóir dóibh oibritheoirí a chur i bhfeidhm nó a cheilt chun ragobair a dhéanamh. Má eagraíonn an fostóir obair ragoibre, íocfaidh sé ragobair leis an oibrí de réir rialacháin ábhartha stáit.
@@ -67,7 +67,7 @@ Is é an t-am oibre 8 n-uaire sa lá, agus is é an meánuaireanta oibre seachta
 > (3) Obair ragoibre a eagrú gan pá ragoibre a íoc;
 ......
 
-### ["Rialacháin na Comhairle Stáit ar Uaireanta Oibre Foirne agus Oibrithe"] (http://www.mohrss.gov.cn/SYrlzyhshbzb/zcfg/flfg/xzfg/201604/t20160412_237909.html)
+### ["Rialacháin na Comhairle Stáit ar Uaireanta Oibre Foirne agus Oibrithe"](http://www.mohrss.gov.cn/SYrlzyhshbzb/zcfg/flfg/xzfg/201604/t20160412_237909.html)
 
 #### Tríú Airteagal:
 > Oibríonn fostaithe 8 n-uaire sa lá agus 40 uair sa tseachtain.
@@ -81,13 +81,13 @@ Is é an t-am oibre 8 n-uaire sa lá, agus is é an meánuaireanta oibre seachta
 
 Imeachtaí gaolmhara ##
 
-- Ó thús Mheán Fómhair 2016, bhris roinnt netizens an nuacht go bhfuil ** 58 sa chathair chéanna leis an gcóras oibre 996, agus níl aon phá le hobair ragoibre ar an deireadh seachtaine. D'fhreagair an chuideachta, chun dul i ngleic leis an mbuaicmhéid gnó, go ndéanfaidh an chuideachta gníomhaíocht rialta a sheoladh gach Meán Fómhair agus Deireadh Fómhair, agus nach bhfuil sé seo éigeantach “996 slógadh”. ([58 sa chathair chéanna, cuirtear i leith cur i bhfeidhm an chórais oibre foirne iomlán 996 go gcuirfidh sé iallach ar fhostaithe éirí as oifig go deonach] (http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml). Yangguang. 2016-09-01.
+- Ó thús Mheán Fómhair 2016, bhris roinnt netizens an nuacht go bhfuil ** 58 sa chathair chéanna leis an gcóras oibre 996, agus níl aon phá le hobair ragoibre ar an deireadh seachtaine. D'fhreagair an chuideachta, chun dul i ngleic leis an mbuaicmhéid gnó, go ndéanfaidh an chuideachta gníomhaíocht rialta a sheoladh gach Meán Fómhair agus Deireadh Fómhair, agus nach bhfuil sé seo éigeantach “996 slógadh”. ([58 sa chathair chéanna, cuirtear i leith cur i bhfeidhm an chórais oibre foirne iomlán 996 go gcuirfidh sé iallach ar fhostaithe éirí as oifig go deonach](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml). Yangguang. 2016-09-01.
 
 - ~ ~ 2018 I mí na Samhna, ** chuir Jumei Premium ** an córas oibre 996 i Roinn T&F Chengdu i bhfeidhm agus ghlaoigh sé air mar ghnáthuaireanta oibre, ag diúltú pá ragoibre a íoc agus dul ar scor. Dúirt an fostaí go n-áireofaí an ghnáth-shaoire mar 11 uair an chloig saoire. Ar an Satharn, ní mór duit ríomhphost a chur isteach agus é a chur faoi bhráid an bhainisteora ghinearálta lena athbhreithniú. I mí Eanáir 2019, cuireadh iallach ar fhostaithe nua miondíola ** Wangwang Group ** an t-am agus fad na seirbhíse a thabhairt suas, agus shínigh siad le Jumeiyou, nó ar shlí eile beidh siad díothaithe go neamhthrócaireach. ~~ ({{Source Request}}
 
-- I mí Eanáir 2019, bhí ** ** ag Cuideachta Ríomhthráchtála Hangzhou ag cruinniú bliantúil na cuideachta chun cur i bhfeidhm an chórais oibre 996 a fhógairt sa todhchaí. ([Rinneadh an "cruinniú féasta" den chruinniú bliantúil, thuairiscigh na fostaithe “force 996”] (http://www.linkshop.com.cn/web/archives/2019/418163.shtml). -01-22.)
+- I mí Eanáir 2019, bhí ** ** ag Cuideachta Ríomhthráchtála Hangzhou ag cruinniú bliantúil na cuideachta chun cur i bhfeidhm an chórais oibre 996 a fhógairt sa todhchaí. ([Rinneadh an "cruinniú féasta" den chruinniú bliantúil, thuairiscigh na fostaithe “force 996”](http://www.linkshop.com.cn/web/archives/2019/418163.shtml). -01-22.)
 
-- I mí an Mhárta 2019, thosaigh an Jingdong ** ag cur an córas oibre 996 nó 995 den fho-roinn i bhfeidhm, agus dúirt caidreamh poiblí Jingdong ar an ardán vein: "infheistíocht iomlán." (Freagraíonn [Jingdong don chóras oibre 995: ní bheidh sé éigeantach ach ba cheart é a infheistiú go hiomlán] (http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html). Teicneolaíocht Netease 2019-03-12.)
+- I mí an Mhárta 2019, thosaigh an Jingdong ** ag cur an córas oibre 996 nó 995 den fho-roinn i bhfeidhm, agus dúirt caidreamh poiblí Jingdong ar an ardán vein: "infheistíocht iomlán." (Freagraíonn [Jingdong don chóras oibre 995: ní bheidh sé éigeantach ach ba cheart é a infheistiú go hiomlán](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html). Teicneolaíocht Netease 2019-03-12.)
 
 ---
 
