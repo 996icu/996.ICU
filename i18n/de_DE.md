@@ -2,26 +2,27 @@
 ===
 
 ## Was ist "996"?
-Der Name "996-Arbeitsmuster" bezieht sich auf einen inoffiziellen Arbeitsrythmus, und zwar von 9 bis 21 Uhr täglich an sechs Tagen der Woche. Heutzutage wird so ein Arbeitsrythmus in China immer gewöhnlicher, was mindestens 60 Arbeitsstunden wöchenlich entspricht. Dies ist gesetzlich nicht erlaubt.
+Der Name "996-Arbeitsmuster" bezieht sich auf einen inoffiziellen Arbeitsrhythmus, und zwar von 9 bis 21 Uhr täglich an sechs Tagen die Woche. Heutzutage wird so ein Arbeitsrhythmus in China immer gewöhnlicher. Dieser entspricht mindestens 60 Arbeitsstunden pro Woche. Dies ist gesetzlich nicht erlaubt.
 
 
 ## Arbeitsrecht der Volksrepublik China
-Artikel 41 des [Arbeitsrechts der Volksrepublik China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)  besagt:
+Artikel 41 des [Arbeitsrechts der Volksrepublik China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm) besagt:
 
-> Der Arbeitgeber kann die Arbeitszeit aufgrund von Produktions- oder Geschäftsanforderungen nach Absprache mit seiner Gewerkschaft und seinen Arbeitnehmern verlängern. Die zu verlängernde Arbeitszeit darf im Allgemeinen nicht länger als eine Stunde pro Tag oder höchstens drei Stunden pro Tag sein, wenn eine solche Verlängerung aus besonderen Gründen erforderlich ist und unter der Voraussetzung, dass die körperliche Gesundheit der Arbeiter gewährleistet ist. Die zu verlängernde Arbeitszeit darf jedoch 36 Stunden pro Monat nicht überschreiten.
+> Der Arbeitgeber kann die Arbeitszeit aufgrund von Produktions- oder Geschäftsanforderungen nach Absprache mit seiner Gewerkschaft und seinen Arbeitnehmern verlängern. Die zu verlängernde Arbeitszeit darf im Allgemeinen nicht länger als eine Stunde pro Tag oder höchstens drei Stunden pro Tag sein, wenn eine solche Verlängerung aus besonderen Gründen erforderlich ist und unter der Voraussetzung, dass die körperliche Gesundheit der Arbeiter gewährleistet ist. Die zu verlängernde Arbeitszeit darf jedoch nicht 36 Stunden pro Monat überschreiten.
 
-## Immer häufigeres Auftreten
+## Immer häufigeres Auftreten & mehr Aufmerksamkeit
 
-Anfang 2019 hat ein chinesisches E-Commerce-Unternehmen namens Youzan die Übernahme des 996-Arbeitsmuster auf der Chinesisches-Neujahr-Party des Unternehmens angekündigt. Der CEO von Youzan sagte dazu: "Das wäre definitiv eine gute Entscheidung, wenn wir in ein paar Jahren zurückblicken."
+Anfang 2019 hat das chinesische E-Commerce-Unternehmen Youzan die Einführung des 996-Arbeitsmusters auf der Chinesisches-Neujahr-Party des Unternehmens angekündigt. Der CEO von Youzan sagte dazu: "Wenn wir in ein paar Jahren zurückblicken, werden wir uns alle einig sein, dass dies die richtige Entscheidung war."
 
-Mitte März 2019 wurde berichtet, dass Jingdong in einigen Geschäftseinheiten "996" oder "995" zu verwenden begann. Jingdong PR postete auf ihrem Maimai-Konto (`脉脉`, einer chinesischen Social-Network-Plattform für geschäftliche Netzwerke):"[Unsere Kultur ist es], uns mit unserem ganzen Herzen zu widmen [um die Geschäftsziele zu erreichen]".
+Mitte März 2019 wurde berichtet, dass Jingdong in einigen Unternehmensbereichen das "996-" oder "995-Arbeitsmuster" einführte. Jingdong PR postete auf ihrem Maimai-Konto (`脉脉`, eine chinesischen Social-Network-Plattform für Unternehmen):"[Unsere Kultur ist es], mit vollem Herzen und Einsatz zu arbeiten [um die Geschäftsziele zu erreichen]".
 
 ## Kompensation
 
-Dem Arbeitsgesetz zufolge müssten Arbeitnehmer, die dem 996-Arbeitsmuster folgen, mit dem 2,275-Fachen ihres Grundgehalts bezahlt werden. Leider erhalten sie selten so viel.
+Dem Arbeitsgesetz zufolge müssten Arbeitnehmer, die dem "996-Arbeitsmuster" folgen, mit dem 2,275-Fachen ihres Grundgehalts bezahlt werden. Leider erhalten nur die wenigstens eine solche Kompensation.
 
 ## Woher kommt der Name des Repos "996.ICU"?
 
-Wenn man konsequent das 996-Arbeitsmuster befolgt, besteht die Gefahr, dass man in der Intensivstation (**I**ntensiv **C**are **U**nit) landet.
+Wenn konsequent das 996-Arbeitsmuster befolgt wird, besteht die Gefahr, dass Arbeitnehmer in der Intensivstation (**I**ntensiv **C**are **U**nit) landen.
 
-Das Leben der Entwickler zählt.
+Programmierer Leben Zählen.
+Developer Lifes Matter.
