@@ -43,6 +43,6 @@ License
 ---
 [996ICU License](LICENSE)  
 It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
-It's source are from @Artoria2e5,
+Its source are from @Artoria2e5,
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
 This license should be used with other licenses as a practice of multi-licensing.
