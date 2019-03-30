@@ -26,3 +26,5 @@
 |[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[v2ex](https://www.v2ex.com/t/525495)|-|
 |[华为](https://www.huawei.com/cn/)|2019年3月|9106|[奋斗者协议](https://baike.baidu.com/item/%E5%A5%8B%E6%96%97%E8%80%85%E5%8D%8F%E8%AE%AE)|-|
 |[广州鲸鱼游戏]()|2017年3月|996|[考勤](https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg)|-|
+|[上海砸立](https://m.eyee.com/)|2019年1月|996|[看准](https://www.kanzhun.com/gsr5728610tl526.html?ka=review-label2)|-|
+
