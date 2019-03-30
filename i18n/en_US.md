@@ -10,14 +10,13 @@ Serving a company that encourages the "996" work schedule usually means working 
 
 ## Laws and Regulations
 
-A "996" work schedule is in **blunt violation** of the Constitution of the People's Republic of China along with multiple other Legislations:
+A "996" work schedule is in _**blunt violation**_ of the Constitution of the People's Republic of China along with multiple other Legislations:
 
 ### The Constitution of the People's Republic of China
 
 #### Chapter II: Article 43:
->He who labours in the People's Republic of China have the right to rest.
->
->The state expands facilities for rest and recuperation of working people and prescribes working hours and vacations for workers and staff.
+> He who labours in the People's Republic of China have the right to rest.  
+> The state expands facilities for rest and recuperation of working people and prescribes working hours and vacations for workers and staff.  
 
 ### [Labour Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
 
@@ -37,25 +36,19 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 > The employing unit shall not extend working hours of labourers in violation of the provisions of this Law.
 
 #### Chapter IV: Article 44:
->Article 44 Under any of the following circumstances, the employing unit shall, according to the following standards, pay labourers remunerations that are higher than those for normal working hours:
->
->(1) To pay no less than 150 per cent of the normal wages if an extension of working hours is arranged;
->
->(2) To pay no less than 200 per cent of the normal wages if work is arranged on off days and no make-up off days can be arranged; or
->
->(3) To pay no less than 300 per cent of the normal wages if work is arranged on statutory holidays.
+> Article 44 Under any of the following circumstances, the employing unit shall, according to the following standards, pay labourers remunerations that are higher than those for normal working hours:  
+> 1. To pay no less than 150 per cent of the normal wages if an extension of working hours is arranged;  
+> 2. To pay no less than 200 per cent of the normal wages if work is arranged on off days and no make-up off days can be arranged; or  
+> 3. To pay no less than 300 per cent of the normal wages if work is arranged on statutory holidays.
 
 #### Chapter XII: Article 90:
 > Where the employing unit, in violation of the stipulations of this Law, extends the working hours of labourers, the administrative department of labour shall give it a warning, order it to make corrections, and may impose a fine thereon.  
 
 #### Chapter XII: Article 91:
-> Where the employing unit commits any of the following acts infringing upon the legitimate rights and interests of labourers, the administrative department of labour shall order it to pay labourers remuneration of wages or to make up for economic losses, and may also order it to pay compensation:
->
-> ……
->
-> __(2) To refuse to pay labourers remuneration of wages for the extended working hours;__
->
-> ……
+> Where the employing unit commits any of the following acts infringing upon the legitimate rights and interests of labourers, the administrative department of labour shall order it to pay labourers remuneration of wages or to make up for economic losses, and may also order it to pay compensation:  
+> ......  
+> _**2. To refuse to pay labourers remuneration of wages for the extended working hours;**_  
+> ......  
 
 ### [Labor Contract Law of the People’s Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
 
@@ -65,15 +58,15 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 #### Chapter V: Article 62:
 > The receiving unit shall perform the following obligations:  
 > ......  
-> (3) to give overtime pay and performance bonuses and provide welfare benefits related to specific posts;  
+> _**3. to give overtime pay and performance bonuses and provide welfare benefits related to specific posts;**_  
 > ......  
 
 #### Chapter VII: Article 85:
 > Where an employing unit commits one of the following acts, the administrative department of labor shall order it to pay the labor remuneration, give overtime pay or make other financial compensation within a time limit; if the labor remuneration is lower than the local minimum wage rate, it shall pay the difference. If it fails to make such payment at the expiration of the time limit, it shall be ordered to pay an additional compensation to the worker at a rate of not less than 50 percent but not more than 100 percent of the amount payable:  
-> (1) failing to pay a worker his labor remuneration on time and in full as stipulated in the labor contract or as prescribed by the State;  
-> (2) paying labor remuneration at a rate below the local minimum wage rate;  
-> (3) arranging overtime work but giving no overtime pay; or  
-> (4) failing to pay the worker financial compensation pursuant to the provisions of this Law when revoking or terminating a labor contract.
+> 1. failing to pay a worker his labor remuneration on time and in full as stipulated in the labor contract or as prescribed by the State;  
+> 2. paying labor remuneration at a rate below the local minimum wage rate;  
+> 3. arranging overtime work but giving no overtime pay; or  
+> 4. failing to pay the worker financial compensation pursuant to the provisions of this Law when revoking or terminating a labor contract.
 
 ### State Council Regulations on Working Hours of Employees
 
@@ -85,13 +78,20 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 
 ## Gaining in popularity and publicity
 
-- In early September 2016, according to reliable news that __*58.com*__  A.K.A. `58同城` (NYSE：WUBA) which is a classified advertisements company introduced the "996" work schedule, without paying employees overtime who worked on weekends. The company later claimed that the schedule was only practised managing extra workflow during peak season - September and October which is not compulsory.
+- In early September 2016, according to reliable news that _**58.com**_  A.K.A. `58同城` (NYSE：WUBA) which is a classified advertisements company introduced the "996" work schedule, without paying employees overtime who worked on weekends. The company later claimed that the schedule was only practised managing extra workflow during peak season - September and October which is not compulsory.
 
-- In January 2019, __*Youzan*__ A.K.A. `有赞` (HKG: 8083) which is a Hangzhou-based E-commerce company) announced the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded: "This will definitely be a right decision when we look back in a few years."
+> Source: [58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml). 央广网. 2016-09-01.
 
-- In March 2019, it was reported that __*JD.com*__  A.K.A. `京东` (NASDAQ: JD) which is a major E-commerce company) started adopting "996" or "995" work schedules in some departments. The PR posted that (Our culture is) to devote ourselves wholeheartedly (to achieve the business objectives) via Maimai (`脉脉`, a Chinese real-name business social network platform).
+- In January 2019, _**Youzan**_ A.K.A. `有赞` (HKG: 8083) which is a Hangzhou-based E-commerce company announced the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded: "This will definitely be a right decision when we look back in a few years."
+
+> Source: [年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml). 联商网. 2019-01-22.
+
+- In March 2019, it was reported that _**JD.com**_  A.K.A. `京东` (NASDAQ: JD) which is a major E-commerce company started adopting "996" or "995" work schedules in some departments. The PR posted that (Our culture is) to devote ourselves wholeheartedly (to achieve the business objectives) via Maimai (`脉脉`, a Chinese real-name business social network platform).
+
+> Source: [京东回应995工作制：不会强制要求 但要全情投入](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html). 网易科技. 2019-03-12.
 
 Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practised in multiple companies in China.
+
 ## Compensation and benefits
 
 According to the Labour Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people who work under "996" rarely receive overtime pay.
@@ -100,4 +100,4 @@ According to the Labour Law, employees who follow the "996" work schedule deserv
 
 If you continue to tolerate the "996" work schedule, you will risk your own health and might need to stay in an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
 
-__Developers' lives matter.__
+_**Developers' lives matter.**_
