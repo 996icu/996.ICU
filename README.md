@@ -15,14 +15,15 @@ A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 
 
 What can I do?
 ---
-You can update this [list](blacklist/blacklist.md) with evidence to help every worker.  
-您可以更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
+
+- Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
+更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
+- Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
+把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
 
 Expand influence
 ---
 [Translations of 996.ICU's contents](i18n/i18n.md), feel free to adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
-
-[Add a badge](externals/instruction.md) to your project to support 996.ICU.
 
 Community powers
 ---
