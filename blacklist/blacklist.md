@@ -23,3 +23,5 @@
 |[阿里](https://www.alibabagroup.com/)|2018年6月|996|[天天快报](https://kuaibao.qq.com/s/20180612A1FAPU00)|
 |[字节跳动](https://bytedance.com)|2017年7月|加班|[看准](https://www.kanzhun.com/gsr5622411tl56.html)|
 |[苏宁](http://www.suning.com)|2019年3月|996|[知乎](https://www.zhihu.com/question/314152843/answer/613149536)|
+|[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[v2ex](https://www.v2ex.com/t/525495)|
+
