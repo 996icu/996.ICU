@@ -21,14 +21,16 @@ Expand influence
 ---
 [Translations of 996.ICU's contents](i18n/i18n.md), feel free to adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
+[Add a badge](externals/instruction.md) to your project to support 996.ICU.
+
 Community powers
 ---
 
  - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join 955.
 
- - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful infomations about cases between employees and enterprise.
+ - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprise.
 
- - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that designed to let more people know and join the activity of the 996.ICU.
+ - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that is designed to let more people know and join the activity of the 996.ICU.
 
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
@@ -41,6 +43,6 @@ License
 ---
 [996ICU License](LICENSE)  
 It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
-It's source are from @Artoria2e5,
+Its source are from @Artoria2e5,
 See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
 This license should be used with other licenses as a practice of multi-licensing.
