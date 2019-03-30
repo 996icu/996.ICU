@@ -40,10 +40,11 @@ Where are the issues?
 Even if with the interaction limits on, the issue area was totally out of control.  
 So I **personally** decided to switch it off, not by GitHub or others.
 
-License
+The 996ICU License
 ---
 [996ICU License](LICENSE)  
-It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
-Its source are from @Artoria2e5,
-See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
-This license should be used with other licenses as a practice of multi-licensing.
+
+ - The purpose of this license is to prevent 996-style companies from using the software or codes under the license, and force those companies to balance their work schedule.
+ - It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
+ - Its source are from @Artoria2e5, see [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
+ - This license should be used with other licenses as a practice of multi-licensing.
