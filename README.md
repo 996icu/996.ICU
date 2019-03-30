@@ -1,3 +1,8 @@
+> Even if with the interaction limits on, the issue area was totally out of control.  
+So I **personally** decided to switch it off, not by GitHub or others.
+> 
+>  由于本repo的issue栏几乎失控，作者决定**主动**关闭这个功能，并没有受到任何个人或组织的压迫, 请各位放心。
+
 996.ICU
 =======
 The name `996.ICU` refers to **'Work by "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit).
@@ -31,11 +36,7 @@ Community powers
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that designed to let more people know and join the activity of the 996.ICU.
 
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
-
-Where are the issues?
----
-Even if with the interaction limits on, the issue area was totally out of control.  
-So I **personally** decided to switch it off, not by GitHub or others.
+ 
 
 License
 ---
