@@ -2,7 +2,7 @@
 ===
 Sistem kerja "996", iaitu 9:00 pagi setiap hari, berfungsi sehingga pukul 9 malam dan bekerja 6 hari seminggu.
 
- Masa kerja mingguan untuk sistem kerja "996" adalah minimum 6x12 = 72 jam.
+ Masa kerja mingguan untuk sistem kerja "996" adalah minimum 6x10 = 60 jam.
 
  **Status semasa peraturan jam kerja di China (waktu kerja standard):**
 Masa kerja adalah 8 jam sehari, dan waktu kerja mingguan purata tidak lebih dari 40 jam; had masa kerja adalah 3 jam sehari dan 36 jam sebulan, dan gaji lebih masa tidak kurang dari 150% upah biasa. Waktu kerja maksimal seminggu adalah 48 jam. Purata hari bulanan bulanan ialah 21.75 hari. 

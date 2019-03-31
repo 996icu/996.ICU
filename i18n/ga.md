@@ -3,7 +3,7 @@
 
 Oibríonn an córas oibre “996”, atá 9 am gach lá, go dtí 9:00 pm agus oibríonn sé 6 lá sa tseachtain.
 
-Is é 6x12 = 72 uair an chloig an t-am oibre seachtainiúil don chóras oibre “996”.
+Is é 6x10 = 60 uair an chloig an t-am oibre seachtainiúil don chóras oibre “996”.
 
 ** Stádas reatha rialachán uaireanta oibre sa tSín (gnáthuaireanta oibre): **
 Is é an t-am oibre 8 n-uaire sa lá, agus is é an meánuaireanta oibre seachtainiúla ná 40 uair an chloig: is é an teorainn ragoibre 3 uair an chloig sa lá agus 36 uair sa mhí, agus níl an pá ragoibre níos lú ná 150% den ghnáthphá. Is é 48 uair an chloig an t-uasuaire oibre in aghaidh na seachtaine. Is é 2175 lá an meán lá iníoctha míosúil.
