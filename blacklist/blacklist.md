@@ -48,7 +48,6 @@
 |北京|[中软国际](www.chinasofti.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC508620126J00303154805.htm)|
 |北京|[柯莱特](http://www.camelotchina.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120179637J00117070515.htm)|
 |北京|[高伟达](http://www.git.com.cn/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120702341J00114014810.htm)|
-|深圳|[华为外包](https://www.kanzhun.com/gsr1439970.html)|2018年3月|大小周、加班、裁员|[华为外包是怎样的体验？ - 知乎](https://www.zhihu.com/question/28517881)|
 |深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、<br>加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)|
 |上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
 |上海|[砸立](https://m.eyee.com/)|2019年1月|996|[看准](https://www.kanzhun.com/gsr5728610tl526.html?ka=review-label2)|
