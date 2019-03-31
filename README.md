@@ -65,6 +65,8 @@ Community powers
 
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
 
+ - [996.LICENSE](https://github.com/dongri/996.license.projects) is a repo 996 License Projects(OSS)
+
 Where are the issues?
 ---
 Even with interaction limits on, the issue area was totally out of control.  
