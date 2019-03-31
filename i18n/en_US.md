@@ -4,13 +4,13 @@
 ## Introducing to "996".
 996 working, ICU waiting.
 
-A "996" work schedule refers to an illegal work schedule that starts from 9 a.m. and ends at 9 p.m. each day, six days a week which has been gaining in popularity.
+A "996" work schedule refers to an illegal work schedule that starts from 9 a.m. and ends at 9 p.m. each day, six days a week, which has been gaining popularity.
 
-Serving a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
+Serving in a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
 
 ## Laws and Regulations
 
-A "996" work schedule is in **blunt violation** of the Constitution of the People's Republic of China along with multiple other Legislations:
+A "996" work schedule is in **blunt violation** of the Constitution of the People's Republic of China along with multiple other legislations:
 
 ### The Constitution of the People's Republic of China
 
@@ -83,22 +83,22 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 ### Article 6：
 > No unit or individual shall extend the working hours of their workers and staff without authorization. When the working hours are necessary to extend for the purpose of special case or emergent assignment， it shall be implemented according to the relevant provisions of the State.
 
-## Gaining in popularity and publicity
+## Gaining popularity and publicity
 
-- In early September 2016, according to reliable news that __*58.com*__  A.K.A. `58同城` (NYSE：WUBA) which is a classified advertisements company introduced the "996" work schedule, without paying employees weekends overtime. The company later claimed that the schedule was only practised to manage extra workload during peak season(September and October) and this schedule is not a mandatory requirement.
+- In early September 2016, it is reported by reliable sources that __*58.com*__  A.K.A. `58同城` (NYSE：WUBA), a classified advertisements company, introduced the "996" work schedule, without paying employees weekends overtime. The company later claimed that the schedule was only practised to manage extra workload during peak season(September and October) and this schedule is not mandatory.
 
-- In January 2019, __*Youzan*__ A.K.A. `有赞` (HKG: 8083) which is a Hangzhou-based E-commerce company) announced the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded,
+- In January 2019, __*Youzan*__ A.K.A. `有赞` (HKG: 8083), a Hangzhou-based E-commerce company, announced that the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded,
 
   > "This will definitely be a right decision when we look back in a few years."
 
-- In March 2019, it was reported that __*JD.com*__  A.K.A. `京东` (NASDAQ: JD) which is a major E-commerce company) started adopting "996" or "995" work schedules in some departments. The PR of JD posted on Maimai (`脉脉`, a Chinese real-name business social network platform), stated that 
+- In March 2019, it was reported that __*JD.com*__  A.K.A. `京东` (NASDAQ: JD), a major E-commerce company, started adopting "996" or "995" work schedules in some departments. The PR of JD posted on Maimai (`脉脉`, a Chinese real-name business social network platform), stated that 
 
-  > "(Our culture is) to devote ourselves wholeheartedly (to achieve the business objectives)".
+  > "(Our company culture is) to devote ourselves wholeheartedly (to achieve the business objectives)".
 
 Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practised in multiple companies in China.
 ## Compensation and benefits
 
-According to the Labour Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their base salary. Unfortunately, people rarely receive this overtime pay.
+According to the Labour Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their basic salary. Unfortunately, people rarely receive this overtime pay.
 
 ## The origin of this repo's name -- `996.ICU`
 
