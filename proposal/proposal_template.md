@@ -1,7 +1,7 @@
 # Proposal Template for 996.icu Projects
 
 HEAD | SUMMARY
--|-|-
+-----|--------
 Title:| Proposal Template for 996.icu Projects
 Author:| xiao
 Status:| Draft
