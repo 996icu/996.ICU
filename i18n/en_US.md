@@ -10,14 +10,13 @@ Serving in a company that encourages the "996" work schedule usually means worki
 
 ## Laws and Regulations
 
-A "996" work schedule is in **blunt violation** of the Constitution of the People's Republic of China along with multiple other legislations:
+A "996" work schedule is in **blunt violation** of the _**Constitution of the People's Republic of China**_ along with multiple other legislations:
 
 ### The Constitution of the People's Republic of China
 
 #### Chapter II: Article 43:
->He who labours in the People's Republic of China have the right to rest.
->
->The state expands facilities for rest and recuperation of working people and prescribes working hours and vacations for workers and staff.
+> _**He who labours in the People's Republic of China have the right to rest.**_  
+> The state expands facilities for rest and recuperation of working people and prescribes working hours and vacations for workers and staff.
 
 ### [Labour Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
 
@@ -37,25 +36,19 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 > The employing unit shall not extend working hours of labourers in violation of the provisions of this Law.
 
 #### Chapter IV: Article 44:
->Article 44 Under any of the following circumstances, the employing unit shall, according to the following standards, pay labourers remunerations that are higher than those for normal working hours:
->
->(1) To pay no less than 150 per cent of the normal wages if an extension of working hours is arranged;
->
->(2) To pay no less than 200 per cent of the normal wages if work is arranged on off days and no make-up off days can be arranged; or
->
->(3) To pay no less than 300 per cent of the normal wages if work is arranged on statutory holidays.
+> Under any of the following circumstances, the employing unit shall, according to the following standards, pay labourers remunerations that are higher than those for normal working hours:  
+> 1. To pay no less than 150 per cent of the normal wages if an extension of working hours is arranged;  
+> 2. To pay no less than 200 per cent of the normal wages if work is arranged on off days and no make-up off days can be arranged; or  
+> 3. To pay no less than 300 per cent of the normal wages if work is arranged on statutory holidays.
 
 #### Chapter XII: Article 90:
 > Where the employing unit, in violation of the stipulations of this Law, extends the working hours of labourers, the administrative department of labour shall give it a warning, order it to make corrections, and may impose a fine thereon.  
 
 #### Chapter XII: Article 91:
-> Where the employing unit commits any of the following acts infringing upon the legitimate rights and interests of labourers, the administrative department of labour shall order it to pay labourers remuneration of wages or to make up for economic losses, and may also order it to pay compensation:
->
-> ……
->
-> __(2) To refuse to pay labourers remuneration of wages for the extended working hours;__
->
-> ……
+> Where the employing unit commits any of the following acts infringing upon the legitimate rights and interests of labourers, the administrative department of labour shall order it to pay labourers remuneration of wages or to make up for economic losses, and may also order it to pay compensation:  
+> ......  
+> __(2) To refuse to pay labourers remuneration of wages for the extended working hours;__  
+> ......
 
 ### [Labor Contract Law of the People’s Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
 
@@ -65,15 +58,15 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 #### Chapter V: Article 62:
 > The receiving unit shall perform the following obligations:  
 > ......  
-> (3) to give overtime pay and performance bonuses and provide welfare benefits related to specific posts;  
+> 3. to give overtime pay and performance bonuses and provide welfare benefits related to specific posts;  
 > ......  
 
 #### Chapter VII: Article 85:
 > Where an employing unit commits one of the following acts, the administrative department of labor shall order it to pay the labor remuneration, give overtime pay or make other financial compensation within a time limit; if the labor remuneration is lower than the local minimum wage rate, it shall pay the difference. If it fails to make such payment at the expiration of the time limit, it shall be ordered to pay an additional compensation to the worker at a rate of not less than 50 percent but not more than 100 percent of the amount payable:  
-> (1) failing to pay a worker his labor remuneration on time and in full as stipulated in the labor contract or as prescribed by the State;  
-> (2) paying labor remuneration at a rate below the local minimum wage rate;  
-> (3) arranging overtime work but giving no overtime pay; or  
-> (4) failing to pay the worker financial compensation pursuant to the provisions of this Law when revoking or terminating a labor contract.
+> 1. Failing to pay a worker his labor remuneration on time and in full as stipulated in the labor contract or as prescribed by the State;  
+> 2. Paying labor remuneration at a rate below the local minimum wage rate;  
+> 3. Arranging overtime work but giving no overtime pay; or  
+> 4. Failing to pay the worker financial compensation pursuant to the provisions of this Law when revoking or terminating a labor contract.
 
 ### State Council Regulations on Working Hours of Employees
 
