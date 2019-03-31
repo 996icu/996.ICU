@@ -1,5 +1,7 @@
 # 曝光996公司及部门
 
+注意该投票页面存在被XSS攻击的情况，请谨慎。
+
 [进入投票](https://feathub.com/LinXueyuanStdio/996.ICU)
 
 :star: 曝光添加996公司，请先搜索，以免重复

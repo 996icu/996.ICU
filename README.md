@@ -13,7 +13,7 @@ Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect
 
 What is 996?
 ---
-A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
+A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
 
 What can I do?
 ---
@@ -46,7 +46,7 @@ The principle and purpose Of this repository!
 
 * 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟的、负责任的发言。
 
-* 目前 996ICU License 处于起草阶段，希望能有相关经验的专业人士能给予帮助。
+* 目前 996ICU License 处于起草阶段，希望有相关经验的专业人士能给予帮助。
 
 Expand influence
 ---
@@ -60,8 +60,6 @@ Community powers
  - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprise.
 
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo designed to let more people know and join the activity of 996.ICU.
-
- - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
 
