@@ -44,3 +44,5 @@
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
 |北京|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
 |深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)|
+|深圳|[华为外包](https://www.kanzhun.com/gsr1439970.html)|2018年3月|大小周、加班、裁员|[华为外包是怎样的体验?？ - 知乎](https://www.zhihu.com/question/28517881)|
+
