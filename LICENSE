@@ -1,16 +1,43 @@
                    The 996ICU License (996ICU)
-                     Version 0.2, March 2019
+                     Version 0.3, March 2019
 
-PACKAGE is distributed under LICENSE with the following restriction:
+PACKAGE is distributed under LICENSE with the following clarification
+and restriction:
 
-The above license is only granted to entities that act in concordance
-with local labor laws. In addition, the following requirements must be
-observed:
+"Licensee" refers to the individual or the legal entity obtaining a
+copy of this licensed work and the rights to deal with the work in
+means outlined under LICENSE. "Employee" refers to part-time and
+full-time employees as well as independent contractors. "Labor laws"
+refers to all laws, regulations, rules and standards relating to
+labor and employment. To "require" refers to to induce or force
+the subject, in any methods, to agree in oral or written form, to
+perform an action.
 
-* The licensee must not, explicitly or implicitly, request or schedule
-  their employees to work more than 45 hours in any single week.
-* The licensee must not, explicitly or implicitly, request or schedule
-  their employees to be at work consecutively for 10 hours.
+The above license is subject to the following additional conditions:
+
+1. The licensee must strictly comply with all applicable labor laws
+   where the individual is physically located or where the individual
+   was born or naturalized; or where the legal entity is registered or
+   is operating (whichever is stricter). In case that the jurisdiction
+   has no such labor laws or its labor laws are unenforceable, the
+   licensee are required to comply with Core International Labor
+   Standards, as outlined in the ILO Declaration on Fundamental
+   Principles and Rights at Work of 1998. [local]
+
+2. The licensee shall not reqiure employee(s) to directly or indirectly
+   restrict, weaken or relinquish his or her rights or remedies under
+   such laws, regulations, rules and standards relating to labor and
+   employment as mentioned above, no matter whether such written or
+   oral agreement are enforceable under the laws of the said
+   jurisdiction, nor shall the licensee limit, in any methods, the
+   rights of its employee(s) from reporting or complaining to the
+   copyright holder or relevant authorities monitoring the compliance
+   of the license about its violation(s) of the said license. [no-circ]
+
+3. The licensee shall not require its employee(s) to be present at the
+   workplace or work (whichever is longer) for more than 50 hours in a
+   single week, nor shall the licensee require its employees to perform
+   the aforementioned action for more than a consecutive 10 hours. [996]
 
 If you modify the software, you must extend the above restriction to
 your version of the software. All copies or substantial portions of
@@ -30,3 +57,8 @@ such as the LGPL, MIT/X11, and BSD licenses.
 When using this restriction with one of the above licenses, the
 developer should also dual-license the software under GPL or AGPL, in
 order to enable wider use by the free software community.
+
+* * *
+
+This version is produced by combining 996ICU version 0.1 by Mingye Wang
+and a concrete draft by Katt Gu & Suji Yan.
