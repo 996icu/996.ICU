@@ -43,11 +43,15 @@
 |广州|[鲸鱼游戏](http://www.adjingyu.com/)|2017年3月|996|[考勤](https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg)|
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
 |北京|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
+|北京|[北京云族佳科技有限公司](https://www.clouderwork.com/)|2019年3月|明目张胆的在招聘网散步996招聘信息|[智联招聘](https://jobs.zhaopin.com/CC599223521J00125821109.htm)|
+|苏州|[苏州科技城]()|2019年3月|明目张胆的在招聘网散步996招聘信息|[智联招聘(请看html源代码)](https://jobs.zhaopin.com/CC549324722J00346803701.htm)|
+|北京|[中软国际科技服务有限公司](www.chinasofti.com/)|2019年3月|明目张胆的在招聘网散步996招聘信息|[智联招聘](https://jobs.zhaopin.com/CC508620126J00303154805.htm)|
+|北京|[北京柯莱特科技有限公司](http://www.camelotchina.com/)|2019年3月|明目张胆的在招聘网散步996招聘信息|[智联招聘](https://jobs.zhaopin.com/CC120179637J00117070515.htm)|
+|北京|[高伟达软件股份有限公司](http://www.git.com.cn/)|2019年3月|明目张胆的在招聘网散步996招聘信息|[智联招聘](https://jobs.zhaopin.com/CC120702341J00114014810.htm)|
 |深圳|[华为外包](https://www.kanzhun.com/gsr1439970.html)|2018年3月|大小周、加班、裁员|[华为外包是怎样的体验？ - 知乎](https://www.zhihu.com/question/28517881)|
 |深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、<br>加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)|
 |上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
 |上海|[砸立](https://m.eyee.com/)|2019年1月|996|[看准](https://www.kanzhun.com/gsr5728610tl526.html?ka=review-label2)|
-|武汉|[武汉氪细胞](http://www.timing360.com/)|2019年3月|996|名义上996，实际下班时间更晚|
 |杭州|[一喂智能科技](http://www.yivizd.com)|2017年5月-至今|996|[图片链接](http://note.youdao.com/noteshare?id=0113f40833aaebfc7bbb6c0f83d65f96)|
 |杭州|[智贝信息科技有限公司](https://www.zhipin.com/gongsi/09aefd7a9d507c2f1nd82tu9Ew~~.html)|2019年3月|强制996、歧视程序员|[程序员吐槽：薪资低，996加班无补助，歧视程序员，这hr真乃神人](https://baijiahao.baidu.com/s?id=1627625016599313128)|
 |深圳|[大疆创新](https://www.dji.com/cn)|2018年12月|996|[程序员猝死之后大疆称无加班文化 离职员工怒了](https://baijiahao.baidu.com/s?id=1619909152168711034&wfr=spider&for=pc)|
