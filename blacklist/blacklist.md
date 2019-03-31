@@ -7,10 +7,10 @@
 更新此文件时，请简要描述内容，比如“北京XX公司”。  
 并提供确切的证据：
 - 外部证据：比如官方公告，新闻链接，招聘网站官方描述等
-  - 可直接粘贴链接
+- 可直接粘贴链接
 - 内部证据：比如内部论坛，内部邮件，打卡记录，调休记录等
-  - 可粘贴截图链接
-  - 如果您不想在证据内容处填写截图链接，可在PR描述中附带截图
+- 可粘贴截图链接
+- 如果您不想在证据内容处填写截图链接，可在PR描述中附带截图
 
 截图请**抹掉一切个人信息**，包括但不限于名字，内部ID，电话号码，邮箱地址等。  
 
@@ -44,3 +44,4 @@
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
 |北京|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
 |深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、<br>加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)|
+|杭州|[一喂智能科技](http://www.yivizd.com)|2017年5月-至今|996|[图片链接](http://note.youdao.com/noteshare?id=0113f40833aaebfc7bbb6c0f83d65f96)|
