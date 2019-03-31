@@ -6,6 +6,11 @@
 > 经测试,**QQ浏览器和Firefox\(火狐浏览器\)均成功中招\!**  
 > 请进入投票前**先关闭浏览器的Javascript功能**,如不知怎么操作**请不要直接贸然进入\!\!\!**  
 > 以下为部分XSS受攻击症状\(浏览器:Firefox,系统:Ubuntu\):  
+> ![XSS攻击0](https://raw.githubusercontent.com/xianfengting/996.ICU/issue-0/archived/assets/images/XSS-0.png)  
+> ![XSS攻击1](https://raw.githubusercontent.com/xianfengting/996.ICU/issue-0/archived/assets/images/XSS-1.png)  
+> ![XSS攻击2](https://raw.githubusercontent.com/xianfengting/996.ICU/issue-0/archived/assets/images/XSS-2.png)  
+> ![XSS攻击3](https://raw.githubusercontent.com/xianfengting/996.ICU/issue-0/archived/assets/images/XSS-3.png)  
+> ![XSS攻击4](https://raw.githubusercontent.com/xianfengting/996.ICU/issue-0/archived/assets/images/XSS-4.png)  
 
 :star: 曝光添加996公司，请先搜索，以免重复
 
