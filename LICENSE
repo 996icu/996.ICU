@@ -1,4 +1,4 @@
-                   The 996ICU License (996ICU)
+                  The 996ICU Restriction (996ICU)
                      Version 0.3, March 2019
 
 PACKAGE is distributed under LICENSE with the following clarification
@@ -45,8 +45,30 @@ this software must include the text of this restriction.
 
 * * *
 
-Notes on use
-============
+How to use 996ICU
+=================
+
+996ICU is not a license by itself; it needs to be added to an existing
+free software or open source license. You must also replace all instances
+of PACKAGE and LICENSE in the text above with the name of your software
+and the license of your choice. You should attach a notice similar to
+the following to your work, in the top of each source file, as a part
+of your program, or as a text file in your distribution:
+
+    Copyright [yyyy] [name of copyright holder]
+    
+    Licensed under LICENSE with the 996ICU restriction, version 0.3. You
+    may only use this file under the terms of LICENSE and the 996ICU
+    restriction. You may obtain a copy of the 996ICU restriction at
+    
+        [Link to the current version of the license in GitHub]
+        
+Likewise, you should add the notice text from the parent license to the
+said files, and remove duplicate parts as you see fit. You should never
+remove the parts that disclaim your warrenty and any liabilities.
+
+Compatibilty
+------------
 
 The above restriction is incompatible with some free software licenses,
 notably GPL and AGPL, due to it introducing a "further restriction."
