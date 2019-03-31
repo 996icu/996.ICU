@@ -72,11 +72,17 @@ Where are the issues?
 Even with interaction limits on, the issue area was totally out of control.  
 So I **personally** decided to switch it off, not by GitHub or others.
 
-The 996ICU License
+License
 ---
 [996ICU License](LICENSE)  
 
- - The purpose of this license is to prevent 996-style companies from using the software or codes under the license, and force those companies to balance their work schedule.
- - It is an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
- - Its source is from @Artoria2e5. See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
- - This license should be used with other licenses as a practice of multi-licensing.
+ - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work schedule.
+ - It is an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**. See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
+> This version of 996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).
+> 
+> This draft is adapted from the MIT license. For more detailed explaination, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.
+> 
+> For law professionals or anyone who are willing to contribute to further version directly, please go to [996-License-Draft](https://github.com/kattgu7/996-License-Draft). Thank you.
+
+
+
