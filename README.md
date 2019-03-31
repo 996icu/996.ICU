@@ -1,6 +1,6 @@
 996.ICU
 =======
-The name `996.ICU` refers to **'Work by "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
+The name `996.ICU` refers to **'Work by "996", sick in ICU'**, an ironic saying among Chinese software engineers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
 
 [![Slack](https://img.shields.io/badge/slack-996ICU-%23de335e.svg)](https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ)
 [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
