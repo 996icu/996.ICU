@@ -26,6 +26,7 @@ What can I do?
 
 The principle and purpose Of this repository!
 ---
+* 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
 
 * this is not a politic activity,we are the staunch supporters of labour law. we ask employers to respect the legitimate rights and interests of employees.
   
@@ -33,22 +34,19 @@ The principle and purpose Of this repository!
 
 * We welcome all positive and constructive suggestions and advocate mature and responsible speeches.
   
-* 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
-  
-* At present, 996 ICU License is immature, we hope professionals with relevant experience can help.
+* At present, 996 ICU License is work in progress, we hope professionals with relevant experience can help.
 
 *****
 
-* 这并不是一个政治运动，我们坚定维护劳动法，我们要求雇主尊重雇员的合法权益
+* 996.ICU 是IT从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
 
-* 从闭源到开源是一次伟大的进步，从开源到同时强调保护劳工权益也将是一次伟大的进步，我们想要创造一个主张保护劳动者权益的开源软件许可证
-  
-* 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟的、负责任的发言
-  
-* 996.ICU 是IT从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论
+* 这并不是一个政治运动，我们坚定维护劳动法，我们要求雇主尊重雇员的合法权益。
 
-* 目前 996ICU License 是不成熟的，希望能有相关经验的专业人士能给予帮助
-  
+* 从闭源到开源是一次伟大的进步，从开源到同时强调保护劳工权益也将是一次伟大的进步，我们想要创造一个主张保护劳动者权益的开源软件许可证。
+
+* 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟的、负责任的发言。
+
+* 目前 996ICU License 处于起草阶段，希望能有相关经验的专业人士能给予帮助。
 
 Expand influence
 ---
