@@ -27,7 +27,7 @@ What can I do?
 The principle and purpose Of this repository!
 ---
 
-* this is not a politic activity,we are the staunch supporters of labour law. we ask employers to respect the legitimate rights and interests of employees.
+* this is not a politic activity, we are the staunch supporters of labour law. we ask employers to respect the legitimate rights and interests of employees.
   
 * From closed source to open source is a great progress, from open source to emphasizing the protection of labor rights and interests at the same time will also be an another great progress. We want to create an open source software license that protects workers' rights and interests.
 
