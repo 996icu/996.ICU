@@ -29,7 +29,7 @@ We need a much more formal channel.
 
 ## Solutions
 
-In this part, the proposer should statement the solutions or proposals to solve this problems listed in *Problems* part. <br/>
+In this part, the proposer should statement the solutions or proposals to solve this problems listed in ***Problems*** part. <br/>
 For example, we add the proposal directory in the repo and init this proposal template to help the community to build a much more formal channel for suggestion and discussion.
 
 ## Resource & Requirements
@@ -49,4 +49,4 @@ For example, for this proposal the main reference is <br/>
 ## Copyright
 
 This document has been placed in the public domain. <br/>
-*996.ICU Project All Right Reserved 2019*
+***996.ICU Project All Right Reserved 2019***
