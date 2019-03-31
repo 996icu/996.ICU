@@ -1,6 +1,6 @@
 996.ICU
 =======
-The name `996.ICU` refers to **'Work by "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into ICU (Intensive Care Unit).
+The name `996.ICU` refers to **'Work by "996", sick in ICU'**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
 
 [![Slack](https://img.shields.io/badge/slack-996ICU-%23de335e.svg)](https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ)
 [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
@@ -33,15 +33,15 @@ Community powers
 
  - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprise.
 
- - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo that is designed to let more people know and join the activity of the 996.ICU.
+ - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo designed to let more people know and join the activity of 996.ICU.
 
  - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
 
- - [996.LIST](https://github.com/fengT-T/996_list) A rank list of 996 companies and 955 companies.
+ - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
 
 Where are the issues?
 ---
-Even if with the interaction limits on, the issue area was totally out of control.  
+Even with interaction limits on, the issue area was totally out of control.  
 So I **personally** decided to switch it off, not by GitHub or others.
 
 The 996ICU License
@@ -49,6 +49,6 @@ The 996ICU License
 [996ICU License](LICENSE)  
 
  - The purpose of this license is to prevent 996-style companies from using the software or codes under the license, and force those companies to balance their work schedule.
- - It's an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
- - Its source are from @Artoria2e5, see [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
+ - It is an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
+ - Its source is from @Artoria2e5. See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
  - This license should be used with other licenses as a practice of multi-licensing.
