@@ -83,4 +83,10 @@ License
 > For law professionals or anyone who are willing to contribute to further version directly, please go to [996-License-Draft](https://github.com/kattgu7/996-License-Draft). Thank you.
 
 
+Alliance
+---
+已加入 996 License 开源项目联盟的项目列表，欢迎随时补充。
+| 项目 | 地址                                      | 简单描述                                |
+| :--- | :---------------------------------------- | :-------------------------------------- |
+| dura | [dura](https://github.com/CN-YUANYU/dura) | 基于 redux、typescript 的前端数据流方案 |
 
