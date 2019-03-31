@@ -46,7 +46,7 @@ The principle and purpose Of this repository!
 
 * 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟的、负责任的发言。
 
-* 目前 996ICU License 处于起草阶段，希望能有相关经验的专业人士能给予帮助。
+* 目前 996ICU License 处于起草阶段，希望有相关经验的专业人士能给予帮助。
 
 Expand influence
 ---
