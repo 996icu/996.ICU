@@ -42,7 +42,7 @@ Community powers
 Where are the issues?
 ---
 Even if with the interaction limits on, the issue area was totally out of control.  
-So I **personally** decided to switch it off, not by GitHub or others.
+So I **personally** decided to switch it off, not by GitHub or others. But you can still discuss this on [GitQ|https://gitq.com/steveluo/996.ICU]
 
 The 996ICU License
 ---
