@@ -27,15 +27,15 @@ What can I do?
 The principle and purpose Of this repository!
 ---
 
-* this is not a politic activity,we are the staunch supporters of labour law. we ask employers to respect the legitimate rights and interests of employees.
+* This is not a political movement. We firmly uphold the labor law and require employers to respect the legitimate rights and interests of their employees.
   
-* From closed source to open source is a great progress, from open source to emphasizing the protection of labor rights and interests at the same time will also be an another great progress. We want to create an open source software license that protects workers' rights and interests.
+* It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasize labor rights at the same time. What we want is to create an open source software license that advocates for workers' rights.
 
-* We welcome all positive and constructive suggestions and advocate mature and responsible speeches.
+* We are willing to hear all positive and constructive proposals and advocate for mature and responsible speech.
   
-* 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
+* 996.ICU is an initiative of IT practitioners and we welcome people from other fields and countries to join the discussion.
   
-* At present, 996 ICU License is immature, we hope professionals with relevant experience can help.
+* At present, the 996ICU License is not very mature. I hope professionals with relevant experience can offer some help.
 
 *****
 
