@@ -43,6 +43,7 @@
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
 |北京|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
 |深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、<br>加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)|
+|武汉|[武汉氪细胞](http://www.timing360.com/)|2019年3月|996|名义上996，实际下班时间更晚|
 |杭州|[一喂智能科技](http://www.yivizd.com)|2017年5月-至今|996|[图片链接](http://note.youdao.com/noteshare?id=0113f40833aaebfc7bbb6c0f83d65f96)|
 |杭州|[智贝信息科技有限公司](https://www.zhipin.com/gongsi/09aefd7a9d507c2f1nd82tu9Ew~~.html)|2019年3月|强制996、歧视程序员|[程序员吐槽：薪资低，996加班无补助，歧视程序员，这hr真乃神人](https://baijiahao.baidu.com/s?id=1627625016599313128)|
 |深圳|[大疆创新](https://www.dji.com/cn)|2018年12月|996|[程序员猝死之后大疆称无加班文化 离职员工怒了](https://baijiahao.baidu.com/s?id=1619909152168711034&wfr=spider&for=pc)
