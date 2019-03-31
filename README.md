@@ -28,13 +28,13 @@ The principle and purpose Of this repository!
 ---
 * 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
 
-* this is not a politic activity,we are the staunch supporters of labour law. we ask employers to respect the legitimate rights and interests of employees.
+* This is not a political activity, we are the staunch supporters of labour law. We ask employers to respect the legitimate rights and interests of employees.
   
-* From closed source to open source is a great progress, from open source to emphasizing the protection of labor rights and interests at the same time will also be an another great progress. We want to create an open source software license that protects workers' rights and interests.
+* From closed source to open source is a great progress, from open source to emphasizing the protection of labor rights and interests at the same time will also be an another great progress. We would like to create an open source software license that protects workers' rights and interests.
 
 * We welcome all positive and constructive suggestions and advocate mature and responsible speeches.
   
-* At present, 996 ICU License is work in progress, we hope professionals with relevant experience can help.
+* We are working on the drafting of 996 License right now and we hope to get help from professionals with relevant experience.
 
 *****
 
