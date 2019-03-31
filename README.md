@@ -13,7 +13,7 @@ Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect
 
 What is 996?
 ---
-A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
+A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
 
 What can I do?
 ---
@@ -26,29 +26,27 @@ What can I do?
 
 The principle and purpose Of this repository!
 ---
+* 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
 
 * This is not a political movement. We firmly uphold the labor law and require employers to respect the legitimate rights and interests of their employees.
   
 * It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasize labor rights at the same time. What we want is to create an open source software license that advocates for workers' rights.
 
 * We are willing to hear all positive and constructive proposals and advocate for mature and responsible speech.
-  
-* 996.ICU is an initiative of IT practitioners and we welcome people from other fields and countries to join the discussion.
-  
-* At present, the 996ICU License is not very mature. I hope professionals with relevant experience can offer some help.
+
+* We are working on the drafting of 996 License right now and we hope to get help from professionals with relevant experience.
 
 *****
 
-* 这并不是一个政治运动，我们坚定维护劳动法，我们要求雇主尊重雇员的合法权益
+* 996.ICU 是IT从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
 
-* 从闭源到开源是一次伟大的进步，从开源到同时强调保护劳工权益也将是一次伟大的进步，我们想要创造一个主张保护劳动者权益的开源软件许可证
-  
-* 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟的、负责任的发言
-  
-* 996.ICU 是IT从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论
+* 这并不是一个政治运动，我们坚定维护劳动法，我们要求雇主尊重雇员的合法权益。
 
-* 目前 996ICU License 是不成熟的，希望能有相关经验的专业人士能给予帮助
-  
+* 从闭源到开源是一次伟大的进步，从开源到同时强调保护劳工权益也将是一次伟大的进步，我们想要创造一个主张保护劳动者权益的开源软件许可证。
+
+* 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟的、负责任的发言。
+
+* 目前 996ICU License 处于起草阶段，希望有相关经验的专业人士能给予帮助。
 
 Expand influence
 ---
@@ -63,8 +61,6 @@ Community powers
 
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo designed to let more people know and join the activity of 996.ICU.
 
- - An [anonymous vote page](externals/exposure.md) shows a rank list of 996 (or more) companies. (Thanks to @LinXueyuanStdio)
-
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
 
 Where are the issues?
@@ -72,11 +68,17 @@ Where are the issues?
 Even with interaction limits on, the issue area was totally out of control.  
 So I **personally** decided to switch it off, not by GitHub or others.
 
-The 996ICU License
+License
 ---
 [996ICU License](LICENSE)  
 
- - The purpose of this license is to prevent 996-style companies from using the software or codes under the license, and force those companies to balance their work schedule.
- - It is an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**  
- - Its source is from @Artoria2e5. See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
- - This license should be used with other licenses as a practice of multi-licensing.
+ - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work schedule.
+ - It is an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**. See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
+> This version of 996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).
+> 
+> This draft is adapted from the MIT license. For more detailed explaination, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.
+> 
+> For law professionals or anyone who are willing to contribute to further version directly, please go to [996-License-Draft](https://github.com/kattgu7/996-License-Draft). Thank you.
+
+
+
