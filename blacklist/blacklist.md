@@ -44,3 +44,4 @@
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
 |北京|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
 |深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、<br>加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)|
+|北京|[知名互联网公司](http://money.163.com/16/1209/14/C7RPDD46002580S6.html)|2016年底|9 10 5+|[2016年加班最“狠”公司排名大揭秘！（有图有真相） ](http://www.sohu.com/a/121221860_487858)|
