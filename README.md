@@ -80,7 +80,7 @@ License
 > 
 > This draft is adapted from the MIT license. For more detailed explaination, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.
 > 
-> For law professionals or anyone who are willing to contribute to further version directly, please go to [996-License-Draft](https://github.com/kattgu7/996-License-Draft). Thank you.
+> For law professionals or anyone who are willing to contribute to further version directly, please go to [996-License-Draft](https://github.com/kattgu7/996-License-Draft). Thank you...
 
 
 
