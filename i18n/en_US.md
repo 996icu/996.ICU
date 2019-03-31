@@ -85,13 +85,13 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 
 ## Gaining in popularity and publicity
 
-- In early September 2016, according to reliable news that __*58.com*__  A.K.A. `58同城` (NYSE：WUBA) which is a classified advertisements company introduced the "996" work schedule, without paying employees weekends overtime. The company later claimed that the schedule was only practised to manage extra workload during peak season(September and October) and this schedule is not a mandatory requirement.
+- In early September 2016, according to reliable news that __*58.com*__  A.K.A. `58同城` (NYSE：WUBA), a classified advertisements company, introduced the "996" work schedule without paying employees weekends overtime. The company later claimed that the schedule was only practised to manage extra workload during peak seasons(September and October) and this schedule is not a mandatory requirement.
 
-- In January 2019, __*Youzan*__ A.K.A. `有赞` (HKG: 8083) which is a Hangzhou-based E-commerce company) announced the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded,
+- In January 2019, __*Youzan*__ A.K.A. `有赞` (HKG: 8083), a Hangzhou-based E-commerce company, announced the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded that
 
   > "This will definitely be a right decision when we look back in a few years."
 
-- In March 2019, it was reported that __*JD.com*__  A.K.A. `京东` (NASDAQ: JD) which is a major E-commerce company) started adopting "996" or "995" work schedules in some departments. The PR of JD posted on Maimai (`脉脉`, a Chinese real-name business social network platform), stated that 
+- In March 2019, it was reported that __*JD.com*__  A.K.A. `京东` (NASDAQ: JD), a major E-commerce company, started adopting "996" or "995" work schedules in some departments. The PR of JD posted on Maimai (`脉脉`, a Chinese real-name business social network platform), stated that 
 
   > "(Our culture is) to devote ourselves wholeheartedly (to achieve the business objectives)".
 
