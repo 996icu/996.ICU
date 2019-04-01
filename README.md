@@ -16,6 +16,10 @@ What is 996?
 ---
 A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
 
+*****
+
+“996”工作制是指一种正在愈发流行的非官方工作制（9 a.m. ~ 9 p.m.，一周工作六天）。在鼓励“996”工作制的公司工作，通常意味着每周至少工作60小时。
+
 What can I do?
 ---
 
