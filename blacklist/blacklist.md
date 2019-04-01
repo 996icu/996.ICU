@@ -56,3 +56,8 @@
 |深圳|[大疆创新](https://www.dji.com/cn)|2018年12月|996|[程序员猝死之后大疆称无加班文化 离职员工怒了](https://baijiahao.baidu.com/s?id=1619909152168711034&wfr=spider&for=pc)|
 |武汉|[氪细胞](http://www.timing360.com/)|2019年3月|996|名义上996，实际下班时间更晚<br>[考勤日历](img/timing360-0823.jpg)<br>[考勤规则](img/timing360-1201.jpg)|
 |广州|[多益网络](https://www.duoyi.com)|2018年3月|9106|[看准](https://www.kanzhun.com/gsr1365983tl56.html)、[知乎](https://www.zhihu.com/question/22713470/answer/145287600)|
+
+
+更多黑名单
+---
+[shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)
