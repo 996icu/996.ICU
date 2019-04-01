@@ -19,9 +19,10 @@ What can I do?
 ---
 
 - Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
-更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
-把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
+---
+- 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
+- 把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
 
 
 The principle and purpose Of this repository!
