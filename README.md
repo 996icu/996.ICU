@@ -32,7 +32,7 @@ What can I do?
 *****
 
 - 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
-- 把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
+- 把这个[徽章](externals/instruction.md)加入你的项目来支持 996.ICU
 - 为您的项目添加[反 996 许可证](LICENSE_CN)。
 
 Principles and purposes
@@ -50,7 +50,7 @@ Principles and purposes
 
 *****
 
-* 996.ICU 是IT从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
+* 996.ICU 是 IT 从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
 
 * 这并不是一个政治运动，我们坚定维护劳动法，我们要求雇主尊重雇员的合法权益。
 
@@ -96,10 +96,10 @@ License
 
 [Anti-996 License](LICENSE)
 
- - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work 
+ - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work
  - See a [full list of projects](awesomelist/projects.md) under Anti-996 License
  - It is an idea of @xushunke: [Design A Software License Of Labor Protection -- 996ICU License](https://github.com/996icu/996.ICU/pull/15642)
- - This version of Anti 996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).  
+ - This version of Anti-996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).  
  - This draft is adapted from the MIT license. For more detailed explaination, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
  - For law professionals or anyone who are willing to contribute to further version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
 
