@@ -22,13 +22,15 @@ What can I do?
 
 - Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
-- License your awesome projects with the 996ICU License.
----
+- License your awesome projects with the [996ICU License](LICENSE).
+
+*****
+
 - 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 - 把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
-- 为您的项目添加996ICU License。
+- 为您的项目添加[996ICU License](LICENSE_CN)。
 
-The principle and purpose of this repository!
+Principles and purposes
 ---
 * 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
 
@@ -74,19 +76,15 @@ So I **personally** decided to switch it off, not by GitHub or others.
 
 License
 ---
-[Anti 996 License](LICENSE)
+[Anti-996 License](LICENSE)
 
- - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work schedule.
- - It is an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**. See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.
-> This version of Anti 996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).
->
-> This draft is adapted from the MIT license. For more detailed explaination, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.
->
+ - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work 
+ - See a [full list of projects](awesomelist/projects.md) under 996ICU License 
+ - It is an idea of @xushunke: [Design A Software License Of Labor Protection -- 996ICU License](https://github.com/996icu/996.ICU/pull/15642)
+ - This version of Anti 996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).  
+ - This draft is adapted from the MIT license. For more detailed explaination, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
+ - For law professionals or anyone who are willing to contribute to further version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
 
-> For law professionals or anyone who are willing to contribute to further version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
 
-Awesome projects under 996ICU License:
----
-[See a full list of projects under 996ICU License](awesomelist/projects.md).
 
 
