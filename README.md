@@ -70,6 +70,10 @@ Where are the issues?
 Even with interaction limits on, the issue area was totally out of control.  
 So I **personally** decided to switch it off, not by GitHub or others.
 
+Weapons
+---
+[Thanos.sh](https://github.com/hotvulcan/Thanos.sh)
+
 License
 ---
 [996ICU License](LICENSE)  
