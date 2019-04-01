@@ -62,6 +62,11 @@ Community powers
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo designed to let more people know and join the activity of 996.ICU.
 
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
+ 
+Other social platforms：
+ - [知乎(zhihu.com)](https://www.zhihu.com/question/317722302) 如何看待程序员在 GitHub 发起抗议互联网公司实行 996 工作制网站
+ - [微博(weibo.com)](https://s.weibo.com/weibo/996icu?topnav=1&wvr=6&b=1) 微博搜索-996.ICU
+ 
 
 Where are the issues?
 ---
