@@ -7,7 +7,9 @@ The name `996.ICU` refers to **'Work by "996", sick in ICU'**, an ironic saying 
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 [![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
 
-> If you want to reference 996.icu badge, read [What can I do?](#what-can-i-do) as follow.
+Join discussion at [slack](https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ).
+
+If you want to reference 996.icu badge, read [What can I do?](#what-can-i-do) as follow.
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect to honorable developers.
 
@@ -21,10 +23,10 @@ What can I do?
 - Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
-把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
+把这个[徽章](externals/instruction.md)加入你的项目来支持 996.ICU
 
 
-The principle and purpose Of this repository!
+The principle and purpose of this repository!
 ---
 * 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
 
@@ -34,7 +36,7 @@ The principle and purpose Of this repository!
 
 * We are willing to hear all positive and constructive proposals and advocate for mature and responsible speech.
 
-* We are working on the drafting of 996 License right now and we hope to get help from professionals with relevant experience.
+* We are working on the drafting of 996ICU License right now and we hope to get help from professionals with relevant experience.
 
 *****
 
@@ -74,11 +76,8 @@ License
 
  - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work schedule.
  - It is an idea of @xushunke: **Design A Software License Of Labor Protection -- 996ICU License**. See [#15642](https://github.com/996icu/996.ICU/pull/15642) for more details.  
-> This version of 996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).
+> This version of 996ICU License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).
 > 
 > This draft is adapted from the MIT license. For more detailed explaination, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.
 > 
 > For law professionals or anyone who are willing to contribute to further version directly, please go to [996-License-Draft](https://github.com/kattgu7/996-License-Draft). Thank you.
-
-
-
