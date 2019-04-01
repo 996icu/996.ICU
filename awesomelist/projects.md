@@ -19,4 +19,4 @@ Projects under 996ICU License. Thanks for your support!
 | - | [WeChatBlog](https://github.com/NiZerin/WeChatBlog) |[NiZerin](https://github.com/NiZerin)| 微信小程序 & 个人博客 & WordPress REST API  |
 | ![](https://github.com/cookieY/Yearning/blob/master/logo.png) | [Yearning](https://github.com/cookieY/Yearning) |[cookieY](https://github.com/cookieY)| Mysql SQL审核平台  |
 | | [java-multi-thread-programming](https://github.com/loveincode/java-multi-thread-programming) |[java-multi-thread-programming/](https://loveincode.github.io/java-multi-thread-programming/)| 《Java多线程编程核心技术》源码  |
-| ![](https://loveincode.github.io/notes/assets/img/logo.png)| [notes](https://github.com/loveincode/notes) |[https://loveincode.github.io/notes/](https://loveincode.github.io/notes/)| 一个Java后端工程师的学习笔记  |
+| | [notes](https://github.com/loveincode/notes) |[https://loveincode.github.io/notes/](https://loveincode.github.io/notes/)| 一个Java后端工程师的学习笔记  |
