@@ -25,7 +25,7 @@ What can I do?
 ---
 - 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 - 把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
--
+- 为您的项目添加996ICU License。
 
 The principle and purpose of this repository!
 ---
