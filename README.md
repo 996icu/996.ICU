@@ -62,13 +62,13 @@ Principles and purposes
 
 * 目前反 996 许可证还处于起草阶段，希望有相关经验的专业人士能给予帮助。
 
-Proposal
+Proposals
 ---
 A proposal is a document accepted by 996.ICU.  
 Typically, a proposal should give a solution or suggestion about the development of the project and community.  
 For more details, you can read the [proposal template](proposal/proposal_template.md) document.  
 
-To help the development of 996.ICU, you can do serval things base on proposals.
+To help the development of 996.ICU, you can do several things base on proposals.
 
 - Read the accepted proposals and try to improve them.
 - Take actions according to the accepted proposals.
