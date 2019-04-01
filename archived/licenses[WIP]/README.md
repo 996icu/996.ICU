@@ -8,10 +8,6 @@
 - [可扩展其他协议的 996ICU 协议模板的英文翻译版本](LICENSE.996icu.en-US)
 - [禁止加班的 Apache 协议](LICENSE_Apache_no_overtime)
 
-## 其他信息
-
-- [已使用 996ICU 协议的项目](projects_supporting_996_LICENSE.md)
-
 ## 工具
 
 [这个工具](tools/gen-license/) 可以帮助你随时组合 996ICU 与其他协议.
