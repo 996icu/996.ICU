@@ -17,3 +17,4 @@ Projects under 996ICU License. Thanks for your support!
 |  | [app_server](https://github.com/wildfirechat/app_server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，应用服务 |
 |  | [robot_server](https://github.com/wildfirechat/robot_server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，机器人服务 |
 | - | [WeChatBlog](https://github.com/NiZerin/WeChatBlog) |[NiZerin](https://github.com/NiZerin)| 微信小程序 & 个人博客 & WordPress REST API  |
+| ![](https://github.com/cookieY/Yearning/blob/master/logo.png) | [Yearning](https://github.com/cookieY/Yearning) |[cookieY](https://github.com/cookieY)| Mysql SQL审核平台  |
