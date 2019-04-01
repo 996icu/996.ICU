@@ -1,4 +1,4 @@
-996（或其他违法加班制度）公司名单
+﻿996（或其他违法加班制度）公司名单
 ===
 违法加班制度是指有证据证明的违反相关法律法规及劳动合同，未经与工会和劳动者协商便强制加班加点，或加班加点超出法定时限（每日超过三小时或每月超过三十六小时），或未足额支付加班加点工资报酬的非法用工制度。
 
@@ -61,7 +61,7 @@
 |深圳|[马上金融](https://www.msxf.com/)|2018年3月|996|每天下班开会分享，实际超过996<br>[看准网](https://www.kanzhun.com/pl5641018.html)
 |北京|[北京霁云科技](https://xin.baidu.com/detail/compinfo?pid=xlTM-TogKuTwdr2zNtf0Zpjhxx2gQd9FZQmd&from=ps)|2019年3月|996|[boss直聘](https://www.zhipin.com/gongsi/2c08264377f4a5c61nx739i-Fw~~.html?ka=search_rcmd_company_2c08264377f4a5c61nx739i-Fw~~)|
 |广州|[多益网络](https://www.duoyi.com)|2018年3月|9106|[看准](https://www.kanzhun.com/gsr1365983tl56.html)、[知乎](https://www.zhihu.com/question/22713470/answer/145287600)|
-
+|珠海|[珠海腾云科技有限责任公司](http://www.tycom.cn)|2017年10月|995|印象中晚上6点多下班，实际上一般要工作10点多11点，有次我工作到10点多，看到那个技术主管晚上10点多也回公司工作，我看到他黑黑的黑眼圈都心凉，这个公司这样的工作时间难怪留不住员工，腾云他那边公司空荡荡的，珠海腾云表面上写的很好，职业招聘要求也很低，但是谁去谁后悔[智联招聘](http://jobs.zhaopin.com/CZ689187520J00100369301.htm)|
 
 
 更多黑名单
