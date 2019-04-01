@@ -18,7 +18,8 @@ Projects under 996ICU License. Thanks for your support!
 |  | [robot_server](https://github.com/wildfirechat/robot_server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，机器人服务 |
 | - | [WeChatBlog](https://github.com/NiZerin/WeChatBlog) |[NiZerin](https://github.com/NiZerin)| 微信小程序 & 个人博客 & WordPress REST API  |
 | ![](https://github.com/cookieY/Yearning/blob/master/logo.png) | [Yearning](https://github.com/cookieY/Yearning) |[cookieY](https://github.com/cookieY)| Mysql SQL审核平台  |
+| - | [mina-gulp-cli](https://github.com/milobluebell/mina-gulp-cli) | https://github.com/milobluebell/mina-gulp-cli | 一个轻量级的小程序开发脚手架，基于gulp 
+| - | [aya-store](https://github.com/milobluebell/aya-store) | https://github.com/milobluebell/aya-store | 小程序状态管理模块
 | - | [eppdev-jee-pom](https://github.com/eppdev/eppdev-jee-pom) | https://jee.eppdev.cn | 数据驱动的JavaEE代码生成程序 |
 | <img src="https://github.com/cookieY/Yearning/raw/master/logo.png" width="60"> | [Yearning](https://github.com/cookieY/Yearning) |[cookieY](https://github.com/cookieY)| Mysql SQL审核平台  |
 | <img src="https://github.com/l-hammer/You-need-to-know-css/raw/master/static/logo.png" width="60"> | [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) |[-](https://lhammer.cn/You-need-to-know-css)| 💄CSS tricks for web developers~ |
-
