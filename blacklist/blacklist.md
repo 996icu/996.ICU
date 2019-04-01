@@ -43,7 +43,6 @@
 |广州|[鲸鱼游戏](http://www.adjingyu.com/)|2017年3月|996|[考勤](https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg)|
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
 |北京|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
-|北京|[云族佳](https://www.clouderwork.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC599223521J00125821109.htm)|
 |苏州|[苏州科技城](http://www.sstt.gov.cn/)|2019年3月|996|[智联招聘(请看html源代码)](https://jobs.zhaopin.com/CC549324722J00346803701.htm)|
 |北京|[中软国际](www.chinasofti.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC508620126J00303154805.htm)|
 |北京|[柯莱特](http://www.camelotchina.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120179637J00117070515.htm)|
@@ -57,3 +56,6 @@
 |深圳|[大疆创新](https://www.dji.com/cn)|2018年12月|996|[程序员猝死之后大疆称无加班文化 离职员工怒了](https://baijiahao.baidu.com/s?id=1619909152168711034&wfr=spider&for=pc)|
 |武汉|[氪细胞](http://www.timing360.com/)|2019年3月|996|名义上996，实际下班时间更晚<br>[考勤日历](img/timing360-0823.jpg)<br>[考勤规则](img/timing360-1201.jpg)|
 |上海|[游族网络](https://www.youzu.com/)|2018年3月|996|[你为什么从游族离职?-知乎](https://www.zhihu.com/question/22411680?sort=created)|-|
+|深圳|[马上金融](https://www.msxf.com/)|2018年3月|996|每天下班开会分享，实际超过996<br>[看准网](https://www.kanzhun.com/pl5641018.html)
+|北京|[北京霁云科技](https://xin.baidu.com/detail/compinfo?pid=xlTM-TogKuTwdr2zNtf0Zpjhxx2gQd9FZQmd&from=ps)|2019年3月|996|[boss直聘](https://www.zhipin.com/gongsi/2c08264377f4a5c61nx739i-Fw~~.html?ka=search_rcmd_company_2c08264377f4a5c61nx739i-Fw~~)|
+|广州|[多益网络](https://www.duoyi.com)|2018年3月|9106|[看准](https://www.kanzhun.com/gsr1365983tl56.html)、[知乎](https://www.zhihu.com/question/22713470/answer/145287600)|
