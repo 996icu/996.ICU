@@ -85,4 +85,4 @@ License
 
 Awesome projects under 996ICU License:
   
-[See a full list of projects under 996ICU License](awesomelist/awesomelist.md).
+[See a full list of projects under 996ICU License](awesomelist/projects.md).
