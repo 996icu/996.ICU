@@ -19,8 +19,9 @@ A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 
 What can I do?
 ---
 
-- Update this [list](blacklist/blacklist.md) with evidence to help every worker.
-- Add this [badge](externals/instruction.md) to your project to support 996.ICU.
+
+- Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
+- Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 - License your awesome projects with the 996ICU License.
 ---
 - 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
@@ -87,4 +88,5 @@ License
 Awesome projects under 996ICU License:
 ---
 [See a full list of projects under 996ICU License](awesomelist/projects.md).
+
 
