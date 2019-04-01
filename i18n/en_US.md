@@ -70,15 +70,15 @@ A "996" work schedule is in **blunt violation** of the _**Constitution of the Pe
 
 ### State Council Regulations on Working Hours of Employees
 
-### Article 3：
+### Article 3:
 > Workers and staff shall work 8 hours a day and 40 hours a week.
 
-### Article 6：
-> No unit or individual shall extend the working hours of their workers and staff without authorization. When the working hours are necessary to extend for the purpose of special case or emergent assignment， it shall be implemented according to the relevant provisions of the State.
+### Article 6:
+> No unit or individual shall extend the working hours of their workers and staff without authorization. When the working hours are necessary to extend for the purpose of special case or emergent assignment, it shall be implemented according to the relevant provisions of the State.
 
 ## Gaining popularity and publicity
 
-- In early September 2016, it is reported by reliable sources that __*58.com*__  A.K.A. `58同城` (NYSE：WUBA), a classified advertisements company, introduced the "996" work schedule, without paying employees weekends overtime. The company later claimed that the schedule was only practised to manage extra workload during peak season(September and October) and this schedule is not mandatory.
+- In early September 2016, it is reported by reliable sources that __*58.com*__  A.K.A. `58同城` (NYSE: WUBA), a classified advertisements company, introduced the "996" work schedule, without paying employees weekends overtime. The company later claimed that the schedule was only practised to manage extra workload during peak season(September and October) and this schedule is not mandatory.
 
 - In January 2019, __*Youzan*__ A.K.A. `有赞` (HKG: 8083), a Hangzhou-based E-commerce company, announced that the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded,
 
