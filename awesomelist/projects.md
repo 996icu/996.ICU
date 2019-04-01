@@ -17,3 +17,5 @@ Projects under 996ICU License. Thanks for your support!
 |  | [app_server](https://github.com/wildfirechat/app_server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，应用服务 |
 |  | [robot_server](https://github.com/wildfirechat/robot_server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，机器人服务 |
 | - | [WeChatBlog](https://github.com/NiZerin/WeChatBlog) |[NiZerin](https://github.com/NiZerin)| 微信小程序 & 个人博客 & WordPress REST API  |
+| - | [Android-KlineChar](https://github.com/icechao/kline) |[icechao](https://github.com/icechao)| 安卓高仿火币,快速实现K线功能的lib |
+
