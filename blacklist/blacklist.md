@@ -36,7 +36,7 @@
 |六安|[六安人论坛](http://www.luanren.com)|2019年03月|007|[微信群](http://vip.luanren.com/20190329.png)|
 |北京|[用友](http://www.yonyou.com/)|2018年12月|997|[在用友工作是怎样一番体验？ - 知乎](https://www.zhihu.com/question/26683235)|
 |杭州|[阿里巴巴](https://www.alibabagroup.com/)|2018年6月|996|[阿里巴巴的996加班文化，看到这些恐怖数据，你也会辞职！](https://kuaibao.qq.com/s/20180612A1FAPU00)|
-|杭州|[蚂蚁金服](https://www.antfin.com/)|2018年11月|9106|[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](htts://kuaibao.qq.com/s/20180612A1FAPU00))|
+|杭州|[蚂蚁金服](https://www.antfin.com/)|2018年11月|9106|[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q)|
 |北京|[字节跳动](https://bytedance.com)|2017年7月|加班|[看准](https://www.kanzhun.com/gsr5622411tl56.html)、[搜狐](https://www.sohu.com/a/256795805_231667)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
 |深圳|[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[深信服真的每天加班到 11 点吗](https://www.v2ex.com/t/525495)|
