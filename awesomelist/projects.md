@@ -2,7 +2,7 @@
 ===
 无论大小，从我做起，贡献出一份属于自己的力量。已加入 996ICU License 项目列表，欢迎随时补充。
 
-[Chansos-Icon]:https://image.chansos.com/static/icon_bunny_large.png
+[Chansos-Icon]:./img/icon.chansos.com.png
 [Chansos-Website-Official]:https://chansos.com
 [Chansos-Website-Github]:https://github.com/ChangedenCZD
 
