@@ -1,4 +1,4 @@
-Projects under 996ICU License. Thanks for your support!
+ Projects under 996ICU License. Thanks for your support!
 ===
 无论大小，从我做起，贡献出一份属于自己的力量。已加入 996ICU License 项目列表，欢迎随时补充。
 
@@ -30,6 +30,17 @@ Projects under 996ICU License. Thanks for your support!
 | - | [Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary) |[Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary)| 🔥Android MVP快速开发框架，做国内 「Demo最全面」「注释最详细」「使用最简单」「代码最严谨」的Android开源UI框架  |
 | <img src="https://xpnet-public.oss-cn-hangzhou.aliyuncs.com/color_admin_v4.2/frontend/template/assets/img/leetcode/leetcode.png"> | [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) |[Kyle Liu](https://github.com/kylesliu)| Leetcode Golang 题解 |
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [PsChina](https://github.com/PsChina) | vue2.x 过滤器插件 | 
+| - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | https://github.com/jaweii/Vueg----page-transition-plugin | Page level transition plugin for vue-router| 
 | - | [one](https://github.com/lizhichao/one) | https://github.com/lizhichao/one | 一个极简的高性能常驻内存php框架| 
 | <img src="https://github.com/elesos/image/raw/master/starrtc.png" width="100"> | [starRTC](https://github.com/starrtc/starrtc-server) |[starRTC](https://starRTC.com)| 免费IM，免费视频通话，免费视频会议，免费直播连麦服务端  |
 | <img src="https://github.com/elesos/image/raw/master/starrtc.png" width="100"> | [starRTC](https://github.com/starrtc/starrtc-android-demo) |[starRTC](https://starRTC.com)| 免费IM，免费视频通话，免费视频会议，免费直播连麦安卓客户端  |
+| - | [vue-color-ui](https://github.com/martin-yin/vue-color-ui) | https://github.com/martin-yin/vue-color-ui | 微信小程序color-ui的vue版本 | 
+| - | [WxJava](https://github.com/Wechat-Group/WxJava) | https://github.com/Wechat-Group/WxJava | 微信开发 Java SDK| 
+| - | [cyclone](https://github.com/simpleapples/cyclone) | https://github.com/simpleapples/cyclone | Cyclone is a go package to spawn, reuse and manage a number of goroutines by a pool. | 
+| - | [NumbCube](https://github.com/KirosHan/NumbCube) | https://github.com/KirosHan/NumbCube | NumbCube流媒体直播解决方案 |
+| - | [bootcdn](https://github.com/AJLoveChina/bootcdn) | https://github.com/AJLoveChina/bootcdn | :wrench:快速查询一个开源库在bootcdn的URL地址| 
+| - | [vue-keyboard](https://github.com/AJLoveChina/vue-keyboard) | https://ajlovechina.github.io/vue-keyboard/docs/index.html | :musical_keyboard:A real hand tapping keyboard for vuejs.| 
+| - | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | https://github.com/pphdsny/Leetcode-Java | Leetcode java题解，持续更新| 
+| - | [dynamic-add-date](https://github.com/yidasanqian/dynamic-add-date) | https://github.com/yidasanqian/dynamic-add-date | 一款基于MyBatis框架，可以对插入和更新Sql语句动态地添加日期列和对应值的插件| 
+| - |[WebSocketDemo](https://github.com/0xZhangKe/WebSocketDemo)|https://github.com/0xZhangKe/WebSocketDemo|用于简化 WebSocket 在 Android 平台使用的封装方法|
+| - |[ShiZhong](https://github.com/0xZhangKe/ShiZhong)|https://github.com/0xZhangKe/ShiZhong|一个用于制定各种计划的APP|
