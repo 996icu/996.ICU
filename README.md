@@ -22,7 +22,7 @@ What can I do?
 - Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 - License your awesome projects with the 996ICU License.
-- Now, some browsers such as **360 speed browser** have banned access to 996.ICU.We suggest you switch to another browser, such as Google Chrome.
+- Now, some browsers (such as **360 speed browser**) have banned access to 996.ICU.We suggest you switch to another browser, such as Google Chrome.
 ---
 - 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 - 把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
