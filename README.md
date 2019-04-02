@@ -83,6 +83,16 @@ Expand influence
 
 [996.ICU 内容翻译](i18n/i18n.md)，请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
 
+Reaction of Major Chinese Company
+---
+
+Huawei
+---
+
+Huawei Browser (the default browser of Huawei Phone) start (as of April 2rd 2:30pm Beijing Time) to warn user that the web page of this repo is malicious. User have to select to continue or not. 
+
+
+
 Community powers
 ---
 
