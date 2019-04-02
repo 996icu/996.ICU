@@ -1,4 +1,4 @@
-Projects under 996ICU License. Thanks for your support!
+ Projects under 996ICU License. Thanks for your support!
 ===
 无论大小，从我做起，贡献出一份属于自己的力量。已加入 996ICU License 项目列表，欢迎随时补充。
 
@@ -33,4 +33,6 @@ Projects under 996ICU License. Thanks for your support!
 | - | [one](https://github.com/lizhichao/one) | https://github.com/lizhichao/one | 一个极简的高性能常驻内存php框架| 
 | - | [bootcdn](https://github.com/AJLoveChina/bootcdn) | https://github.com/AJLoveChina/bootcdn | :wrench:快速查询一个开源库在bootcdn的URL地址| 
 | - | [vue-keyboard](https://github.com/AJLoveChina/vue-keyboard) | https://ajlovechina.github.io/vue-keyboard/docs/index.html | :musical_keyboard:A real hand tapping keyboard for vuejs.| 
+| - | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | https://github.com/pphdsny/Leetcode-Java | Leetcode java题解，持续更新| 
+| - | [dynamic-add-date](https://github.com/yidasanqian/dynamic-add-date) | https://github.com/yidasanqian/dynamic-add-date | 一款基于MyBatis框架，可以对插入和更新Sql语句动态地添加日期列和对应值的插件| 
 
