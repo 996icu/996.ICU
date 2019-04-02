@@ -96,11 +96,11 @@ Community powers
  
 *****
 
- - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的相向 Repo，旨在让更多的人逃离 996，加入 955 的行列。
+ - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的反向Repo，旨在让更多的人逃离 996，加入 955 的行列。
 
- - [996.LAW](https://github.com/Y1ran/996.Law)法律板块，此Repo主要收集大家的仲裁、民事诉讼信息。
+ - [996.LAW](https://github.com/Y1ran/996.Law) 法律板块，此Repo主要收集大家的仲裁、民事诉讼信息。
 
- - [996.TSC](https://github.com/lxlxw/996.TSC)周边文化创意板块，通过图片等形式的传播，让更多人知道并加入996.ICU的活动中来。
+ - [996.TSC](https://github.com/lxlxw/996.TSC) 周边文化创意板块，通过图片等形式的传播，让更多人知道并加入996.ICU的活动中来。
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此Repo为996和955的匿名投票列表。
 
