@@ -97,4 +97,4 @@ According to the Labour Law, employees who follow the "996" work schedule deserv
 
 If you continue to tolerate the "996" work schedule, you will risk your own health and might need to stay in an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
 
-__Developers' lives matter.__
+__Humanity Over Profit.__
