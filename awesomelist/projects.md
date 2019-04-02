@@ -46,3 +46,5 @@
 | - |[ShiZhong](https://github.com/0xZhangKe/ShiZhong)|https://github.com/0xZhangKe/ShiZhong|一个用于制定各种计划的APP|
 | - |[boilerplate-creator](https://github.com/oychao/boilerplate-creator)|https://github.com/oychao/boilerplate-creator|一个支持自定义模板源的脚手架构建工具|
 | - |[react-router-alive](https://github.com/oychao/react-router-alive)|https://github.com/oychao/react-router-alive|react-router版的keep-alive路由组件|
+| - | [SKM](https://github.com/TimothyYe/skm) | https://github.com/TimothyYe/skm | A simple and powerful SSH Keys Manager.|
+| - |[ajax-js](https://github.com/GerryIsWarrior/ajax)|https://github.com/GerryIsWarrior/ajax|前端ajax解决方案，励志让前端更美好的库|
