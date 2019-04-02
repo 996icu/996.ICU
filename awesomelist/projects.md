@@ -31,7 +31,7 @@
 | | [java-multi-thread-programming](https://github.com/loveincode/java-multi-thread-programming) |[java-multi-thread-programming/](https://loveincode.github.io/java-multi-thread-programming/)| 《Java多线程编程核心技术》源码  |
 | | [notes](https://github.com/loveincode/notes) |[https://loveincode.github.io/notes/](https://loveincode.github.io/notes/)| 一个Java后端工程师的学习笔记  |
 | ![](https://raw.githubusercontent.com/TommyLemon/APIJSON/master/logo.png) | [APIJSON](https://github.com/TommyLemon/APIJSON) |[APIJSON.org](http://apijson.org/)| 🏆码云最有价值开源项目<br />🚀自动化接口和文档 ORM 库：后端接口和文档自动化，前端(客户端) 定制返回JSON的数据和结构！  |
-| - | [mina-gulp-cli](https://github.com/milobluebell/mina-gulp-cli) | https://github.com/milobluebell/mina-gulp-cli | 一个轻量级的小程序开发脚手架，基于gulp 
+| - | [mina-gulp-cli](https://github.com/milobluebell/mina-gulp-cli) | https://github.com/milobluebell/mina-gulp-cli | 一个轻量级的小程序开发脚手架，基于gulp
 | - | [aya-store](https://github.com/milobluebell/aya-store) | https://github.com/milobluebell/aya-store | 小程序状态管理模块
 | - | [eppdev-jee-pom](https://github.com/eppdev/eppdev-jee-pom) | https://jee.eppdev.cn | 数据驱动的JavaEE代码生成程序 |
 | <img src="https://github.com/cookieY/Yearning/raw/master/logo.png" width="60"> | [Yearning](https://github.com/cookieY/Yearning) |[cookieY](https://github.com/cookieY)| Mysql SQL审核平台  |
@@ -39,19 +39,19 @@
 | - | [Android-KlineChar](https://github.com/icechao/kline) |[icechao](https://github.com/icechao)| 安卓高仿火币,快速实现K线功能的lib |
 | - | [Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary) |[Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary)| 🔥Android MVP快速开发框架，做国内 「Demo最全面」「注释最详细」「使用最简单」「代码最严谨」的Android开源UI框架  |
 | <img src="https://xpnet-public.oss-cn-hangzhou.aliyuncs.com/color_admin_v4.2/frontend/template/assets/img/leetcode/leetcode.png"> | [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) |[Kyle Liu](https://github.com/kylesliu)| Leetcode Golang 题解 |
-| - | [easy-filter](https://github.com/PsChina/easy-filter) | [PsChina](https://github.com/PsChina) | vue2.x 过滤器插件 | 
-| - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | https://github.com/jaweii/Vueg----page-transition-plugin | Page level transition plugin for vue-router| 
-| - | [one](https://github.com/lizhichao/one) | https://github.com/lizhichao/one | 一个极简的高性能常驻内存php框架| 
+| - | [easy-filter](https://github.com/PsChina/easy-filter) | [PsChina](https://github.com/PsChina) | vue2.x 过滤器插件 |
+| - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | https://github.com/jaweii/Vueg----page-transition-plugin | Page level transition plugin for vue-router|
+| - | [one](https://github.com/lizhichao/one) | https://github.com/lizhichao/one | 一个极简的高性能常驻内存php框架|
 | <img src="https://github.com/elesos/image/raw/master/starrtc.png" width="100"> | [starRTC](https://github.com/starrtc/starrtc-server) |[starRTC](https://starRTC.com)| 免费IM，免费视频通话，免费视频会议，免费直播连麦服务端  |
 | <img src="https://github.com/elesos/image/raw/master/starrtc.png" width="100"> | [starRTC](https://github.com/starrtc/starrtc-android-demo) |[starRTC](https://starRTC.com)| 免费IM，免费视频通话，免费视频会议，免费直播连麦安卓客户端  |
-| - | [vue-color-ui](https://github.com/martin-yin/vue-color-ui) | https://github.com/martin-yin/vue-color-ui | 微信小程序color-ui的vue版本 | 
-| - | [WxJava](https://github.com/Wechat-Group/WxJava) | https://github.com/Wechat-Group/WxJava | 微信开发 Java SDK| 
-| - | [cyclone](https://github.com/simpleapples/cyclone) | https://github.com/simpleapples/cyclone | Cyclone is a go package to spawn, reuse and manage a number of goroutines by a pool. | 
+| - | [vue-color-ui](https://github.com/martin-yin/vue-color-ui) | https://github.com/martin-yin/vue-color-ui | 微信小程序color-ui的vue版本 |
+| - | [WxJava](https://github.com/Wechat-Group/WxJava) | https://github.com/Wechat-Group/WxJava | 微信开发 Java SDK|
+| - | [cyclone](https://github.com/simpleapples/cyclone) | https://github.com/simpleapples/cyclone | Cyclone is a go package to spawn, reuse and manage a number of goroutines by a pool. |
 | - | [NumbCube](https://github.com/KirosHan/NumbCube) | https://github.com/KirosHan/NumbCube | NumbCube流媒体直播解决方案 |
-| - | [bootcdn](https://github.com/AJLoveChina/bootcdn) | https://github.com/AJLoveChina/bootcdn | :wrench:快速查询一个开源库在bootcdn的URL地址| 
-| - | [vue-keyboard](https://github.com/AJLoveChina/vue-keyboard) | https://ajlovechina.github.io/vue-keyboard/docs/index.html | :musical_keyboard:A real hand tapping keyboard for vuejs.| 
-| - | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | https://github.com/pphdsny/Leetcode-Java | Leetcode java题解，持续更新| 
-| - | [dynamic-add-date](https://github.com/yidasanqian/dynamic-add-date) | https://github.com/yidasanqian/dynamic-add-date | 一款基于MyBatis框架，可以对插入和更新Sql语句动态地添加日期列和对应值的插件| 
+| - | [bootcdn](https://github.com/AJLoveChina/bootcdn) | https://github.com/AJLoveChina/bootcdn | :wrench:快速查询一个开源库在bootcdn的URL地址|
+| - | [vue-keyboard](https://github.com/AJLoveChina/vue-keyboard) | https://ajlovechina.github.io/vue-keyboard/docs/index.html | :musical_keyboard:A real hand tapping keyboard for vuejs.|
+| - | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | https://github.com/pphdsny/Leetcode-Java | Leetcode java题解，持续更新|
+| - | [dynamic-add-date](https://github.com/yidasanqian/dynamic-add-date) | https://github.com/yidasanqian/dynamic-add-date | 一款基于MyBatis框架，可以对插入和更新Sql语句动态地添加日期列和对应值的插件|
 | - |[WebSocketDemo](https://github.com/0xZhangKe/WebSocketDemo)|https://github.com/0xZhangKe/WebSocketDemo|用于简化 WebSocket 在 Android 平台使用的封装方法|
 | - |[ShiZhong](https://github.com/0xZhangKe/ShiZhong)|https://github.com/0xZhangKe/ShiZhong|一个用于制定各种计划的APP|
 | - |[BAButton](https://github.com/BAHome/BAButton)|https://github.com/BAHome/BAButton |一款OC语言的按钮各种文字图片状态的封装|
@@ -73,3 +73,4 @@
 | ![](https://github.com/ame017/AMEGetterMaker/blob/master/intro/introduce.png?raw=true) | [AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | [Github-AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | (Xcode)一个无需resign的Xcode懒加载生成器 |
 | ![](https://github.com/ame017/AMECategoryMaker/blob/master/Display/ACM-introduce.png) | [AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | [Github-AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | (Xcode)一个无需resign的Xcode category生成器 |
 | - | [Hikyuu](https://github.com/fasindog/hikyuu) | https://github.com/fasiondog/hikyuu | Hikyuu Quant Framework是一款基于C++/Python的高性能开源量化交易研究框架，用于策略分析及回测 |
+| ![vscode-syncing](https://github.com/nonoroazoro/vscode-syncing/blob/master/resources/logo.png?raw=true) | [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) | [Syncing - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) | Syncing 是一个 VSCode 扩展，它能在多台设备之间同步您的所有 VSCode 配置。 |
