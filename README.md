@@ -94,7 +94,7 @@ Huawei Browser (the default browser of Huawei Phone) starts (as of April 2nd 2:3
 Tencent
 ----
 
-Tencent block the web page of this repot totally (as of April 2nd afternoon local time). Usually, when user click a link in Wechat (Tencent Flagship Social Platform), Tencent will open the page in the embeded web browser of its own. However, the link is prohibited now. 
+Tencent block the web page of this repo totally (as of April 2nd afternoon local time). Usually, when user click a link in Wechat (Tencent Flagship Social Platform), Tencent will open the page in the embeded web browser of its own. However, the link is prohibited now. 
 
 
 
