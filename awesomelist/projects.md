@@ -32,4 +32,5 @@
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [PsChina](https://github.com/PsChina) | vue2.x 过滤器插件 | 
 | - | [one](https://github.com/lizhichao/one) | https://github.com/lizhichao/one | 一个极简的高性能常驻内存php框架| 
 | - | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | https://github.com/pphdsny/Leetcode-Java | Leetcode java题解，持续更新| 
+| - | [dynamic-add-date](https://github.com/yidasanqian/dynamic-add-date) | https://github.com/yidasanqian/dynamic-add-date | 一款基于MyBatis框架，可以对插入和更新Sql语句动态地添加日期列和对应值的插件| 
 
