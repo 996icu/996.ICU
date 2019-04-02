@@ -3,9 +3,15 @@ https://github.com/996icu/996.ICU/blob/master/blacklist/blacklist.md
 api
 https://archive.org/help/wayback_api.php
 
-save:
+检查：
 https://archive.org/wayback/available?url=
 
+保存:
+https://web.archive.org/save/url
 
-参考 https://github.com/gin-gonic/gin/blob/master/.travis.yml
 
+travis 配置参考 https://github.com/gin-gonic/gin/blob/master/.travis.yml
+
+
+
+遍历 blacklist.md 的所有链接，检查是否在 https://archive.org 存在。 不存在则提交保存。
