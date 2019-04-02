@@ -27,7 +27,7 @@ What can I do?
 - 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 - 把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
 - 为您的项目添加996ICU License。
-- 现在，很多浏览器（比如360极速浏览器）已经禁止访问996.ICU。我们建议您改用其他浏览器，比如Google Chrome.
+- 现在，很多浏览器（比如**360极速浏览器**）已经禁止访问996.ICU。我们建议您改用其他浏览器，比如Google Chrome.
 
 The principle and purpose of this repository!
 ---
