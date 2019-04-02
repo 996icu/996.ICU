@@ -1,14 +1,17 @@
 996.ICU
 ===
 
-## Introducing "996".
-996 working, ICU waiting.
+## What is this "996" in China.
+"996" means working from 9am to 9pm for 6 consecutive days each week as a regular workload. This is a popular schedule for tech companies in China. But it is actually illegal.
 
-A "996" work schedule is refering to an illegal work schedule. It starts from 9 a.m. and ends at 9 p.m. each day, six days a week, which has been gaining popularity among companies.
+As in many other countries in the world, working 40 hours a week is by default in China. 996 requires roughly 72 hours per week.
 
-Serving in a company that encourages this "996" work schedule usually means working for at least 60 hours a week.
+The major problem of 996 is that there is no compensation for extra hours. So the extra 30 woking hours each week does not receive any payment. In Chinese laws, there should be extra compensation for extra working hours. Many Chinese tech companies just ignore it. 
 
-## Laws and Regulations
+This is a disaster for employees' personal health and families. So we are afraid that working 72 hours each week easily get an employee into ICU(Intensive Care Unit, treatment for dying patients).
+
+
+## Chinese Laws and Regulations
 
 This "996" work schedule is in **blunt violation** of the _**Constitution of the People's Republic of China**_ along with multiple other legislations:
 
