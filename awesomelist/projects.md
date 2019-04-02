@@ -54,5 +54,4 @@
 | - |[ajax-js](https://github.com/GerryIsWarrior/ajax)|https://github.com/GerryIsWarrior/ajax|前端ajax解决方案，励志让前端更美好的库|
 | - | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | 一个使用FPN进行语义分割的实现|
 | - | [微信群聊游戏](https://github.com/Whoisurdady/WeChatRoomGame) | [https://github.com/Whoisurdady/WeChatRoomGame](https://github.com/Whoisurdady/WeChatRoomGame) | 一个利用微信python api实现的聊天机器人和成语接龙游戏|
-| - | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks | 一个使用FPN进行语义分割的实现|
 | - | [SlideBack](https://github.com/ParfoisMeng/SlideBack) | https://github.com/ParfoisMeng/SlideBack | (Android)无需继承的Activity侧滑返回库 类全面屏返回手势效果 仿“即刻”侧滑返回 |
