@@ -1,0 +1,11 @@
+https://github.com/996icu/996.ICU/blob/master/blacklist/blacklist.md
+
+api
+https://archive.org/help/wayback_api.php
+
+save:
+https://archive.org/wayback/available?url=
+
+
+参考 https://github.com/gin-gonic/gin/blob/master/.travis.yml
+

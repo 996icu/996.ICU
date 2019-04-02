@@ -1,0 +1,32 @@
+language: go
+
+matrix:
+  fast_finish: true
+  include:
+    - go: 1.11.x
+
+git:
+  depth: 10
+
+before_install:
+  - echo "before_install"
+
+install:
+  - echo "install"
+
+go_import_path: github.com/whtiehack/996.ICU
+
+script:
+  - echo "script list"
+  - cd ./blacklist/archive && go run
+
+after_success:
+  - echo "after_success"
+
+notifications:
+  webhooks:
+    urls:
+    #  - https://webhooks.gitter.im/e/7f95bf605c4d356372f4
+    on_success: change  # options: [always|never|change] default: always
+    on_failure: always  # options: [always|never|change] default: always
+    on_start: false     # default: false
