@@ -28,7 +28,7 @@ What can I do?
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 - License your awesome projects with the [996ICU License](LICENSE).  
 - Add proposals to give advise and suggestion about the development of 996.ICU.
-- Update this [list](whitelist/whitelist.md) with short description to help every worker find healthy company.  
+- Update this [list](whitelist/whitelist.md) with short description to help every worker find a good working environment company.  
 
 *****
 
@@ -36,7 +36,7 @@ What can I do?
 - 把这个[徽章](externals/instruction.md)加入你的项目来支持 996.ICU
 - 为您的项目添加[反 996 许可证](LICENSE_CN)。
 - 给社区与项目发展提出新的议案。
-- 更新这个[名单](whitelist/whitelist.md)（附带简单说明），来帮助每一位求职者寻求健康工作环境。
+- 更新这个[名单](whitelist/whitelist.md)（附带简单说明），来帮助每一位求职者寻求良好工作环境的企业。
 
 Principles and purposes
 ---
