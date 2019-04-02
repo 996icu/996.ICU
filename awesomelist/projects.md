@@ -23,15 +23,9 @@ Projects under 996ICU License. Thanks for your support!
 | - | [zhihu-crawler](https://github.com/wycm/zhihu-crawler) |https://github.com/wycm/zhihu-crawler| 基于Java的高性能、支持免费http代理池、横向扩展、分布式爬虫项目  |
 | <img src="https://mybatis.plus/img/logo.png" width="60"> | [MybatisPlus](https://github.com/baomidou/mybatis-plus)|[MybatisPlus](https://mybatis.plus/)| Mybatis 扩展组件 |
 | <img src="https://avatars0.githubusercontent.com/u/33191460?s=200&v=4" width="60"> | [server](https://github.com/wildfirechat/server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，server端 |
-| - | [android-chat](https://github.com/wildfirechat/android-chat) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，Android平台 SDK和Demo |
-| - | [ios-chat](https://github.com/wildfirechat/ios-chat) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，iOS平台 SDK和Demo |
-| - | [pc-chat](https://github.com/wildfirechat/pc-chat) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，PC 平台 Demo |
-| - | [app_server](https://github.com/wildfirechat/app_server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，应用服务 |
-| - | [robot_server](https://github.com/wildfirechat/robot_server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，机器人服务 |
 | - | [WeChatBlog](https://github.com/NiZerin/WeChatBlog) |[NiZerin](https://github.com/NiZerin)| 微信小程序 & 个人博客 & WordPress REST API  |
 | ![](https://github.com/cookieY/Yearning/blob/master/logo.png) | [Yearning](https://github.com/cookieY/Yearning) |[cookieY](https://github.com/cookieY)| Mysql SQL审核平台  |
 | - | [java-multi-thread-programming](https://github.com/loveincode/java-multi-thread-programming) |[java-multi-thread-programming/](https://loveincode.github.io/java-multi-thread-programming/)| 《Java多线程编程核心技术》源码  |
-| - | [notes](https://github.com/loveincode/notes) |[https://loveincode.github.io/notes/](https://loveincode.github.io/notes/)| 一个Java后端工程师的学习笔记  |
 | ![](https://raw.githubusercontent.com/TommyLemon/APIJSON/master/logo.png) | [APIJSON](https://github.com/TommyLemon/APIJSON) |[APIJSON.org](http://apijson.org/)| 🏆码云最有价值开源项目<br />🚀自动化接口和文档 ORM 库：后端接口和文档自动化，前端(客户端) 定制返回JSON的数据和结构！  |
 | - | [mina-gulp-cli](https://github.com/milobluebell/mina-gulp-cli) | https://github.com/milobluebell/mina-gulp-cli | 一个轻量级的小程序开发脚手架，基于gulp
 | - | [aya-store](https://github.com/milobluebell/aya-store) | https://github.com/milobluebell/aya-store | 小程序状态管理模块
@@ -51,7 +45,6 @@ Projects under 996ICU License. Thanks for your support!
 | - | [NumbCube](https://github.com/KirosHan/NumbCube) | https://github.com/KirosHan/NumbCube | NumbCube流媒体直播解决方案 |
 | - | [bootcdn](https://github.com/AJLoveChina/bootcdn) | https://github.com/AJLoveChina/bootcdn | :wrench:快速查询一个开源库在bootcdn的URL地址|
 | - | [vue-keyboard](https://github.com/AJLoveChina/vue-keyboard) | https://ajlovechina.github.io/vue-keyboard/docs/index.html | :musical_keyboard:A real hand tapping keyboard for vuejs.|
-| - | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | https://github.com/pphdsny/Leetcode-Java | Leetcode java题解，持续更新|
 | - | [dynamic-add-date](https://github.com/yidasanqian/dynamic-add-date) | https://github.com/yidasanqian/dynamic-add-date | 一款基于MyBatis框架，可以对插入和更新Sql语句动态地添加日期列和对应值的插件|
 | - |[WebSocketDemo](https://github.com/0xZhangKe/WebSocketDemo)|https://github.com/0xZhangKe/WebSocketDemo|用于简化 WebSocket 在 Android 平台使用的封装方法|
 | - |[ShiZhong](https://github.com/0xZhangKe/ShiZhong)|https://github.com/0xZhangKe/ShiZhong|一个用于制定各种计划的APP|
@@ -74,10 +67,8 @@ Projects under 996ICU License. Thanks for your support!
 | ![](https://github.com/ame017/AMEGetterMaker/blob/master/intro/introduce.png?raw=true) | [AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | [Github-AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | (Xcode)一个无需resign的Xcode懒加载生成器 |
 | ![](https://github.com/ame017/AMECategoryMaker/blob/master/Display/ACM-introduce.png) | [AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | [Github-AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | (Xcode)一个无需resign的Xcode category生成器 |
 | <img src="https://hikyuu.org/images/hikyuu_logo.png" width="60"> | [Hikyuu](https://github.com/fasindog/hikyuu) | https://github.com/fasiondog/hikyuu | Hikyuu Quant Framework是一款基于C++/Python的高性能开源量化交易研究框架，用于策略分析及回测 |
-| ![vscode-syncing](https://github.com/nonoroazoro/vscode-syncing/blob/master/resources/logo.png?raw=true) | [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) | [Syncing - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) | Syncing 是一个 VSCode 扩展，它能在多台设备之间同步您的所有 VSCode 配置。 |
 | ![](https://raw.githubusercontent.com/zhangyu0310/MyPicture/master/Bounce.png) | [Bounce](https://github.com/zhangyu0310/bounce) | https://zhangyu0310.github.io/bounce/ | A C++11 network library in Linux. |
 | - | [Swoole IDE helper](https://github.com/wudi/swoole-ide-helper) | https://github.com/wudi/swoole-ide-helper | Auto completion, trigger suggest and view docs for Swoole in editor. |
-| - | [MyAlgorithm](https://github.com/ChongqingWangYu/MyAlgorithm)|[MyAlgorithm](https://github.com/ChongqingWangYu)| 算法题库持续更新，内含详细注释及解题思路。 |
 | ![csv2entity logo](https://raw.githubusercontent.com/juwikuang/csv2entity/master/csv.png) | [CSV2Entity](https://github.com/juwikuang/csv2entity) |[Github](https://github.com/juwikuang/csv2entity)| 用CSV生成.net class  |
 | <img src="https://raw.githubusercontent.com/1977474741/image-cropper/dev/image/code.jpg?v=0" width="150"> | [image-cropper](https://github.com/wx-plugin/image-cropper) |https://github.com/wx-plugin/image-cropper| 💯一款功能强大的微信小程序图片裁剪插件 |
 | <img src="https://raw.githubusercontent.com/unarxiv/CVPM/master/assets/logo_2_bg.png" width="60"> | [cvpm](https://github.com/unarxiv/cvpm) | [GitHub](https://github.com/unarxiv/cvpm) | 计算机视觉的包管理工具 |
