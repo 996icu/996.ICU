@@ -67,6 +67,6 @@
 |广州|[多益网络](https://www.duoyi.com)|2018年3月|9106|[看准网](https://www.kanzhun.com/gsr1365983tl56.html)、[知乎](https://www.zhihu.com/question/22713470/answer/145287600)|
 |北京|[北京必胜课教育科技有限公司](http://winlesson.com/)|2019年4月|966|[图片-1](img/bsk966-001.jpeg) [图片-2](img/bsk966-003.png)|
 |上海|[蝴蝶互动](http://hoodinn.hgame.com/default/index)|2019年2月|966|[知乎：如何评价蝴蝶互动？](https://www.zhihu.com/question/40858342/answer/616999472) / [聊天记录截图](img/蝴蝶互动-聊天记录.png) / ([所受委托资料-0](img/蝴蝶互动-报告委托截图-0.jpg)  [所受委托资料-1](img/蝴蝶互动-报告委托截图-1.jpg))|
-|深圳|[世纪纵横可以有限公司](http://www.viothink.com/?tdsourcetag=s_pctim_aiomsg)|2019年4月|966、加班、拖延工资|[拖欠工资](img/chat1.png),[拖欠工资](img/chat2.png),[拖欠工资](img/chat3.png)。而且经常加班到1、2点[加班1](img/taxi.jpg)[加班2](img/taxi2.jpg)[加班3](img/taxi3.jpg)。周六是强制上班|
+|深圳|[深圳市世纪纵横科技发展有限公司](http://www.viothink.com/?tdsourcetag=s_pctim_aiomsg)|2019年4月|966、加班、拖延工资|[拖欠工资](img/chat1.png),[拖欠工资](img/chat2.png),[拖欠工资](img/chat3.png)。而且经常加班到1、2点[加班1](img/taxi.jpg)[加班2](img/taxi2.jpg)[加班3](img/taxi3.jpg)。周六是强制上班|
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
