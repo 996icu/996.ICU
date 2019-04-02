@@ -55,4 +55,6 @@
 | - | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | 一个使用FPN进行语义分割的实现|
 | - | [微信群聊游戏](https://github.com/Whoisurdady/WeChatRoomGame) | [https://github.com/Whoisurdady/WeChatRoomGame](https://github.com/Whoisurdady/WeChatRoomGame) | 一个利用微信python api实现的聊天机器人和成语接龙游戏|
 | - | [SlideBack](https://github.com/ParfoisMeng/SlideBack) | https://github.com/ParfoisMeng/SlideBack | (Android)无需继承的Activity侧滑返回库 类全面屏返回手势效果 仿“即刻”侧滑返回 |
+| ![](https://github.com/ame017/AMEGetterMaker/blob/master/intro/introduce.png?raw=true) | [AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | [Github-AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | (Xcode)一个无需resign的Xcode懒加载生成器 |
+| ![](https://github.com/ame017/AMECategoryMaker/blob/master/Display/ACM-introduce.png) | [AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | [Github-AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | (Xcode)一个无需resign的Xcode category生成器 |
 | - | [Hikyuu](https://github.com/fasindog/hikyuu) | https://github.com/fasiondog/hikyuu | Hikyuu Quant Framework是一款基于C++/Python的高性能开源量化交易研究框架，用于策略分析及回测 |
