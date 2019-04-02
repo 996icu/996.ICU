@@ -37,11 +37,11 @@
 |北京|[京东](https://www.jd.com)|2019年3月|995|[京东回应995工作制：不会强制要求 但要全情投入.](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)|
 |北京|[58同城](https://www.58.com)|2016年9月|996|[58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
+|北京|[途家网](https://www.tujia.com)|2017年12月|897|[加班邮件、诉讼材料](https://iamybj.github.io/tujia/)|
 |杭州|[有赞](https://www.youzan.com)|2019年1月|996|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|
 |北京|[字节跳动](https://bytedance.com)|2017年7月|加班|[看准](https://www.kanzhun.com/gsr5622411tl56.html)、[搜狐](https://www.sohu.com/a/256795805_231667)|
 |上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
 |深圳|[大疆创新](https://www.dji.com/cn)|2018年12月|996|[程序员猝死之后大疆称无加班文化 离职员工怒了](https://baijiahao.baidu.com/s?id=1619909152168711034&wfr=spider&for=pc)|
-|北京|[途家网](https://www.tujia.com)|2017年12月|897|[加班邮件、诉讼材料](https://iamybj.github.io/tujia/)|
 |六安|[六安人论坛](http://www.luanren.com)|2019年03月|007|[微信群](http://vip.luanren.com/20190329.png)|
 |北京|[用友](http://www.yonyou.com/)|2018年12月|997|[在用友工作是怎样一番体验？ - 知乎](https://www.zhihu.com/question/26683235)|
 |深圳|[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[深信服真的每天加班到 11 点吗](https://www.v2ex.com/t/525495)|
