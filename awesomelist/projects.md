@@ -5,7 +5,7 @@ Projects under 996ICU License. Thanks for your support!
 贡献指南
 ===
 - LOGO尺寸
-  - 建议大小 `60 * 60`
+  - 建议大小 *60 * 60* `<img src="logo.png" width="60">`
 - 官网链接
   - 如果是GitHub仓库，请按此格式填写`[GitHub](url)`
   - 如果是其他网站，请按此格式填写`[官网名称或项目名称](url)`
