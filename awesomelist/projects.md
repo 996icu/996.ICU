@@ -81,4 +81,4 @@ Projects under 996ICU License. Thanks for your support!
 | ![csv2entity logo](https://raw.githubusercontent.com/juwikuang/csv2entity/master/csv.png) | [CSV2Entity](https://github.com/juwikuang/csv2entity) |[Github](https://github.com/juwikuang/csv2entity)| 用CSV生成.net class  |
 | <img src="https://raw.githubusercontent.com/1977474741/image-cropper/dev/image/code.jpg?v=0" width="150"> | [image-cropper](https://github.com/wx-plugin/image-cropper) |https://github.com/wx-plugin/image-cropper| 💯一款功能强大的微信小程序图片裁剪插件 |
 | <img src="https://raw.githubusercontent.com/unarxiv/CVPM/master/assets/logo_2_bg.png" width="60"> | [cvpm](https://github.com/unarxiv/cvpm) | [GitHub](https://github.com/unarxiv/cvpm) | 计算机视觉的包管理工具 |
-|  | [odoo payment](https://github.com/odoo-cn/payment)  | 开源ERP odoo 的 中国支付模块 |
+| <img src="https://odoocdn.com/openerp_website/static/src/img/assets/png/odoo_logo_tiny.png" width="60">   | [odoo payment](https://github.com/odoo-cn/payment)| [GitHub](https://github.com/odoo-cn)   | 开源ERP odoo 的 中国支付模块 |
