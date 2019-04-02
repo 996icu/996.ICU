@@ -77,5 +77,5 @@ Projects under 996ICU License. Thanks for your support!
 | ![vscode-syncing](https://github.com/nonoroazoro/vscode-syncing/blob/master/resources/logo.png?raw=true) | [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) | [Syncing - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) | Syncing 是一个 VSCode 扩展，它能在多台设备之间同步您的所有 VSCode 配置。 |
 | ![](https://raw.githubusercontent.com/zhangyu0310/MyPicture/master/Bounce.png) | [Bounce](https://github.com/zhangyu0310/bounce) | https://zhangyu0310.github.io/bounce/ | A C++11 network library in Linux. |
 | - | [Swoole IDE helper](https://github.com/wudi/swoole-ide-helper) | https://github.com/wudi/swoole-ide-helper | Auto completion, trigger suggest and view docs for Swoole in editor. |
-| - | [MyAlgorithm](https://github.com/ChongqingWangYu/MyAlgorithm)|[MyAlgorithm](https://github.com/ChongqingWangYu)| 后端算法题库持续更新 |
+| - | [MyAlgorithm](https://github.com/ChongqingWangYu/MyAlgorithm)|[MyAlgorithm](https://github.com/ChongqingWangYu)| 算法题库持续更新，内含详细注释及解题思路。 |
 | ![csv2entity logo](https://raw.githubusercontent.com/juwikuang/csv2entity/master/csv.png) | [CSV2Entity](https://github.com/juwikuang/csv2entity) |[Github](https://github.com/juwikuang/csv2entity)| 用CSV生成.net class  |
