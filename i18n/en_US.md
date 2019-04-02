@@ -1,16 +1,16 @@
 996.ICU
 ===
 
-## Introducing to "996".
+## Introducing "996".
 996 working, ICU waiting.
 
-A "996" work schedule refers to an illegal work schedule that starts from 9 a.m. and ends at 9 p.m. each day, six days a week, which has been gaining popularity.
+A "996" work schedule is refering to an illegal work schedule. It starts from 9 a.m. and ends at 9 p.m. each day, six days a week, which has been gaining popularity among companies.
 
-Serving in a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
+Serving in a company that encourages this "996" work schedule usually means working for at least 60 hours a week.
 
 ## Laws and Regulations
 
-A "996" work schedule is in **blunt violation** of the _**Constitution of the People's Republic of China**_ along with multiple other legislations:
+This "996" work schedule is in **blunt violation** of the _**Constitution of the People's Republic of China**_ along with multiple other legislations:
 
 ### The Constitution of the People's Republic of China
 
@@ -86,15 +86,15 @@ A "996" work schedule is in **blunt violation** of the _**Constitution of the Pe
 
 - In March 2019, it was reported that __*JD.com*__  A.K.A. `京东` (__*NASDAQ: JD*__), a major E-commerce company, started adopting "996" or "995" work schedules in some departments. The PR of JD posted on Maimai (`脉脉`, a Chinese real-name business social network platform), stated that 
 
-  > "(Our company culture is) to devote ourselves wholeheartedly (to achieve the business objectives)".
+  > "(Our company culture is) the devotion of ourselves wholeheartedly (to achieve the business objectives)".
 
-Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practised in multiple companies in China.
+Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practised in many companies in China.
 ## Compensation and benefits
 
-According to the Labour Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their basic salary. Unfortunately, people rarely receive this overtime pay.
+According to the Labour Law, employees who follow the "996" work schedule should be paid 2.275 times higher than their basic salary. Unfortunately, employees rarely receive this payment.
 
 ## The origin of this repo's name -- `996.ICU`
 
-If you continue to tolerate the "996" work schedule, you will risk your own health and might need to stay in an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
+Continue to tolerate the "996" work schedule will inevitably result in risking your own health, which may lead to staying in an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
 
 __Developers' lives matter.__
