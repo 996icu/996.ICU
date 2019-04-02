@@ -3,17 +3,14 @@
 
 The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
 
-[![Slack](https://img.shields.io/badge/slack-996ICU-%23de335e.svg)](https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
-
-Join the discussion on [slack](https://join.slack.com/t/996icu/shared_invite/enQtNTc5MTU4MDkxOTA1LTJlYWVmMGQxOWNjZDA2NzdkMzQ3MjkzYmFlYTAxMTczZGQ0NmQ5ZWY5MTVjODQ4MWFkZGRhMmRmY2UwZGUyOTQ).
 
 If you want to reference 996.ICU badge, read [What can I do?](#what-can-i-do) as follows.
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respects to honorable developers.
 
-感谢《中国青年报》为我们发声：[被“996”工作制围困的年轻人：像是定好闹钟的机器](https://www.chinanews.com/sh/2019/04-02/8797483.shtml)
+感谢《中国青年报》为我们发声：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
 
 What is 996?
 ---
@@ -28,22 +25,18 @@ What can I do?
 ---
 
 - Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
-- 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
-
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
-- 把这个[徽章](externals/instruction.md)加入你的项目来支持 996.ICU
-
 - License your awesome projects with the [996ICU License](LICENSE).  
-- 为您的项目添加[反 996 许可证](LICENSE_CN)。
-
 - Add proposals to give advise and suggestion about the development of 996.ICU.
-- 给社区与项目发展提出新的议案。
-
-- Update this [list](whitelist/whitelist.md) with evidence to help every worker.  
--更新这个[名单](whitelist/whitelist.md)（附带简单说明），来帮助每一位求职者寻求健康工作环境（听说企业要联合起来996让我们选无可选？他们可能低估了工人的力量！）。
+- Update this [list](whitelist/whitelist.md) with short description to help every worker find healthy company.  
 
 *****
 
+- 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
+- 把这个[徽章](externals/instruction.md)加入你的项目来支持 996.ICU
+- 为您的项目添加[反 996 许可证](LICENSE_CN)。
+- 给社区与项目发展提出新的议案。
+- 更新这个[名单](whitelist/whitelist.md)（附带简单说明），来帮助每一位求职者寻求健康工作环境。
 
 Principles and purposes
 ---
@@ -102,6 +95,16 @@ Community powers
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo designed to let more people know and join the activity of 996.ICU.
 
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
+ 
+*****
+
+ - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的相向 Repo，旨在让更多的人逃离 996，加入 955 的行列。
+
+ - [996.LAW](https://github.com/Y1ran/996.Law)法律板块，此Repo主要收集大家的仲裁、民事诉讼信息。
+
+ - [996.TSC](https://github.com/lxlxw/996.TSC)周边文化创意板块，通过图片等形式的传播，让更多人知道并加入996.ICU的活动中来。
+
+ - [996.LIST](https://github.com/fengT-T/996_list) 此Repo为996和955的匿名投票列表。
 
 Where are the issues?
 ---
