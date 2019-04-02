@@ -2,6 +2,12 @@
 ===
 无论大小，从我做起，贡献出一份属于自己的力量。已加入 996ICU License 项目列表，欢迎随时补充。
 
+贡献指南
+---
+ - 官网链接
+   - 如果是GitHub仓库，请按此格式填写`[GitHub](url)`
+   - 如果是其他网站，请按此格式填写`[官网名称或项目名称](url)`
+
 [Chansos-Website-Official]:https://chansos.com
 [Chansos-Website-Github]:https://github.com/ChangedenCZD
 
