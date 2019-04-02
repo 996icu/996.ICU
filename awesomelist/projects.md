@@ -41,3 +41,5 @@
 | - | [vue-keyboard](https://github.com/AJLoveChina/vue-keyboard) | https://ajlovechina.github.io/vue-keyboard/docs/index.html | :musical_keyboard:A real hand tapping keyboard for vuejs.| 
 | - | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | https://github.com/pphdsny/Leetcode-Java | Leetcode java题解，持续更新| 
 | - | [dynamic-add-date](https://github.com/yidasanqian/dynamic-add-date) | https://github.com/yidasanqian/dynamic-add-date | 一款基于MyBatis框架，可以对插入和更新Sql语句动态地添加日期列和对应值的插件| 
+| - |[WebSocketDemo](https://github.com/0xZhangKe/WebSocketDemo)|https://github.com/0xZhangKe/WebSocketDemo|用于简化 WebSocket 在 Android 平台使用的封装方法|
+| - |[ShiZhong](https://github.com/0xZhangKe/ShiZhong)|https://github.com/0xZhangKe/ShiZhong|一个用于制定各种计划的APP|
