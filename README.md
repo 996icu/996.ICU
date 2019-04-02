@@ -23,6 +23,8 @@ What can I do?
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 把这个[徽章](externals/instruction.md)加入你的项目来支持996.ICU
 
+- Update this [list](whitelist/whitelist.md) with evidence to help every worker.  
+更新这个[名单](whitelist/whitelist.md)（附带简单说明），来帮助每一位求职者寻求健康工作环境（听说企业要联合起来996让我们选无可选？他们可能低估了工人的力量！）。
 
 The principle and purpose Of this repository!
 ---
