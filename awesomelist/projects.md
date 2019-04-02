@@ -13,7 +13,7 @@
 
 |LOGO|项目|官网|简介|
 |:---:|:---|:---|:---|
-| <img src="https://github.com/CN-YUANYU/dura/blob/master/image/logo.png?raw=true" width="60"> | [dura](https://github.com/CN-YUANYU/dura) | https://github.com/CN-YUANYU/dura | 基于 redux、typescript 的前端数据流方案 |
+| <img src="https://github.com/CN-YUANYU/dura/blob/master/image/logo.png?raw=true" width="60"> | [dura](https://github.com/CN-YUANYU/dura) | [GitHub](https://github.com/CN-YUANYU/dura) | 基于 redux、typescript 的前端数据流方案 |
 | <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [vue-apis](https://github.com/ChangedenCZD/vue-apis) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 集成axios的vue插件 |
 | <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [optimize-vue](https://github.com/ChangedenCZD/optimize-vue) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 基于 vue-cli 3.0 构建的快速开发框架 |
 | <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [optimize-vue-cli](https://github.com/ChangedenCZD/optimize-vue-cli) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 基于 vue-cli 3.0 构建的快速开发框架的脚手架 |
