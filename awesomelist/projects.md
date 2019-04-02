@@ -78,3 +78,4 @@ Projects under 996ICU License. Thanks for your support!
 | ![](https://raw.githubusercontent.com/zhangyu0310/MyPicture/master/Bounce.png) | [Bounce](https://github.com/zhangyu0310/bounce) | https://zhangyu0310.github.io/bounce/ | A C++11 network library in Linux. |
 | - | [Swoole IDE helper](https://github.com/wudi/swoole-ide-helper) | https://github.com/wudi/swoole-ide-helper | Auto completion, trigger suggest and view docs for Swoole in editor. |
 | - | [MyAlgorithm](https://github.com/ChongqingWangYu/MyAlgorithm)|[MyAlgorithm](https://github.com/ChongqingWangYu)| 后端算法题库持续更新 |
+| ![csv2entity logo](https://github.com/juwikuang/csv2entity/blob/master/csv.png) | [CSV2Entity](https://github.com/juwikuang/csv2entity) |[Github](https://github.com/juwikuang/csv2entity)| 用CSV生成.net class  |
