@@ -18,7 +18,7 @@ go_import_path: github.com/whtiehack/996.ICU
 
 script:
   - echo "script list"
-  - cd ./blacklist/archive && go run
+  - sh -c 'cd blacklist/archive && go run'
 
 after_success:
   - echo "after_success"
