@@ -1,16 +1,21 @@
 996.ICU
 =======
 
-The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
-
+The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit). \
+ `996.ICU` 这个名字源于中国开发者之间流行的、带有讽刺意味的段子 **"工作996，生病ICU"**。它的含义是如果遵循996工作制，你会增加进入ICU（重症监护室）的风险。
+ 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-If you want to reference 996.ICU badge, read [What can I do?](#what-can-i-do) as follows.
+If you want to reference 996.ICU badge, please read [What can I do?](#what-can-i-do) as follows. \
+如果你想引用996.ICU徽章，请阅读 [我该如何做?](#what-can-i-do) 并加入我们。
 
-Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respects to honorable developers.
+Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respects to honorable developers. \
+为这个项目增加Star并做出你的贡献。点击<kbd>F</kbd>键向勇敢的开发者们致敬。
 
+Thanks《China Youth Daily》to support us：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm) \
 感谢《中国青年报》为我们发声：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
+
 
 What is 996?
 ---
