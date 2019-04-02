@@ -10,7 +10,7 @@ If you want to reference 996.ICU badge, read [What can I do?](#what-can-i-do) as
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respects to honorable developers.
 
-感谢《中国青年报》为我们发声：[被“996”工作制围困的年轻人：像是定好闹钟的机器](https://www.chinanews.com/sh/2019/04-02/8797483.shtml)
+感谢《中国青年报》为我们发声：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
 
 What is 996?
 ---
