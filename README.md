@@ -73,6 +73,17 @@ To help the development of 996.ICU, you can do several things base on proposals.
 - Take actions according to the accepted proposals.
 - Give your own proposals with a PR following the proposal format.
 
+*****
+
+一份提议，指的是一份被 996.ICU 接纳的文件。
+一般来说，一份提议应当在项目或项目社群的发展上给出一个解决方案或建议。
+你可以阅读这份[提议模板](proposal/proposal_template.md)来获取更多详情。
+
+为帮助 996.ICU 项目发展，你可以在提议的基础上完成这些事情。
+
+- 阅读已经被接纳的提议，并尝试进一步完善它们。
+- 依据已经被接纳的提议采取行动。
+- 将你的提议按照提议的格式提交成为 Pull Request。
 
 Expand influence
 ---
