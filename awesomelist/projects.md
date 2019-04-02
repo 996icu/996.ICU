@@ -55,3 +55,4 @@
 | - | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | 一个使用FPN进行语义分割的实现|
 | - | [微信群聊游戏](https://github.com/Whoisurdady/WeChatRoomGame) | [https://github.com/Whoisurdady/WeChatRoomGame](https://github.com/Whoisurdady/WeChatRoomGame) | 一个利用微信python api实现的聊天机器人和成语接龙游戏|
 | - | [SlideBack](https://github.com/ParfoisMeng/SlideBack) | https://github.com/ParfoisMeng/SlideBack | (Android)无需继承的Activity侧滑返回库 类全面屏返回手势效果 仿“即刻”侧滑返回 |
+| ![Edge Translate](https://github.com/EdgeTranslate/EdgeTranslate/raw/master/static/icon/icon48.png) | [Edge Translate](https://github.com/EdgeTranslate/EdgeTranslate) | [Edge Translate](https://github.com/EdgeTranslate) | 一款支持多种浏览器的网页翻译插件 |
