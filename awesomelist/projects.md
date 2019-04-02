@@ -70,7 +70,7 @@ Projects under 996ICU License. Thanks for your support!
 | - | [random-mua](https://github.com/yahtnif/random-mua) | [random-mua](https://github.com/yahtnif/random-mua) | Random Modern User-Agent. |
 | - | [smarkdown](https://github.com/yahtnif/smarkdown) | [smarkdown](https://github.com/yahtnif/smarkdown) | Markdown parser, simplicity and extensibility. |
 | - | [suni](https://github.com/yahtnif/suni) | [suni](https://github.com/yahtnif/suni) | Arr, Hash, Is, Obj, Random, Str, Wrandom |
-| ![Edge Translate](https://github.com/EdgeTranslate/EdgeTranslate/raw/master/static/icon/icon48.png) | [Edge Translate](https://github.com/EdgeTranslate/EdgeTranslate) | [Edge Translate](https://github.com/EdgeTranslate) | 一款支持多种浏览器的网页翻译插件 |
+| ![Edge Translate](https://github.com/EdgeTranslate/EdgeTranslate/raw/master/static/icon/icon48.png) | [Edge Translate](https://github.com/EdgeTranslate/EdgeTranslate) | [GitHub-Edge Translate](https://github.com/EdgeTranslate) | 一款支持多种浏览器的网页翻译插件 |
 | ![](https://github.com/ame017/AMEGetterMaker/blob/master/intro/introduce.png?raw=true) | [AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | [Github-AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | (Xcode)一个无需resign的Xcode懒加载生成器 |
 | ![](https://github.com/ame017/AMECategoryMaker/blob/master/Display/ACM-introduce.png) | [AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | [Github-AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | (Xcode)一个无需resign的Xcode category生成器 |
 | - | [Hikyuu](https://github.com/fasindog/hikyuu) | https://github.com/fasiondog/hikyuu | Hikyuu Quant Framework是一款基于C++/Python的高性能开源量化交易研究框架，用于策略分析及回测 |
