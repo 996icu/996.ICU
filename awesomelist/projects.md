@@ -31,4 +31,5 @@ Projects under 996ICU License. Thanks for your support!
 | <img src="https://xpnet-public.oss-cn-hangzhou.aliyuncs.com/color_admin_v4.2/frontend/template/assets/img/leetcode/leetcode.png"> | [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) |[Kyle Liu](https://github.com/kylesliu)| Leetcode Golang 题解 |
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [PsChina](https://github.com/PsChina) | vue2.x 过滤器插件 | 
 | - | [one](https://github.com/lizhichao/one) | https://github.com/lizhichao/one | 一个极简的高性能常驻内存php框架| 
+| - | [dynamic-add-date](https://github.com/yidasanqian/dynamic-add-date) | https://github.com/yidasanqian/dynamic-add-date | 一款基于MyBatis框架，可以对插入和更新Sql语句动态地添加日期列和对应值的插件| 
 
