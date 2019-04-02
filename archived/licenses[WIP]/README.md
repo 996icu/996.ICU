@@ -10,7 +10,7 @@
 
 ## 其他信息
 
-- [已使用 996ICU 协议的项目](projects_supporting_996_LICENSE.md)
+- [已使用 996ICU 协议的项目](/awesomelist/projects.md)
 
 ## 工具
 
