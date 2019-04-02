@@ -32,6 +32,7 @@
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [PsChina](https://github.com/PsChina) | vue2.x 过滤器插件 | 
 | - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | https://github.com/jaweii/Vueg----page-transition-plugin | Page level transition plugin for vue-router| 
 | - | [one](https://github.com/lizhichao/one) | https://github.com/lizhichao/one | 一个极简的高性能常驻内存php框架| 
+| <img src="https://github.com/elesos/image/raw/master/starrtc.png" width="100"> | [starRTC](https://github.com/starrtc/starrtc-server) |[starRTC](https://starRTC.com)| 免费IM，免费视频通话，免费视频会议，免费直播连麦服务端  |
 | <img src="https://github.com/elesos/image/raw/master/starrtc.png" width="100"> | [starRTC](https://github.com/starrtc/starrtc-android-demo) |[starRTC](https://starRTC.com)| 免费IM，免费视频通话，免费视频会议，免费直播连麦安卓客户端  |
 | - | [vue-color-ui](https://github.com/martin-yin/vue-color-ui) | https://github.com/martin-yin/vue-color-ui | 微信小程序color-ui的vue版本 | 
 | - | [WxJava](https://github.com/Wechat-Group/WxJava) | https://github.com/Wechat-Group/WxJava | 微信开发 Java SDK| 
@@ -48,4 +49,6 @@
 | - |[react-router-alive](https://github.com/oychao/react-router-alive)|https://github.com/oychao/react-router-alive|react-router版的keep-alive路由组件|
 | - | [SKM](https://github.com/TimothyYe/skm) | https://github.com/TimothyYe/skm | A simple and powerful SSH Keys Manager.|
 | - |[ajax-js](https://github.com/GerryIsWarrior/ajax)|https://github.com/GerryIsWarrior/ajax|前端ajax解决方案，励志让前端更美好的库|
-| - | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | 一个使用FPN进行语义分割的实现|
+| - | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks | 一个使用FPN进行语义分割的实现|
+| - | [SlideBack](https://github.com/ParfoisMeng/SlideBack) | https://github.com/ParfoisMeng/SlideBack | (Android)无需继承的Activity侧滑返回库 类全面屏返回手势效果 仿“即刻”侧滑返回 |
+
