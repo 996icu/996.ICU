@@ -27,4 +27,5 @@ Projects under 996ICU License. Thanks for your support!
 | <img src="https://github.com/cookieY/Yearning/raw/master/logo.png" width="60"> | [Yearning](https://github.com/cookieY/Yearning) |[cookieY](https://github.com/cookieY)| Mysql SQL审核平台  |
 | <img src="https://github.com/l-hammer/You-need-to-know-css/raw/master/static/logo.png" width="60"> | [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) |[-](https://lhammer.cn/You-need-to-know-css)| 💄CSS tricks for web developers~ |
 | - | [Android-KlineChar](https://github.com/icechao/kline) |[icechao](https://github.com/icechao)| 安卓高仿火币,快速实现K线功能的lib |
+| <img src="https://xpnet-public.oss-cn-hangzhou.aliyuncs.com/color_admin_v4.2/frontend/template/assets/img/leetcode/leetcode.png"> | [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) |[Kyle Liu](https://github.com/kylesliu)| Leetcode Golang 题解 |
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [PsChina](https://github.com/PsChina) | vue2.x 过滤器插件 | 
