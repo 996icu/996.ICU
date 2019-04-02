@@ -45,3 +45,4 @@
 | - |[WebSocketDemo](https://github.com/0xZhangKe/WebSocketDemo)|https://github.com/0xZhangKe/WebSocketDemo|用于简化 WebSocket 在 Android 平台使用的封装方法|
 | - |[ShiZhong](https://github.com/0xZhangKe/ShiZhong)|https://github.com/0xZhangKe/ShiZhong|一个用于制定各种计划的APP|
 | - | [SKM](https://github.com/TimothyYe/skm) | https://github.com/TimothyYe/skm | A simple and powerful SSH Keys Manager.|
+| - |[ajax-js](https://github.com/GerryIsWarrior/ajax)|https://github.com/GerryIsWarrior/ajax|前端ajax解决方案，励志让前端更美好的库|
