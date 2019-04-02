@@ -49,4 +49,4 @@
 | - | [SKM](https://github.com/TimothyYe/skm) | https://github.com/TimothyYe/skm | A simple and powerful SSH Keys Manager.|
 | - |[ajax-js](https://github.com/GerryIsWarrior/ajax)|https://github.com/GerryIsWarrior/ajax|前端ajax解决方案，励志让前端更美好的库|
 | - | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | 一个使用FPN进行语义分割的实现|
-| - | [微信群聊游戏](https://github.com/Whoisurdady/WeChatRoomGame) | [微信群聊游戏](https://github.com/Whoisurdady/WeChatRoomGame) 一个利用微信python api实现的聊天机器人和成语接龙游戏|
+| - | [微信群聊游戏](https://github.com/Whoisurdady/WeChatRoomGame) | [微信群聊游戏](https://github.com/Whoisurdady/WeChatRoomGame) | 一个利用微信python api实现的聊天机器人和成语接龙游戏|
