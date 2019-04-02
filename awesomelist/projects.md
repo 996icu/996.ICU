@@ -2,12 +2,15 @@
 ===
 无论大小，从我做起，贡献出一份属于自己的力量。已加入 996ICU License 项目列表，欢迎随时补充。
 
+[Chansos-Website-Official]:https://chansos.com
+[Chansos-Website-Github]:https://github.com/ChangedenCZD
+
 |LOGO|项目|官网|简介|
 |:---:|:---|:---|:---|
 | <img src="https://github.com/CN-YUANYU/dura/blob/master/image/logo.png?raw=true" width="60"> | [dura](https://github.com/CN-YUANYU/dura) | https://github.com/CN-YUANYU/dura | 基于 redux、typescript 的前端数据流方案 |
-| - | [vue-apis](https://github.com/ChangedenCZD/vue-apis) |[ChangedenCZD](https://github.com/ChangedenCZD)| 集成axios的vue插件 |
-| - | [optimize-vue](https://github.com/ChangedenCZD/optimize-vue) |[ChangedenCZD](https://github.com/ChangedenCZD)| 基于 vue-cli 3.0 构建的快速开发框架 |
-| - | [optimize-vue-cli](https://github.com/ChangedenCZD/optimize-vue-cli) |[ChangedenCZD](https://github.com/ChangedenCZD)| 基于 vue-cli 3.0 构建的快速开发框架的脚手架 |
+| <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [vue-apis](https://github.com/ChangedenCZD/vue-apis) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 集成axios的vue插件 |
+| <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [optimize-vue](https://github.com/ChangedenCZD/optimize-vue) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 基于 vue-cli 3.0 构建的快速开发框架 |
+| <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [optimize-vue-cli](https://github.com/ChangedenCZD/optimize-vue-cli) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 基于 vue-cli 3.0 构建的快速开发框架的脚手架 |
 | - | [thinkphp5-restfulapi](https://github.com/Leslin/thinkphp5-restfulapi) |(https://github.com/Leslin)| 基于 thinkphp5 开发的restful api快速开发框架 |
 | <img src="https://mybatis.plus/img/logo.png" width="60"> | [MybatisPlus](https://github.com/baomidou/mybatis-plus)|[MybatisPlus](https://mybatis.plus/)| Mybatis 扩展组件 |
 | <img src="https://avatars0.githubusercontent.com/u/33191460?s=200&v=4" width="60"> | [server](https://github.com/wildfirechat/server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，server端 |
@@ -32,6 +35,7 @@
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [PsChina](https://github.com/PsChina) | vue2.x 过滤器插件 | 
 | - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | https://github.com/jaweii/Vueg----page-transition-plugin | Page level transition plugin for vue-router| 
 | - | [one](https://github.com/lizhichao/one) | https://github.com/lizhichao/one | 一个极简的高性能常驻内存php框架| 
+| <img src="https://github.com/elesos/image/raw/master/starrtc.png" width="100"> | [starRTC](https://github.com/starrtc/starrtc-server) |[starRTC](https://starRTC.com)| 免费IM，免费视频通话，免费视频会议，免费直播连麦服务端  |
 | <img src="https://github.com/elesos/image/raw/master/starrtc.png" width="100"> | [starRTC](https://github.com/starrtc/starrtc-android-demo) |[starRTC](https://starRTC.com)| 免费IM，免费视频通话，免费视频会议，免费直播连麦安卓客户端  |
 | - | [vue-color-ui](https://github.com/martin-yin/vue-color-ui) | https://github.com/martin-yin/vue-color-ui | 微信小程序color-ui的vue版本 | 
 | - | [WxJava](https://github.com/Wechat-Group/WxJava) | https://github.com/Wechat-Group/WxJava | 微信开发 Java SDK| 
@@ -50,3 +54,5 @@
 | - |[ajax-js](https://github.com/GerryIsWarrior/ajax)|https://github.com/GerryIsWarrior/ajax|前端ajax解决方案，励志让前端更美好的库|
 | - | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | 一个使用FPN进行语义分割的实现|
 | - | [微信群聊游戏](https://github.com/Whoisurdady/WeChatRoomGame) | [https://github.com/Whoisurdady/WeChatRoomGame](https://github.com/Whoisurdady/WeChatRoomGame) | 一个利用微信python api实现的聊天机器人和成语接龙游戏|
+| - | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks | 一个使用FPN进行语义分割的实现|
+| - | [SlideBack](https://github.com/ParfoisMeng/SlideBack) | https://github.com/ParfoisMeng/SlideBack | (Android)无需继承的Activity侧滑返回库 类全面屏返回手势效果 仿“即刻”侧滑返回 |
