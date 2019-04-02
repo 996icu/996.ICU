@@ -87,9 +87,14 @@ Reaction of Major Chinese Company
 ---
 
 Huawei
----
+----
 
-Huawei Browser (the default browser of Huawei Phone) start (as of April 2rd 2:30pm Beijing Time) to warn user that the web page of this repo is malicious. User have to select to continue or not. 
+Huawei Browser (the default browser of Huawei Phone) starts (as of April 2nd 2:30pm Beijing Time) to warn user that the web page of this repo is malicious. User have to select to continue or not. 
+
+Tencent
+----
+
+Tencent block the web page of this repot totally (as of April 2nd afternoon local time). Usually, when user click a link in Wechat (Tencent Flagship Social Platform), Tencent will open the page in the embeded web browser of its own. However, the link is prohibited now. 
 
 
 
