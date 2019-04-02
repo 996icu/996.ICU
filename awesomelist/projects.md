@@ -12,6 +12,7 @@
 | <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [optimize-vue](https://github.com/ChangedenCZD/optimize-vue) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 基于 vue-cli 3.0 构建的快速开发框架 |
 | <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [optimize-vue-cli](https://github.com/ChangedenCZD/optimize-vue-cli) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 基于 vue-cli 3.0 构建的快速开发框架的脚手架 |
 | - | [thinkphp5-restfulapi](https://github.com/Leslin/thinkphp5-restfulapi) |(https://github.com/Leslin)| 基于 thinkphp5 开发的restful api快速开发框架 |
+| | [zhihu-crawler](https://github.com/wycm/zhihu-crawler) |https://github.com/wycm/zhihu-crawler| 基于Java的高性能、支持免费http代理池、横向扩展、分布式爬虫项目  |
 | <img src="https://mybatis.plus/img/logo.png" width="60"> | [MybatisPlus](https://github.com/baomidou/mybatis-plus)|[MybatisPlus](https://mybatis.plus/)| Mybatis 扩展组件 |
 | <img src="https://avatars0.githubusercontent.com/u/33191460?s=200&v=4" width="60"> | [server](https://github.com/wildfirechat/server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，server端 |
 |  | [android-chat](https://github.com/wildfirechat/android-chat) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，Android平台 SDK和Demo |
