@@ -1,4 +1,4 @@
-Projects under 996ICU License. Thanks for your support!
+ Projects under 996ICU License. Thanks for your support!
 ===
 Regardless of size, start with me and contribute a power of your own. Has joined the 996ICU License project list, please feel free to add.
 
@@ -22,9 +22,9 @@ project list
 |LOGO|项目|官网|简介|
 |:---:|:---|:---|:---|
 | <img src="https://github.com/CN-YUANYU/dura/blob/master/image/logo.png?raw=true" width="60"> | [dura](https://github.com/CN-YUANYU/dura) | [dura-Github](https://github.com/CN-YUANYU/dura) | 基于 redux、typescript 的前端数据流方案 |
-| - | [vue-apis](https://github.com/ChangedenCZD/vue-apis) |[ChangedenCZD](https://github.com/ChangedenCZD)| 集成axios的vue插件 |
-| - | [optimize-vue](https://github.com/ChangedenCZD/optimize-vue) |[ChangedenCZD](https://github.com/ChangedenCZD)| 基于 vue-cli 3.0 构建的快速开发框架 |
-| - | [optimize-vue-cli](https://github.com/ChangedenCZD/optimize-vue-cli) |[ChangedenCZD](https://github.com/ChangedenCZD)| 基于 vue-cli 3.0 构建的快速开发框架的脚手架 |
+| <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [vue-apis](https://github.com/ChangedenCZD/vue-apis) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 集成axios的vue插件 |
+| <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [optimize-vue](https://github.com/ChangedenCZD/optimize-vue) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 基于 vue-cli 3.0 构建的快速开发框架 |
+| <img src="https://github.com/ChangedenCZD/996.ICU/blob/local/awesomelist/img/icon.chansos.com.png?raw=true" width="60"> | [optimize-vue-cli](https://github.com/ChangedenCZD/optimize-vue-cli) |[Github][Chansos-Website-Github] / [Official][Chansos-Website-Official]| 基于 vue-cli 3.0 构建的快速开发框架的脚手架 |
 | - | [thinkphp5-restfulapi](https://github.com/Leslin/thinkphp5-restfulapi) |(https://github.com/Leslin)| 基于 thinkphp5 开发的restful api快速开发框架 |
 | <img src="https://mybatis.plus/img/logo.png" width="60"> | [MybatisPlus](https://github.com/baomidou/mybatis-plus)|[MybatisPlus](https://mybatis.plus/)| Mybatis 扩展组件 |
 | <img src="https://avatars0.githubusercontent.com/u/33191460?s=200&v=4" width="60"> | [server](https://github.com/wildfirechat/server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，server端 |
@@ -47,5 +47,25 @@ project list
 | - | [Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary) |[Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary)| 🔥Android MVP快速开发框架，做国内 「Demo最全面」「注释最详细」「使用最简单」「代码最严谨」的Android开源UI框架  |
 | <img src="https://xpnet-public.oss-cn-hangzhou.aliyuncs.com/color_admin_v4.2/frontend/template/assets/img/leetcode/leetcode.png"> | [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) |[Kyle Liu](https://github.com/kylesliu)| Leetcode Golang 题解 |
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [PsChina](https://github.com/PsChina) | vue2.x 过滤器插件 | 
+| - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | https://github.com/jaweii/Vueg----page-transition-plugin | Page level transition plugin for vue-router| 
 | - | [one](https://github.com/lizhichao/one) | https://github.com/lizhichao/one | 一个极简的高性能常驻内存php框架| 
-
+| <img src="https://github.com/elesos/image/raw/master/starrtc.png" width="100"> | [starRTC](https://github.com/starrtc/starrtc-server) |[starRTC](https://starRTC.com)| 免费IM，免费视频通话，免费视频会议，免费直播连麦服务端  |
+| <img src="https://github.com/elesos/image/raw/master/starrtc.png" width="100"> | [starRTC](https://github.com/starrtc/starrtc-android-demo) |[starRTC](https://starRTC.com)| 免费IM，免费视频通话，免费视频会议，免费直播连麦安卓客户端  |
+| - | [vue-color-ui](https://github.com/martin-yin/vue-color-ui) | https://github.com/martin-yin/vue-color-ui | 微信小程序color-ui的vue版本 | 
+| - | [WxJava](https://github.com/Wechat-Group/WxJava) | https://github.com/Wechat-Group/WxJava | 微信开发 Java SDK| 
+| - | [cyclone](https://github.com/simpleapples/cyclone) | https://github.com/simpleapples/cyclone | Cyclone is a go package to spawn, reuse and manage a number of goroutines by a pool. | 
+| - | [NumbCube](https://github.com/KirosHan/NumbCube) | https://github.com/KirosHan/NumbCube | NumbCube流媒体直播解决方案 |
+| - | [bootcdn](https://github.com/AJLoveChina/bootcdn) | https://github.com/AJLoveChina/bootcdn | :wrench:快速查询一个开源库在bootcdn的URL地址| 
+| - | [vue-keyboard](https://github.com/AJLoveChina/vue-keyboard) | https://ajlovechina.github.io/vue-keyboard/docs/index.html | :musical_keyboard:A real hand tapping keyboard for vuejs.| 
+| - | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | https://github.com/pphdsny/Leetcode-Java | Leetcode java题解，持续更新| 
+| - | [dynamic-add-date](https://github.com/yidasanqian/dynamic-add-date) | https://github.com/yidasanqian/dynamic-add-date | 一款基于MyBatis框架，可以对插入和更新Sql语句动态地添加日期列和对应值的插件| 
+| - |[WebSocketDemo](https://github.com/0xZhangKe/WebSocketDemo)|https://github.com/0xZhangKe/WebSocketDemo|用于简化 WebSocket 在 Android 平台使用的封装方法|
+| - |[ShiZhong](https://github.com/0xZhangKe/ShiZhong)|https://github.com/0xZhangKe/ShiZhong|一个用于制定各种计划的APP|
+| - |[BAButton](https://github.com/BAHome/BAButton)|https://github.com/BAHome/BAButton |一款OC语言的按钮各种文字图片状态的封装|
+| - |[boilerplate-creator](https://github.com/oychao/boilerplate-creator)|https://github.com/oychao/boilerplate-creator|一个支持自定义模板源的脚手架构建工具|
+| - |[react-router-alive](https://github.com/oychao/react-router-alive)|https://github.com/oychao/react-router-alive|react-router版的keep-alive路由组件|
+| - | [SKM](https://github.com/TimothyYe/skm) | https://github.com/TimothyYe/skm | A simple and powerful SSH Keys Manager.|
+| - |[ajax-js](https://github.com/GerryIsWarrior/ajax)|https://github.com/GerryIsWarrior/ajax|前端ajax解决方案，励志让前端更美好的库|
+| - | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | [FPN-SemanticSeg](https://github.com/ElephantGit/SemanticSegmentationUsingFPN_PanopticFeaturePyramidNetworks) | 一个使用FPN进行语义分割的实现|
+| - | [微信群聊游戏](https://github.com/Whoisurdady/WeChatRoomGame) | [https://github.com/Whoisurdady/WeChatRoomGame](https://github.com/Whoisurdady/WeChatRoomGame) | 一个利用微信python api实现的聊天机器人和成语接龙游戏|
+| - | [SlideBack](https://github.com/ParfoisMeng/SlideBack) | https://github.com/ParfoisMeng/SlideBack | (Android)无需继承的Activity侧滑返回库 类全面屏返回手势效果 仿“即刻”侧滑返回 |
