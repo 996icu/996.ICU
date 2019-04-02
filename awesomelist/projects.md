@@ -1,6 +1,5 @@
 Projects under 996ICU License. Thanks for your support!
 ===
-无论大小，从我做起，贡献出一份属于自己的力量。已加入 996ICU License 项目列表，欢迎随时补充。
 
 贡献指南
 ===
@@ -23,11 +22,6 @@ Projects under 996ICU License. Thanks for your support!
 | - | [zhihu-crawler](https://github.com/wycm/zhihu-crawler) |[Github](https://github.com/wycm/zhihu-crawler)| 基于Java的高性能、支持免费http代理池、横向扩展、分布式爬虫项目  |
 | <img src="https://mybatis.plus/img/logo.png" width="60"> | [MybatisPlus](https://github.com/baomidou/mybatis-plus)|[MybatisPlus](https://mybatis.plus/)| Mybatis 扩展组件 |
 | <img src="https://avatars0.githubusercontent.com/u/33191460?s=200&v=4" width="60"> | [server](https://github.com/wildfirechat/server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，server端 |
-| - | [android-chat](https://github.com/wildfirechat/android-chat) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，Android平台 SDK和Demo |
-| - | [ios-chat](https://github.com/wildfirechat/ios-chat) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，iOS平台 SDK和Demo |
-| - | [pc-chat](https://github.com/wildfirechat/pc-chat) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，PC 平台 Demo |
-| - | [app_server](https://github.com/wildfirechat/app_server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，应用服务 |
-| - | [robot_server](https://github.com/wildfirechat/robot_server) |[wildfirechat](http://docs.wildfirechat.cn/)| 野火IM解决方案，机器人服务 |
 | - | [WeChatBlog](https://github.com/NiZerin/WeChatBlog) |[NiZerin](https://github.com/NiZerin)| 微信小程序 & 个人博客 & WordPress REST API  |
 | <img src="https://raw.githubusercontent.com/cookieY/Yearning/master/logo.png" width="60"> | [Yearning](https://github.com/cookieY/Yearning) |[cookieY](https://github.com/cookieY)| Mysql SQL审核平台  |
 | - | [java-multi-thread-programming](https://github.com/loveincode/java-multi-thread-programming) |[java-multi-thread-programming/](https://loveincode.github.io/java-multi-thread-programming/)| 《Java多线程编程核心技术》源码  |
