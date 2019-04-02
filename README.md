@@ -21,7 +21,7 @@ A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 
 
 “996”工作制，指的是一种越来越流行的非官方工作制（早上 9 点 ~ 晚上 9 点，每周 6 天）。在一个实行“996”工作制的公司工作就意味着每周至少要工作 60 个小时。
 
-The danger of long hours of work
+The danger of 996
 ----
 
 - Long-term work can easily lead to cervical disease
