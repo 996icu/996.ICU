@@ -27,13 +27,15 @@ What can I do?
 
 - Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
-- License your awesome projects with the [996ICU License](LICENSE).
+- License your awesome projects with the [996ICU License](LICENSE).  
+- Add proposals to give advise and suggestion about the development of 996.ICU.
 
 *****
 
 - 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 - 把这个[徽章](externals/instruction.md)加入你的项目来支持 996.ICU
 - 为您的项目添加[反 996 许可证](LICENSE_CN)。
+- 给社区与项目发展提出新的议案。
 
 Principles and purposes
 ---
@@ -59,6 +61,19 @@ Principles and purposes
 * 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟的、负责任的发言。
 
 * 目前反 996 许可证还处于起草阶段，希望有相关经验的专业人士能给予帮助。
+
+Proposals
+---
+A proposal is a document accepted by 996.ICU.  
+Typically, a proposal should give a solution or suggestion about the development of the project and community.  
+For more details, you can read the [proposal template](proposal/proposal_template.md) document.  
+
+To help the development of 996.ICU, you can do several things base on proposals.
+
+- Read the accepted proposals and try to improve them.
+- Take actions according to the accepted proposals.
+- Give your own proposals with a PR following the proposal format.
+
 
 Expand influence
 ---
