@@ -21,6 +21,23 @@ A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 
 
 “996”工作制，指的是一种越来越流行的非官方工作制（早上 9 点 ~ 晚上 9 点，每周 6 天）。在一个实行“996”工作制的公司工作就意味着每周至少要工作 60 个小时。
 
+The danger of long hours of work
+----
+
+- Long-term work can easily lead to cervical disease
+- Men working long hours can easily lead to prostatitis
+- Will affect relationships with family members
+- Easy to lead to personality defects
+- Social phobia
+
+*****
+
+- 长时间工作容易导致颈椎疾病
+- 男性长时间工作容易导致前列腺炎
+- 会影响与家庭成员的关系
+- 容易导致性格上的缺陷
+- 社交恐惧症
+
 What can I do?
 ---
 
