@@ -6,7 +6,7 @@
 
 The "996" work schedule is referring to an illegal work schedule in China. It has been gaining popularity among companies. The schedule starts from 9 a.m. and ends at 9 p.m. (12 hours) each day, for 6 days a week.
 
-Serving in a company that encourages "996" work schedule usually means working for at least 72 hours a week.
+Serving in a company that encourages the "996" work schedule usually means working for at least 72 hours a week.
 
 ## Laws and Regulations
 
