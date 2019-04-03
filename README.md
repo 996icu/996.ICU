@@ -31,6 +31,7 @@
 - 把这个[徽章](externals/instruction.md)加入你的项目来支持 996.ICU
 - 为您的项目添加[反 996 许可证](LICENSE_CN)。
 - 给社区与项目发展提出新的议案。
+- 下载这个[文档](https://github.com/utopia-epsilon/anti-karoshi/blob/master/%E5%8A%B3%E5%8A%A8%E8%80%85%E7%96%B2%E5%8A%B3%E8%93%84%E7%A7%AF%E5%BA%A6%E8%87%AA%E5%B7%B1%E8%AF%8A%E6%96%AD%E9%87%8F%E8%A1%A8.docx?raw=true)自测，评估自己的过劳情况。
 
 原则和目的
 ---

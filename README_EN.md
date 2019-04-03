@@ -28,6 +28,7 @@ What can I do?
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 - License your awesome projects with the [Anti 996 License](LICENSE).  
 - Add proposals to give advise and suggestion about the development of 996.ICU.
+- Download this [document](https://github.com/utopia-epsilon/anti-karoshi/blob/master/%E5%8A%B3%E5%8A%A8%E8%80%85%E7%96%B2%E5%8A%B3%E8%93%84%E7%A7%AF%E5%BA%A6%E8%87%AA%E5%B7%B1%E8%AF%8A%E6%96%AD%E9%87%8F%E8%A1%A8.docx?raw=true) for a karoshi evaluation.
 
 
 Principles and purposes
