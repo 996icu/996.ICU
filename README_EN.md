@@ -10,16 +10,10 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 If you want to reference 996.ICU badge, read [What can I do?](#what-can-i-do) as follows.
 
 Related reports:
-===
+---
 * 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
 * 《人民网》：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)
-
-
-News
-===
-
-《RadiiChina》：[GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
-
+* 《RadiiChina》：[GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
 
 What is 996?
 ---
