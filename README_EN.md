@@ -10,6 +10,12 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 If you want to reference 996.ICU badge, read [What can I do?](#what-can-i-do) as follows.
 
 
+News
+===
+
+《RadiiChina》：[GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
+
+
 What is 996?
 ---
 
