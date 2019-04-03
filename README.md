@@ -7,7 +7,7 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-如果你想引入 996.ICU 徽章到你项目，请阅读下面的[我能做什么？](#what-can-i-do)
+如果您想引入 996.ICU 徽章到您的项目，请阅读下面的[我能做什么？](#what-can-i-do)
 欢迎为这个库点亮 star 和做出贡献。
 
 相关报道
@@ -21,7 +21,7 @@
 我能做什么？
 ---
 - 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
-- 把这个[徽章](externals/instruction.md)加入你的项目来支持 996.ICU。
+- 把这个[徽章](externals/instruction.md)加入您的项目来支持 996.ICU。
 - 为您的项目添加[反 996 许可证](LICENSE_CN)。
 - 给社区与项目发展提出新的议案。
 
@@ -45,17 +45,17 @@
 通常提议应该给出关于此项目的发展和交流的方案或者建议。
 请阅读[提议模板](proposal/proposal_template.md)来了解更多细节。
 
-为了帮助996.ICU的发展，你可以基于提议做几件事：
+为了帮助996.ICU的发展，您可以基于提议做几件事：
 - 阅读已接受的提议并且尝试改进；
 - 根据提议做出行动；
-- 用PR的方式来给出你自己的提议。
+- 用PR的方式来给出您自己的提议。
 
 
 
 扩大影响
 ---
 
-[996.ICU 内容翻译](i18n/i18n.md)，请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
+[996.ICU 内容翻译](i18n/i18n.md)，请自由发挥您的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
 
 
 社区
@@ -85,4 +85,4 @@ License
  - 此许可证的灵感来源于 @xushunke：[Design A Software License Of Labor Protection -- 996ICU License](https://github.com/996icu/996.ICU/pull/15642)。
  - 当前版本反 996 许可证由 [伊利诺伊大学法学院的 Katt Gu, J.D](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao) 起草，由 [Dimension](https://www.dimension.im) 的首席执行官 [Suji Yan](https://www.linkedin.com/in/tedkoyan/) 提供建议。
  - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
- - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢你的帮助。
+ - 如果您是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢您的帮助。
