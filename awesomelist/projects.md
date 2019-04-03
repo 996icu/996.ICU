@@ -80,3 +80,4 @@ Projects under 996ICU License. Thanks for your support!
 | <img src="https://static.oschina.net/uploads/logo/fastquery_8BhOo.png" width="60"> |[Fastquery](https://github.com/xixifeng/fastquery)|[Github](https://github.com/xixifeng/fastquery)|Open source DB extreme speed operating tool with an interface-oriented design style(开源DB极速操作工具,采用不得不面向接口的设计风格)|
 | - | [zoro](https://github.com/FaureWu/zoro) | [zoro](https://faurewu.github.io/zoro/) | zoro是一套基于redux的轻量级前端框架，用于快速接入redux，支持原生小程序wepy, taro, react等 |
 | - | [myTranslate](https://github.com/Julyme/myTranslate) | [GitHub](https://github.com/Julyme/myTranslate) | 一款基于eclipse的插件，用于翻译。 |
+| <img src="https://github.com/ChanpleCai/SmartTaskbar/blob/master/logo/logo_blue.png" width="60"> | [SmartTaskbar](https://github.com/ChanpleCai/SmartTaskbar) | [Github](https://github.com/ChanpleCai/SmartTaskbar) | A Lightweight Windows Taskbar Enhancement Utility  |
