@@ -28,6 +28,7 @@ What can I do?
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 - License your awesome projects with the [Anti 996 License](LICENSE).  
 - Add proposals to give advise and suggestion about the development of 996.ICU.
+- Go home at 6 pm without feeling sorry.
 
 
 Principles and purposes
