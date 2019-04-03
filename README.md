@@ -7,12 +7,11 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-如果你想引入996.ICU徽章到你项目，请阅读下面的[我能做什么？](#what-can-i-do)
+如果你想引入996.ICU徽章到你项目，请阅读下面的[我能做什么？](#我能做什么)
 欢迎为这个库点亮star和做出贡献。
 
 相关报道
 =======
-
 
 - 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
 - 《人民网》：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)
