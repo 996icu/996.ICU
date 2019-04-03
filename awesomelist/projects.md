@@ -79,3 +79,6 @@ Projects under 996ICU License. Thanks for your support!
 | - | [Unity 3D ShaderLab Development Practice Introduction, 3rd version](https://github.com/AShine17cm/ShaderLab) |[Unity 3D ShaderLab Development Practice Introduction, 3rd version](https://github.com/AShine17cm/ShaderLab)| 《Unity 3D ShaderLab开发实战详解》第三版源码  |
 | <img src="https://static.oschina.net/uploads/logo/fastquery_8BhOo.png" width="60"> |[Fastquery](https://github.com/xixifeng/fastquery)|[Github](https://github.com/xixifeng/fastquery)|Open source DB extreme speed operating tool with an interface-oriented design style(开源DB极速操作工具,采用不得不面向接口的设计风格)|
 | - | [zoro](https://github.com/FaureWu/zoro) | [zoro](https://faurewu.github.io/zoro/) | zoro是一套基于redux的轻量级前端框架，用于快速接入redux，支持原生小程序wepy, taro, react等 |
+| - | [Privexec](https://github.com/M2Team/Privexec) | [Privexec](https://github.com/M2Team/Privexec) | Privexec 在 Windows 上使用指定的权限级别启动进程，包括 AppContainer |
+| - | [Clangbuilder](https://github.com/fstudio/clangbuilder) | [Clangbuilder](https://github.com/fstudio/clangbuilder) | Windows 系统下的 LLVM/Clang 自动化构建工具 |
+| <img src="https://github.com/M2Team/NSudo/blob/master/Logo.png?raw=true" width="60"> | [NSudo](https://github.com/M2Team/NSudo) | [NSudo](https://github.com/M2Team/NSudo) | NSudo - 一个强大的系统管理工具 |
