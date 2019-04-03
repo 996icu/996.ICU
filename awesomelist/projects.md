@@ -87,4 +87,4 @@ Projects under 996ICU License. Thanks for your support!
 | - | [ARPG](https://raw.githubusercontent.com/ChangedenCZD/996.ICU/local/awesomelist/img/icon.chansos.com.png) | [Github](https://github/xxpniu/version/) | Unity 框架 支持行为编辑和技能时间轴编辑，用以快速搭建ARPG游戏框架 |
 | - | [myTranslate](https://github.com/Julyme/myTranslate) | [GitHub](https://github.com/Julyme/myTranslate) | 一款基于eclipse的插件，用于翻译。 |
 | <img src="https://github.com/ChanpleCai/SmartTaskbar/blob/master/logo/logo_blue.png" width="60"> | [SmartTaskbar](https://github.com/ChanpleCai/SmartTaskbar) | [Github](https://github.com/ChanpleCai/SmartTaskbar) | A Lightweight Windows Taskbar Enhancement Utility  |
-| - | [fSociety](https://github.com/DolorHunter/fsociety) |[Github](https://github.com/DolorHunter/fsociety)| Back-up some software, tools, website and tutorials. |
+| - | [fSociety](https://github.com/DolorHunter/fsociety) |[Github](https://github.com/DolorHunter/fsociety)| A plan to back-up some software, tools, website and tutorials. |
