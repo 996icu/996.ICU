@@ -51,6 +51,7 @@
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
 |北京|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
 |苏州|[苏州科技城](http://www.sstt.gov.cn/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC549324722J00346803701.htm)|
+|苏州|[苏州博众精工科技](https://www.bozhon.com/)|2018年3月|8106|[百度贴吧](http://tieba.baidu.com/p/5590782651?pid=118661571775&cid=0#118661571775)|
 |北京|[中软国际](http://www.chinasofti.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC508620126J00303154805.htm)|
 |北京|[柯莱特](http://www.camelotchina.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120179637J00117070515.htm)|
 |北京|[高伟达](http://www.git.com.cn/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120702341J00114014810.htm)|
