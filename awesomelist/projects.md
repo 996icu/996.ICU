@@ -34,7 +34,7 @@ Projects under 996ICU License. Thanks for your support!
 | - | [Android-KlineChar](https://github.com/icechao/kline) |[icechao](https://github.com/icechao)| 安卓高仿火币,快速实现K线功能的lib |
 | - | [Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary) |[Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary)| 🔥Android MVP快速开发框架，做国内 「Demo最全面」「注释最详细」「使用最简单」「代码最严谨」的Android开源UI框架  |
 | <img src="https://xpnet-public.oss-cn-hangzhou.aliyuncs.com/color_admin_v4.2/frontend/template/assets/img/leetcode/leetcode.png" width="60"> | [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) |[Kyle Liu](https://github.com/kylesliu)| Leetcode Golang 题解 |
-| - | [easy-filter](https://github.com/PsChina/easy-filter) | [PsChina](https://github.com/PsChina) | vue2.x 过滤器插件 |
+| - | [easy-filter](https://github.com/PsChina/easy-filter) | [Github](https://github.com/PsChina)/ [npm](https://www.npmjs.com/package/easy-filter) | vue2.x 过滤器插件 |
 | - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | [Github](https://github.com/jaweii/Vueg----page-transition-plugin) | Page level transition plugin for vue-router|
 | - | [one](https://github.com/lizhichao/one) | [Github](https://github.com/lizhichao/one) | 一个极简的高性能常驻内存php框架|
 | <img src="https://github.com/elesos/image/raw/master/starrtc.png" width="60"> | [starRTC](https://github.com/starrtc/starrtc-server) |[starRTC](https://starRTC.com)| 免费IM，免费视频通话，免费视频会议，免费直播连麦服务端  |
