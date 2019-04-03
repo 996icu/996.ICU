@@ -68,6 +68,8 @@
 社区
 ---
 
+ - [996.works](https://github.com/996-works/996.works) 此 repo 收集理性探讨 996 合理性的多样化声音。
+
  - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的反向 repo，旨在让更多的人逃离 996，加入 955 的行列。
 
  - [996.LAW](https://github.com/Y1ran/996.Law) 法律板块，此 repo 主要收集大家的仲裁、民事诉讼信息。
