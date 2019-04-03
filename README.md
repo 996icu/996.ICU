@@ -7,7 +7,7 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-如果你想引入996.ICU徽章到你项目，请阅读下面的[我能做什么？](#what-can-i-do)
+如果你想引入996.ICU徽章到你项目，请阅读下面的[我能做什么？](#我能做什么)
 欢迎为这个库点亮star和做出贡献。
 
 相关报道
