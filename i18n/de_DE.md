@@ -4,7 +4,7 @@
 ## Was ist "996"?
 Der Name "996-Arbeitsmuster" bezieht sich auf einen inoffiziellen Arbeitsrhythmus, und zwar von 9 bis 21 Uhr täglich an sechs Tagen die Woche. Heutzutage wird so ein Arbeitsrhythmus in China immer gewöhnlicher. Dieser entspricht mindestens 60 Arbeitsstunden pro Woche. Dies ist gesetzlich nicht erlaubt.
 
-## [Verfassungen der Volksrepublik China](http://www.verfassungen.net/rc/verf82-i.htm)
+## [Verfassung der Volksrepublik China](http://www.verfassungen.net/rc/verf82-i.htm)
 
 Artikel 43
 
