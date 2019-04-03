@@ -92,3 +92,4 @@ Projects under 996ICU License. Thanks for your support!
 | - | [Image-Downloader](https://github.com/sczhengyabin/Image-Downloader) | [Github](https://github.com/sczhengyabin/Image-Downloader/) | 支持多个搜索引擎的网络图片批量爬虫工具 |
 | - | [git-hook-996](https://github.com/jeasonstudio/git-hook-996) | [Github](https://github.com/jeasonstudio/git-hook-996) | 禁止在正常工作时间外提交代码 |
 | - | [smart-hooks](https://github.com/Chersquwn/smart-hooks) | [GitHub](https://github.com/Chersquwn/smart-hooks) | 简单、实用的react-hooks |
+| <img src="https://github.com/haoranzhang929/audio-frequency-visual-generators/blob/develop/sample/logo.png" width="60"> | [Audio Frequency Graph Generator](https://github.com/haoranzhang929/audio-frequency-visual-generators) | [GitHub](https://github.com/haoranzhang929/audio-frequency-visual-generators) | 网页端音频频率数据分析工具 |
