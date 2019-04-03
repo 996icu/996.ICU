@@ -1,12 +1,12 @@
 996.ICU
 ===
 
-## Introducing "996."
+## Introducing "996"
 996 working, ICU waiting.
 
-The "996" work schedule is referring to an illegal work schedule, which has been gaining popularity among companies. The schedule starts from 9 a.m. and ends at 9 p.m. each day, for six days a week.
+The "996" work schedule is referring to an illegal work schedule in China. It has been gaining popularity among companies. The schedule starts from 9 a.m. and ends at 9 p.m. (12 hours) each day, for 6 days a week.
 
-Serving in a company that encourages this "996" work schedule usually means working for at least 60 hours a week.
+Serving in a company that encourages "996" work schedule usually means working for at least 72 hours a week.
 
 ## Laws and Regulations
 
