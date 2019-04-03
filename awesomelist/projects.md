@@ -90,3 +90,4 @@ Projects under 996ICU License. Thanks for your support!
 | <img src="https://github.com/ChanpleCai/SmartTaskbar/blob/master/logo/logo_blue.png" width="60"> | [SmartTaskbar](https://github.com/ChanpleCai/SmartTaskbar) | [Github](https://github.com/ChanpleCai/SmartTaskbar) | A Lightweight Windows Taskbar Enhancement Utility  |
 | - | [Image-Downloader](https://github.com/sczhengyabin/Image-Downloader) | [Github](https://github.com/sczhengyabin/Image-Downloader/) | 支持多个搜索引擎的网络图片批量爬虫工具 |
 | - | [git-hook-996](https://github.com/jeasonstudio/git-hook-996) | [Github](https://github.com/jeasonstudio/git-hook-996) | 禁止在正常工作时间外提交代码 |
+| - | [PropertyManagementSystem](https://github.com/riiyn/PropertyManagementSystem) | [Github](https://github.com/riiyn/PropertyManagementSystem) | 基于Qt+MySQL的简易物业管理系统基础框架 |
