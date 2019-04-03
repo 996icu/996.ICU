@@ -34,7 +34,7 @@ Projects under 996ICU License. Thanks for your support!
 | - | [Android-KlineChar](https://github.com/icechao/kline) |[icechao](https://github.com/icechao)| 安卓高仿火币,快速实现K线功能的lib |
 | - | [Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary) |[Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary)| 🔥Android MVP快速开发框架，做国内 「Demo最全面」「注释最详细」「使用最简单」「代码最严谨」的Android开源UI框架  |
 | <img src="https://xpnet-public.oss-cn-hangzhou.aliyuncs.com/color_admin_v4.2/frontend/template/assets/img/leetcode/leetcode.png" width="60"> | [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) |[Kyle Liu](https://github.com/kylesliu)| Leetcode Golang 题解 |
-| - | [easy-filter](https://github.com/PsChina/easy-filter) | [PsChina](https://github.com/PsChina) | vue2.x 过滤器插件 |
+| - | [easy-filter](https://github.com/PsChina/easy-filter) | [Github](https://github.com/PsChina)/ [npm](https://www.npmjs.com/package/easy-filter) | vue2.x 过滤器插件 |
 | - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | [Github](https://github.com/jaweii/Vueg----page-transition-plugin) | Page level transition plugin for vue-router|
 | - | [one](https://github.com/lizhichao/one) | [Github](https://github.com/lizhichao/one) | 一个极简的高性能常驻内存php框架|
 | - | [vue-color-ui](https://github.com/martin-yin/vue-color-ui) | [Github](https://github.com/martin-yin/vue-color-ui) | 微信小程序color-ui的vue版本 |
@@ -77,3 +77,4 @@ Projects under 996ICU License. Thanks for your support!
 | - | [CHOLMOD](https://github.com/LyqSpace/Cholmod-Scikit-Sparse-Windows) | [GitHub](https://github.com/LyqSpace/Cholmod-Scikit-Sparse-Windows) | CHOLMOD和Scikit-Sparse科学计算工具包的Windows版本 |
 | <img src="https://github.com/Pzoom522/MusiCoder/blob/master/doc/img/slogo.png?raw=true" width="60"> | [MusiCoder](https://github.com/Pzoom522/MusiCoder) | [GitHub](https://github.com/Pzoom522/MusiCoder) / [SourceForge](https://musicoder.sourceforge.io) / [Paper](https://arxiv.org/abs/1810.01248) / [Poster](https://doi.org/10.13140/RG.2.2.35251.89120) | :musical_score:基于深度学习的轻量化音乐质感转换系统 |
 | - | [Unity 3D ShaderLab Development Practice Introduction, 3rd version](https://github.com/AShine17cm/ShaderLab) |[Unity 3D ShaderLab Development Practice Introduction, 3rd version](https://github.com/AShine17cm/ShaderLab)| 《Unity 3D ShaderLab开发实战详解》第三版源码  |
+| - | [zoro](https://github.com/FaureWu/zoro) | [zoro](https://faurewu.github.io/zoro/) | zoro是一套基于redux的轻量级前端框架，用于快速接入redux，支持原生小程序wepy, taro, react等 |
