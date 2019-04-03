@@ -21,6 +21,8 @@
 
 截图请**抹掉一切个人信息**，包括但不限于名字，内部ID，电话号码，邮箱地址等。为防止某些公司[使用数字盲水印对截屏进行追踪](https://www.zhihu.com/question/50735753/answer/122593277)，建议使用屏摄的方法采集图片证据。如果截图需要放在GitHub，请放在`blacklist/img`文件夹里。
 
+相关证据链接将被自动提交到 [Internet Archive](https://web.archive.org) 进行归档。如证据原始链接失效，可以去 [Internet Archive](https://web.archive.org) 找回。
+
 声明与注意事项
 ---
 - 本仓库只在筛选出符合上述要求的PR后，在本页面作出展示。
