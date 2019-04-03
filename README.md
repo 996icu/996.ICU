@@ -1,59 +1,35 @@
 996.ICU
 =======
+* [English version](./README_EN.md)
 
-The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
+`996.ICU` 指的是 “工作996”， 生病ICU。在中国，这是程序员之间的一种自嘲的说法，意思是按照996的模式工作，那以后就得进ICU了。
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-If you want to reference 996.ICU badge, read [What can I do?](#what-can-i-do) as follows.
+如果你想引入996.ICU徽章到你项目，请阅读下面的[我能做什么？](#what-can-i-do)
+欢迎为这个库点亮star和做出贡献。
 
-Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respects to honorable developers.
+相关报道
+=======
 
-人民网发声支持，不能让压榨员工的如意算盘再继续了：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)
+《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
+《人民网》：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)
 
-感谢《中国青年报》为我们发声：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
-
-感谢“共青团中央”为我们发声：[工作996，生病ICU？关注：年轻人该如何奋斗](https://mp.weixin.qq.com/s/e5qaW6ED_WUunNYG-q7frg)
-
-What is 996?
+什么是996？
 ---
-
-A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
-
-*****
 
 “996”工作制，指的是一种越来越流行的非官方工作制（早上 9 点 ~ 晚上 9 点，每周 6 天）。在一个实行“996”工作制的公司工作就意味着每周至少要工作 60 个小时。
 
-What can I do?
+我能做什么？
 ---
-
-- Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
-- Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
-- License your awesome projects with the [996ICU License](LICENSE).  
-- Add proposals to give advise and suggestion about the development of 996.ICU.
-
-*****
-
 - 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
 - 把这个[徽章](externals/instruction.md)加入你的项目来支持 996.ICU
 - 为您的项目添加[反 996 许可证](LICENSE_CN)。
 - 给社区与项目发展提出新的议案。
 
-Principles and purposes
+原则和目的
 ---
-
-* 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
-
-* This is not a political movement. We firmly uphold the labor law and require employers to respect the legitimate rights and interests of their employees.
-
-* It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasize labor rights at the same time. What we want is to create an open source software license that advocates for workers' rights.
-
-* We are willing to hear all positive and constructive proposals and advocate for mature and responsible speech.
-
-* We are working on the drafting of Anti-996 License right now and we hope to get help from professionals with relevant experience.
-
-*****
 
 * 996.ICU 是 IT 从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
 
@@ -64,41 +40,29 @@ Principles and purposes
 * 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟的、负责任的发言。
 
 * 目前反 996 许可证还处于起草阶段，希望有相关经验的专业人士能给予帮助。
+  
 
-Proposals
+提议
 ---
-A proposal is a document accepted by 996.ICU.  
-Typically, a proposal should give a solution or suggestion about the development of the project and community.  
-For more details, you can read the [proposal template](proposal/proposal_template.md) document.  
+提议指的是被996.ICU项目接受的文档。
+通常提议应该给出关于此项目的发展和交流的方案或者建议。
+请阅读[提议模板](proposal/proposal_template.md)来了解更多细节。
 
-To help the development of 996.ICU, you can do several things base on proposals.
+为了帮助996.ICU的发展，你可以基于提议做几件事：
+- 阅读已接受的提议并且尝试改进。
+- 根据提议做出行动。
+- 用PR的方式来给出你自己的提议。
 
-- Read the accepted proposals and try to improve them.
-- Take actions according to the accepted proposals.
-- Give your own proposals with a PR following the proposal format.
 
 
-Expand influence
+扩大影响
 ---
-
-[Translations of 996.ICU's contents](i18n/i18n.md), feel free to adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
-
-*****
 
 [996.ICU 内容翻译](i18n/i18n.md)，请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
 
-Community powers
+
+社区
 ---
-
- - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join 955.
-
- - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprise.
-
- - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo designed to let more people know and join the activity of 996.ICU.
-
- - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
- 
-*****
 
  - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的反向Repo，旨在让更多的人逃离 996，加入 955 的行列。
 
@@ -108,30 +72,14 @@ Community powers
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此Repo为996和955的匿名投票列表。
 
-Where are the issues?
+Issue去哪了？
 ---
-
-Even with interaction limits on, the issues area was totally out of control.
-So I **personally** decided to switch it off, not by GitHub or others.
-
-*****
 
 即使有互动限制，issues 区依然完全失去了控制。
 因此我**个人**决定关闭 issues，这与 GitHub 或其他方面无关。
 
 License
 ---
-
-[Anti-996 License](LICENSE)
-
- - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work
- - See a [full list of projects](awesomelist/projects.md) under Anti-996 License
- - It is an idea of @xushunke: [Design A Software License Of Labor Protection -- 996ICU License](https://github.com/996icu/996.ICU/pull/15642)
- - This version of Anti-996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).  
- - This draft is adapted from the MIT license. For more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
- - For law professionals or anyone who is willing to contribute to further version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
-
-*****
 
 [反 996 许可证](LICENSE)
 
