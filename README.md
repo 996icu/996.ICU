@@ -7,7 +7,7 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-If you want to reference 996.ICU badge, read [What can I do?](#what-can-i-do) as follows.
+If you want to refer to the 996.ICU badge, read the section [What can I do?](#what-can-i-do) below.
 
 Related reports:
 ---
@@ -22,11 +22,12 @@ Related reports:
 * *THE VERGE:* [Tencent and Xiaomi may be censoring a GitHub page for airing worker grievances](https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances). 3 April, 2019.
 * *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1). 3 April, 2019.
 * *Abacus:*  [Chinese browsers block protest against China’s 996 overtime work culture](https://www.abacusnews.com/digital-life/chinese-browsers-block-protest-against-chinas-996-overtime-work-culture/article/3004543). 3 April, 2019.
+* *ZDNet:* [996.ICU : Sur Github, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm). 3 April, 2019.
 
 What is 996?
 ---
 
-A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
+A "996" work schedule refers to an unofficial work schedule (9 a.m.&ndash;9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
 
 
 What can I do?
@@ -69,7 +70,7 @@ To help the development of 996.ICU, you can do several things base on proposals.
 Expand influence
 ---
 
-[Translations of 996.ICU's contents](i18n/i18n.md), feel free to adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
+Feel free to [translate 996.ICU's contents](i18n/i18n.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
 
 Community powers
