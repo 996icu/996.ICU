@@ -70,12 +70,14 @@
 |北京|[北京必胜课教育科技有限公司](http://winlesson.com/)|2019年4月|966|[图片-1](img/bsk966-001.jpeg) [图片-2](img/bsk966-003.png)|
 |上海|[蝴蝶互动](http://hoodinn.hgame.com/default/index)|2019年2月|966|[知乎：如何评价蝴蝶互动？](https://www.zhihu.com/question/40858342/answer/616999472) / [聊天记录截图](img/蝴蝶互动-聊天记录.png) / ([所受委托资料-0](img/蝴蝶互动-报告委托截图-0.jpg)  [所受委托资料-1](img/蝴蝶互动-报告委托截图-1.jpg))|
 |深圳|[深圳市世纪纵横科技发展有限公司](http://www.viothink.com/?tdsourcetag=s_pctim_aiomsg)|2019年4月|966、加班、拖延工资|[拖欠工资](img/chat1.png),[拖欠工资](img/chat2.png),[拖欠工资](img/chat3.png)。而且经常加班到1、2点[加班1](img/taxi.jpg)[加班2](img/taxi2.jpg)[加班3](img/taxi3.jpg)。周六是强制上班|
-|北京|[北京关键科技股份有限公司](http://www.keyware.com.cn/)|2019年3月|986|986且没加班费不能换休[图片-1](img/keware1.png) [图片-2](img/keyware2.png)|[公众号发布,说自发加班加点](https://mp.weixin.qq.com/s/3bB1csq2LYIWsvOjuHcAOQ)|
+|北京|[北京关键科技股份有限公司](http://www.keyware.com.cn/)|2019年3月|986|986且没加班费不能换休[图片-1](img/keware1.png) [图片-2](img/keyware2.png)|[公众号发布,说自发加班加点](https://mp.weixin.qq.com/s/3bB1csq2LYIWsvOjuHcAOQ)|  
 |济南|[山东国子软件股份有限公司](http://www.googosoft.com/)|2017年4月|886|加班补助说算在绩效中，时薪5块 : [加班表](img/googosoft.png)、[加班表](img/googosoft2.png)、[看准网1](https://www.kanzhun.com/pl6406106.html)、[看准网2](https://www.kanzhun.com/gsr5619934tl56.html?ka=review-label4)|
-|北京|[首约科技（北京）有限公司](https://www.01zhuanche.com/)|2019年3月|996|工作日无加班费无调休[图片-1](img/sq.png) [图片-2](img/sq2.png)|加班时长作为KPI评估标准|
-|青岛|[海尔集团](http://www.haier.net/)|2019年4月|996|[在海尔工作怎么样](https://www.zhihu.com/question/21895528) + 亲历|
-|北京|[Boss直聘(北京华品博睿网络技术有限公司)](https://www.zhipin.com/)|2019年4月2日|大小周|[OFFER邮件(已处理图片和关键字过滤)](https://upload.cc/i1/2019/04/03/1wfI7o.png) + 亲历|
 |上海|[上海联影医疗科技有限公司](https://www.united-imaging.com/cn/home/)|2019年4月4日|996、无加班费|[看准网](https://www.kanzhun.com/pl6045694.html)、 [CSDN](https://bbs.csdn.net/topics/380214818)、[看准网](https://www.kanzhun.com/pl6212987.html)|
+|北京|[首约科技（北京）有限公司](https://www.01zhuanche.com/)|2019年3月|996|工作日无加班费无调休[图片-1](img/sq.png) [图片-2](img/sq2.png)|加班时长作为KPI评估标准| 
+|青岛|[海尔集团](http://www.haier.net/)|2019年4月|996|[在海尔工作怎么样](https://www.zhihu.com/question/21895528) + 亲历| 
+|北京|[Boss直聘(北京华品博睿网络技术有限公司)](https://www.zhipin.com/)|2019年4月2日|大小周|[OFFER邮件(已处理图片和关键字过滤)](https://upload.cc/i1/2019/04/03/1wfI7o.png) + 亲历| 
+|北京|[北京游奕互动软件有限公司](http://www.uegame.com/)|2016年3月|986|加班不给钱的那种，用这个来卡大家项目上线分红[打卡记录](img/yyhd.png)| 
+|天津|[长城汽车股份有限公司天津园区](http://www.gwm.com.cn/)|2019年3月28日|大小周|[招聘简章](http://www.hljsxy.org.cn/website/sites/common/readwNews.aspx?JpkId=1&id=13289)|
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
