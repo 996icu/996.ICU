@@ -15,8 +15,8 @@ or equivalent Markdown code
 
 Add License
 ---
-#### Badget
-Markdown code for badget：
+#### Badge
+Markdown code for badge：
 ```markdown
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 ```
@@ -32,4 +32,3 @@ The 996ICU license is designed for multi-licensing, you can use it with other li
   - Add primary license content, such as MIT license.
   - Add separation line like `----------`.
   - Add 996ICU license content.
-  
