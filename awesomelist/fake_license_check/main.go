@@ -140,7 +140,7 @@ func createPR(fakeRepo []string, content string) error {
 	}'
 	*/
 	const url = "https://xrbhog4g8g.execute-api.eu-west-2.amazonaws.com/prod/prb0t"
-	const contentType = "content-type: application/json"
+	const contentType = "application/json; charset=utf-8"
 	prbot := PrBot{}
 	prbot.User = "whtiehack"
 	prbot.Repo = "996.ICU"
