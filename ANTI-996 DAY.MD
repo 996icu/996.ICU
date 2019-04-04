@@ -1,12 +1,13 @@
-ANTI 996 DAY
+ANTI-996 DAY
 ===
 
-**DATE: March 26 in every year.**
+**Date: March 26th of each year.**
 
-March 26 2019, A chinese programmer @996icu create a github project 996.ICU.
-This project is talk about Chinese 996 work mode. and the project get 100000+
-stars in only three days, Numerous chinese programmer translate the project 
-to multi language. We suggest name the March 26 in every year to "ANTI 996 DAY".
+On March 26th, 2019, a Chinese programmer @996icu created a GitHub 
+project 996.ICU. This project is about the 996-working mode in China. 
+The project received more than 100,000 stars in just three days, 
+and many Chinese programmers translated the project into multiple 
+languages. We recommend the name "ANTI-996 DAY" on March 26th each year.
 
 
 
