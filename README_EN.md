@@ -22,7 +22,6 @@ Related reports:
 * *THE VERGE:* [Tencent and Xiaomi may be censoring a GitHub page for airing worker grievances](https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances). 3 April, 2019.
 * *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1). 3 April, 2019.
 * *Abacus:*  [Chinese browsers block protest against China’s 996 overtime work culture](https://www.abacusnews.com/digital-life/chinese-browsers-block-protest-against-chinas-996-overtime-work-culture/article/3004543). 3 April, 2019.
-* *Financial Times*: [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)
 
 What is 996?
 ---
