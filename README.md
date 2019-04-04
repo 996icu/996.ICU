@@ -19,7 +19,7 @@
 - 《南方日报》：[正视年轻人压力“爆棚”的危险](http://epaper.southcn.com/nfdaily/html/2019-04/03/content_7790850.htm)
 - 《广州日报》：[“996工作制”不可持续](https://www.toutiao.com/a6675390645005189639)
 - 《经济日报-中国经济网》：[拒绝“996”工作制！以人为本才能获得长远发展](http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)
-- 《华尔街见闻》：[996，谁的ICU？](https://awtmt.com/articles/3506048?from=wscn)
+- 《华尔街见闻》：[996，谁的ICU？](https://awtmt.com/articles/3506048)
 
 什么是996？
 ---
@@ -77,6 +77,8 @@
  - [996.TSC](https://github.com/lxlxw/996.TSC) 周边文化创意板块，通过图片等形式的传播，让更多人知道并加入 996.ICU 的活动中来。
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
+
+ - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
 
 Issues 去哪了？
 ---
