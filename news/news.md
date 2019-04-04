@@ -9,3 +9,4 @@
 - 《差评》：[奥斯维辛没有新闻，互联网也没有什么996。](https://mp.weixin.qq.com/s/ML_VnsWcQdUGCLYXOABlrw)
 - 《好奇心日报》：[在代码仓库里反对“996”，中国程序员抗议加班制度](https://www.qdaily.com/articles/62583.html)
 - 《好奇心日报》：[996 惹怒程序员之后，他们的抗议引发了全球关注](https://www.qdaily.com/articles/62652.html)
+- 《新华网》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://www.xinhuanet.com/2019-04/02/c_1124313774.htm)
