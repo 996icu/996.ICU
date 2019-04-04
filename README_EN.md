@@ -17,6 +17,8 @@ Related reports:
 * *South China Morning Post:* [‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
 * *Sixth Tone:* [Chinese Developers Protest Overwork on GitHub](https://www.sixthtone.com/news/1003771/chinese-developers-protest-overwork-on-github)
 * *THE VERGE:* [Chinese developers use GitHub to protest long work hours](https://www.theverge.com/2019/4/2/18291035/chinese-developers-github-protest-long-work-hours)
+* *Weibo《Phoenix Technology》: * [#996icu遭大公司联手屏蔽#](https://weibo.com/1856404484/HnTrwh3pd?from=page_1002061856404484_profile&wvr=6&mod=weibotime&type=comment#_rnd1554347535278)
+
 
 What is 996?
 ---

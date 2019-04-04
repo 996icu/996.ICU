@@ -20,6 +20,7 @@
 - 《广州日报》：[“996工作制”不可持续](https://www.toutiao.com/a6675390645005189639)
 - 《经济日报-中国经济网》：[拒绝“996”工作制！以人为本才能获得长远发展](http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)
 - 《华尔街见闻》：[996，谁的ICU？](https://awtmt.com/articles/3506048?from=wscn)
+-  微博《凤凰科技》: [#996icu遭大公司联手屏蔽#](https://weibo.com/1856404484/HnTrwh3pd?from=page_1002061856404484_profile&wvr=6&mod=weibotime&type=comment#_rnd1554347535278)
 
 什么是996？
 ---
