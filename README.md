@@ -63,6 +63,9 @@
 
 [996.ICU 内容翻译](i18n/i18n.md)，请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
 
+[linux kernel bug](https://bugzilla.kernel.org/show_bug.cgi?id=203151) 向linux内核提交建议增加反 996 许可证
+
+[apache httpd bug](https://bz.apache.org/bugzilla/show_bug.cgi?id=63315) 向 apache httpd 提交建议增加反 996 许可证
 
 社区
 ---
