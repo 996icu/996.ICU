@@ -30,3 +30,4 @@
 |:---:|:---:|:---:|:---:|:---:|
 |成都|[四川锦程消费金融有限责任公司](http://www.jccfc.com/)|2019年4月|915-530-5|[考勤规则通知邮件](img/timing_20190401111520.png)|
 |深圳/北京/广州/上海..|[EXPEDIA GROUP 亿客行](https://lifeatexpedia.com/jobs?location=china)|一直都是呀|5x8=40|[连这也可以成为买点?!](img/worklifebalance4you.jpg)|
+|中国|[联想](http://www.lenovo.com/)|2019年4月|5x8=40|[被你们喷的良心想其实是员工良心想]|
