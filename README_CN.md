@@ -1,6 +1,6 @@
 996.ICU
 =======
-* [English version](./README_EN.md)
+* [English version](./README.md)
 
 `996.ICU` 指的是 “工作 996”， 生病 ICU 。在中国，这是程序员之间的一种自嘲的说法，意思是按照 996 的模式工作，那以后就得进 ICU 了。
 
