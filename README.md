@@ -49,7 +49,7 @@ Principles and purposes
 
 * It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
 
-* We are willing to hear all positive and constructive proposals and advocate for mature and responsible speech.
+* We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
 
 * We are working on the drafting of Anti-996 License right now and we hope to get help from professionals with relevant experience.
 
