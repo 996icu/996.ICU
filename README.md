@@ -19,7 +19,7 @@
 - 《南方日报》：[正视年轻人压力“爆棚”的危险](http://epaper.southcn.com/nfdaily/html/2019-04/03/content_7790850.htm)
 - 《广州日报》：[“996工作制”不可持续](https://www.toutiao.com/a6675390645005189639)
 - 《经济日报-中国经济网》：[拒绝“996”工作制！以人为本才能获得长远发展](http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)
-- 《华尔街见闻》：[996，谁的ICU？](https://awtmt.com/articles/3506048)
+- 《全天候科技》：[996，谁的ICU？](https://awtmt.com/articles/3506048)
 
 什么是996？
 ---
