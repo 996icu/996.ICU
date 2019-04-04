@@ -39,7 +39,7 @@
 
 * 996.ICU 是 IT 从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
 
-* 这并不是一个政治运动，我们坚定维护劳动法，我们要求雇主尊重雇员的合法权益。
+* 这并不是一个政治运动，我们坚定维护[《劳动法》][1]，我们要求雇主尊重雇员的合法权益。
 
 * 从闭源到开源是一次伟大的进步，从开源到同时强调保护劳工权益也将是一次伟大的进步，我们想要创造一个主张保护劳动者权益的开源软件许可证。
 
@@ -97,3 +97,5 @@ License
  - 当前版本反 996 许可证由 [伊利诺伊大学法学院的 Katt Gu, J.D](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao) 起草；由 [Dimension](https://www.dimension.im) 的首席执行官 [Suji Yan](https://www.linkedin.com/in/tedkoyan/) 提供建议。
  - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
  - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢你的帮助。
+
+[1]: http://www.mohrss.gov.cn/SYrlzyhshbzb/zcfg/flfg/fl/201601/t20160119_232110.html
