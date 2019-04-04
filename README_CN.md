@@ -15,6 +15,7 @@
 
 - 《共青团中央》：[工作996，生病ICU？关注：年轻人该如何奋斗](https://mp.weixin.qq.com/s/e5qaW6ED_WUunNYG-q7frg)
 - 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
+- 《诉讼实例》：[途家网996不给加班分，在中国劳动诉讼有多难？](https://iamybj.github.io/tujia996/)
 
 在此处查看相关报道的[完整列表](/news/news.md)
 
