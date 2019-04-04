@@ -76,6 +76,8 @@
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
 
  - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
+ 
+ - [996.BLOG](https://weibo.com/996icu) 官方微博，此微博仅向大家提供996.ICU的最新动态，旨在让大家及时看到并参与进来。
 
 Issues 去哪了？
 ---
