@@ -13,6 +13,8 @@ before_install:
 
 install:
   - echo "install"
+  - go get github.com/google/go-github/github
+  - go get golang.org/x/oauth2
 
 go_import_path: github.com/whtiehack/996.ICU
 
