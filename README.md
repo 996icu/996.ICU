@@ -80,7 +80,7 @@
 Issues 去哪了？
 ---
 
-即使有互动限制，Issues 区依然完全失去了控制。
+即使有互动限制，Issues 区仍然失去了控制。
 因此我**个人**决定关闭 Issues，这与 GitHub 或其他方面无关。
 
 License
