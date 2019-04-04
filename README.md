@@ -47,7 +47,7 @@ Principles and purposes
 
 * This is not a political movement. We firmly uphold the labor law and require employers to respect the legitimate rights and interests of their employees.
 
-* It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates for workers' rights.
+* It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
 
 * We are willing to hear all positive and constructive proposals and advocate for mature and responsible speech.
 
