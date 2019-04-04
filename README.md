@@ -69,7 +69,7 @@ To help the development of 996.ICU, you can do several things base on proposals.
 Expand influence
 ---
 
-[Translations of 996.ICU's contents](i18n/i18n.md), feel free to adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
+Feel free to [translate 996.ICU's contents](i18n/i18n.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
 
 Community powers
