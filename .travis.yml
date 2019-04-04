@@ -1,0 +1,29 @@
+language: go
+
+matrix:
+  fast_finish: true
+  include:
+    - go: 1.11.x
+
+git:
+  depth: 10
+
+before_install:
+  - echo "before_install"
+
+install:
+  - echo "install"
+
+go_import_path: github.com/whtiehack/996.ICU
+
+script:
+  - echo "script list"
+  - go run ./blacklist/archive
+
+after_script:
+  - sleep 1
+
+after_success:
+  - echo "after_success"
+  - sleep 1
+
