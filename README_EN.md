@@ -16,7 +16,6 @@ Related reports:
 * *Sixth Tone:* [Chinese Developers Protest Overwork on GitHub](https://www.sixthtone.com/news/1003771/chinese-developers-protest-overwork-on-github)
 * *THE VERGE:* [Chinese developers use GitHub to protest long work hours](https://www.theverge.com/2019/4/2/18291035/chinese-developers-github-protest-long-work-hours)
 * *Reddit:* ["996 working, ICU waiting", complains Chinese developer](https://www.reddit.com/r/China/comments/b6skdi/996_working_icu_waiting_complains_chinese/)
-* *SIXTH TONE:* [Chinese Developers Protest Overwork on GitHub](https://www.sixthtone.com/news/1003771/chinese-developers-protest-overwork-on-github)
 
 What is 996?
 ---
