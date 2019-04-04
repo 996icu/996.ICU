@@ -12,13 +12,13 @@ Post-History:| None
 ## Why this Proposal?
 
 I write this template for the whole community. <br/>
-Hope we can record useful and valuable suggestions and make them true.
+I wish we can record useful and valuable suggestions and make them happen.
 
 ## Community Value
 
 Provide a template for new proposals. <br/>
 A proposal can be used to record suggestions and agreements. <br/>
-It's better for community members to understand and review what import decisions have been made and discussed.
+Make the community members understanding and reviewing import decisions what have been made and discussed better.
 
 ## Problems
 

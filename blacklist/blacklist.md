@@ -35,7 +35,7 @@
 ---
 |所在城市|公司名字|曝光/施行时间|制度描述|证据内容|
 |:---:|:---:|:---:|:---:|:---:|
-|深圳|[华为](https://www.huawei.com/cn/)|2010年8月|9106|[华为：“自愿”的奋斗者协议](http://focus.news.163.com/10/0921/15/6H460OOP00011SM9.html)|
+|深圳|[华为](https://www.huawei.com/cn/)|2010年8月|9106|[华为：“自愿”的奋斗者协议](http://focus.news.163.com/10/0921/15/6H460OOP00011SM9.html)([图片](img/huawei.jpg))|
 |杭州|[阿里巴巴](https://www.alibabagroup.com/)|2018年6月|996|[阿里巴巴的996加班文化，看到这些恐怖数据，你也会辞职！](https://kuaibao.qq.com/s/20180612A1FAPU00)|
 |杭州|[蚂蚁金服](https://www.antfin.com/)|2018年11月|9106|[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q)|
 |北京|[京东](https://www.jd.com)|2019年3月|995|[京东回应995工作制：不会强制要求 但要全情投入](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)<br>[刘强东内部邮件称要淘汰或协商解决掉“三种人”](https://i.loli.net/2019/04/02/5ca2e8727f213.jpg)|
@@ -46,7 +46,6 @@
 |北京|[字节跳动](https://bytedance.com)|2017年7月|加班|[看准网](https://www.kanzhun.com/gsr5622411tl56.html)、[搜狐](https://www.sohu.com/a/256795805_231667)|
 |上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
 |深圳|[大疆创新](https://www.dji.com/cn)|2018年12月|996|[程序员猝死之后大疆称无加班文化 离职员工怒了](https://baijiahao.baidu.com/s?id=1619909152168711034&wfr=spider&for=pc)|
-|六安|[六安人论坛](http://www.luanren.com)|2019年03月|007|[微信群](http://vip.luanren.com/20190329.png)|
 |北京|[用友](http://www.yonyou.com/)|2018年12月|997|[在用友工作是怎样一番体验？ - 知乎](https://www.zhihu.com/question/26683235)|
 |深圳|[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[深信服真的每天加班到 11 点吗](https://www.v2ex.com/t/525495)|
 |广州|[鲸鱼游戏](http://www.adjingyu.com/)|2017年3月|996|[考勤](https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg)|
@@ -73,7 +72,7 @@
 |北京|[北京关键科技股份有限公司](http://www.keyware.com.cn/)|2019年3月|986|986且没加班费不能换休[图片-1](img/keware1.png) [图片-2](img/keyware2.png)|[公众号发布,说自发加班加点](https://mp.weixin.qq.com/s/3bB1csq2LYIWsvOjuHcAOQ)|  
 |济南|[山东国子软件股份有限公司](http://www.googosoft.com/)|2017年4月|886|加班补助说算在绩效中，时薪5块 : [加班表](img/googosoft.png)、[加班表](img/googosoft2.png)、[看准网1](https://www.kanzhun.com/pl6406106.html)、[看准网2](https://www.kanzhun.com/gsr5619934tl56.html?ka=review-label4)|
 |上海|[上海联影医疗科技有限公司](https://www.united-imaging.com/cn/home/)|2019年4月4日|996、无加班费|[看准网](https://www.kanzhun.com/pl6045694.html)、 [CSDN](https://bbs.csdn.net/topics/380214818)、[看准网](https://www.kanzhun.com/pl6212987.html)|
-|北京|[首约科技（北京）有限公司](https://www.01zhuanche.com/)|2019年3月|996|工作日无加班费无调休[图片-1](img/sq.png) [图片-2](img/sq2.png)|加班时长作为KPI评估标准| 
+|北京|[首约科技（北京）有限公司](https://www.01zhuanche.com/)|2019年3月|996|工作日无加班费无调休|加班时长作为KPI评估标准| 
 |青岛|[海尔集团](http://www.haier.net/)|2019年4月|996|[在海尔工作怎么样](https://www.zhihu.com/question/21895528) + 亲历| 
 |北京|[Boss直聘(北京华品博睿网络技术有限公司)](https://www.zhipin.com/)|2019年4月2日|大小周|[OFFER邮件(已处理图片和关键字过滤)](https://upload.cc/i1/2019/04/03/1wfI7o.png) + 亲历| 
 |北京|[北京游奕互动软件有限公司](http://www.uegame.com/)|2016年3月|986|加班不给钱的那种，用这个来卡大家项目上线分红[打卡记录](img/yyhd.png)| 
