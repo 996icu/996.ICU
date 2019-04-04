@@ -1,4 +1,4 @@
-996.ICU
+[996.ICU](https://996.icu)
 =======
 * [中文版](./README_CN.md)
 
