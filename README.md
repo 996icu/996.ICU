@@ -7,7 +7,7 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-If you want to reference 996.ICU badge, read [What can I do?](#what-can-i-do) as follows.
+If you want to refer to the 996.ICU badge, read the section [What can I do?](#what-can-i-do) below.
 
 Related reports:
 ---
@@ -26,7 +26,7 @@ Related reports:
 What is 996?
 ---
 
-A "996" work schedule refers to an unofficial work schedule (9 a.m. ~ 9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
+A "996" work schedule refers to an unofficial work schedule (9 a.m.&ndash;9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
 
 
 What can I do?
