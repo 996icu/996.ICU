@@ -1,7 +1,7 @@
 996.ICU
 =======
 * [Chinese version](./README.md)
-  
+
 The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
@@ -9,6 +9,14 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 
 If you want to reference 996.ICU badge, read [What can I do?](#what-can-i-do) as follows.
 
+Related reports:
+---
+* 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
+* 《人民网》：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)
+* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
+* *South China Morning Post:* [‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
+* *Sixth Tone:* [Chinese Developers Protest Overwork on GitHub](https://www.sixthtone.com/news/1003771/chinese-developers-protest-overwork-on-github)
+* *THE VERGE:* [Chinese developers use GitHub to protest long work hours](https://www.theverge.com/2019/4/2/18291035/chinese-developers-github-protest-long-work-hours)
 
 What is 996?
 ---
@@ -21,8 +29,9 @@ What can I do?
 
 - Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
-- License your awesome projects with the [996ICU License](LICENSE).  
+- License your awesome projects with the [Anti 996 License](LICENSE).  
 - Add proposals to give advise and suggestion about the development of 996.ICU.
+- Go home at 6 pm without feeling sorry.
 
 
 Principles and purposes
@@ -32,7 +41,7 @@ Principles and purposes
 
 * This is not a political movement. We firmly uphold the labor law and require employers to respect the legitimate rights and interests of their employees.
 
-* It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasize labor rights at the same time. What we want is to create an open source software license that advocates for workers' rights.
+* It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates for workers' rights.
 
 * We are willing to hear all positive and constructive proposals and advocate for mature and responsible speech.
 
@@ -68,7 +77,7 @@ Community powers
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo designed to let more people know and join the activity of 996.ICU.
 
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
- 
+
 
 
 Where are the issues?
@@ -85,8 +94,7 @@ License
 
  - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work
  - See a [full list of projects](awesomelist/projects.md) under Anti-996 License
- - It is an idea of @xushunke: [Design A Software License Of Labor Protection -- 996ICU License](https://github.com/996icu/996.ICU/pull/15642)
+ - It is an idea of @xushunke: [Design A Software License Of Labor Protection -- Anti 996 License](https://github.com/996icu/996.ICU/pull/15642)
  - This version of Anti-996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).  
  - This draft is adapted from the MIT license. For more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
  - For law professionals or anyone who is willing to contribute to further version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
-
