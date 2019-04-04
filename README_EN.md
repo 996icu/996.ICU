@@ -11,8 +11,6 @@ If you want to reference 996.ICU badge, read [What can I do?](#what-can-i-do) as
 
 Related reports:
 ---
-* 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
-* 《人民网》：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)
 * *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
 * *South China Morning Post:* [‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
 * *Sixth Tone:* [Chinese Developers Protest Overwork on GitHub](https://www.sixthtone.com/news/1003771/chinese-developers-protest-overwork-on-github)
