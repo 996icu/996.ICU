@@ -25,7 +25,7 @@ Citado em [Leis do Trabalho da República Popular Chinesa](http://www.china.org.
 
 > Se o empregador prolongar as horas de trabalho em violação do que se encontra estipulado na Lei, os departamentos administrativos de trabalho podem dar aviso, ordernar correções e impor multas.  
 
-**Article 91**:
+**Artigo 91**:
 > (2) Recusa de pagar aos trabalhadores remunerações por trabalhar horas prolongadas;
 
 ## Ganhar mais popularidade e publicidade
