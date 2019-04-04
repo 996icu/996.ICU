@@ -78,11 +78,11 @@ Serving in a company that encourages the "996" work schedule usually means worki
 
 - In early September 2016, numerous reliable sources reported that  __*58.com*__  A.K.A. `58同城` (__*NYSE: WUBA*__), a classified advertisements company, introduced the "996" work schedule without overtime pay on weekends. The company later claimed that the schedule was only practiced to manage extra workload during peak season (September and October) and that this schedule is not mandatory.
 
-- In January 2019, __*Youzan.com*__ A.K.A. `有赞` (__*HKG: 8083*__), a Hangzhou-based E-commerce company, announced that the company would adopt "996" work schedule in its annual convention. Bai Ya, the CEO of Youzan, responded,
+- In January 2019, __*Youzan.com*__ A.K.A. `有赞` (__*HKG: 8083*__), a Hangzhou-based e-commerce company, announced that the company would adopt "996" work schedule in its annual convention. Bai Ya, the CEO of Youzan, responded,
 
   > "This will definitely be a right decision when we look back in a few years."
 
-- In March 2019, __*JD.com*__  A.K.A. `京东` (__*NASDAQ: JD*__), a major E-commerce company, started adopting "996" or "995" work schedules in some departments. The PR of JD stated on Maimai (`脉脉`, a Chinese business social network platform),
+- In March 2019, __*JD.com*__  A.K.A. `京东` (__*NASDAQ: JD*__), a major e-commerce company, started adopting "996" or "995" work schedules in some departments. The PR of JD stated on Maimai (`脉脉`, a Chinese business social network platform),
 
   > "[Our company culture is] the wholehearted devotion of ourselves [to achieve the business objectives]."
 
