@@ -82,7 +82,6 @@ Projects under 996ICU License. Thanks for your support!
 | - | [ThrustRTC](https://github.com/fynv/ThrustRTC) | [ThrustRTC](https://github.com/fynv/ThrustRTC) | CUDA tool set for python (and other non-C/C++ languages) that provides similar functionality like Thrust, with NVRTC at its core. |
 | - | [Privexec](https://github.com/M2Team/Privexec) | [Privexec](https://github.com/M2Team/Privexec) | Privexec 在 Windows 上使用指定的权限级别启动进程，包括 AppContainer |
 | - | [Clangbuilder](https://github.com/fstudio/clangbuilder) | [Clangbuilder](https://github.com/fstudio/clangbuilder) | Windows 系统下的 LLVM/Clang 自动化构建工具 |
-| <img src="https://github.com/M2Team/NSudo/blob/master/Logo.png?raw=true" width="60"> | [NSudo](https://github.com/M2Team/NSudo) | [NSudo](https://github.com/M2Team/NSudo) | NSudo - 一个强大的系统管理工具 |
 | - | [ARPG](https://raw.githubusercontent.com/ChangedenCZD/996.ICU/local/awesomelist/img/icon.chansos.com.png) | [Github](https://github.com/xxpniu/version/) | Unity 框架 支持行为编辑和技能时间轴编辑，用以快速搭建ARPG游戏框架 |
 | - | [myTranslate](https://github.com/Julyme/myTranslate) | [GitHub](https://github.com/Julyme/myTranslate) | 一款基于eclipse的插件，用于翻译。 |
 | <img src="https://github.com/ChanpleCai/SmartTaskbar/blob/master/logo/logo_blue.png" width="60"> | [SmartTaskbar](https://github.com/ChanpleCai/SmartTaskbar) | [Github](https://github.com/ChanpleCai/SmartTaskbar) | A Lightweight Windows Taskbar Enhancement Utility  |
@@ -92,4 +91,5 @@ Projects under 996ICU License. Thanks for your support!
 | <img src="https://github.com/haoranzhang929/audio-frequency-visual-generators/blob/develop/sample/logo.png" width="60"> | [Audio Frequency Graph Generator](https://github.com/haoranzhang929/audio-frequency-visual-generators) | [GitHub](https://github.com/haoranzhang929/audio-frequency-visual-generators) | 网页端音频频率数据分析工具 |
 | <img src="https://avatars3.githubusercontent.com/u/48942249?s=400&v=4" width="60"> | [SnowLeopard](https://github.com/alienwow/SnowLeopard) | [GitHub](https://github.com/alienwow/SnowLeopard) | 实用的 .net core 工具包 |
 | - | [Rako](https://github.com/rabbitooops/rako) | [Github](https://github.com/rabbitooops/rako) | 声明式的JavaScript状态容器 |
+| - | [react-blog](https://github.com/gershonv/react-blog) | [Github](https://github.com/gershonv/react-blog) | 一个使用 react 16.8 + koa2 + mysql 构建的简约 spa 博客 |
 | <img src="https://cnlgbtdata.com/static/laws/assets/img/5c57f5dbdfb90.128px.ico" width="60"> | [cnlgbtdataSnowLeopard](https://cnlgbtdata.com) | [cnlgbtdataSnowLeopard](https://cnlgbtdata.com) | 国内LGBT相关资料及法律信息收集站 |
