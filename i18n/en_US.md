@@ -76,7 +76,7 @@ Serving in a company that encourages this "996" work schedule usually means work
 
 ## Gaining popularity and publicity
 
-- In early September 2016, numerous reliable sources reported that  __*58.com*__  A.K.A. `58同城` (__*NYSE: WUBA*__), a classified advertisements company, introduced the "996" work schedule without overtime pay on weekends. The company later claimed that the schedule was only practised to manage extra workload during peak season (September and October) and that this schedule is not mandatory.
+- In early September 2016, numerous reliable sources reported that  __*58.com*__  A.K.A. `58同城` (__*NYSE: WUBA*__), a classified advertisements company, introduced the "996" work schedule without overtime pay on weekends. The company later claimed that the schedule was only practiced to manage extra workload during peak season (September and October) and that this schedule is not mandatory.
 
 - In January 2019, __*Youzan.com*__ A.K.A. `有赞` (__*HKG: 8083*__), a Hangzhou-based E-commerce company, announced that the company would adopt "996" work schedule in its annual convention. Bai Ya, the CEO of Youzan, responded,
 
@@ -86,7 +86,7 @@ Serving in a company that encourages this "996" work schedule usually means work
 
   > "[Our company culture is] the wholehearted devotion of ourselves [to achieve the business objectives]."
 
-Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practised in many companies in China.
+Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practiced in many companies in China.
 ## Compensation and benefits
 
 According to the Labour Law, employees who follow the "996" work schedule should be paid 2.275 times higher than their basic salary. Unfortunately, employees rarely receive this payment.
