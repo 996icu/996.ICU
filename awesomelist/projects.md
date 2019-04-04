@@ -92,3 +92,4 @@ Projects under 996ICU License. Thanks for your support!
 | <img src="https://github.com/haoranzhang929/audio-frequency-visual-generators/blob/develop/sample/logo.png" width="60"> | [Audio Frequency Graph Generator](https://github.com/haoranzhang929/audio-frequency-visual-generators) | [GitHub](https://github.com/haoranzhang929/audio-frequency-visual-generators) | 网页端音频频率数据分析工具 |
 | <img src="https://avatars3.githubusercontent.com/u/48942249?s=400&v=4" width="60"> | [SnowLeopard](https://github.com/alienwow/SnowLeopard) | [GitHub](https://github.com/alienwow/SnowLeopard) | 实用的 .net core 工具包 |
 | - | [Rako](https://github.com/rabbitooops/rako) | [Github](https://github.com/rabbitooops/rako) | 声明式的JavaScript状态容器 |
+| <img src="https://cnlgbtdata.com/static/laws/assets/img/5c57f5dbdfb90.128px.ico" width="60"> | [cnlgbtdataSnowLeopard](https://cnlgbtdata.com) | [cnlgbtdataSnowLeopard](https://cnlgbtdata.com) | 国内LGBT相关资料及法律信息收集站 |
