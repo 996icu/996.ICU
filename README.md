@@ -67,6 +67,8 @@
 
 [apache httpd bug](https://bz.apache.org/bugzilla/show_bug.cgi?id=63315) 向 apache httpd 提交建议增加反 996 许可证
 
+[redis issues](https://github.com/antirez/redis/issues/5989)
+
 社区
 ---
 
