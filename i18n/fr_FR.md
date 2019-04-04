@@ -18,7 +18,7 @@ En novembre 2018, [Jumei](jumei.com) a commencé à adopter le régime de travai
 
 Début 2019, une entreprise d'e-commerce chinoise appelée _Youzan_ a déclaré son adoption au régime de travail « 996 » lors de la fête du Nouvel An Chinois de la société. Le PDG de Youzan a annoncé que ce sera certainement une bonne décision si une rétrospective est faite quelques années plus tard.
 
-Mi-mars 2019, il a été signalé que [Jingdong](http://jd.com) avait commencé à adopter le mode de fonctionnement « 996 » ou « 995 » dans certaines unités commerciales. Le département des relations publiquess chez JD a publié sur son compte maimai (`脉脉`, une plate-forme de réseau social d'entreprises chinoises): « (Notre culture consiste à) nous consacrer de tout notre cœur (à atteindre les objectifs de l'entreprise). »
+Mi-mars 2019, il a été signalé que [Jingdong](https://www.jd.com) avait commencé à adopter le mode de fonctionnement « 996 » ou « 995 » dans certaines unités commerciales. Le département des relations publiquess chez JD a publié sur son compte maimai (`脉脉`, une plate-forme de réseau social d'entreprises chinoises): « (Notre culture consiste à) nous consacrer de tout notre cœur (à atteindre les objectifs de l'entreprise). »
 
 ## Compensation et récompense
 
