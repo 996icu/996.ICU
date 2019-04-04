@@ -12,7 +12,7 @@ Post-History:| None
 ## Why this Proposal?
 
 I write this template for the whole community. <br/>
-Hope we can record useful and valuable suggestions and make them true.
+I wish we can record useful and valuable suggestions and make them happen.
 
 ## Community Value
 
