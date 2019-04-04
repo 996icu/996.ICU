@@ -35,7 +35,7 @@
 ---
 |所在城市|公司名字|曝光/施行时间|制度描述|证据内容|
 |:---:|:---:|:---:|:---:|:---:|
-|深圳|[华为](https://www.huawei.com/cn/)|2010年8月|9106|[华为：“自愿”的奋斗者协议](http://focus.news.163.com/10/0921/15/6H460OOP00011SM9.html)|
+|深圳|[华为](https://www.huawei.com/cn/)|2010年8月|9106|[华为：“自愿”的奋斗者协议](http://focus.news.163.com/10/0921/15/6H460OOP00011SM9.html)([图片](img/huawei.jpg))|
 |杭州|[阿里巴巴](https://www.alibabagroup.com/)|2018年6月|996|[阿里巴巴的996加班文化，看到这些恐怖数据，你也会辞职！](https://kuaibao.qq.com/s/20180612A1FAPU00)|
 |杭州|[蚂蚁金服](https://www.antfin.com/)|2018年11月|9106|[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q)|
 |北京|[京东](https://www.jd.com)|2019年3月|995|[京东回应995工作制：不会强制要求 但要全情投入](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)<br>[刘强东内部邮件称要淘汰或协商解决掉“三种人”](https://i.loli.net/2019/04/02/5ca2e8727f213.jpg)|
