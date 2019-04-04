@@ -7,3 +7,5 @@
 - 《经济日报-中国经济网》：[拒绝“996”工作制！以人为本才能获得长远发展](http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)
 - 《全天候科技》：[996，谁的ICU？](https://awtmt.com/articles/3506048)
 - 《差评》：[奥斯维辛没有新闻，互联网也没有什么996。](https://mp.weixin.qq.com/s/ML_VnsWcQdUGCLYXOABlrw)
+- 《好奇者日报》：[在代码仓库里反对“996”，中国程序员抗议加班制度](https://www.qdaily.com/articles/62583.html)
+- 《好奇者日报》：[996 惹怒程序员之后，他们的抗议引发了全球关注](https://www.qdaily.com/articles/62652.html)
