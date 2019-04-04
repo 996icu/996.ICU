@@ -83,6 +83,7 @@ Community powers
 
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
 
+ - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
 
 
 Where are the issues?
