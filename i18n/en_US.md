@@ -1,16 +1,16 @@
 996.ICU
 ===
 
-## Introducing "996."
+## Introducing "996"
 996 working, ICU waiting.
 
-The "996" work schedule is referring to an illegal work schedule, which has been gaining popularity among companies. The schedule starts from 9 a.m. and ends at 9 p.m. each day, for six days a week.
+The "996" work schedule is referring to an illegal work schedule in China. It has been gaining popularity among companies. The schedule starts from 9 a.m. and ends at 9 p.m. (12 hours) each day, for 6 days a week.
 
-Serving in a company that encourages this "996" work schedule usually means working for at least 60 hours a week.
+Serving in a company that encourages the "996" work schedule usually means working for at least 72 hours a week.
 
 ## Laws and Regulations
 
-This "996" work schedule is in **blunt violation** of the _**Constitution of the People's Republic of China**_ along with multiple other legislation:
+A "996" work schedule is in **blunt violation** of the Constitution of the People's Republic of China along with multiple other legislations:
 
 ### The Constitution of the People's Republic of China
 
@@ -78,17 +78,17 @@ This "996" work schedule is in **blunt violation** of the _**Constitution of the
 
 ## Gaining popularity and publicity
 
-- In early September 2016, numerous reliable sources reported that  __*58.com*__  A.K.A. `58同城` (__*NYSE: WUBA*__), a classified advertisements company, introduced the "996" work schedule without overtime pay on weekends. The company later claimed that the schedule was only practised to manage extra workload during peak season (September and October) and that this schedule is not mandatory.
+- In early September 2016, numerous reliable sources reported that  __*58.com*__  A.K.A. `58同城` (__*NYSE: WUBA*__), a classified advertisements company, introduced the "996" work schedule without overtime pay on weekends. The company later claimed that the schedule was only practiced to manage extra workload during peak season (September and October) and that this schedule is not mandatory.
 
-- In January 2019, __*Youzan.com*__ A.K.A. `有赞` (__*HKG: 8083*__), a Hangzhou-based E-commerce company, announced that the company would adopt "996" work schedule in its annual convention. Bai Ya, the CEO of Youzan, responded,
+- In January 2019, __*Youzan.com*__ A.K.A. `有赞` (__*HKG: 8083*__), a Hangzhou-based e-commerce company, announced that the company would adopt "996" work schedule in its annual convention. Bai Ya, the CEO of Youzan, responded,
 
   > "This will definitely be a right decision when we look back in a few years."
 
-- In March 2019, __*JD.com*__  A.K.A. `京东` (__*NASDAQ: JD*__), a major E-commerce company, started adopting "996" or "995" work schedules in some departments. The PR of JD stated on Maimai (`脉脉`, a Chinese business social network platform),
+- In March 2019, __*JD.com*__  A.K.A. `京东` (__*NASDAQ: JD*__), a major e-commerce company, started adopting "996" or "995" work schedules in some departments. The PR of JD stated on Maimai (`脉脉`, a Chinese business social network platform),
 
   > "[Our company culture is] the wholehearted devotion of ourselves [to achieve the business objectives]."
 
-Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practised in many companies in China.
+Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practiced in many companies in China.
 ## Compensation and benefits
 
 According to the Labour Law, employees who follow the "996" work schedule should be paid 2.275 times higher than their basic salary. Unfortunately, employees rarely receive this payment.
