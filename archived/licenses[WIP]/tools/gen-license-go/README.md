@@ -8,7 +8,7 @@ More importantly, the main purpose of this tool is to incorporate those aforesai
 a brand new license: 996.icu, defined by [996.icu](https://github.com/996icu/996.ICU).
 
 ## Usage
-There are three executable files of different operating systems: macOS, Linux and Windows, located in `bin` directory, you can pick the specific bin file based on your OS, then put the `licenses` directory and `gen-license-go` file into the same path.
+There are three executable files for different operating systems: macOS, Linux and Windows, located in `bin` directory, you can pick the specific bin file based on your OS, then put the `licenses` directory and `gen-license-go` file into the same path.
 ```sh
  # Get the help from this tool:
 ./gen-license-go -h
