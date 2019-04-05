@@ -7,7 +7,7 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-If you want to refer to the 996.ICU badge, read the section [What can I do?](#what-can-i-do) below.
+If you want to refer to the 996.ICU badge, read the section [What can I do?](#what-can-i-do) below. Also, please feel free to star this repo, and make your own contributions!
 
 Related reports:
 ---
@@ -85,6 +85,8 @@ Community powers
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
 
  - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
+
+ - [996.RIP](https://996.rip) Keep the memory of past tragedies alive.
 
 
 Where are the issues?
