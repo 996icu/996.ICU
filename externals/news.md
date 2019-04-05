@@ -17,6 +17,7 @@
 - PCM：[【日日做到冇停手】國內程式員透過 Github 抗議 996 加班文化](https://www.pcmarket.com.hk/2019/04/03/%E5%9C%8B%E5%85%A7%E7%A8%8B%E5%BC%8F%E5%93%A1%E9%80%8F%E9%81%8Egithub%E6%8A%97%E8%AD%B0996%E5%8A%A0%E7%8F%AD%E6%96%87%E5%8C%96/)（[Wayback Machine](https://web.archive.org/web/20190405045935/https://www.pcmarket.com.hk/2019/04/03/%E5%9C%8B%E5%85%A7%E7%A8%8B%E5%BC%8F%E5%93%A1%E9%80%8F%E9%81%8Egithub%E6%8A%97%E8%AD%B0996%E5%8A%A0%E7%8F%AD%E6%96%87%E5%8C%96/)）
 - 端传媒：[朝九晚九每週六天：大陸程序員GitHub上抗議996血汗加班，能否凱旋歸來？](https://theinitium.com/roundtable/20190404-roundtable-zh-996icu/)
 - 联合新闻网：[工程師大串連！在github上用程式碼抗議996血汗加班制](https://udn.com/news/story/7086/3728572)（[Wayback Machine](https://web.archive.org/web/20190331140919/https://udn.com/news/story/7086/3728572)）
+- 观察者：[程序员们揭露“996ICU” 互联网公司：华为阿里等上榜](https://www.guancha.cn/politics/2019_04_05_496491_s.shtml)
 ### 非中国媒体
 - BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
 - 美国之音：[中国科技工作者在线抗议“996”工作制](https://www.voachinese.com/a/china-tech-labor-996-20190404/4862315.html)
