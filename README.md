@@ -27,7 +27,7 @@ Related reports:
 What is 996?
 ---
 
-A "996" work schedule refers to an unofficial work schedule (9 a.m.&ndash;9 p.m., 6 days per week) that has been gaining in popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
+A "996" work schedule refers to an unofficial work schedule (9 a.m.&ndash;9 p.m., 6 days per week) that has been gaining popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
 
 
 What can I do?
@@ -45,20 +45,20 @@ Principles and purposes
 
 * 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
 
-* This is not a political movement. We firmly uphold the labor law and require employers to respect the legitimate rights and interests of their employees.
+* This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
 
 * It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
 
 * We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
 
-* We are working on the drafting of Anti-996 License right now and we hope to get help from professionals with relevant experience.
+* We are working on the drafting of Anti-996 License right now and we hope to receive assistance from professionals with relevant experience.
 
 
 Proposals
 ---
 A proposal is a document accepted by 996.ICU.  
-Typically, a proposal should give a solution or suggestion about the development of the project and community.  
-For more details, you can read the [proposal template](proposal/proposal_template.md) document.  
+Typically, a proposal should outline a solution or suggestion about the development of the project and community.  
+For more details, please read the [proposal template](proposal/proposal_template.md) document.  
 
 To help the development of 996.ICU, you can do several things base on proposals.
 
@@ -67,10 +67,10 @@ To help the development of 996.ICU, you can do several things base on proposals.
 - Give your own proposals with a PR following the proposal format.
 
 
-Expand influence
+Expanding influence
 ---
 
-Feel free to [translate 996.ICU's contents](i18n/i18n.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
+Please feel free to [translate 996.ICU's contents](i18n/i18n.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
 
 Community powers
@@ -99,9 +99,9 @@ License
 
 [Anti-996 License](LICENSE)
 
- - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to balance their work
+ - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working
  - See a [full list of projects](awesomelist/projects.md) under Anti-996 License
  - It is an idea of @xushunke: [Design A Software License Of Labor Protection -- Anti 996 License](https://github.com/996icu/996.ICU/pull/15642)
  - This version of Anti-996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).  
  - This draft is adapted from the MIT license. For more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
- - For law professionals or anyone who is willing to contribute to further version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
+ - For law professionals or anyone who is willing to contribute to future version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.

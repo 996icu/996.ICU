@@ -1,4 +1,4 @@
-Projects under 996ICU License. Thanks for your support!
+Projects under Anti 996ICU License. Thanks for your support!
 ===
 
 贡献指南
@@ -31,7 +31,6 @@ Projects under 996ICU License. Thanks for your support!
 | - | [aya-store](https://github.com/milobluebell/aya-store) | [Github](https://github.com/milobluebell/aya-store) | 小程序状态管理模块 |
 | - | [eppdev-jee-pom](https://github.com/eppdev/eppdev-jee-pom) | [eppdev-jee-pom](https://jee.eppdev.cn) | 数据驱动的JavaEE代码生成程序 |
 | <img src="https://github.com/l-hammer/You-need-to-know-css/raw/master/static/logo.png" width="60"> | [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) |[You-need-to-know-css](https://lhammer.cn/You-need-to-know-css)| 💄CSS tricks for web developers~ |
-| - | [Android-KlineChar](https://github.com/icechao/kline) |[icechao](https://github.com/icechao)| 安卓高仿火币,快速实现K线功能的lib |
 | <img src="./img/awesome_golang_leetcode_logo.png" width="60"> | [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) |[Kyle Liu](https://github.com/kylesliu)| 📝  LeetCode of algorithms with golang solution(updating). |
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [Github](https://github.com/PsChina) / [npm](https://www.npmjs.com/package/easy-filter) | vue2.x 过滤器插件 |
 | - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | [Github](https://github.com/jaweii/Vueg----page-transition-plugin) | Page level transition plugin for vue-router|
@@ -95,3 +94,7 @@ Projects under 996ICU License. Thanks for your support!
 | <img src="https://cnlgbtdata.com/static/laws/assets/img/5c57f5dbdfb90.128px.ico" width="60"> | [cnlgbtdata](https://cnlgbtdata.com) | [cnlgbtdata](https://cnlgbtdata.com) | 国内LGBT相关资料及法律信息收集站 |
 | - | [AndroidAnti996Browser](https://github.com/xianfengting/AndroidAnti996Browser) | [Github](https://github.com/xianfengting/AndroidAnti996Browser) | Android反996浏览器项目,为996\.ICU项目而开发,用以解决部分国产浏览器限制或禁止访问996\.ICU相关页面的问题\.目前该项目正在开发中,欢迎大家的支持\. |
 | - | [QuickFrontend](https://github.com/sinri/QuickFrontend) | [GitHub](https://github.com/sinri/QuickFrontend) | A simple frontend framework is designed for quick develop with vue.js 2, iview.ui 3, axios, js-cookie. |
+| - | [QTL](https://github.com/znone/qtl) | [GitHub](https://github.com/znone/qtl) | A friendly and lightweight C++ database library for MySQL, SQLite and ODBC. |
+| - | [go-server-js](https://github.com/zengming00/go-server-js) | [GitHub](https://github.com/zengming00/go-server-js) |  javascript web server, js server, 一种新的javascript写服务端程序的方案，没有回调，完全不同于node.js，更像php，或者说是披着js皮的go |
+| - | [node-gd-bmp](https://github.com/zengming00/node-gd-bmp) | [GitHub](https://github.com/zengming00/node-gd-bmp) | light and high speed and 100% js implement graphical library, it can running in any platform  |
+| <img src="https://github.com/Mainvooid/arxiv.repo/blob/master/icon.png" width="60"> | [arxiv.repo](https://github.com/Mainvooid/arxiv.repo) | [Github](https://github.com/Mainvooid/arxiv.repo) | arXiv上公开了项目源码的论文合集 |

@@ -2,7 +2,7 @@
 =======
 * [English version](./README.md)
 
-`996.ICU`  是指“工作 996”， 生病 ICU 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
+`996.ICU`  是指“工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
@@ -77,6 +77,8 @@
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
 
  - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
+ 
+ - [996.RIP](https://996.rip) 不要忘记旧闻。
 
 Issues 去哪了？
 ---
