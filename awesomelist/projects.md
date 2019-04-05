@@ -95,3 +95,4 @@ Projects under 996ICU License. Thanks for your support!
 | <img src="https://cnlgbtdata.com/static/laws/assets/img/5c57f5dbdfb90.128px.ico" width="60"> | [cnlgbtdata](https://cnlgbtdata.com) | [cnlgbtdata](https://cnlgbtdata.com) | 国内LGBT相关资料及法律信息收集站 |
 | - | [AndroidAnti996Browser](https://github.com/xianfengting/AndroidAnti996Browser) | [Github](https://github.com/xianfengting/AndroidAnti996Browser) | Android反996浏览器项目,为996\.ICU项目而开发,用以解决部分国产浏览器限制或禁止访问996\.ICU相关页面的问题\.目前该项目正在开发中,欢迎大家的支持\. |
 | - | [QuickFrontend](https://github.com/sinri/QuickFrontend) | [GitHub](https://github.com/sinri/QuickFrontend) | A simple frontend framework is designed for quick develop with vue.js 2, iview.ui 3, axios, js-cookie. |
+|<img src="https://github.com/EndureBlaze/Kirby-Assistant/blob/master/ic_launcher.png?raw=true" width="60"|[Kirby Assistant](https://github.com/EndureBlaze/Kirby-Assistant)|[Github](https://github.com/EndureBlaze/Kirby-Assistant)|用于在安卓平台手机上下载游玩星之卡比系列游戏的应用程序|
