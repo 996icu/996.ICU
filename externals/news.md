@@ -28,7 +28,7 @@
 - RADII Media：[GitHub Protest Over Chinese Tech Companies' "996" Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
 - Abacus：[Follow China’s “996” work hours and you’ll end up in an ICU, says Chinese developer](https://www.abacusnews.com/digital-life/follow-chinas-996-work-hours-and-youll-end-icu-says-chinese-developer/article/3003702)
 - Abacus：[Chinese browsers block protest against China’s 996 overtime work culture](https://www.abacusnews.com/digital-life/chinese-browsers-block-protest-against-chinas-996-overtime-work-culture/article/3004543)
-- The Irish Times：[China tech worker protest against long working hours goes viral](https://www.irishtimes.com/business/technology/china-tech-worker-protest-against-long-working-hours-goes-viral-1.3848463)(https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances)
+- The Irish Times：[China tech worker protest against long working hours goes viral](https://www.irishtimes.com/business/technology/china-tech-worker-protest-against-long-working-hours-goes-viral-1.3848463)
 - The Verge：[Chinese developers use GitHub to protest long work hours](https://www.theverge.com/2019/4/2/18291035/chinese-developers-github-protest-long-work-hours)
 - The Verge：[Tencent and Xiaomi may be censoring a GitHub page for airing worker grievances](https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances)
 
