@@ -1,31 +1,29 @@
 Copyright © 2019 <copyright holders>
 The 996ICU License (996ICU)
 
-996ICU License 是一个关于 mit 的扩展协议.
-此协议扩展了 mit, mit 将在本协议文本末尾声明.
+996ICU License is an extented license for mit.
+This license extended mit, and mit will be declared at the foot of this license.
 
-要求得到授权的个人履行以下义务:
+Individual who seeks authorization must fulfill the following obligations:
 
-1.  将此授权文件包含在其任何副本以及软件的重要部分中.
+1. Including this authorization file in any of its copies and important parts of the software.
 
-要求得到授权的组织履行以下义务:
+Organization that seeks authorization must fulfill the following obligations:
 
-1.  将此授权文件包含在其任何副本以及软件的重要部分中.
-2.  不以任何形式或手段强迫其雇佣员工或临时劳动者进行超过当地法定最长劳动时间的劳动,
-    包括但不限于: 命令, 威胁, 暗示等.
-3.  不以任何形式报复不参与超过法定最长劳动时间的劳动的雇佣员工或临时劳动者,
-    包括但不限于: 辱骂等精神攻击, 殴打等人身伤害以及非法开除等.
-4.  组织其雇佣员工或临时劳动者进行超时劳动时，按不低于当地法规标准支付经济补偿.
-5.  此组织不在协议规定的黑名单中.
+1. Including this authorization file in any of its copies and important parts of the software.
+2. Not forcing any employee or temporary worker to work in excess of the legal maximum working time in any form or by any means, including but not limited to: orders, threats, implications, etc.
+3. Not retaliating against any employee or temporary worker without participating in labor in excess of the legal maximum working time in any form or by any means, including but not limited to: mental assaults, personal injuries, illegal deductions of due remuneration, illegal dismissals, etc.
+4. Paying economic compensation at no lower than the standards stipulated by local laws and regulations, when organizing employees or temporary workers to work overtime.
+5. This organization is not in the blacklist[^1] as stipulated in the agreement.
 
-如果获得授权的个人或组织未能履行以上义务任意一条, 则授权将被收回.
+If the authorized individual or organization fails to fulfill any of the above obligations, the authorization will be withdrawn.
 
-此协议未定义的行为, 按 mit 协议处理.
-mit 与本协议冲突的部分, 按本协议处理.
+The undefined behavior of this license is handled by mit. The part of mit that conflicts with this agreement is handled in accordance with this agreement.
 
-https://github.com/996icu/996.ICU/pull/15642
-996 from https://feathub.com/LinXueyuanStdio/996.ICU
-黑名单: https://github.com/996icu/996.ICU/blob/master/blacklist/blacklist.md
+
+* Discussion https://github.com/996icu/996.ICU/pull/15642
+* 996 from https://feathub.com/LinXueyuanStdio/996.ICU
+* [^1]: blacklist https://github.com/996icu/996.ICU/blob/master/blacklist/blacklist.md
 
 mit
 --------------------------------------------------------------------------------
