@@ -77,6 +77,8 @@
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
 
  - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
+ 
+ - [996.RIP](https://996.rip) 不要忘记旧闻。
 
 Issues 去哪了？
 ---
