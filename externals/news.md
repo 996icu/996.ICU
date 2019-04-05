@@ -30,7 +30,7 @@
 - Abacus：[Chinese browsers block protest against China’s 996 overtime work culture](https://www.abacusnews.com/digital-life/chinese-browsers-block-protest-against-chinas-996-overtime-work-culture/article/3004543)
 - The Irish Times：[China tech worker protest against long working hours goes viral](https://www.irishtimes.com/business/technology/china-tech-worker-protest-against-long-working-hours-goes-viral-1.3848463)(https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances)
 - The Verge：[Chinese developers use GitHub to protest long work hours](https://www.theverge.com/2019/4/2/18291035/chinese-developers-github-protest-long-work-hours)
-- The Verge：[Tencent and Xiaomi may be censoring a GitHub page for airing worker grievances]
+- The Verge：[Tencent and Xiaomi may be censoring a GitHub page for airing worker grievances](https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances)
 
 ## 韩文媒体
 - 한경닷컴：["잠도, 섹스도, 삶도 없다"…'996룰'에 반기든 中 스타트업 직원들](https://www.hankyung.com/article/201904053785i)
