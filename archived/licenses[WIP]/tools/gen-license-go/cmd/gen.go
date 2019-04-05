@@ -26,7 +26,7 @@ import (
 )
 
 var template string
-var licensePathTemplate, icuPathTemplate = "licenses/%s.txt", "licenses/996.icu.template.%s.txt"
+var licensePathTemplate, icuPathTemplate = "licenses/%s.txt", "licenses/templates/996.icu.template.%s.txt"
 
 // genCmd represents the gen command
 var genCmd = &cobra.Command{
@@ -72,6 +72,7 @@ gen-license-go gen mit --996icu en-us`,
 }
 
 func init() {
+	// Add the 'gen' sub-command into root-command.
 	rootCmd.AddCommand(genCmd)
 
 	// Here you will define your flags and configuration settings.
