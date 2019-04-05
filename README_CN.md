@@ -15,6 +15,8 @@
 
 - 《共青团中央》：[工作996，生病ICU？关注：年轻人该如何奋斗](https://mp.weixin.qq.com/s/e5qaW6ED_WUunNYG-q7frg)
 - 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
+- 《央广网》：[风波再起 40余家互联网公司被指实行“996工作制”](http://china.cnr.cn/xwwgf/20190405/t20190405_524568985.shtml)
+- 《环球网》：[40家互联网公司陷“996”工作制风波](http://tech.huanqiu.com/it/2019-04/14670254.html?agt=15438)
 
 点击此处查看相关报道的[完整列表](/externals/news.md)
 
