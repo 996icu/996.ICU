@@ -31,7 +31,6 @@ Projects under 996ICU License. Thanks for your support!
 | - | [aya-store](https://github.com/milobluebell/aya-store) | [Github](https://github.com/milobluebell/aya-store) | 小程序状态管理模块 |
 | - | [eppdev-jee-pom](https://github.com/eppdev/eppdev-jee-pom) | [eppdev-jee-pom](https://jee.eppdev.cn) | 数据驱动的JavaEE代码生成程序 |
 | <img src="https://github.com/l-hammer/You-need-to-know-css/raw/master/static/logo.png" width="60"> | [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) |[You-need-to-know-css](https://lhammer.cn/You-need-to-know-css)| 💄CSS tricks for web developers~ |
-| - | [Android-KlineChar](https://github.com/icechao/kline) |[icechao](https://github.com/icechao)| 安卓高仿火币,快速实现K线功能的lib |
 | <img src="./img/awesome_golang_leetcode_logo.png" width="60"> | [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) |[Kyle Liu](https://github.com/kylesliu)| 📝  LeetCode of algorithms with golang solution(updating). |
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [Github](https://github.com/PsChina) / [npm](https://www.npmjs.com/package/easy-filter) | vue2.x 过滤器插件 |
 | - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | [Github](https://github.com/jaweii/Vueg----page-transition-plugin) | Page level transition plugin for vue-router|
