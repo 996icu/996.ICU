@@ -23,6 +23,7 @@ Related reports:
 * *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1). 3 April, 2019.
 * *Abacus:*  [Chinese browsers block protest against China’s 996 overtime work culture](https://www.abacusnews.com/digital-life/chinese-browsers-block-protest-against-chinas-996-overtime-work-culture/article/3004543). 3 April, 2019.
 * *ZDNet:* [996.ICU : Sur Github, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm). 3 April, 2019.
+* *Reuters:* [Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B). 5 April, 2019.
 
 What is 996?
 ---
