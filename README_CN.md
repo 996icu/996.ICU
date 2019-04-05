@@ -72,8 +72,6 @@
 
  - [996.LAW](https://github.com/Y1ran/996.Law) 法律板块，此 repo 主要收集大家的仲裁、民事诉讼信息。
 
- - [996.TSC](https://github.com/lxlxw/996.TSC) 周边文化创意板块，通过图片等形式的传播，让更多人知道并加入 996.ICU 的活动中来。
-
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
 
  - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
