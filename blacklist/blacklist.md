@@ -7,6 +7,7 @@
 1. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十一条
 2. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十三条
 3. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十四条
+4. [《中华人民共和国刑法修正案（八）》](http://www.npc.gov.cn/npc/xinwen/2011-02/25/content_1625679.htm)第四十一条
 
 
 贡献指南
