@@ -1,4 +1,4 @@
-Projects under 996ICU License. Thanks for your support!
+Projects under Anti 996ICU License. Thanks for your support!
 ===
 
 贡献指南
