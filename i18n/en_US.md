@@ -10,6 +10,8 @@ Serving in a company that encourages the "996" work schedule usually means worki
 
 ## Laws and Regulations
 
+A "996" work schedule is in **blunt violation** of the Constitution of the People's Republic of China along with multiple other legislations:
+
 ### The Constitution of the People's Republic of China
 
 #### Chapter II: Article 43:
