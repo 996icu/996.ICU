@@ -35,5 +35,5 @@
 ## 韩文媒体
 - 한경닷컴：["잠도, 섹스도, 삶도 없다"…'996룰'에 반기든 中 스타트업 직원들](https://www.hankyung.com/article/201904053785i)
 
-## 法语媒体
+## 法文媒体
 - ZDNet：[996.ICU : Sur Github, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm)
