@@ -31,3 +31,4 @@
 |成都|[四川锦程消费金融有限责任公司](http://www.jccfc.com/)|2019年4月|915-530-5|[考勤规则通知邮件](img/timing_20190401111520.png)|
 |深圳/北京/广州/上海..|[EXPEDIA GROUP 亿客行](https://lifeatexpedia.com/jobs?location=china)|一直都是呀|5x8=40|[连这也可以成为买点?!](img/worklifebalance4you.jpg)|
 |北京|[航天信息股份有限公司](http://www.aisino.com/)|2019年4月|八点半上班，五点半下班，一周五天，不鼓励加班|无需证据，就是这样|
+|郑州|[河南中原消费金融股份有限公司](https://www.hnzycfc.com/)|2019年4月|九点上班，五点半下班|[相对比较人性化](img/20190405102618.png)|
