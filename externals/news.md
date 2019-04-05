@@ -19,6 +19,10 @@
 - 端传媒：[朝九晚九每週六天：大陸程序員GitHub上抗議996血汗加班，能否凱旋歸來？](https://theinitium.com/roundtable/20190404-roundtable-zh-996icu/)
 ### 台湾媒体
 - 联合新闻网：[工程師大串連！在github上用程式碼抗議996血汗加班制](https://udn.com/news/story/7086/3728572)（[Wayback Machine](https://web.archive.org/web/20190331140919/https://udn.com/news/story/7086/3728572)）
+### 非中国媒体
+- BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
+- 美国之音：[中国科技工作者在线抗议“996”工作制](https://www.voachinese.com/a/china-tech-labor-996-20190404/4862315.html)
+- 多维新闻网：[“码农”线上串联维权 引中国官媒关注](http://news.dwnews.com/china/news/2019-04-03/60127095.html)
 ## 英文媒体
 ### 香港媒体
 - 南华早报：[‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
@@ -31,6 +35,7 @@
 - The Irish Times：[China tech worker protest against long working hours goes viral](https://www.irishtimes.com/business/technology/china-tech-worker-protest-against-long-working-hours-goes-viral-1.3848463)
 - The Verge：[Chinese developers use GitHub to protest long work hours](https://www.theverge.com/2019/4/2/18291035/chinese-developers-github-protest-long-work-hours)
 - The Verge：[Tencent and Xiaomi may be censoring a GitHub page for airing worker grievances](https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances)
+- 金融时报：[China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)（[存档](https://archive.is/IZqTj)）
 
 ## 韩文媒体
 - 한경닷컴：["잠도, 섹스도, 삶도 없다"…'996룰'에 반기든 中 스타트업 직원들](https://www.hankyung.com/article/201904053785i)
