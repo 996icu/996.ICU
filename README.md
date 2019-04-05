@@ -2,7 +2,7 @@
 =======
 * [中文版](./README_CN.md)
 
-The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
+The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese programmers, which means that by following the "996" work schedule, you are risking getting yourself into the ICU (Intensive Care Unit).
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
@@ -60,11 +60,11 @@ A proposal is a document accepted by 996.ICU.
 Typically, a proposal should outline a solution or suggestion about the development of the project and community.  
 For more details, please read the [proposal template](proposal/proposal_template.md) document.  
 
-To help the development of 996.ICU, you can do several things base on proposals.
+To help with the development of 996.ICU, you can do several things with regard to proposals.
 
 - Read the accepted proposals and try to improve them.
 - Take actions according to the accepted proposals.
-- Give your own proposals with a PR following the proposal format.
+- Sumbit your own proposals with a PR in accordance with the proposal format.
 
 
 Expanding influence
@@ -76,9 +76,9 @@ Please feel free to [translate 996.ICU's contents](i18n/i18n.md), adjust the for
 Community powers
 ---
 
- - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join 955.
+ - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It encourages people to flee 996 and join 955.
 
- - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprise.
+ - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprises.
 
  - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo designed to let more people know and join the activity of 996.ICU.
 
@@ -99,9 +99,9 @@ License
 
 [Anti-996 License](LICENSE)
 
- - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working
+ - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to reconsider their way of working
  - See a [full list of projects](awesomelist/projects.md) under Anti-996 License
  - It is an idea of @xushunke: [Design A Software License Of Labor Protection -- Anti 996 License](https://github.com/996icu/996.ICU/pull/15642)
  - This version of Anti-996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).  
- - This draft is adapted from the MIT license. For more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
+ - This draft is adapted from the MIT license. For a more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.
  - For law professionals or anyone who is willing to contribute to future version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
