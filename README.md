@@ -80,8 +80,6 @@ Community powers
 
  - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprise.
 
- - [996.TSC](https://github.com/lxlxw/996.TSC) is a repo designed to let more people know and join the activity of 996.ICU.
-
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
 
  - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
