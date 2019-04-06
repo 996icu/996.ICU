@@ -35,7 +35,7 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [Github](https://github.com/PsChina) / [npm](https://www.npmjs.com/package/easy-filter) | vue2.x 过滤器插件 |
 | - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | [Github](https://github.com/jaweii/Vueg----page-transition-plugin) | Page level transition plugin for vue-router|
 | - | [one](https://github.com/lizhichao/one) | [Github](https://github.com/lizhichao/one) | 一个极简的高性能常驻内存php框架|
-| - | [vue-color-ui](https://github.com/martin-yin/vue-color-ui) | [Github](https://github.com/martin-yin/vue-color-ui) | 微信小程序color-ui的vue版本 |
+| <img src="https://raw.githubusercontent.com/martin-yin/Pipi-Dinosaur/master/src/assets/logo.png" width="60"> | [Pipi-Dinosaur](https://github.com/martin-yin/Pipi-Dinosaur) | [Github](https://github.com/martin-yin/Pipi-Dinosaur) |皮皮🦖 微信小程序color-ui的vue版本 |
 | - | [WxJava](https://github.com/Wechat-Group/WxJava) | [Github](https://github.com/Wechat-Group/WxJava) | 微信开发 Java SDK|
 | - | [cyclone](https://github.com/simpleapples/cyclone) | [Github](https://github.com/simpleapples/cyclone) | Cyclone is a go package to spawn, reuse and manage a number of goroutines by a pool. |
 | - | [NumbCube](https://github.com/KirosHan/NumbCube) | [Github](https://github.com/KirosHan/NumbCube) | NumbCube流媒体直播解决方案 |
