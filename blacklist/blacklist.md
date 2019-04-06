@@ -7,6 +7,7 @@
 1. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十一条
 2. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十三条
 3. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十四条
+4. [《中华人民共和国刑法修正案（八）》](http://www.npc.gov.cn/npc/xinwen/2011-02/25/content_1625679.htm)第四十一条
 
 
 贡献指南
@@ -41,7 +42,7 @@
 |北京|[京东](https://www.jd.com)|2019年3月|995|[京东回应995工作制：不会强制要求 但要全情投入](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)<br>[刘强东内部邮件称要淘汰或协商解决掉“三种人”](https://i.loli.net/2019/04/02/5ca2e8727f213.jpg)|
 |北京|[58同城](https://www.58.com)|2016年9月|996|[58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
-|北京|[途家网](https://www.tujia.com)|2017年12月|897|[加班邮件、诉讼材料](https://iamybj.github.io/tujia/)|
+|北京|[途家网](https://www.tujia.com)|2017年12月|897|[暴力裁员、996加班、发感冒冲剂、公司搭睡觉帐篷、诉讼材料](https://iamybj.github.io/tujia/)|
 |杭州|[有赞](https://www.youzan.com)|2019年1月|996|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|
 |北京|[字节跳动](https://bytedance.com)|2017年7月|加班|[看准网](https://www.kanzhun.com/gsr5622411tl56.html)、[搜狐](https://www.sohu.com/a/256795805_231667)|
 |上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
@@ -77,6 +78,9 @@
 |北京|[Boss直聘(北京华品博睿网络技术有限公司)](https://www.zhipin.com/)|2019年4月2日|大小周|[OFFER邮件(已处理图片和关键字过滤)](https://upload.cc/i1/2019/04/03/1wfI7o.png) + 亲历| 
 |北京|[北京游奕互动软件有限公司](http://www.uegame.com/)|2016年3月|986|加班不给钱的那种，用这个来卡大家项目上线分红[打卡记录](img/yyhd.png)| 
 |天津|[长城汽车股份有限公司天津园区](http://www.gwm.com.cn/)|2019年3月28日|大小周|[招聘简章](http://www.hljsxy.org.cn/website/sites/common/readwNews.aspx?JpkId=1&id=13289)|
+|嘉兴|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2,sz@320_1001,ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)
+|上海|[依图网络科技有限公司](http://www.yitutech.com/)|2019年4月5日|996|[知乎](https://www.zhihu.com/question/300132949/answer/606529193)|
+|深圳|[深圳市环球易购电子商务有限公司](https://www.globalegrow.com/)|2007年5月|大小周、经常996、偶尔通宵|[劳动合同](img/globalegrow_labor_contract.jpg)、[Offer](img/globalegrow_offer.jpg)+亲历|
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
