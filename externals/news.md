@@ -2,6 +2,7 @@
 
 ## 中文媒体
 - 人民日报： [工作996生病ICU，劳动监察部门应积极介入](https://m.weibo.cn/status/4357697258275940)
+- 光明网： [莫让“996工作制”成了职场明规则](http://guancha.gmw.cn/2019-04/06/content_32719988.htm)
 - 人民网：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)
 - 南方日报：[正视年轻人压力“爆棚”的危险](http://epaper.southcn.com/nfdaily/html/2019-04/03/content_7790850.htm)
 - 广州日报：[“996工作制”不可持续](http://gzdaily.dayoo.com/pc/html/2019-04/03/content_108225_594534.htm)
@@ -18,6 +19,10 @@
 - 端传媒：[朝九晚九每週六天：大陸程序員GitHub上抗議996血汗加班，能否凱旋歸來？](https://theinitium.com/roundtable/20190404-roundtable-zh-996icu/)
 - 联合新闻网：[工程師大串連！在github上用程式碼抗議996血汗加班制](https://udn.com/news/story/7086/3728572)（[Wayback Machine](https://web.archive.org/web/20190331140919/https://udn.com/news/story/7086/3728572)）
 - 观察者：[程序员们揭露“996ICU” 互联网公司：华为阿里等上榜](https://www.guancha.cn/politics/2019_04_05_496491_s.shtml)
+- 21财经：[工作996，生病ICU！程序员们这次忍不了了，弄出个大项目](https://m.21jingji.com/article/20190404/herald/23b634af7003164f1ca6f602772a5c71.html)
+- 新浪资讯：[沉默or抵制? 多家互联网公司被指实行996工作制](https://zx.sina.cn/2019-04-06/zx-ihvhiqax0377991.d.html?wm=3049_0015)
+- 爱范儿：[病态的 996 早需改变，而且不应该只从程序员开始](https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)（[Wayback Machine](https://web.archive.org/web/20190406123533/https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)）
+
 ### 非中国媒体
 - BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
 - 美国之音：[中国科技工作者在线抗议“996”工作制](https://www.voachinese.com/a/china-tech-labor-996-20190404/4862315.html)
