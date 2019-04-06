@@ -1,7 +1,5 @@
-﻿**请注意：维护本列表的目的在于为《中华人民共和国劳动法》的执行提供参考依据。**
 
-996（或其他违法加班制度）公司名单
-===
+﻿**请注意：维护本列表的目的在于为《中华人民共和国劳动法》的执行提供参考依据。**
 违法加班制度是指违反相关法律法规及劳动合同，未经与工会和劳动者协商便强制加班加点<sup>1</sup>，或加班加点超出法定时限（每日三小时或每月三十六小时）<sup>2</sup>，或未足额支付加班加点工资报酬（不低于工资的百分之一百五十）<sup>3</sup>的非法用工制度。
 
 1. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十一条
@@ -81,6 +79,7 @@
 |嘉兴|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2,sz@320_1001,ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)
 |上海|[依图网络科技有限公司](http://www.yitutech.com/)|2019年4月5日|996|[知乎](https://www.zhihu.com/question/300132949/answer/606529193)|
 |深圳|[深圳市环球易购电子商务有限公司](https://www.globalegrow.com/)|2007年5月|大小周、经常996、偶尔通宵|[劳动合同](img/globalegrow_labor_contract.jpg)、[Offer](img/globalegrow_offer.jpg)+亲历|
+
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
