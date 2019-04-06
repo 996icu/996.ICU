@@ -91,7 +91,7 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) | [Github](https://github.com/gzu-liyujiang/AndroidPicker) | 安卓选择器类库，包括日期选择器、时间选择器、单项选择器、双项选择器、二三级联动选择器、城市地址选择器、数字选择器、颜色选择器、文件选择器、目录选择器等 |
 | - | [vue-drag-tree](https://vigilant-curran-d6fec6.netlify.com/#/) | [Github](https://github.com/shuiRong/vue-drag-tree) | a Vue's drag and drop tree component（一个可拖拽的树形Vue.js组件） |
 | <img src="https://cnlgbtdata.com/static/laws/assets/img/5c57f5dbdfb90.128px.ico" width="60"> | [cnlgbtdata](https://cnlgbtdata.com) | [cnlgbtdata](https://cnlgbtdata.com) | 国内LGBT相关资料及法律信息收集站 |
-| - | [AndroidAnti996Browser](https://github.com/xianfengting/AndroidAnti996Browser) | [Github](https://github.com/xianfengting/AndroidAnti996Browser) | Android反996浏览器项目,为996\.ICU项目而开发,用以解决部分国产浏览器限制或禁止访问996\.ICU相关页面的问题\.目前该项目正在开发中,欢迎大家的支持\. |
+| - | [AndroidAnti996Browser](https://github.com/xianfengting/AndroidAnti996Browser) | [Github](https://github.com/xianfengting/AndroidAnti996Browser) | Android反996浏览器项目,为996\.ICU项目而开发,用以解决部分国产浏览器限制或禁止访问996\.ICU相关页面的问题\.目前该项目已经发布开发版本\(在项目主页Release页面下\)\.欢迎大家的支持\. |
 | - | [QuickFrontend](https://github.com/sinri/QuickFrontend) | [GitHub](https://github.com/sinri/QuickFrontend) | A simple frontend framework is designed for quick develop with vue.js 2, iview.ui 3, axios, js-cookie. |
 | - | [QTL](https://github.com/znone/qtl) | [GitHub](https://github.com/znone/qtl) | A friendly and lightweight C++ database library for MySQL, SQLite and ODBC. |
 | - | [go-server-js](https://github.com/zengming00/go-server-js) | [GitHub](https://github.com/zengming00/go-server-js) |  javascript web server, js server, 一种新的javascript写服务端程序的方案，没有回调，完全不同于node.js，更像php，或者说是披着js皮的go |
