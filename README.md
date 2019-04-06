@@ -48,6 +48,8 @@ Principles and purposes
 
 * This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
 
+* [Be caution](https://github.com/caution-996-icu/Caution.996.ICU/blob/master/README_EN.md) of the use of 996.ICU by foreign forces to spread reactionary rebellious remarks to undermine our country's stability! 
+
 * It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
 
 * We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
