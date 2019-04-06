@@ -82,65 +82,42 @@
 |杭州|[杭州海康威视数字技术股份有限公司](https://www.hikvision.com/cn/)|2018年|996|(https://www.kanzhun.com/pl6448138.html)|
 |杭州|[浙江大华技术股份有限公司](https://www.dahuatech.com/)|2018年|加班|(http://www.7360.cc/Review-80253)(https://www.kanzhun.com/pl6360251.html)|
 |杭州|[浙江宇视科技有限公司](http://fenxiao.uniview.com/)|2018年|大小周加班|(https://www.kanzhun.com/gsmsh10805642.html)
-|深圳|腾讯|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5855.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/30383728/answer/49853422),[知乎](https://www.zhihu.com/question/294418645/answer/494094055)|
-|北京|小米|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr347791.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/270788307/answer/356518575)|
-|北京|完美世界|2019年4月7日||[看准网](https://www.kanzhun.com/gsr4061.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/search?type=content&q=%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C%20%E5%8A%A0%E7%8F%AD)|
-|杭州|海康威视|2019年4月7日|9106|[看准网](https://www.kanzhun.com/gsr55452.html?ka=com-blocker1-review),[知乎](https://www.zhihu.com/question/31379626/answer/399779602)|
-|北京|亚信(AsiaInfo)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr19887tl56.html?ka=review-label13)|
-|北京|猎聘网|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1087027.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/23950520/answer/135634297)|
-|北京|58同城|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr10329.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/50217184/answer/121096322)|
-|上海|饿了么|2019年4月7日|996 or 997|[看准网](https://www.kanzhun.com/gsr1879439.html?ka=com-blocker1-review#co_tab),[逼乎](https://www.zhihu.com/question/51930890/answer/128765855)|
-|东莞|步步高|2019年4月7日|8106 ！|[看准网](https://www.kanzhun.com/gsr3153tl56.html?ka=review-label12)|
-|广州|CVTE（广州视源）|2019年4月7日||[看准网](https://www.kanzhun.com/gsr59694tl56.html?ka=review-label15)|
-|合肥|科大讯飞|2019年4月7日||[看准网](https://www.kanzhun.com/gsr60959tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/25497478/answer/299491680)|
-|北京|百度|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17),[知乎](https://www.zhihu.com/question/20489266/answer/15775901)|
-|广州|网易游戏|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
-|北京|便利蜂|2019年4月7日||[看准网](https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8)|
-|杭州|浙江宇视科技有限公司|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1134138tl56.html?ka=review-label12),[知乎](https://www.zhihu.com/question/265531337/answer/296562572)|
-|杭州|网易考拉海购|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14)|
-|佛山|美的集团|2019年4月7日|996大小周|[看准网](https://www.kanzhun.com/gsr7884tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/35741672/answer/115286682)|
-|北京|VIPKID|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr5616047tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/67611489/answer/502602988)|
-|北京|当当网|2019年4月7日||[看准网](https://www.kanzhun.com/gsr20124tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/22058750/answer/26245012)|
-|北京|中科软|2019年4月7日||[看准网](https://www.kanzhun.com/gsr61623tl56.html?ka=review-label8)|
-|上海|欢乐互娱（上海）科技股份有限公司|2019年4月7日||[看准网](https://www.kanzhun.com/gsr831137tl56.html?ka=review-label15)|
-|深圳|房多多|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr2072113tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/24225318/answer/63820083)|
-|武汉|斗鱼|2019年4月7日||[看准网](https://www.kanzhun.com/gsr5611864tl56.html?ka=review-label14)|
-|上海|巨人网络|2019年4月7日||[看准网](https://www.kanzhun.com/gsr21392tl56.html?ka=review-label10)|
-|北京|天眼查|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5681112tl526.html?ka=review-label4)|
-|北京|去哪儿网|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr61692tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/22560997/answer/60628698)|
-|成都|tap4fun|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15)|
-|上海|德邦物流|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr16378tl56.html?ka=review-label9)|
-|北京|京东到家|2019年4月7日||[看准网](https://www.kanzhun.com/gsr1451344tl41.html?ka=review-label11)|
-|深圳|万兴神拍手PowerCam/万兴科技|2019年4月7日|995|[看准网](https://www.kanzhun.com/gsr1682212tl56.html?ka=review-label12)|
-|厦门|4399游戏|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
-|济南|普联软件|2019年4月7日|8106|[看准网](https://www.kanzhun.com/gsr61725tl56.html?ka=review-label11)|
-|深圳|环球易购公司|2019年4月7日||[看准网](https://www.kanzhun.com/gsr1026982.html?ka=com1-review)|
-|北京|云鸟科技|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr2477689tl56.html?ka=review-label3)|
-|深圳|追一科技|2019年4月7日|10106 疯狂加班|[看准网](https://www.kanzhun.com/gsr5693705.html?ka=com1-review),[知乎](https://www.zhihu.com/question/59128341/answer/271630324),[知乎](https://www.zhihu.com/question/59128341/answer/637566953),[知乎](https://www.zhihu.com/question/59128341/answer/347608941)|
-|上海|兴业数字金融服务|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr6355543tl526.html?ka=review-label4)|
-|北京|猎豹移动|2019年4月7日||[看准网](https://www.kanzhun.com/gsr1741987tl56.html?ka=review-label15),[知乎](https://www.zhihu.com/question/46730691/answer/110491138)|
-|北京|赞同科技|2019年4月7日||[看准网](https://www.kanzhun.com/gsr37775.html?ka=com1-review),[知乎](https://www.zhihu.com/question/31394970/answer/375035970)|
-|广州|广州探迹科技有限公司|2019年4月7日||[看准网](https://www.kanzhun.com/gsr5710247tl56.html?ka=review-label6)|
-|北京|iCourt|2019年4月7日|996 or 10116|[看准网](https://www.kanzhun.com/gsr5731719tl526.html?ka=review-label5)|
-|上海|小红书|2019年4月7日||[看准网](https://www.kanzhun.com/gsr1950189.html?ka=com-blocker1-review#co_tab)|
-|广州|三七互娱|2019年4月7日||[看准网](https://www.kanzhun.com/gsr1906275.html?ka=com-blocker1-review#co_tab)|
-|上海|依图科技|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1669492tl526.html?ka=review-label13),[知乎](https://www.zhihu.com/question/300132949/answer/606529193)|
-|杭州|杭州涂鸦科技有限公司|2019年4月7日||[看准网](https://www.kanzhun.com/gsr3277759tl526.html?ka=review-label13)|
-|北京|美团网|2019年4月7日||[看准网](https://www.kanzhun.com/gsr711383tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/274742707)|
-|北京|北京斗米优聘科技发展有限公司|2019年4月7日||[看准网](https://www.kanzhun.com/gsr5624712.html?ka=com2-review)|
-|深圳|ZTE中兴通讯|2019年4月7日||[看准网](https://www.kanzhun.com/gsr2513801.html?ka=com1-review)|
-|北京|瓜子二手车|2019年4月7日||[看准网](https://www.kanzhun.com/gsr5626737tl526.html?ka=review-label8)|
-|杭州|浙江微一案信息科技有限公司|2019年4月7日||[看准网](https://www.kanzhun.com/gsr5793658tl56.html?ka=review-label3)|
-|长沙|蓝思科技股份有限公司|2019年4月7日||[看准网](https://www.kanzhun.com/gsr177444tl56.html?ka=review-label8),[知乎](https://www.zhihu.com/question/299376060/answer/626487730)|
-|深圳|深圳传音控股股份有限公司|2019年4月7日||[看准网](https://www.kanzhun.com/gsr1652943tl56.html?ka=review-label12)|
-|天津|小黑鱼|2019年4月7日|996|[看准网](https://m.kanzhun.com/gsr6771936.html)|
-|深圳|深圳市猜猜城科技有限公司|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr6671156.html?ka=com1-review)|
-|北京|初见科技|2019年4月7日|995|[看准网](https://www.kanzhun.com/gsr2031621.html?ka=com1-review)|
-|深圳|道通科技|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr479390tl56.html?ka=review-label8)|
-|深圳|尊豪网络科技有限公司|2019年4月7日|每天10小时|[看准网](https://m.kanzhun.com/pl6818466.html?sid=kzapp&from=singlemessage)|
-|深圳|平安科技|2019年4月7日||[看准网](https://www.kanzhun.com/gsr27068tl56.html?ka=review-label12)|
-|北京|北京永航科技|2019年4月7日||[看准网](https://www.kanzhun.com/gsr1313676tl56.html?ka=review-label10)|
-|泰安|浪潮软件|2019年4月7日|6*12 ！|[看准网](https://www.kanzhun.com/gsr49271tl56.html?ka=review-label10),[知乎](https://www.zhihu.com/question/53373183/answer/139767404)|
+|深圳|[腾讯](https://www.tencent.com/zh-cn/index.html)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5855.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/30383728/answer/49853422),[知乎](https://www.zhihu.com/question/294418645/answer/494094055)|
+|北京|[小米](https://www.mi.com)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr347791.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/270788307/answer/356518575)|
+|杭州|[海康威视](http://www1.hikvision.com/cn/)|2019年4月7日|9106|[看准网](https://www.kanzhun.com/gsr55452.html?ka=com-blocker1-review),[知乎](https://www.zhihu.com/question/31379626/answer/399779602)|
+|北京|[亚信(AsiaInfo)](https://www.asiainfo.com)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr19887tl56.html?ka=review-label13)|
+|北京|[猎聘网](https://www.liepin.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1087027.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/23950520/answer/135634297)|
+|北京|[58同城](https://www.liepin.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr10329.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/50217184/answer/121096322)|
+|上海|[饿了么](https://www.ele.me/)|2019年4月7日|996 or 997|[看准网](https://www.kanzhun.com/gsr1879439.html?ka=com-blocker1-review#co_tab),[逼乎](https://www.zhihu.com/question/51930890/answer/128765855)|
+|东莞|[步步高](www.gdbbk.com/)|2019年4月7日|8106 ！|[看准网](https://www.kanzhun.com/gsr3153tl56.html?ka=review-label12)|
+|北京|[百度](https://www.baidu.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17),[知乎](https://www.zhihu.com/question/20489266/answer/15775901)|
+|广州|[网易游戏](game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
+|北京|[便利蜂](https://www.bianlifeng.com/)|2019年4月7日||[看准网](https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8)|
+|杭州|[浙江宇视科技有限公司](cn.uniview.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1134138tl56.html?ka=review-label12),[知乎](https://www.zhihu.com/question/265531337/answer/296562572)|
+|杭州|[网易考拉海购](https://www.kaola.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14)|
+|佛山|[美的集团](https://www.midea.cn/)|2019年4月7日|996大小周|[看准网](https://www.kanzhun.com/gsr7884tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/35741672/answer/115286682)|
+|北京|[VIPKID](https://www.vipkid.com.cn/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr5616047tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/67611489/answer/502602988)|
+|深圳|[房多多](https://m.fangdd.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr2072113tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/24225318/answer/63820083)|
+|北京|[天眼查](https://www.tianyancha.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5681112tl526.html?ka=review-label4)|
+|北京|[去哪儿网](https://www.qunar.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr61692tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/22560997/answer/60628698)|
+|成都|[tap4fun](https://www.tap4fun.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15)|
+|上海|[德邦物流](https://www.deppon.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr16378tl56.html?ka=review-label9)|
+|深圳|[万兴科技](https://www.wondershare.cn/)|2019年4月7日|995|[看准网](https://www.kanzhun.com/gsr1682212tl56.html?ka=review-label12)|
+|厦门|[4399游戏](www.4399.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
+|济南|[普联软件](www.pansoft.com/)|2019年4月7日|8106|[看准网](https://www.kanzhun.com/gsr61725tl56.html?ka=review-label11)|
+|北京|[云鸟科技](https://www.yunniao.cn/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr2477689tl56.html?ka=review-label3)|
+|深圳|[追一科技](https://zhuiyi.ai/)|2019年4月7日|10106 疯狂加班|[看准网](https://www.kanzhun.com/gsr5693705.html?ka=com1-review),[知乎](https://www.zhihu.com/question/59128341/answer/271630324),[知乎](https://www.zhihu.com/question/59128341/answer/637566953),[知乎](https://www.zhihu.com/question/59128341/answer/347608941)|
+|上海|[兴业数字金融服务](www.cibfintech.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr6355543tl526.html?ka=review-label4)|
+|北京|[iCourt](www.icourt.cc/)|2019年4月7日|996 or 10116|[看准网](https://www.kanzhun.com/gsr5731719tl526.html?ka=review-label5)|
+|上海|[小红书](https://www.xiaohongshu.com/)|2019年4月7日|1095|[看准网](https://www.kanzhun.com/gsr1950189.html?ka=com-blocker1-review#co_tab)|
+|广州|[三七互娱](www.37wan.net/)|2019年4月7日|9115 9116?|[看准网](https://www.kanzhun.com/gsr1906275.html?ka=com-blocker1-review#co_tab)|
+|上海|[依图科技](https://www.yitutech.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1669492tl526.html?ka=review-label13),[知乎](https://www.zhihu.com/question/300132949/answer/606529193)|
+|天津|[小黑鱼](https://blackfish.cn)|2019年4月7日|996|[看准网](https://m.kanzhun.com/gsr6771936.html)|
+|深圳|[深圳市猜猜城科技有限公司](www.guesscity.net/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr6671156.html?ka=com1-review)|
+|北京|[初见科技](www.chujian.com/)|2019年4月7日|995|[看准网](https://www.kanzhun.com/gsr2031621.html?ka=com1-review)|
+|深圳|[道通科技](www.auteltech.cn/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr479390tl56.html?ka=review-label8)|
+|深圳|[尊豪网络科技有限公司](www.szzunhao.com/)|2019年4月7日|每天10小时|[看准网](https://m.kanzhun.com/pl6818466.html?sid=kzapp&from=singlemessage)|
+|泰安|[浪潮软件](www.inspur.com/)|2019年4月7日|6*12 ！|[看准网](https://www.kanzhun.com/gsr49271tl56.html?ka=review-label10),[知乎](https://www.zhihu.com/question/53373183/answer/139767404)|
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
