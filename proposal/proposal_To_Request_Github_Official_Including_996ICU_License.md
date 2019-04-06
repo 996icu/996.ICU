@@ -24,10 +24,10 @@ To Request Github Official Including 996ICU License <br/>
 ## Community Value
 ## 社区价值
 
-Remarkable 996ICU License badge <br/>
+Highlight 996ICU License badge <br/>
 让 996ICU License badge 更显眼 <br/>
 
-Let 996ICU License be chosen easily <br/>
+Promote adoption of 996ICU License <br/>
 让 996ICU License 更易用 <br/>
 
 ## Problems
@@ -87,7 +87,7 @@ Feel free to fill here.
 
 Right now there is more than 1600 repos  using 996 license  by  [github code search](https://github.com/search?q=996+filename%3ALICENSE&type=code) .  
 
-So Item No.3 has **Fitted**, but the consensus in 996 licenses are not.
+So the 3rd requirement is satisfied, but the consensus in 996 licenses are not.
 
 As for Item No.4,  there is [996.ICU](https://github.com/996icu/996.ICU), [955.WLB](https://github.com/formulahendry/955.WLB) and [Anti-996-License](https://github.com/kattgu7/Anti-996-License/issues?q=is%3Aopen+is%3Aissue) and a lot of repos with stars more than 3k.  I am not sure about the word "notable ".  I think  Item No.4 is **fitted**.
 
