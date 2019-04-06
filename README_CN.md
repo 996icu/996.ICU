@@ -2,7 +2,7 @@
 =======
 * [English version](./README.md)
 
-`996.ICU`  是指“工作 996”， 生病 ICU 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
+`996.ICU`  是指“工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
@@ -20,6 +20,8 @@
 
 什么是996？
 ---
+
+[996工作制](https://zh.wikipedia.org/wiki/996%E5%B7%A5%E4%BD%9C%E5%88%B6)的维基百科页面。
 
 “996”工作制，指的是一种越来越流行的非官方工作制（早上 9 点 ~ 晚上 9 点，每周 6 天）。在一个实行“996”工作制的公司工作就意味着每周至少要工作 60 个小时。
 
@@ -41,7 +43,7 @@
 
 * 从闭源到开源是一次伟大的进步，从开源到同时强调保护劳工权益也将是一次伟大的进步，我们想要创造一个主张保护劳动者权益的开源软件许可证。
 
-* 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。
+* 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。**发言请参考[社区行为准则](https://github.com/996icu/996.ICU/blob/master/Community_Rules_CN.md)。**
 
 * 目前反 996 许可证正处于起草阶段，与此也希望有相关经验的专业人士能给予帮助。
   
@@ -72,11 +74,11 @@
 
  - [996.LAW](https://github.com/Y1ran/996.Law) 法律板块，此 repo 主要收集大家的仲裁、民事诉讼信息。
 
- - [996.TSC](https://github.com/lxlxw/996.TSC) 周边文化创意板块，通过图片等形式的传播，让更多人知道并加入 996.ICU 的活动中来。
-
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
 
  - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
+ 
+ - [996.RIP](https://996.rip) 不要忘记旧闻。
 
 Issues 去哪了？
 ---

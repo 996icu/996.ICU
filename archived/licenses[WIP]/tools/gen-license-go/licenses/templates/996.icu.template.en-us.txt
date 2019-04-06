@@ -1,0 +1,31 @@
+Copyright © 2019 <copyright holders>
+The 996ICU License (996ICU)
+
+996ICU License is an extented license for {other}.
+This license extended {other}, and {other} will be declared at the foot of this license.
+
+Individual who seeks authorization must fulfill the following obligations:
+
+1. Including this authorization file in any of its copies and important parts of the software.
+
+Organization that seeks authorization must fulfill the following obligations:
+
+1. Including this authorization file in any of its copies and important parts of the software.
+2. Not forcing any employee or temporary worker to work in excess of the legal maximum working time in any form or by any means, including but not limited to: orders, threats, implications, etc.
+3. Not retaliating against any employee or temporary worker without participating in labor in excess of the legal maximum working time in any form or by any means, including but not limited to: mental assaults, personal injuries, illegal deductions of due remuneration, illegal dismissals, etc.
+4. Paying economic compensation at no lower than the standards stipulated by local laws and regulations, when organizing employees or temporary workers to work overtime.
+5. This organization is not in the blacklist[^1] as stipulated in the agreement.
+
+If the authorized individual or organization fails to fulfill any of the above obligations, the authorization will be withdrawn.
+
+The undefined behavior of this license is handled by {other}. The part of {other} that conflicts with this agreement is handled in accordance with this agreement.
+
+
+* Discussion https://github.com/996icu/996.ICU/pull/15642
+* 996 from https://feathub.com/LinXueyuanStdio/996.ICU
+* [^1]: blacklist https://github.com/996icu/996.ICU/blob/master/blacklist/blacklist.md
+
+{other}
+--------------------------------------------------------------------------------
+
+{content}

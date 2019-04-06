@@ -1,4 +1,4 @@
-Projects under 996ICU License. Thanks for your support!
+Projects under Anti 996ICU License. Thanks for your support!
 ===
 
 贡献指南
@@ -31,7 +31,6 @@ Projects under 996ICU License. Thanks for your support!
 | - | [aya-store](https://github.com/milobluebell/aya-store) | [Github](https://github.com/milobluebell/aya-store) | 小程序状态管理模块 |
 | - | [eppdev-jee-pom](https://github.com/eppdev/eppdev-jee-pom) | [eppdev-jee-pom](https://jee.eppdev.cn) | 数据驱动的JavaEE代码生成程序 |
 | <img src="https://github.com/l-hammer/You-need-to-know-css/raw/master/static/logo.png" width="60"> | [You-need-to-know-css](https://github.com/l-hammer/You-need-to-know-css) |[You-need-to-know-css](https://lhammer.cn/You-need-to-know-css)| 💄CSS tricks for web developers~ |
-| - | [Android-KlineChar](https://github.com/icechao/kline) |[icechao](https://github.com/icechao)| 安卓高仿火币,快速实现K线功能的lib |
 | <img src="./img/awesome_golang_leetcode_logo.png" width="60"> | [awesome-golang-leetcode](https://github.com/kylesliu/awesome-golang-leetcode) |[Kyle Liu](https://github.com/kylesliu)| 📝  LeetCode of algorithms with golang solution(updating). |
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [Github](https://github.com/PsChina) / [npm](https://www.npmjs.com/package/easy-filter) | vue2.x 过滤器插件 |
 | - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | [Github](https://github.com/jaweii/Vueg----page-transition-plugin) | Page level transition plugin for vue-router|
@@ -64,7 +63,6 @@ Projects under 996ICU License. Thanks for your support!
 | <img src="https://github.com/EdgeTranslate/EdgeTranslate/raw/master/static/icon/icon48.png" width="60"> | [Edge Translate](https://github.com/EdgeTranslate/EdgeTranslate) | [GitHub](https://github.com/EdgeTranslate) / [Chrome Web Store](https://chrome.google.com/webstore/detail/bocbaocobfecmglnmeaeppambideimao) / [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/edge_translate) | 一款支持多种浏览器的网页翻译插件 |
 | <img src="https://github.com/ame017/AMEGetterMaker/blob/master/intro/introduce.png?raw=true" width="60"> | [AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | [Github-AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) | (Xcode)一个无需resign的Xcode懒加载生成器 |
 | <img src="https://raw.githubusercontent.com/ame017/AMECategoryMaker/master/Display/ACM-introduce.png" width="60"> | [AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | [Github-AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) | (Xcode)一个无需resign的Xcode category生成器 |
-| <img src="https://hikyuu.org/images/hikyuu_logo.png" width="60"> | [Hikyuu](https://github.com/fasiondog/hikyuu) | [Github](https://github.com/fasiondog/hikyuu) | Hikyuu Quant Framework是一款基于C++/Python的高性能开源量化交易研究框架，用于策略分析及回测 |
 | <img src="https://github.com/nonoroazoro/vscode-syncing/blob/master/resources/logo.png?raw=true" width="60"> | [vscode-syncing](https://github.com/nonoroazoro/vscode-syncing) | [Syncing - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=nonoroazoro.syncing) | Syncing 是一个 VSCode 扩展，它能在多台设备之间同步您的所有 VSCode 配置。 |
 | <img src="https://raw.githubusercontent.com/zhangyu0310/MyPicture/master/Bounce.png" width="60"> | [Bounce](https://github.com/zhangyu0310/bounce) | [Bounce](https://zhangyu0310.github.io/bounce/) | A C++11 network library in Linux. |
 | - | [Swoole IDE helper](https://github.com/wudi/swoole-ide-helper) | [Github](https://github.com/wudi/swoole-ide-helper) | Auto completion, trigger suggest and view docs for Swoole in editor. |
@@ -93,5 +91,10 @@ Projects under 996ICU License. Thanks for your support!
 | - | [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker) | [Github](https://github.com/gzu-liyujiang/AndroidPicker) | 安卓选择器类库，包括日期选择器、时间选择器、单项选择器、双项选择器、二三级联动选择器、城市地址选择器、数字选择器、颜色选择器、文件选择器、目录选择器等 |
 | - | [vue-drag-tree](https://vigilant-curran-d6fec6.netlify.com/#/) | [Github](https://github.com/shuiRong/vue-drag-tree) | a Vue's drag and drop tree component（一个可拖拽的树形Vue.js组件） |
 | <img src="https://cnlgbtdata.com/static/laws/assets/img/5c57f5dbdfb90.128px.ico" width="60"> | [cnlgbtdata](https://cnlgbtdata.com) | [cnlgbtdata](https://cnlgbtdata.com) | 国内LGBT相关资料及法律信息收集站 |
-| - | [AndroidAnti996Browser](https://github.com/xianfengting/AndroidAnti996Browser) | [Github](https://github.com/xianfengting/AndroidAnti996Browser) | Android反996浏览器项目,为996\.ICU项目而开发,用以解决部分国产浏览器限制或禁止访问996\.ICU相关页面的问题\.目前该项目正在开发中,欢迎大家的支持\. |
-
+| - | [AndroidAnti996Browser](https://github.com/xianfengting/AndroidAnti996Browser) | [Github](https://github.com/xianfengting/AndroidAnti996Browser) | Android反996浏览器项目,为996\.ICU项目而开发,用以解决部分国产浏览器限制或禁止访问996\.ICU相关页面的问题\.目前该项目已经发布开发版本\(在项目主页Release页面下\)\.欢迎大家的支持\. |
+| - | [QuickFrontend](https://github.com/sinri/QuickFrontend) | [GitHub](https://github.com/sinri/QuickFrontend) | A simple frontend framework is designed for quick develop with vue.js 2, iview.ui 3, axios, js-cookie. |
+| - | [QTL](https://github.com/znone/qtl) | [GitHub](https://github.com/znone/qtl) | A friendly and lightweight C++ database library for MySQL, SQLite and ODBC. |
+| - | [go-server-js](https://github.com/zengming00/go-server-js) | [GitHub](https://github.com/zengming00/go-server-js) |  javascript web server, js server, 一种新的javascript写服务端程序的方案，没有回调，完全不同于node.js，更像php，或者说是披着js皮的go |
+| - | [node-gd-bmp](https://github.com/zengming00/node-gd-bmp) | [GitHub](https://github.com/zengming00/node-gd-bmp) | light and high speed and 100% js implement graphical library, it can running in any platform  |
+| <img src="https://github.com/Mainvooid/arxiv.repo/blob/master/icon.png" width="60"> | [arxiv.repo](https://github.com/Mainvooid/arxiv.repo) | [Github](https://github.com/Mainvooid/arxiv.repo) | arXiv上公开了项目源码的论文合集 |
+| - | [996-icu-banner](https://github.com/SamChou19815/996-icu-banner) | [GitHub](https://github.com/SamChou19815/996-icu-banner) / [Demo](https://996-icu-banner.developersam.com/) / [npm](https://www.npmjs.com/package/@dev-sam/996-icu-banner) | The banner for your personal website to show support for 996.icu. |
