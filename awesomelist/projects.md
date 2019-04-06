@@ -102,4 +102,4 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [Carrier](https://github.com/deepgrace/carrier) | [GitHub](https://github.com/deepgrace/carrier) | Modern C++ Network Server FrameWork |
 | - | [Giant](https://github.com/deepgrace/giant) | [GitHub](https://github.com/deepgrace/giant) | Algorithms and Data Structures in Modern C++ |
 | - | [Monster](https://github.com/deepgrace/monster) | [GitHub](https://github.com/deepgrace/monster) | Advanced Template MetaProgramming in Modern C++ |
-| - | [Stored Programs](https://github.com/deepgrace/stored.programs) | [GitHub](https://github.com/deepgrace/stored.programs) | Stored Programs (Function, View, Trigger and Stored Procedure) suin SQL |
+| - | [Stored Programs](https://github.com/deepgrace/stored.programs) | [GitHub](https://github.com/deepgrace/stored.programs) | Stored Programs (Function, View, Trigger and Stored Procedure) in SQL |
