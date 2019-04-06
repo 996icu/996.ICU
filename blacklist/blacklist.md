@@ -79,6 +79,9 @@
 |嘉兴|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2,sz@320_1001,ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)
 |上海|[依图网络科技有限公司](http://www.yitutech.com/)|2019年4月5日|996|[知乎](https://www.zhihu.com/question/300132949/answer/606529193)|
 |深圳|[深圳市环球易购电子商务有限公司](https://www.globalegrow.com/)|2007年5月|大小周、经常996、偶尔通宵|[劳动合同](img/globalegrow_labor_contract.jpg)、[Offer](img/globalegrow_offer.jpg)+亲历|
+|杭州|[杭州海康威视数字技术股份有限公司](https://www.hikvision.com/cn/)|2018年|996|(https://www.kanzhun.com/pl6448138.html)|
+|杭州|[浙江大华技术股份有限公司](https://www.dahuatech.com/)|2018年|加班|(http://www.7360.cc/Review-80253)(https://www.kanzhun.com/pl6360251.html)|
+|杭州|[浙江宇视科技有限公司](http://fenxiao.uniview.com/)|2018年|大小周加班|(https://www.kanzhun.com/gsmsh10805642.html)
 
 
 更多不良公司（包括但不限于违法加班）请参见：
