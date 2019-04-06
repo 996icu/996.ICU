@@ -55,7 +55,7 @@
 |北京|[柯莱特](http://www.camelotchina.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120179637J00117070515.htm)|
 |北京|[高伟达](http://www.git.com.cn/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120702341J00114014810.htm)|
 |深圳|[华为外包](https://www.kanzhun.com/gsr1439970.html)|2018年3月|大小周、加班、裁员|[华为外包是怎样的体验？ - 知乎](https://www.zhihu.com/question/28517881)|
-|深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、<br>加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)|
+|深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、<br>加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)<br> [跨越的水军洗地被抓现行](https://www.zhihu.com/question/47203239/answer/643311492)|
 |上海|[砸立](https://m.eyee.com/)|2019年1月|996|[看准网](https://www.kanzhun.com/gsr5728610tl526.html?ka=review-label2)|
 |杭州|[一喂](http://www.yivizd.com)|2017年5月|996|[图片链接](http://note.youdao.com/noteshare?id=0113f40833aaebfc7bbb6c0f83d65f96)|
 |杭州|[智贝科技](https://www.zhipin.com/gongsi/09aefd7a9d507c2f1nd82tu9Ew~~.html)|2019年3月|强制996、歧视程序员|[程序员吐槽：薪资低，996加班无补助，歧视程序员，这hr真乃神人](https://baijiahao.baidu.com/s?id=1627625016599313128)|
