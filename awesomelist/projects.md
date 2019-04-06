@@ -98,4 +98,9 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [node-gd-bmp](https://github.com/zengming00/node-gd-bmp) | [GitHub](https://github.com/zengming00/node-gd-bmp) | light and high speed and 100% js implement graphical library, it can running in any platform  |
 | <img src="https://github.com/Mainvooid/arxiv.repo/blob/master/icon.png" width="60"> | [arxiv.repo](https://github.com/Mainvooid/arxiv.repo) | [Github](https://github.com/Mainvooid/arxiv.repo) | arXiv上公开了项目源码的论文合集 |
 | - | [996-icu-banner](https://github.com/SamChou19815/996-icu-banner) | [GitHub](https://github.com/SamChou19815/996-icu-banner) / [Demo](https://996-icu-banner.developersam.com/) / [npm](https://www.npmjs.com/package/@dev-sam/996-icu-banner) | The banner for your personal website to show support for 996.icu. |
+| - | [Tetris](https://github.com/deepgrace/tetris) | [GitHub](https://github.com/deepgrace/tetris) | Tetris in all kinds of Languages |
+| - | [Carrier](https://github.com/deepgrace/carrier) | [GitHub](https://github.com/deepgrace/carrier) | Modern C++ Network Server FrameWork |
+| - | [Giant](https://github.com/deepgrace/giant) | [GitHub](https://github.com/deepgrace/giant) | Algorithms and Data Structures in Modern C++ |
+| - | [Monster](https://github.com/deepgrace/monster) | [GitHub](https://github.com/deepgrace/monster) | Advanced Template MetaProgramming in Modern C++ |
+| - | [Stored Programs](https://github.com/deepgrace/stored.programs) | [GitHub](https://github.com/deepgrace/stored.programs) | Stored Programs (Function, View, Trigger and Stored Procedure) in SQL |
 | - | [CSI Enhancement Tools](https://github.com/shuspieler/Athero-CSI-tool-Python-RemoteReceive-Liveview-AmplitudeScaled) | [GitHub](https://github.com/shuspieler/Athero-CSI-tool-Python-RemoteReceive-Liveview-AmplitudeScaled) | CSI (Channel State Information) Enhancement Tools |
