@@ -92,6 +92,12 @@ Community powers
  - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
 
 
+Focus
+---
+- Improve the [Anti-996 License](LICENSE) and Expand it to more open source projects.
+- More discussion and Internet reports.
+- More supporting from designer and artist for [996.TSC](https://github.com/lxlxw/996.TSC) Project.
+
 Where are the issues?
 ---
 
