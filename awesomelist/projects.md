@@ -106,3 +106,4 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [CSI Enhancement Tools](https://github.com/shuspieler/Athero-CSI-tool-Python-RemoteReceive-Liveview-AmplitudeScaled) | [GitHub](https://github.com/shuspieler/Athero-CSI-tool-Python-RemoteReceive-Liveview-AmplitudeScaled) | CSI (Channel State Information) Enhancement Tools |
 | - | [Thymeleaf-Reference-Guide](https://github.com/jack80342/Thymeleaf-Reference-Guide) | [GitHub](https://github.com/jack80342/Thymeleaf-Reference-Guide) | Thymeleaf 3.0 中文翻译 -《Thymeleaf参考指南》 |
 | - | [Spring-Boot-Reference-Guide](https://github.com/jack80342/Spring-Boot-Reference-Guide) | [GitHub](https://github.com/jack80342/Spring-Boot-Reference-Guide) | Spring Boot Reference Guide 2.0 中文翻译 -《Spring Boot参考指南》 |
+| <img src="https://hikyuu.org/images/hikyuu_logo.png" width="60"> | [Hikyuu Quant Framework](https://hikyuu.org) | [GitHub](https://github.com/fasiondog/hikyuu) | 基于C++/Python的高性能开源量化交易研究框架 |
