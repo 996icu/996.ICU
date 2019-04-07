@@ -6,7 +6,7 @@
 - 无码科技 冯大辉(Fenng)：[聊聊 996](https://mp.weixin.qq.com/s/Jnt8wM-oCVQppfztxB_KEQ)
 - Python之父 Guido van Rossum
 guido：
-[can-we-do-something-for-996-programmers-in-china](https://discuss.python.org/t/can-we-do-something-for-996-programmers-in-china/1119)
+[Can we do something for 996 programmers in China?](https://discuss.python.org/t/can-we-do-something-for-996-programmers-in-china/1119)
 
 ## 网友讨论
 
