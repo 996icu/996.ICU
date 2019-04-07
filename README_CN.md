@@ -18,6 +18,11 @@
 
 点击此处查看相关报道的[完整列表](/externals/news.md)
 
+相关文章和讨论
+---
+
+点击此处查看相关文章和讨论的[完整列表](/externals/article_and_discussion.md)
+
 什么是996？
 ---
 
