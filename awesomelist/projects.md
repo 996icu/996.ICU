@@ -110,3 +110,4 @@ Projects under Anti 996ICU License. Thanks for your support!
 | <img src="https://hikyuu.org/images/hikyuu_logo.png" width="60"> | [Hikyuu Quant Framework](https://hikyuu.org) | [GitHub](https://github.com/fasiondog/hikyuu) | 基于C++/Python的高性能开源量化交易研究框架 |
 | - | [SimpleKernel](https://github.com/MRNIU/SimpleKernel) | 一个用于学习 kernel 的简单入门资源 |
 | - | [no-cron](https://github.com/jerrywdlee/no-cron) | [GitHub](https://github.com/jerrywdlee/no-cron) / [知乎](https://zhuanlan.zhihu.com/p/61612658) | A fack cron for docker users / 用在某些corn抽风了的container上的仿制cron |
+| - | [PUSH TO KINDLE!](https://github.com/Aneureka/push-to-kindle) | [Github](https://github.com/Aneureka/push-to-kindle) | 一个简洁优雅的 Kindle 文档推送工具
