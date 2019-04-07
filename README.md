@@ -45,6 +45,7 @@ What can I do?
 - License your awesome projects with the [Anti 996 License](LICENSE).  
 - Add proposals to give advice about the development of 996.ICU.
 - Go home at 6 pm without feeling sorry.
+- May also sign a signature on this petition to gain the white house's attention: https://petitions.whitehouse.gov/petition/protest-996-or-even-worse-work-environment-china-all-kinds-developers-and-programers
 
 
 Principles and purposes
