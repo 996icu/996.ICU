@@ -79,12 +79,11 @@
 |嘉兴|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2,sz@320_1001,ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)
 |上海|[依图网络科技有限公司](http://www.yitutech.com/)|2019年4月5日|996|[知乎](https://www.zhihu.com/question/300132949/answer/606529193)|
 |深圳|[深圳市环球易购电子商务有限公司](https://www.globalegrow.com/)|2007年5月|大小周、经常996、偶尔通宵|[劳动合同](img/globalegrow_labor_contract.jpg)、[Offer](img/globalegrow_offer.jpg)+亲历|
-|杭州|[杭州海康威视数字技术股份有限公司](https://www.hikvision.com/cn/)|2018年|996|(https://www.kanzhun.com/pl6448138.html)|
-|杭州|[浙江大华技术股份有限公司](https://www.dahuatech.com/)|2018年|加班|(http://www.7360.cc/Review-80253)(https://www.kanzhun.com/pl6360251.html)|
-|杭州|[浙江宇视科技有限公司](http://fenxiao.uniview.com/)|2018年|大小周加班|(https://www.kanzhun.com/gsmsh10805642.html)
+|杭州|[杭州海康威视数字技术股份有限公司](https://www.hikvision.com/cn/)|2018年|996|[看准网](https://www.kanzhun.com/pl6448138.html),[知乎](https://www.zhihu.com/question/31379626/answer/399779602)|
+|杭州|[浙江大华技术股份有限公司](https://www.dahuatech.com/)|2018年|加班|[职业圈](http://www.7360.cc/Review-80253)，[看准网](https://www.kanzhun.com/pl6360251.html)|
+|杭州|[浙江宇视科技有限公司](http://fenxiao.uniview.com/)|2018年|大小周加班|[看准网](https://www.kanzhun.com/gsmsh10805642.html),[知乎](https://www.zhihu.com/question/265531337/answer/296562572)
 |深圳|[腾讯](https://www.tencent.com/zh-cn/index.html)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5855.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/30383728/answer/49853422),[知乎](https://www.zhihu.com/question/294418645/answer/494094055)|
 |北京|[小米](https://www.mi.com)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr347791.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/270788307/answer/356518575)|
-|杭州|[海康威视](http://www1.hikvision.com/cn/)|2019年4月7日|9106|[看准网](https://www.kanzhun.com/gsr55452.html?ka=com-blocker1-review),[知乎](https://www.zhihu.com/question/31379626/answer/399779602)|
 |北京|[亚信(AsiaInfo)](https://www.asiainfo.com)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr19887tl56.html?ka=review-label13)|
 |北京|[猎聘网](https://www.liepin.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1087027.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/23950520/answer/135634297)|
 |北京|[58同城](https://www.liepin.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr10329.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/50217184/answer/121096322)|
@@ -93,7 +92,6 @@
 |北京|[百度](https://www.baidu.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17),[知乎](https://www.zhihu.com/question/20489266/answer/15775901)|
 |广州|[网易游戏](game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
 |北京|[便利蜂](https://www.bianlifeng.com/)|2019年4月7日||[看准网](https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8)|
-|杭州|[浙江宇视科技有限公司](cn.uniview.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1134138tl56.html?ka=review-label12),[知乎](https://www.zhihu.com/question/265531337/answer/296562572)|
 |杭州|[网易考拉海购](https://www.kaola.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14)|
 |佛山|[美的集团](https://www.midea.cn/)|2019年4月7日|996大小周|[看准网](https://www.kanzhun.com/gsr7884tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/35741672/answer/115286682)|
 |北京|[VIPKID](https://www.vipkid.com.cn/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr5616047tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/67611489/answer/502602988)|
