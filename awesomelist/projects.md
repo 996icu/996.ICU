@@ -35,7 +35,7 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [easy-filter](https://github.com/PsChina/easy-filter) | [Github](https://github.com/PsChina) / [npm](https://www.npmjs.com/package/easy-filter) | vue2.x 过滤器插件 |
 | - | [Vueg](https://github.com/jaweii/Vueg----page-transition-plugin) | [Github](https://github.com/jaweii/Vueg----page-transition-plugin) | Page level transition plugin for vue-router|
 | - | [one](https://github.com/lizhichao/one) | [Github](https://github.com/lizhichao/one) | 一个极简的高性能常驻内存php框架|
-| - | [vue-color-ui](https://github.com/martin-yin/vue-color-ui) | [Github](https://github.com/martin-yin/vue-color-ui) | 微信小程序color-ui的vue版本 |
+| <img src="https://raw.githubusercontent.com/martin-yin/Pipi-Dinosaur/master/src/assets/logo.png" width="60"> | [Pipi-Dinosaur](https://github.com/martin-yin/Pipi-Dinosaur) | [Github](https://github.com/martin-yin/Pipi-Dinosaur) |皮皮🦖 微信小程序color-ui的vue版本 |
 | - | [WxJava](https://github.com/Wechat-Group/WxJava) | [Github](https://github.com/Wechat-Group/WxJava) | 微信开发 Java SDK|
 | - | [cyclone](https://github.com/simpleapples/cyclone) | [Github](https://github.com/simpleapples/cyclone) | Cyclone is a go package to spawn, reuse and manage a number of goroutines by a pool. |
 | - | [NumbCube](https://github.com/KirosHan/NumbCube) | [Github](https://github.com/KirosHan/NumbCube) | NumbCube流媒体直播解决方案 |
@@ -98,3 +98,11 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [node-gd-bmp](https://github.com/zengming00/node-gd-bmp) | [GitHub](https://github.com/zengming00/node-gd-bmp) | light and high speed and 100% js implement graphical library, it can running in any platform  |
 | <img src="https://github.com/Mainvooid/arxiv.repo/blob/master/icon.png" width="60"> | [arxiv.repo](https://github.com/Mainvooid/arxiv.repo) | [Github](https://github.com/Mainvooid/arxiv.repo) | arXiv上公开了项目源码的论文合集 |
 | - | [996-icu-banner](https://github.com/SamChou19815/996-icu-banner) | [GitHub](https://github.com/SamChou19815/996-icu-banner) / [Demo](https://996-icu-banner.developersam.com/) / [npm](https://www.npmjs.com/package/@dev-sam/996-icu-banner) | The banner for your personal website to show support for 996.icu. |
+| - | [Tetris](https://github.com/deepgrace/tetris) | [GitHub](https://github.com/deepgrace/tetris) | Tetris in all kinds of Languages |
+| - | [Carrier](https://github.com/deepgrace/carrier) | [GitHub](https://github.com/deepgrace/carrier) | Modern C++ Network Server FrameWork |
+| - | [Giant](https://github.com/deepgrace/giant) | [GitHub](https://github.com/deepgrace/giant) | Algorithms and Data Structures in Modern C++ |
+| - | [Monster](https://github.com/deepgrace/monster) | [GitHub](https://github.com/deepgrace/monster) | Advanced Template MetaProgramming in Modern C++ |
+| - | [Stored Programs](https://github.com/deepgrace/stored.programs) | [GitHub](https://github.com/deepgrace/stored.programs) | Stored Programs (Function, View, Trigger and Stored Procedure) in SQL |
+| - | [CSI Enhancement Tools](https://github.com/shuspieler/Athero-CSI-tool-Python-RemoteReceive-Liveview-AmplitudeScaled) | [GitHub](https://github.com/shuspieler/Athero-CSI-tool-Python-RemoteReceive-Liveview-AmplitudeScaled) | CSI (Channel State Information) Enhancement Tools |
+| - | [Thymeleaf-Reference-Guide](https://github.com/jack80342/Thymeleaf-Reference-Guide) | [GitHub](https://github.com/jack80342/Thymeleaf-Reference-Guide) | Thymeleaf 3.0 中文翻译 -《Thymeleaf参考指南》 |
+| - | [Spring-Boot-Reference-Guide](https://github.com/jack80342/Spring-Boot-Reference-Guide) | [GitHub](https://github.com/jack80342/Spring-Boot-Reference-Guide) | Spring Boot Reference Guide 2.0 中文翻译 -《Spring Boot参考指南》 |

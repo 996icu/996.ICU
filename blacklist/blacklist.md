@@ -1,7 +1,5 @@
-﻿**请注意：维护本列表的目的在于为《中华人民共和国劳动法》的执行提供参考依据。**
 
-996（或其他违法加班制度）公司名单
-===
+﻿**请注意：维护本列表的目的在于为《中华人民共和国劳动法》的执行提供参考依据。**
 违法加班制度是指违反相关法律法规及劳动合同，未经与工会和劳动者协商便强制加班加点<sup>1</sup>，或加班加点超出法定时限（每日三小时或每月三十六小时）<sup>2</sup>，或未足额支付加班加点工资报酬（不低于工资的百分之一百五十）<sup>3</sup>的非法用工制度。
 
 1. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十一条
@@ -42,7 +40,7 @@
 |北京|[京东](https://www.jd.com)|2019年3月|995|[京东回应995工作制：不会强制要求 但要全情投入](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)<br>[刘强东内部邮件称要淘汰或协商解决掉“三种人”](https://i.loli.net/2019/04/02/5ca2e8727f213.jpg)|
 |北京|[58同城](https://www.58.com)|2016年9月|996|[58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
-|北京|[途家网](https://www.tujia.com)|2017年12月|897|[暴力裁员、996加班、发感冒冲剂、公司搭睡觉帐篷、诉讼材料](https://iamybj.github.io/tujia/)|
+|北京|[途家网](https://www.tujia.com)|2017年12月|897|[暴力裁员、996加班、发感冒冲剂、搭睡觉帐篷、诉讼材料](https://www.tujia.xyz/)|
 |杭州|[有赞](https://www.youzan.com)|2019年1月|996|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|
 |北京|[字节跳动](https://bytedance.com)|2017年7月|加班|[看准网](https://www.kanzhun.com/gsr5622411tl56.html)、[搜狐](https://www.sohu.com/a/256795805_231667)|
 |上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
@@ -57,7 +55,7 @@
 |北京|[柯莱特](http://www.camelotchina.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120179637J00117070515.htm)|
 |北京|[高伟达](http://www.git.com.cn/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120702341J00114014810.htm)|
 |深圳|[华为外包](https://www.kanzhun.com/gsr1439970.html)|2018年3月|大小周、加班、裁员|[华为外包是怎样的体验？ - 知乎](https://www.zhihu.com/question/28517881)|
-|深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、<br>加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)|
+|深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、<br>加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)<br> [跨越的水军洗地被抓现行](https://www.zhihu.com/question/47203239/answer/643311492)|
 |上海|[砸立](https://m.eyee.com/)|2019年1月|996|[看准网](https://www.kanzhun.com/gsr5728610tl526.html?ka=review-label2)|
 |杭州|[一喂](http://www.yivizd.com)|2017年5月|996|[图片链接](http://note.youdao.com/noteshare?id=0113f40833aaebfc7bbb6c0f83d65f96)|
 |杭州|[智贝科技](https://www.zhipin.com/gongsi/09aefd7a9d507c2f1nd82tu9Ew~~.html)|2019年3月|强制996、歧视程序员|[程序员吐槽：薪资低，996加班无补助，歧视程序员，这hr真乃神人](https://baijiahao.baidu.com/s?id=1627625016599313128)|
@@ -81,6 +79,10 @@
 |嘉兴|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2,sz@320_1001,ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)
 |上海|[依图网络科技有限公司](http://www.yitutech.com/)|2019年4月5日|996|[知乎](https://www.zhihu.com/question/300132949/answer/606529193)|
 |深圳|[深圳市环球易购电子商务有限公司](https://www.globalegrow.com/)|2007年5月|大小周、经常996、偶尔通宵|[劳动合同](img/globalegrow_labor_contract.jpg)、[Offer](img/globalegrow_offer.jpg)+亲历|
+|杭州|[杭州海康威视数字技术股份有限公司](https://www.hikvision.com/cn/)|2018年|996|(https://www.kanzhun.com/pl6448138.html)|
+|杭州|[浙江大华技术股份有限公司](https://www.dahuatech.com/)|2018年|加班|(http://www.7360.cc/Review-80253)(https://www.kanzhun.com/pl6360251.html)|
+|杭州|[浙江宇视科技有限公司](http://fenxiao.uniview.com/)|2018年|大小周加班|(https://www.kanzhun.com/gsmsh10805642.html)
+
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)

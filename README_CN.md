@@ -75,6 +75,8 @@
  - [996.LAW](https://github.com/Y1ran/996.Law) 法律板块，此 repo 主要收集大家的仲裁、民事诉讼信息。
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
+ 
+ - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
 
  - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
  
