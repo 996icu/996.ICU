@@ -23,7 +23,6 @@
 - 21财经：[工作996，生病ICU！程序员们这次忍不了了，弄出个大项目](https://m.21jingji.com/article/20190404/herald/23b634af7003164f1ca6f602772a5c71.html)
 - 新浪资讯：[沉默or抵制? 多家互联网公司被指实行996工作制](https://zx.sina.cn/2019-04-06/zx-ihvhiqax0377991.d.html?wm=3049_0015)
 - 爱范儿：[病态的 996 早需改变，而且不应该只从程序员开始](https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)（[Wayback Machine](https://web.archive.org/web/20190406123533/https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)）
-(http://www.xinhuanet.com/2019-04/02/c_1124313774.htm)
 - 《中工网》：[“工作996，生病ICU”该引起重视了](http://right.workercn.cn/164/201904/07/190407073004540.shtml)
 
 ### 非中国媒体
