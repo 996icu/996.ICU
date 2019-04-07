@@ -15,7 +15,7 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 ### The Constitution of the People's Republic of China
 
 #### Chapter II: Article 43:
-> _**He who labours in the People's Republic of China have the right to rest.**_  
+> _**Working people in the People’s Republic of China have the right to rest.**_  
 > The state expands facilities for rest and recuperation of working people and prescribes working hours and vacations for workers and staff.
 
 ### [Labour Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
@@ -58,7 +58,7 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 #### Chapter V: Article 62:
 > The receiving unit shall perform the following obligations:  
 > ......  
-> 3. to give overtime pay and performance bonuses and provide welfare benefits related to specific posts;  
+> 3. To give overtime pay and performance bonuses and provide welfare benefits related to specific posts;  
 > ......  
 
 #### Chapter VII: Article 85:
