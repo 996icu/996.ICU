@@ -116,6 +116,7 @@
 |深圳|[道通科技](www.auteltech.cn/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr479390tl56.html?ka=review-label8)|
 |深圳|[尊豪网络科技有限公司](www.szzunhao.com/)|2019年4月7日|每天10小时|[看准网](https://m.kanzhun.com/pl6818466.html?sid=kzapp&from=singlemessage)|
 |泰安|[浪潮软件](www.inspur.com/)|2019年4月7日|6*12 ！|[看准网](https://www.kanzhun.com/gsr49271tl56.html?ka=review-label10),[知乎](https://www.zhihu.com/question/53373183/answer/139767404)|
+|北京|[作业帮](https://www.zybang.com/)|2019年4月7日| 大小周 |[看准网](https://www.kanzhun.com/pl6288762.html)|
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
