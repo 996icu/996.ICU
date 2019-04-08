@@ -118,5 +118,4 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [tkJSPinyin](https://github.com/Tedko/tkJSPinyin) | [Github](https://github.com/Tedko/tkJSPinyin) | Get Chinese pinyin from Chinese. Based on JSPinyin. Ported to ES6, no need for mootool, etc. |
 | - | [HookPHP](https://github.com/letwang/HookPHP) | [Github](https://github.com/letwang/HookPHP) | 一款基于C扩展搭建支持AI在线编程的PHP框架！ |
 | <img src="https://avatars3.githubusercontent.com/u/37617585" width="60"> | [cmdb](https://gitee.com/py2010/cmdb) | [cmdb](https://github.com/py2010/cmdb) | django, webssh, websftp, docker 容器管理, web => xshell (从CMDB网页直接跳转到Xshell终端) |
-
-| <img src="https://raw.githubusercontent.com/SecurityPaper/996.ICU/master/awesomelist/img/SecurityPaper.png" width="60"> | [SecurityPaper](https://github.com/SecurityPaper/SecurityPaper-web/) | [www.securitypaper.org](https://www.securitypaper.org) | Securitypaper致力于中国互联网公司安全建设指导意见白皮书，所有文档都来自中国互联网一线安全工程师编写整理 |
+| <img src="https://raw.githubusercontent.com/SecurityPaper/996.ICU/master/awesomelist/img/SecurityPaper.png" width="60"> | [SecurityPaper](https://github.com/SecurityPaper/SecurityPaper-web/) | [www.securitypaper.org](https://www.securitypaper.org) | SecurityPaper 致力于中国互联网公司安全建设指导意见白皮书，所有文档都来自中国互联网一线安全工程师编写整理 |
