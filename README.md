@@ -91,6 +91,7 @@ Community powers
 
  - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
 
+ - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
 
 Where are the issues?
 ---
