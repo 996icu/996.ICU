@@ -111,6 +111,6 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [SimpleKernel](https://github.com/MRNIU/SimpleKernel) | [GitHub](https://github.com/MRNIU/SimpleKernel) | 一个用于学习 kernel 的简单入门资源 |
 | - | [no-cron](https://github.com/jerrywdlee/no-cron) | [GitHub](https://github.com/jerrywdlee/no-cron) / [知乎](https://zhuanlan.zhihu.com/p/61612658) | A fack cron for docker users / 用在某些corn抽风了的container上的仿制cron |
 | <img src="https://raw.githubusercontent.com/opendevops-cn/opendevops/master/images/logo.png" width="60"> | [Github](<https://github.com/opendevops-cn/opendevops>) / [Demo](<https://demo.opendevops.cn/login>) | [CloudOpenDevOps](<http://www.opendevops.cn/>) | CODO是一款为用户提供企业多混合云、自动化运维、完全开源的云管理平台。 |
-
-
-| - | [PUSH TO KINDLE!](https://github.com/Aneureka/push-to-kindle) | [Github](https://github.com/Aneureka/push-to-kindle) | 一个简洁优雅的 Kindle 文档推送工具
+| - | [PUSH TO KINDLE!](https://github.com/Aneureka/push-to-kindle) | [Github](https://github.com/Aneureka/push-to-kindle) | 一个简洁优雅的 Kindle 文档推送工具 |
+| - | [android-chat](https://github.com/wildfirechat/android-chat) | [Github](https://github.com/wildfirechat/android-chat) | 一款全开源的Android IM 应用 |
+| - | [ios-chat](https://github.com/wildfirechat/ios-chat) | [Github](https://github.com/wildfirechat/ios-chat) | 一款全开源的iOS即时通讯APP |
