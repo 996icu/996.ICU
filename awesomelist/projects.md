@@ -114,5 +114,6 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [PUSH TO KINDLE!](https://github.com/Aneureka/push-to-kindle) | [Github](https://github.com/Aneureka/push-to-kindle) | 一个简洁优雅的 Kindle 文档推送工具 |
 | - | [android-chat](https://github.com/wildfirechat/android-chat) | [Github](https://github.com/wildfirechat/android-chat) | 一款全开源的Android IM 应用 |
 | - | [ios-chat](https://github.com/wildfirechat/ios-chat) | [Github](https://github.com/wildfirechat/ios-chat) | 一款全开源的iOS即时通讯APP |
+| - | [HookPHP](https://github.com/letwang/HookPHP) | [Github](https://github.com/letwang/HookPHP) | 一款基于C扩展搭建支持AI在线编程的PHP框架！ |
 | <img src="https://avatars3.githubusercontent.com/u/37617585" width="60"> | [cmdb](https://gitee.com/py2010/cmdb) | [cmdb](https://github.com/py2010/cmdb) | django, webssh, websftp, docker 容器管理, web => xshell (从CMDB网页直接跳转到Xshell终端) |
 
