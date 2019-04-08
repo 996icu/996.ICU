@@ -48,7 +48,7 @@
 - The Irish Times：[China tech worker protest against long working hours goes viral](https://www.irishtimes.com/business/technology/china-tech-worker-protest-against-long-working-hours-goes-viral-1.3848463)
 - The Verge：[Chinese developers use GitHub to protest long work hours](https://www.theverge.com/2019/4/2/18291035/chinese-developers-github-protest-long-work-hours)
 - The Verge：[Tencent and Xiaomi may be censoring a GitHub page for airing worker grievances](https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances)
-- 金融时报：[China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)（[存档](https://archive.is/IZqTj)）
+- 金融时报：[China tech worker protest against long working hours goes viral](https://archive.is/IZqTj)
 
 ## 韩文媒体
 - 한경닷컴：["잠도, 섹스도, 삶도 없다"…'996룰'에 반기든 中 스타트업 직원들](https://www.hankyung.com/article/201904053785i)
