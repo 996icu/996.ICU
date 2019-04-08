@@ -118,6 +118,7 @@
 |泰安|[浪潮软件](www.inspur.com/)|2019年4月7日|6*12 ！|[看准网](https://www.kanzhun.com/gsr49271tl56.html?ka=review-label10),[知乎](https://www.zhihu.com/question/53373183/answer/139767404)|
 |北京|[作业帮](https://www.zybang.com/)|2019年4月7日| 大小周 |[看准网](https://www.kanzhun.com/pl6288762.html)|
 |天津|[天津天地伟业科技有限公司](http://tideway.com.cn/)|2019年4月8日| 强制996 |[看准网](https://www.kanzhun.com/gsr1634154tl56.html?ka=review-label11)|
+|成都|[成都索贝数码科技股份有限公司](http://www.sobey.com/)|2019年4月8日| 996  | 业务原因经常需要通宵加班，加班后无调休，同样没有加班薪资，经常出现拖欠差旅费用报销 |
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
