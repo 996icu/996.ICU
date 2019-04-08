@@ -87,7 +87,7 @@
 |北京|[亚信(AsiaInfo)](https://www.asiainfo.com)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr19887tl56.html?ka=review-label13)|
 |北京|[猎聘网](https://www.liepin.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1087027.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/23950520/answer/135634297)|
 |北京|[58同城](https://www.liepin.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr10329.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/50217184/answer/121096322)|
-|上海|[饿了么](https://www.ele.me/)|2019年4月7日|996 or 997|[看准网](https://www.kanzhun.com/gsr1879439.html?ka=com-blocker1-review#co_tab),[逼乎](https://www.zhihu.com/question/51930890/answer/128765855)|
+|上海|[饿了么](https://www.ele.me/)|2019年4月7日|996 or 997|[看准网](https://www.kanzhun.com/gsr1879439.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/51930890/answer/128765855)|
 |东莞|[步步高](www.gdbbk.com/)|2019年4月7日|8106 ！|[看准网](https://www.kanzhun.com/gsr3153tl56.html?ka=review-label12)|
 |北京|[百度](https://www.baidu.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17),[知乎](https://www.zhihu.com/question/20489266/answer/15775901)|
 |广州|[网易游戏](game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
