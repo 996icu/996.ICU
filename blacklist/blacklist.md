@@ -119,6 +119,7 @@
 |北京|[作业帮](https://www.zybang.com/)|2019年4月7日| 大小周 |[看准网](https://www.kanzhun.com/pl6288762.html)|
 |天津|[天津天地伟业科技有限公司](http://tideway.com.cn/)|2019年4月8日| 强制996 |[看准网](https://www.kanzhun.com/gsr1634154tl56.html?ka=review-label11)|
 |上海|[上海壹米滴答供应链管理有限公司](https://www.yimidida.com)|2019年4月8日| 大小周 | [壹米滴答日历](img/yimidida.jpeg) |
+|武汉|[武汉精臣智慧标识科技有限公司](http://www.jc2008.com/)|2018年9月|966|[考勤日历](img/精臣智慧-打卡日历.jpg)<br>([考勤制度-0](img/精臣智慧-考勤制度-0.jpg)  [考勤制度-1](img/精臣智慧-考勤制度-1.jpg)  [考勤制度-2](img/精臣智慧-考勤制度-2.jpg))|
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
