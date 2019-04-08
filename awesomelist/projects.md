@@ -114,3 +114,4 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [PUSH TO KINDLE!](https://github.com/Aneureka/push-to-kindle) | [Github](https://github.com/Aneureka/push-to-kindle) | 一个简洁优雅的 Kindle 文档推送工具 |
 | - | [android-chat](https://github.com/wildfirechat/android-chat) | [Github](https://github.com/wildfirechat/android-chat) | 一款全开源的Android IM 应用 |
 | - | [ios-chat](https://github.com/wildfirechat/ios-chat) | [Github](https://github.com/wildfirechat/ios-chat) | 一款全开源的iOS即时通讯APP |
+| - | [乐测AR](https://github.com/dvlee1024/LeceAR) | [Github](https://github.com/dvlee1024/LeceAR) | 一款结合AR、AI技术，提供体积测量的APP |
