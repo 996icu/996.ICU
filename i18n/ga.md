@@ -101,7 +101,7 @@ Imeachtaí gaolmhara ##
 
 - I mí Eanáir 2019, bhí __*Youzan*__ ag Cuideachta Ríomhthráchtála Hangzhou ag cruinniú bliantúil na cuideachta chun cur i bhfeidhm an chórais oibre 996 a fhógairt sa todhchaí. ([Rinneadh an "cruinniú féasta" den chruinniú bliantúil, thuairiscigh na fostaithe “force 996”](http://www.linkshop.com.cn/web/archives/2019/418163.shtml). -01-22.)
 
-- I mí an Mhárta 2019, thosaigh an __*JD.com*__ ag cur an córas oibre 996 nó 995 den fho-roinn i bhfeidhm, agus dúirt caidreamh poiblí Jingdong ar an ardán vein: "infheistíocht iomlán." (Freagraíonn [Jingdong don chóras oibre 995: ní bheidh sé éigeantach ach ba cheart é a infheistiú go hiomlán](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html). Teicneolaíocht Netease 2019-03-12.)
+- I mí an Mhárta 2019, thosaigh an __*JD.com*__ ag cur an córas oibre 996 nó 995 den fho-roinn i bhfeidhm, agus dúirt caidreamh poiblí Jingdong ar an ardán vein: "infheistíocht iomlán." (Freagraíonn [Jingdong don chóras oibre 995: ní bheidh sé éigeantach ach ba cheart é a infheistiú go hiomlán](https://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html). Teicneolaíocht Netease 2019-03-12.)
 
 ---
 

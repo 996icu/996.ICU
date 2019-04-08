@@ -1,99 +1,112 @@
-996.ICU
+[996.ICU](https://996.icu)
 =======
-* [English version](./README_EN.md)
+* [中文版](./README_CN.md)
 
-`996.ICU` 指的是 “工作 996”， 生病 ICU 。在中国，这是程序员之间的一种自嘲的说法，意思是按照 996 的模式工作，那以后就得进 ICU 了。
+The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-如果你想引入 996.ICU 徽章到你项目，请阅读下面的[我能做什么？](#我能做什么)
-欢迎为这个库点亮 Star 和做出贡献。
+If you want to refer to the 996.ICU badge, read the section [What can I do?](#what-can-i-do) below.
 
-相关报道
+Related reports:
+---
+* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/). 26 March, 2019.
+* *Sixth Tone:* [Chinese Developers Protest Overwork on GitHub](https://www.sixthtone.com/news/1003771/chinese-developers-protest-overwork-on-github). 28 March, 2019.
+* *Abacus:*  [Follow China’s “996” work hours and you’ll end up in an ICU, says Chinese developer](https://www.abacusnews.com/digital-life/follow-chinas-996-work-hours-and-youll-end-icu-says-chinese-developer/article/3003702). 28 March, 2019.
+* *South China Morning Post:* [‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github). 29 March, 2019.
+* *TechNode:*  [Briefing: Chinese developers protest ‘996’ in viral Github post](https://technode.com/2019/03/29/briefing-chinese-developers-protest-996-in-viral-github-post/). 29 March, 2019.
+* *Packt Pub:*  [‘Developers’ lives matter’: Chinese developers protest over the “996 work schedule” on GitHub](https://hub.packtpub.com/developers-lives-matter-chinese-developers-protest-over-the-996-work-schedule-on-github/). 29 March, 2019.
+* *Inkstone:*  [China’s tech workers protest brutal work culture with communist jingles](https://www.inkstonenews.com/tech/china-tech-workers-protest-996-working-schedule-github/article/3003800). 29 March, 2019.
+* *THE VERGE:* [Chinese developers use GitHub to protest long work hours](https://www.theverge.com/2019/4/2/18291035/chinese-developers-github-protest-long-work-hours). 2 April, 2019.
+* *THE VERGE:* [Tencent and Xiaomi may be censoring a GitHub page for airing worker grievances](https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances). 3 April, 2019.
+* *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1). 3 April, 2019.
+* *Abacus:*  [Chinese browsers block protest against China’s 996 overtime work culture](https://www.abacusnews.com/digital-life/chinese-browsers-block-protest-against-chinas-996-overtime-work-culture/article/3004543). 3 April, 2019.
+* *ZDNet:* [996.ICU : Sur Github, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm). 3 April, 2019.
+* *Wired:* [How github is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/). 4 April, 2019.
+* *Reuters:* [Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B). 5 April, 2019.
+* *Vice:* [Chinese Workers Are Trying to Bake Fair Labor Practices Into Software](https://motherboard.vice.com/en_us/article/mbz84n/chinese-workers-are-trying-to-bake-fair-labor-practices-into-software). 5 April, 2019.
+
+
+
+What is 996?
 ---
 
-- 《共青团中央》：[工作996，生病ICU？关注：年轻人该如何奋斗](https://mp.weixin.qq.com/s/e5qaW6ED_WUunNYG-q7frg)
-- 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
-- 《人民网》：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)
-- 《南方日报》：[正视年轻人压力“爆棚”的危险](http://epaper.southcn.com/nfdaily/html/2019-04/03/content_7790850.htm)
-- 《广州日报》：[“996工作制”不可持续](https://www.toutiao.com/a6675390645005189639)
-- 《经济日报-中国经济网》：[拒绝“996”工作制！以人为本才能获得长远发展](http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)
-- 《华尔街见闻》：[996，谁的ICU？](https://awtmt.com/articles/3506048?from=wscn)
+The Wikipedia page on the [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system).
 
-什么是996？
+A "996" work schedule refers to an unofficial work schedule (9 a.m.&ndash;9 p.m., 6 days per week) that has been gaining popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
+
+
+What can I do?
 ---
 
-“996”工作制，指的是一种越来越流行的非官方工作制（早上 9 点 ~ 晚上 9 点，每周 6 天）。在一个实行“996”工作制的公司工作就意味着每周至少要工作 60 个小时。
+- Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
+- Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
+- License your awesome projects with the [Anti 996 License](LICENSE).  
+- Add proposals to give advice about the development of 996.ICU.
+- Go home at 6 pm without feeling sorry.
 
-我能做什么？
----
-- 更新这个[名单](blacklist/blacklist.md)（附带证据），来帮助每一位工作者。
-- 把这个[徽章](externals/instruction.md)加入你的项目来支持 996.ICU
-- 为您的项目添加[反 996 许可证](LICENSE_CN)。
-- 给社区与项目发展提出新的议案。
-- 下午6点钟下班回家。
 
-原则和目的
+Principles and purposes
 ---
 
-* 996.ICU 是 IT 从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
+* 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
 
-* 这并不是一个政治运动，我们坚定维护劳动法，我们要求雇主尊重雇员的合法权益。
+* This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
 
-* 从闭源到开源是一次伟大的进步，从开源到同时强调保护劳工权益也将是一次伟大的进步，我们想要创造一个主张保护劳动者权益的开源软件许可证。
+* It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
 
-* 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟的、负责任的发言。
+* We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
 
-* 目前反 996 许可证还处于起草阶段，希望有相关经验的专业人士能给予帮助。
-  
+* We are working on the drafting of Anti-996 License right now and we hope to receive assistance from professionals with relevant experience.
 
-提议
+
+Proposals
 ---
-提议指的是被 996.ICU 项目接受的文档。
-通常提议应该给出关于此项目的发展和交流的方案或者建议。
-请阅读[提议模板](proposal/proposal_template.md)来了解更多细节。
+A proposal is a document accepted by 996.ICU.  
+Typically, a proposal should outline a solution or suggestion about the development of the project and community.  
+For more details, please read the [proposal template](proposal/proposal_template.md) document.  
 
-为了帮助 996.ICU 的发展，你可以基于提议做几件事：
-- 阅读已接受的提议并且尝试改进。
-- 根据提议做出行动。
-- 用 PR 的方式来给出你自己的提议。
+To help the development of 996.ICU, you can do several things base on proposals.
 
-
-
-扩大影响
----
-
-[996.ICU 内容翻译](i18n/i18n.md)，请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
+- Read the accepted proposals and try to improve them.
+- Take actions according to the accepted proposals.
+- Give your own proposals with a PR following the proposal format.
 
 
-社区
+Expanding influence
 ---
 
- - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的反向 repo，旨在让更多的人逃离 996，加入 955 的行列。
+Please feel free to [translate 996.ICU's contents](i18n/i18n.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
- - [996.LAW](https://github.com/Y1ran/996.Law) 法律板块，此 repo 主要收集大家的仲裁、民事诉讼信息。
 
- - [996.TSC](https://github.com/lxlxw/996.TSC) 周边文化创意板块，通过图片等形式的传播，让更多人知道并加入 996.ICU 的活动中来。
-
- - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
-
- - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
-
-Issues 去哪了？
+Community powers
 ---
 
-即使有互动限制，Issues 区依然完全失去了控制。
-因此我**个人**决定关闭 Issues，这与 GitHub 或其他方面无关。
+ - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join 955.
+
+ - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprise.
+
+ - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
+
+ - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
+
+
+Where are the issues?
+---
+
+Even with interaction limits on, the issues area was totally out of control.
+So I **personally** decided to switch it off, not by GitHub or others.
+
 
 License
 ---
 
-[反 996 许可证](LICENSE)
+[Anti-996 License](LICENSE)
 
- - 此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。
- - 在此处查看反 996 许可证下的[完整项目列表](awesomelist/projects.md)
- - 此许可证的灵感来源于 @xushunke：[Design A Software License Of Labor Protection -- 996ICU License](https://github.com/996icu/996.ICU/pull/15642)
- - 当前版本反 996 许可证由 [伊利诺伊大学法学院的 Katt Gu, J.D](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao) 起草；由 [Dimension](https://www.dimension.im) 的首席执行官 [Suji Yan](https://www.linkedin.com/in/tedkoyan/) 提供建议。
- - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
- - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢你的帮助。
+ - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working
+ - See a [full list of projects](awesomelist/projects.md) under Anti-996 License
+ - It is an idea of @xushunke: [Design A Software License Of Labor Protection -- Anti 996 License](https://github.com/996icu/996.ICU/pull/15642)
+ - This version of Anti-996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).  
+ - This draft is adapted from the MIT license. For more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
+ - For law professionals or anyone who is willing to contribute to future version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
