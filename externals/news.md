@@ -28,6 +28,9 @@
 - 36氪: [996 到底还要不要继续？](https://mp.weixin.qq.com/s/8opnRvTaiwkUWBBuIhhM8Q)
 - 爱否科技: [继续沉默？996 的「罪与罚」](https://mp.weixin.qq.com/s/wejz1ty8_NoMTrmE5uIZoQ)
 - 电脑报: [“996”成互联网公司行规： 我们为何要没完没了的加班？](https://weibo.com/cpcw?profile_ftype=1&is_hot=1#_0)
+- 新民晚报：[不能任由企业“996”](http://xmwb.xinmin.cn/html/2019-04/08/content_5_4.htm)
+- 人民政协网：[“996制”遭抵制 加班文化需重新审视](http://www.rmzxb.com.cn/c/2019-04-08/2325218.shtml)
+- 红网[湖南省党网]：[“996加班文化”实为“吸血文化”](https://moment.rednet.cn/content/2019/04/07/5303831.html)
 ### 非中国媒体
 - BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
 - 美国之音：[中国科技工作者在线抗议“996”工作制](https://www.voachinese.com/a/china-tech-labor-996-20190404/4862315.html)
