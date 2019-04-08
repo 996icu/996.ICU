@@ -88,6 +88,8 @@ Community powers
  - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprise.
 
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
+ 
+ - [996.RIP](https://996.rip) Old news never vanished.
 
  - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
 
