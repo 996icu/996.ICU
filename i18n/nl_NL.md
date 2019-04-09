@@ -45,21 +45,21 @@ Een "996" werkschema staat in **botte schending** van de grondwet van de Volksre
 > Wanneer de werkeenheid, in strijd met de bepalingen van deze wet, de arbeidsuren van arbeiders verlengt, zal de administratieve dienst van arbeid hem waarschuwen, bevelen om correcties aan te brengen en kan een boete opleggen.
 
 #### Hoofdstuk XII: Artikel 91:
-> Wanneer de werkeenheid een van de volgende handelingen begaat die inbreuk maken op de legitieme rechten en belangen van arbeiders, beveelt de administratieve arbeidsdienst hem de loonbetaling aan loonarbeiders te betalen of de economische verliezen te vergoeden, en kan hij deze ook bevelen te betalen een vergoeding:
+> Wanneer de werkeenheid een van de volgende handelingen begaat die inbreuk maken op de legitieme rechten en belangen van arbeiders, beveelt de administratieve arbeidsdienst hem de loonbetaling aan loonarbeiders te betalen of de economische verliezen te vergoeden, en kan hij deze ook bevelen te betalen een vergoeding:  
 > ......
-> __ (2) Om te weigeren arbeiders te betalen loon van de verlengde werktijden; __
+> __(2) Om te weigeren arbeiders te betalen loon van de verlengde werktijden;__ . 
 > ......
 
-### [Arbeidsovereenkomstenwet van de Volksrepubliek China] (http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
+### [Arbeidsovereenkomstenwet van de Volksrepubliek China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
 
 #### Hoofdstuk III: Artikel 31:
 > De werkeenheid moet de norm die voor arbeidsquota is vastgesteld strikt uitvoeren en mag de werknemers niet dwingen om overuren te maken of dit in verkapte vorm doen. Als een werkeenheid ervoor zorgt dat een werknemer overwerkt, moet hij hem overuren betalen overeenkomstig de relevante voorschriften van de staat.
 
 #### Hoofdstuk V: Artikel 62:
-> De ontvangende eenheid moet de volgende verplichtingen vervullen:
-> ......
-> 3. Het geven van overwerkvergoeding en prestatiebonussen en het bieden van sociale uitkeringen gerelateerd aan specifieke functies;
-> ......
+> De ontvangende eenheid moet de volgende verplichtingen vervullen:  
+> ......  
+> 3. Het geven van overwerkvergoeding en prestatiebonussen en het bieden van sociale uitkeringen gerelateerd aan specifieke functies;  
+> ......  
 
 #### Hoofdstuk VII: Artikel 85:
 > Wanneer een werkeenheid een van de volgende handelingen begaat, beveelt de administratieve dienst om de arbeidsloonvergoeding te betalen, overwerk te betalen of andere financiële compensatie binnen een tijdslimiet; als de arbeidsbeloning lager is dan het lokale minimumloon, moet het het verschil betalen. Indien zij na het verstrijken van de tijdslimiet niet tot betaling overgaat, wordt zij bevolen een aanvullende schadevergoeding aan de werknemer te betalen
