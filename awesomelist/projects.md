@@ -123,3 +123,5 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [JApiDocs](https://github.com/YeDaxia/JApiDocs)|[GitHub](https://github.com/YeDaxia/JApiDocs)|Api Docs Generator Tools For Java Web Developer. (Java 高效 API 接口文档生成工具)|
 | - | [UAFormat.js](https://github.com/jeeinn/ua-format-js) | [Github](https://github.com/jeeinn/ua-format-js) | 一个userAgent解析器UAFormat.js(参考UAParser.js) |
 | - | [Shadowsocks-Check](https://github.com/JamCh01/shadowsocks_check) | [Github](https://github.com/JamCh01/shadowsocks_check) | You can check your SS server status by this script. And it will be the most graceful way. |
+| - | [laravel_api_share] (https://github.com/yimengyisheng/laravel_api_share | [Github]
+（https://github.com/yimengyisheng/laravel_api_share）| 基于laravel构建的完整api服务
