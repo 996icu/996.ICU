@@ -117,6 +117,7 @@
 - The Verge：[Tencent and Xiaomi may be censoring a GitHub page for airing worker grievances](https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances)
 
 - 金融时报：[China tech worker protest against long working hours goes viral](https://archive.is/IZqTj)
+- Reuters：[Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B)
 
 ## 韩文媒体
 
