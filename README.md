@@ -88,7 +88,6 @@ Community powers
 ---
 
  - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join 955.
- - [996.LAW](https://github.com/uDp30Z4w/996.LAW) is a repo that collects applicable laws and regulations for “996” and other illegal overtime work schedules.
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
  - [996.RIP](https://996.rip) Old news never vanished.
  - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
