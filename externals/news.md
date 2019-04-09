@@ -37,6 +37,7 @@
 - 美国之音：[中国科技工作者在线抗议“996”工作制](https://www.voachinese.com/a/china-tech-labor-996-20190404/4862315.html)
 - 多维新闻网：[“码农”线上串联维权 引中国官媒关注](http://news.dwnews.com/china/news/2019-04-03/60127095.html)
 - 联合早报：[中国程序员网上抗议“996”工作制引关注](https://www.zaobao.com/realtime/china/story20190405-946187)
+- 德国之声：[“996.ICU”——码农活命站起来](https://www.dw.com/zh/996icu%E7%A0%81%E5%86%9C%E6%B4%BB%E5%91%BD%E7%AB%99%E8%B5%B7%E6%9D%A5/a-48251319?maca=chi-rss-chi-all-1127-rdf)
 ## 英文媒体
 ### 香港媒体
 - 南华早报：[‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
