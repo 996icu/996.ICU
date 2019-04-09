@@ -46,8 +46,8 @@ Een "996" werkschema staat in **botte schending** van de grondwet van de Volksre
 
 #### Hoofdstuk XII: Artikel 91:
 > Wanneer de werkeenheid een van de volgende handelingen begaat die inbreuk maken op de legitieme rechten en belangen van arbeiders, beveelt de administratieve arbeidsdienst hem de loonbetaling aan loonarbeiders te betalen of de economische verliezen te vergoeden, en kan hij deze ook bevelen te betalen een vergoeding:  
-> ......
-> __(2) Om te weigeren arbeiders te betalen loon van de verlengde werktijden;__ . 
+> ......  
+> __(2) Om te weigeren arbeiders te betalen loon van de verlengde werktijden;__.  
 > ......
 
 ### [Arbeidsovereenkomstenwet van de Volksrepubliek China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
