@@ -41,7 +41,7 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [NumbCube](https://github.com/KirosHan/NumbCube) | [Github](https://github.com/KirosHan/NumbCube) | NumbCube流媒体直播解决方案 |
 | - | [bootcdn](https://github.com/AJLoveChina/bootcdn) | [Github](https://github.com/AJLoveChina/bootcdn) | :wrench:快速查询一个开源库在bootcdn的URL地址|
 | - | [vue-keyboard](https://github.com/AJLoveChina/vue-keyboard) | [vue-keyboard](https://ajlovechina.github.io/vue-keyboard/docs/index.html) | :musical_keyboard:A real hand tapping keyboard for vuejs.|
-| - | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | [Github](https://github.com/pphdsny/Leetcode-Java) | Leetcode java题解，持续更新|
+| <img src="https://raw.githubusercontent.com/pphdsny/Leetcode-Java/master/images/leetcode-icon.png" width="60"> | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | [Github](https://github.com/pphdsny/Leetcode-Java) | Leetcode java题解，持续更新|
 | - | [dynamic-add-date](https://github.com/yidasanqian/dynamic-add-date) | [Github](https://github.com/yidasanqian/dynamic-add-date) | 一款基于MyBatis框架，可以对插入和更新Sql语句动态地添加日期列和对应值的插件|
 | - |[WebSocketDemo](https://github.com/0xZhangKe/WebSocketDemo)|[Github](https://github.com/0xZhangKe/WebSocketDemo)|用于简化 WebSocket 在 Android 平台使用的封装方法|
 | - |[ShiZhong](https://github.com/0xZhangKe/ShiZhong)|[Github](https://github.com/0xZhangKe/ShiZhong)|一个用于制定各种计划的APP|
@@ -118,3 +118,8 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [tkJSPinyin](https://github.com/Tedko/tkJSPinyin) | [Github](https://github.com/Tedko/tkJSPinyin) | Get Chinese pinyin from Chinese. Based on JSPinyin. Ported to ES6, no need for mootool, etc. |
 | - | [HookPHP](https://github.com/letwang/HookPHP) | [Github](https://github.com/letwang/HookPHP) | 一款基于C扩展搭建支持AI在线编程的PHP框架！ |
 | <img src="https://avatars3.githubusercontent.com/u/37617585" width="60"> | [cmdb](https://gitee.com/py2010/cmdb) | [cmdb](https://github.com/py2010/cmdb) | django, webssh, websftp, docker 容器管理, web => xshell (从CMDB网页直接跳转到Xshell终端) |
+| <img src="./img/data_analysis_icon.png" width="60"> | [DataAnalysisInAction](https://github.com/xiaomiwujiecao/DataAnalysisInAction) | [Github](https://github.com/xiaomiwujiecao/DataAnalysisInAction) | 极客时间数据分析实战45讲的详细笔记(包含markdown、图片、思维导图、代码 、数据) ！ |
+| - | [996icu-slack-recorder](https://github.com/simon300000/996icu-slack-recorder) | [GitHub](https://github.com/simon300000/996icu-slack-recorder) | 996icu Slack会议记录Bot |
+| - | [JApiDocs](https://github.com/YeDaxia/JApiDocs)|[GitHub](https://github.com/YeDaxia/JApiDocs)|Api Docs Generator Tools For Java Web Developer. (Java 高效 API 接口文档生成工具)|
+| - | [UAFormat.js](https://github.com/jeeinn/ua-format-js) | [Github](https://github.com/jeeinn/ua-format-js) | 一个userAgent解析器UAFormat.js(参考UAParser.js) |
+| - | [Shadowsocks-Check](https://github.com/JamCh01/shadowsocks_check) | [Github](https://github.com/JamCh01/shadowsocks_check) | You can check your SS server status by this script. And it will be the most graceful way. |
