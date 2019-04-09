@@ -84,12 +84,13 @@ Community powers
 ---
 
  - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join 955.
- - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprise.
+ - [996.LAW](https://github.com/uDp30Z4w/996.LAW) is a repo that collects applicable laws and regulations for “996” and other illegal overtime work schedules.
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
  - [996.RIP](https://996.rip) Old news never vanished.
  - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
  - [996.action](https://github.com/CPdogson/996action) it also includes more actions by monitoring the way the labor department complies with labor laws through information disclosure.
+ - [996.Arbitration](https://github.com/Y1ran/996.Law) is a repo that mainly introduces labor arbitration and litigation procedures, and collects relevant rights protection cases.
 
 Where are the issues?
 ---
