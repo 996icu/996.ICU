@@ -118,3 +118,4 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [tkJSPinyin](https://github.com/Tedko/tkJSPinyin) | [Github](https://github.com/Tedko/tkJSPinyin) | Get Chinese pinyin from Chinese. Based on JSPinyin. Ported to ES6, no need for mootool, etc. |
 | - | [HookPHP](https://github.com/letwang/HookPHP) | [Github](https://github.com/letwang/HookPHP) | 一款基于C扩展搭建支持AI在线编程的PHP框架！ |
 | <img src="https://avatars3.githubusercontent.com/u/37617585" width="60"> | [cmdb](https://gitee.com/py2010/cmdb) | [cmdb](https://github.com/py2010/cmdb) | django, webssh, websftp, docker 容器管理, web => xshell (从CMDB网页直接跳转到Xshell终端) |
+| - | [996icu-slack-recorder](https://github.com/simon300000/996icu-slack-recorder) | [GitHub](https://github.com/simon300000/996icu-slack-recorder) | 996icu Slack会议记录Bot |
