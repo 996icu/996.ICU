@@ -1,6 +1,7 @@
 ﻿# 相关媒体报道，感谢媒体朋友们
 
 ## 中文媒体
+- 央视新闻：[“工作996，生病ICU” 你遭遇过这样的加班吗？](https://mp.weixin.qq.com/s/eUN8jlr9jlVV5uGnaUFB4g)
 - 人民日报： [工作996生病ICU，劳动监察部门应积极介入](https://m.weibo.cn/status/4357697258275940)
 - 光明网： [莫让“996工作制”成了职场明规则](http://guancha.gmw.cn/2019-04/06/content_32719988.htm)
 - 人民网：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)
