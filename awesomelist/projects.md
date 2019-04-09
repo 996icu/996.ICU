@@ -119,3 +119,7 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [HookPHP](https://github.com/letwang/HookPHP) | [Github](https://github.com/letwang/HookPHP) | 一款基于C扩展搭建支持AI在线编程的PHP框架！ |
 | <img src="https://avatars3.githubusercontent.com/u/37617585" width="60"> | [cmdb](https://gitee.com/py2010/cmdb) | [cmdb](https://github.com/py2010/cmdb) | django, webssh, websftp, docker 容器管理, web => xshell (从CMDB网页直接跳转到Xshell终端) |
 | <img src="./img/data_analysis_icon.png" width="60"> | [DataAnalysisInAction](https://github.com/xiaomiwujiecao/DataAnalysisInAction) | [Github](https://github.com/xiaomiwujiecao/DataAnalysisInAction) | 极客时间数据分析实战45讲的详细笔记(包含markdown、图片、思维导图、代码 、数据) ！ |
+| - | [996icu-slack-recorder](https://github.com/simon300000/996icu-slack-recorder) | [GitHub](https://github.com/simon300000/996icu-slack-recorder) | 996icu Slack会议记录Bot |
+| - | [JApiDocs](https://github.com/YeDaxia/JApiDocs)|[GitHub](https://github.com/YeDaxia/JApiDocs)|Api Docs Generator Tools For Java Web Developer. (Java 高效 API 接口文档生成工具)|
+| - | [UAFormat.js](https://github.com/jeeinn/ua-format-js) | [Github](https://github.com/jeeinn/ua-format-js) | 一个userAgent解析器UAFormat.js(参考UAParser.js) |
+| - | [Shadowsocks-Check](https://github.com/JamCh01/shadowsocks_check) | [Github](https://github.com/JamCh01/shadowsocks_check) | You can check your SS server status by this script. And it will be the most graceful way. |
