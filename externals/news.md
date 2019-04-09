@@ -72,7 +72,13 @@
 
 - 搜狐新闻：[想要拯救中国程序员，「Python 之父」也看不下去 996 了](https://www.sohu.com/a/306720983_105527)
 
-- 央视新闻：[“工作996，生病ICU” 你遭遇过这样的加班吗？](http://m.news.cctv.com/2019/04/09/ARTIsThYaww3YyEsiirdc0Jt190409.shtml)
+- 央视新闻：[“工作996，生病ICU” 你遭遇过这样的加班吗？](http://m.news.cctv.com/2019/04/09/ARTIsThYaww3YyEsiirdc0Jt190409.shtml)	
+
+- InfoQ：[996.ICU 背后：程序员在互联网公司的真实生态](https://www.infoq.cn/article/0iTzgfWTY8-ehJV5JoTO)
+
+- 央视网: [工作996、生病ICU，高薪工作为何总难摆脱加班命运？](https://mp.weixin.qq.com/s/PCtiuFlAPEmJqHr7rRmkww)
+
+- IT之家：[“Python之父发声：我们能为中国的“996”程序员做什么？](https://www.ithome.com/0/418/079.htm)
 
 ### 非中国媒体
 
