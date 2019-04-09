@@ -123,4 +123,4 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [JApiDocs](https://github.com/YeDaxia/JApiDocs)|[GitHub](https://github.com/YeDaxia/JApiDocs)|Api Docs Generator Tools For Java Web Developer. (Java 高效 API 接口文档生成工具)|
 | - | [UAFormat.js](https://github.com/jeeinn/ua-format-js) | [Github](https://github.com/jeeinn/ua-format-js) | 一个userAgent解析器UAFormat.js(参考UAParser.js) |
 | - | [Shadowsocks-Check](https://github.com/JamCh01/shadowsocks_check) | [Github](https://github.com/JamCh01/shadowsocks_check) | You can check your SS server status by this script. And it will be the most graceful way. |
-| - | [Shadowsocks-Check] | [Github](https://github.com/TomCwl/array) | 基于javascript 对Array的扩展 . |
+| - | [Array-expansion](https://github.com/TomCwl/array) | [Github](https://github.com/TomCwl/array) | 基于javascript 对Array的扩展 . |
