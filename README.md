@@ -7,6 +7,10 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
+<a href="https://www.patreon.com/996icu">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="100">
+</a>
+
 If you want to refer to the 996.ICU badge, read the section [What can I do?](#what-can-i-do) below.
 
 Related reports:
