@@ -90,6 +90,8 @@
  - [996.RIP](https://996.rip) 不要忘记旧闻。
  
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
+ 
+ - [996.union](https://github.com/xumengzi/996) 收集了996相关资料，并用网站展示，[在线链接](https://996.gitbook.io/996/) 目前仍在提交代码
 
 Issues 去哪了？
 ---
