@@ -44,7 +44,6 @@
 |杭州|[有赞](https://www.youzan.com)|2019年1月|996|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|
 |北京|[字节跳动](https://bytedance.com)|2017年7月|加班|[看准网](https://www.kanzhun.com/gsr5622411tl56.html)、[搜狐](https://www.sohu.com/a/256795805_231667)|
 |上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
-|深圳|[大疆创新](https://www.dji.com/cn)|2018年12月|996|[程序员猝死之后大疆称无加班文化 离职员工怒了](https://baijiahao.baidu.com/s?id=1619909152168711034&wfr=spider&for=pc)|
 |北京|[用友](http://www.yonyou.com/)|2018年12月|997|[在用友工作是怎样一番体验？ - 知乎](https://www.zhihu.com/question/26683235)|
 |深圳|[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[深信服真的每天加班到 11 点吗](https://www.v2ex.com/t/525495)|
 |广州|[鲸鱼游戏](http://www.adjingyu.com/)|2017年3月|996|[考勤](https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg)|
