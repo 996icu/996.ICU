@@ -34,19 +34,19 @@
 ---
 |所在城市|公司名字|曝光/施行时间|制度描述|证据内容|
 |:---:|:---:|:---:|:---:|:---:|
-|深圳|[华为](https://www.huawei.com/cn/)|2010年8月|9106|[华为：“自愿”的奋斗者协议](http://focus.news.163.com/10/0921/15/6H460OOP00011SM9.html)([图片](img/huawei.jpg))|
+|深圳|[华为](https://www.huawei.com/cn/)|2010年8月|9A6|[华为：“自愿”的奋斗者协议](http://focus.news.163.com/10/0921/15/6H460OOP00011SM9.html)([图片](img/huawei.jpg))|
 |杭州|[阿里巴巴](https://www.alibabagroup.com/)|2018年6月|996|[阿里巴巴的996加班文化，看到这些恐怖数据，你也会辞职！](https://kuaibao.qq.com/s/20180612A1FAPU00)|
-|杭州|[蚂蚁金服](https://www.antfin.com/)|2018年11月|9106|[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q)|
+|杭州|[蚂蚁金服](https://www.antfin.com/)|2018年11月|9A6|[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q)|
 |北京|[京东](https://www.jd.com)|2019年3月|995|[京东回应995工作制：不会强制要求 但要全情投入](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)<br>[刘强东内部邮件称要淘汰或协商解决掉“三种人”](https://i.loli.net/2019/04/02/5ca2e8727f213.jpg)|
 |北京|[58同城](https://www.58.com)|2016年9月|996|[58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
 |北京|[途家网](https://www.tujia.com)|2017年12月|897|[暴力裁员、996加班、发感冒冲剂、搭睡觉帐篷、诉讼材料](https://www.tujia.xyz/)|
 |杭州|[有赞](https://www.youzan.com)|2019年1月|996|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|
 |北京|[字节跳动](https://bytedance.com)|2017年7月|加班|[看准网](https://www.kanzhun.com/gsr5622411tl56.html)、[搜狐](https://www.sohu.com/a/256795805_231667)|
-|上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
+|上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|BB6、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
 |深圳|[大疆创新](https://www.dji.com/cn)|2018年12月|996|[程序员猝死之后大疆称无加班文化 离职员工怒了](https://baijiahao.baidu.com/s?id=1619909152168711034&wfr=spider&for=pc)|
 |北京|[用友](http://www.yonyou.com/)|2018年12月|997|[在用友工作是怎样一番体验？ - 知乎](https://www.zhihu.com/question/26683235)|
-|深圳|[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[深信服真的每天加班到 11 点吗](https://www.v2ex.com/t/525495)|
+|深圳|[深信服](http://www.sangfor.com.cn)|2019年3月|9A6|[深信服真的每天加班到 11 点吗](https://www.v2ex.com/t/525495)|
 |广州|[鲸鱼游戏](http://www.adjingyu.com/)|2017年3月|996|[考勤](https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg)|
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
 |北京|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
@@ -64,7 +64,7 @@
 |上海|[游族网络](https://www.youzu.com/)|2018年3月|996|[你为什么从游族离职?-知乎](https://www.zhihu.com/question/22411680?sort=created)|-|
 |深圳|[马上金融](https://www.msxf.com/)|2018年3月|996|每天下班开会分享，实际超过996<br>[看准网](https://www.kanzhun.com/pl5641018.html)
 |北京|[霁云科技](https://xin.baidu.com/detail/compinfo?pid=xlTM-TogKuTwdr2zNtf0Zpjhxx2gQd9FZQmd&from=ps)|2019年3月|996|[boss直聘](https://www.zhipin.com/gongsi/2c08264377f4a5c61nx739i-Fw~~.html?ka=search_rcmd_company_2c08264377f4a5c61nx739i-Fw~~)|
-|广州|[多益网络](https://www.duoyi.com)|2018年3月|9106|[看准网](https://www.kanzhun.com/gsr1365983tl56.html)、[知乎](https://www.zhihu.com/question/22713470/answer/145287600)|
+|广州|[多益网络](https://www.duoyi.com)|2018年3月|9A6|[看准网](https://www.kanzhun.com/gsr1365983tl56.html)、[知乎](https://www.zhihu.com/question/22713470/answer/145287600)|
 |北京|[北京必胜课教育科技有限公司](http://winlesson.com/)|2019年4月|966|[图片-1](img/bsk966-001.jpeg) [图片-2](img/bsk966-003.png)|
 |上海|[蝴蝶互动](http://hoodinn.hgame.com/default/index)|2019年2月|966|[知乎：如何评价蝴蝶互动？](https://www.zhihu.com/question/40858342/answer/616999472) / [聊天记录截图](img/蝴蝶互动-聊天记录.png) / ([所受委托资料-0](img/蝴蝶互动-报告委托截图-0.jpg)  [所受委托资料-1](img/蝴蝶互动-报告委托截图-1.jpg))|
 |深圳|[深圳市世纪纵横科技发展有限公司](http://www.viothink.com/?tdsourcetag=s_pctim_aiomsg)|2019年4月|966、加班、拖延工资|[拖欠工资](img/chat1.png),[拖欠工资](img/chat2.png),[拖欠工资](img/chat3.png)。而且经常加班到1、2点[加班1](img/taxi.jpg)[加班2](img/taxi2.jpg)[加班3](img/taxi3.jpg)。周六是强制上班|
@@ -83,32 +83,32 @@
 |杭州|[浙江大华技术股份有限公司](https://www.dahuatech.com/)|2018年|加班|[职业圈](http://www.7360.cc/Review-80253)，[看准网](https://www.kanzhun.com/pl6360251.html)|
 |杭州|[浙江宇视科技有限公司](http://fenxiao.uniview.com/)|2018年|大小周加班|[看准网](https://www.kanzhun.com/gsmsh10805642.html),[知乎](https://www.zhihu.com/question/265531337/answer/296562572)
 |深圳|[腾讯](https://www.tencent.com/zh-cn/index.html)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5855.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/30383728/answer/49853422),[知乎](https://www.zhihu.com/question/294418645/answer/494094055)|
-|北京|[小米](https://www.mi.com)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr347791.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/270788307/answer/356518575)|
+|北京|[小米](https://www.mi.com)|2019年4月7日|AA6|[看准网](https://www.kanzhun.com/gsr347791.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/270788307/answer/356518575)|
 |北京|[亚信(AsiaInfo)](https://www.asiainfo.com)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr19887tl56.html?ka=review-label13)|
 |北京|[猎聘网](https://www.liepin.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1087027.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/23950520/answer/135634297)|
 |北京|[58同城](https://www.liepin.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr10329.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/50217184/answer/121096322)|
 |上海|[饿了么](https://www.ele.me/)|2019年4月7日|996 or 997|[看准网](https://www.kanzhun.com/gsr1879439.html?ka=com-blocker1-review#co_tab),[知乎](https://www.zhihu.com/question/51930890/answer/128765855)|
-|东莞|[步步高](www.gdbbk.com/)|2019年4月7日|8106 ！|[看准网](https://www.kanzhun.com/gsr3153tl56.html?ka=review-label12)|
+|东莞|[步步高](www.gdbbk.com/)|2019年4月7日|8A6 ！|[看准网](https://www.kanzhun.com/gsr3153tl56.html?ka=review-label12)|
 |北京|[百度](https://www.baidu.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17),[知乎](https://www.zhihu.com/question/20489266/answer/15775901)|
-|广州|[网易游戏](game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
+|广州|[网易游戏](game.163.com/)|2019年4月7日|AA6|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
 |北京|[便利蜂](https://www.bianlifeng.com/)|2019年4月7日||[看准网](https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8)|
 |杭州|[网易考拉海购](https://www.kaola.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14)|
 |佛山|[美的集团](https://www.midea.cn/)|2019年4月7日|996大小周|[看准网](https://www.kanzhun.com/gsr7884tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/35741672/answer/115286682)|
-|北京|[VIPKID](https://www.vipkid.com.cn/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr5616047tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/67611489/answer/502602988)|
+|北京|[VIPKID](https://www.vipkid.com.cn/)|2019年4月7日|AA6|[看准网](https://www.kanzhun.com/gsr5616047tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/67611489/answer/502602988)|
 |深圳|[房多多](https://m.fangdd.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr2072113tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/24225318/answer/63820083)|
 |北京|[天眼查](https://www.tianyancha.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5681112tl526.html?ka=review-label4)|
-|北京|[去哪儿网](https://www.qunar.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr61692tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/22560997/answer/60628698)|
+|北京|[去哪儿网](https://www.qunar.com/)|2019年4月7日|AA6|[看准网](https://www.kanzhun.com/gsr61692tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/22560997/answer/60628698)|
 |成都|[tap4fun](https://www.tap4fun.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15)|
 |上海|[德邦物流](https://www.deppon.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr16378tl56.html?ka=review-label9)|
 |深圳|[万兴科技](https://www.wondershare.cn/)|2019年4月7日|995|[看准网](https://www.kanzhun.com/gsr1682212tl56.html?ka=review-label12)|
-|厦门|[4399游戏](www.4399.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
-|济南|[普联软件](www.pansoft.com/)|2019年4月7日|8106|[看准网](https://www.kanzhun.com/gsr61725tl56.html?ka=review-label11)|
+|厦门|[4399游戏](www.4399.com/)|2019年4月7日|AA6|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13),[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
+|济南|[普联软件](www.pansoft.com/)|2019年4月7日|8A6|[看准网](https://www.kanzhun.com/gsr61725tl56.html?ka=review-label11)|
 |北京|[云鸟科技](https://www.yunniao.cn/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr2477689tl56.html?ka=review-label3)|
-|深圳|[追一科技](https://zhuiyi.ai/)|2019年4月7日|10106 疯狂加班|[看准网](https://www.kanzhun.com/gsr5693705.html?ka=com1-review),[知乎](https://www.zhihu.com/question/59128341/answer/271630324),[知乎](https://www.zhihu.com/question/59128341/answer/637566953),[知乎](https://www.zhihu.com/question/59128341/answer/347608941)|
+|深圳|[追一科技](https://zhuiyi.ai/)|2019年4月7日|AA6 疯狂加班|[看准网](https://www.kanzhun.com/gsr5693705.html?ka=com1-review),[知乎](https://www.zhihu.com/question/59128341/answer/271630324),[知乎](https://www.zhihu.com/question/59128341/answer/637566953),[知乎](https://www.zhihu.com/question/59128341/answer/347608941)|
 |上海|[兴业数字金融服务](www.cibfintech.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr6355543tl526.html?ka=review-label4)|
-|北京|[iCourt](www.icourt.cc/)|2019年4月7日|996 or 10116|[看准网](https://www.kanzhun.com/gsr5731719tl526.html?ka=review-label5)|
-|上海|[小红书](https://www.xiaohongshu.com/)|2019年4月7日|1095|[看准网](https://www.kanzhun.com/gsr1950189.html?ka=com-blocker1-review#co_tab)|
-|广州|[三七互娱](www.37wan.net/)|2019年4月7日|9115 9116?|[看准网](https://www.kanzhun.com/gsr1906275.html?ka=com-blocker1-review#co_tab)|
+|北京|[iCourt](www.icourt.cc/)|2019年4月7日|996 or AB6|[看准网](https://www.kanzhun.com/gsr5731719tl526.html?ka=review-label5)|
+|上海|[小红书](https://www.xiaohongshu.com/)|2019年4月7日|A95|[看准网](https://www.kanzhun.com/gsr1950189.html?ka=com-blocker1-review#co_tab)|
+|广州|[三七互娱](www.37wan.net/)|2019年4月7日|9B5 9B6?|[看准网](https://www.kanzhun.com/gsr1906275.html?ka=com-blocker1-review#co_tab)|
 |上海|[依图科技](https://www.yitutech.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1669492tl526.html?ka=review-label13),[知乎](https://www.zhihu.com/question/300132949/answer/606529193)|
 |天津|[小黑鱼](https://blackfish.cn)|2019年4月7日|996|[看准网](https://m.kanzhun.com/gsr6771936.html)|
 |深圳|[深圳市猜猜城科技有限公司](www.guesscity.net/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr6671156.html?ka=com1-review)|
@@ -123,7 +123,7 @@
 |上海|[金杜律师事务所](https://www.kwm.com/zh/cn)|2019年4月8日| 早10晚6但基本9点以后下班，周末给任务，请假给任务 | [看准网](https://www.kanzhun.com/gsr14366.html)|
 |北京|[数美科技](https://www.ishumei.com/)|2019年4月8日|大小周，加班|[知乎](https://www.zhihu.com/question/290696102)|
 |北京|[快方送药](http://www.kfyao.com/)|已经施行一段时间了| 996 | [看准网](https://www.kanzhun.com/pl5675303.html) |
-|苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996,9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
+|苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996,9A6|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
