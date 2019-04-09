@@ -90,6 +90,8 @@
  - [996.RIP](https://996.rip) 不要忘记旧闻。
  
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
+ 
+ - [996.Voices](https://github.com/Code-Not-All/996.Voices) 记录媒体和企业管理者被舆论认为是支持 996 的公开言论。
 
 Issues 去哪了？
 ---
