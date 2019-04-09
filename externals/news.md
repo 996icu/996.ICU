@@ -76,6 +76,8 @@
 
 - InfoQ：[996.ICU 背后：程序员在互联网公司的真实生态](https://www.infoq.cn/article/0iTzgfWTY8-ehJV5JoTO)
 
+- 央视网: [工作996、生病ICU，高薪工作为何总难摆脱加班命运？](https://mp.weixin.qq.com/s/PCtiuFlAPEmJqHr7rRmkww)
+
 ### 非中国媒体
 
 - BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
