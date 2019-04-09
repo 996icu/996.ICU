@@ -118,6 +118,7 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [tkJSPinyin](https://github.com/Tedko/tkJSPinyin) | [Github](https://github.com/Tedko/tkJSPinyin) | Get Chinese pinyin from Chinese. Based on JSPinyin. Ported to ES6, no need for mootool, etc. |
 | - | [HookPHP](https://github.com/letwang/HookPHP) | [Github](https://github.com/letwang/HookPHP) | 一款基于C扩展搭建支持AI在线编程的PHP框架！ |
 | <img src="https://avatars3.githubusercontent.com/u/37617585" width="60"> | [cmdb](https://gitee.com/py2010/cmdb) | [cmdb](https://github.com/py2010/cmdb) | django, webssh, websftp, docker 容器管理, web => xshell (从CMDB网页直接跳转到Xshell终端) |
+| <img src="https://raw.githubusercontent.com/SecurityPaper/996.ICU/master/awesomelist/img/SecurityPaper.png" width="60"> | [SecurityPaper](https://github.com/SecurityPaper/SecurityPaper-web/) | [www.securitypaper.org](https://www.securitypaper.org) | SecurityPaper 致力于中国互联网公司安全建设指导意见白皮书，所有文档都来自中国互联网一线安全工程师编写整理 |
 | <img src="./img/data_analysis_icon.png" width="60"> | [DataAnalysisInAction](https://github.com/xiaomiwujiecao/DataAnalysisInAction) | [Github](https://github.com/xiaomiwujiecao/DataAnalysisInAction) | 极客时间数据分析实战45讲的详细笔记(包含markdown、图片、思维导图、代码 、数据) ！ |
 | - | [996icu-slack-recorder](https://github.com/simon300000/996icu-slack-recorder) | [GitHub](https://github.com/simon300000/996icu-slack-recorder) | 996icu Slack会议记录Bot |
 | - | [JApiDocs](https://github.com/YeDaxia/JApiDocs)|[GitHub](https://github.com/YeDaxia/JApiDocs)|Api Docs Generator Tools For Java Web Developer. (Java 高效 API 接口文档生成工具)|
