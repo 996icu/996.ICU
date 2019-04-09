@@ -10,7 +10,7 @@ Serving in a company that encourages the "996" work schedule usually means worki
 
 ## Laws and Regulations
 
-A "996" work schedule is a **public breach** of the Constitution of the People's Republic of China along with multiple other legislations:
+A "996" work schedule is a **direct violation** to the Constitution of the People's Republic of China along with multiple other legislations:
 
 ### [The Constitution of the People's Republic of China](http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm)
 
@@ -96,6 +96,6 @@ According to the Labour Law, employees who follow the "996" work schedule should
 
 ## The origin of this repo's name -- `996.ICU`
 
-Tolerating of the "996" work schedule will inevitably result in creating health risk, which may send you to an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
+Tolerating of the "996" work schedule will apparently result in creating health risk, which may send you to an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
 
 __Developers' lives matter.__
