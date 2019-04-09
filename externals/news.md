@@ -64,6 +64,14 @@
 
 - 澎湃新闻：[996是天然正确的工作伦理？其实延长工时并不能提高生产力](https://www.thepaper.cn/newsDetail_forward_3272320)（[Wayback Machine](https://web.archive.org/web/20190409024018/https://www.thepaper.cn/newsDetail_forward_3272320)）
 
+- 齐鲁晚报：[互联网行业成“996工作制”重灾区](http://epaper.qlwb.com.cn/qlwb/content/20190407/ArticelA04002FM.htm)
+
+- 深圳特区报：[996工作制”：竭泽而渔不可取](http://sztqb.sznews.com/PC/layout/201904/08/node_A02.html#content_630258)
+
+- 海外网：[抵制“996”折射中国社会一大发展变化](http://opinion.haiwainet.cn/n/2019/0409/c353596-31532645.html)
+
+- 搜狐新闻：[想要拯救中国程序员，「Python 之父」也看不下去 996 了](https://www.sohu.com/a/306720983_105527)
+
 ### 非中国媒体
 
 - BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
