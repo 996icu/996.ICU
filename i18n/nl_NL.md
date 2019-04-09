@@ -2,7 +2,7 @@
 ===
 
 ## Introductie van "996"
-996 working, ICU waiting (996 werken, ik zie je wachten).
+996 working, ICU waiting (996 werken, ICU wacht).
 
 Het werkschema "996" verwijst naar een illegaal werkschema in China. Het is aan populariteit gewonnen bij bedrijven. Het schema begint om 09:00 en eindigt om 21:00 uur. (werkdagen van 12 uur) elke dag, gedurende 6 dagen per week.
 
@@ -62,4 +62,39 @@ Een "996" werkschema staat in **botte schending** van de grondwet van de Volksre
 > ......  
 
 #### Hoofdstuk VII: Artikel 85:
-> Wanneer een werkeenheid een van de volgende handelingen begaat, beveelt de administratieve dienst om de arbeidsloonvergoeding te betalen, overwerk te betalen of andere financiële compensatie binnen een tijdslimiet; als de arbeidsbeloning lager is dan het lokale minimumloon, moet het het verschil betalen. Indien zij na het verstrijken van de tijdslimiet niet tot betaling overgaat, wordt zij bevolen een aanvullende schadevergoeding aan de werknemer te betalen
+> Wanneer een werkeenheid een van de volgende handelingen begaat, beveelt de administratieve dienst om de arbeidsloonvergoeding te betalen, overwerk te betalen of andere financiële compensatie binnen een tijdslimiet; als de arbeidsbeloning lager is dan het lokale minimumloon, moet het het verschil betalen. Indien zij bij het verstrijken van de tijdslimiet niet tot betaling overgaan, wordt zij bevolen een aanvullende schadevergoeding aan de werknemer te betalen ten belope van niet minder dan 50% maar niet meer dan 100% van het te betalen bedrag:
+> 1. Niet-betaling van een arbeidsloon op tijd en volledig zoals bepaald in de arbeidsovereenkomst of zoals voorgeschreven door de Staat;
+> 2. loonbeloning betalen tegen een lager tarief dan het lokale minimumloon;
+> 3. Overuren regelen, maar geen overuren betalen; of
+> 4. Niet-betaling van de financiële compensatie van de werknemer overeenkomstig de bepalingen van deze wet bij het intrekken of beëindigen van een arbeidsovereenkomst.
+
+### Regels van de Raad van de Raad over werktijden van werknemers
+
+### Artikel 3:
+> Werknemers en personeel zullen 8 uur per dag en 40 uur per week werken.
+
+### Artikel 6:
+> Geen enkele eenheid of persoon verlengt de werktijden van zijn werknemers en personeel zonder toestemming. Wanneer de werkuren nodig zijn om uit te breiden met het oog op een bijzonder geval of opkomende toewijzing, wordt deze uitgevoerd overeenkomstig de relevante bepalingen van de staat.
+
+## Het verkrijgen van populariteit en publiciteit
+
+- Begin september 2016 meldden talrijke betrouwbare bronnen dat __*58.com*__ A.K.A. `58 同城` (__*NYSE: WUBA*__), een advertentiebedrijf, introduceerde het "996" -werkschema zonder overwerk in het weekend te betalen. Het bedrijf beweerde later dat het schema alleen werd gebruikt om extra werk te beheren tijdens het hoogseizoen (september en oktober) en dat dit schema niet verplicht zou zijn.
+
+- In januari 2019, __*Youzan.com*__ A.K.A. `有 赞` (__*HKG: 8083*__), een in Hangzhou gevestigd e-commercebedrijf, kondigde in zijn jaarlijkse gala aan dat het bedrijf het werkschema '996' zou gaan handhaven. Bai Ya, de CEO van Youzan, reageerde,
+
+  > "Dit zal beslist een juiste beslissing zijn wanneer we terugkijken over een paar jaar."
+
+- In maart 2019, __*JD.com*__ A.K.A. `京东` (__*NASDAQ: JD*__), een groot e-commercebedrijf, begon op sommige afdelingen de werkschema's "996" of "995" te handhaven. De PR van JD verklaarde op Maimai (`脉脉`, een Chinees sociaal netwerkplatform voor bedrijven),
+
+  > "[Onze bedrijfscultuur is] de oprechte toewijding van onszelf [om de zakelijke doelstellingen te bereiken]."
+
+Dit werkschema is pas sinds kort meer bekendheid, maar dit werkschema is al lang een "open geheim" praktijk in veel bedrijven in China.
+## Compensatie en voordelen
+
+Volgens de arbeidswetgeving moeten werknemers die het arbeidsplan "996" volgen, 2,275 keer hun basissalaris ontvangen. Helaas ontvangen werknemers deze betaling zelden.
+
+## De oorsprong van de naam van deze repo - `996.ICU`
+
+Het tolereren van het "996" -werkschema zal onvermijdelijk leiden tot het riskeren van uw eigen gezondheid, die u naar een _**I**ntensieve **C**are **U**nit_ kan sturen. (`6` rijmt met` U` in het Mandarijn)
+
+__Het leven van de ontwikkelaars doet er toe.__
