@@ -32,6 +32,7 @@
 - 人民政协网：[“996制”遭抵制 加班文化需重新审视](http://www.rmzxb.com.cn/c/2019-04-08/2325218.shtml)
 - 红网[湖南省党网]：[“996加班文化”实为“吸血文化”](https://moment.rednet.cn/content/2019/04/07/5303831.html)
 - 澎湃新闻：[996是天然正确的工作伦理？其实延长工时并不能提高生产力](https://www.thepaper.cn/newsDetail_forward_3272320)
+- 央视新闻：[“工作996，生病ICU” 你遭遇过这样的加班吗？](http://m.news.cctv.com/2019/04/09/ARTIsThYaww3YyEsiirdc0Jt190409.shtml)
 ### 非中国媒体
 - BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
 - 美国之音：[中国科技工作者在线抗议“996”工作制](https://www.voachinese.com/a/china-tech-labor-996-20190404/4862315.html)
