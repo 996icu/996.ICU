@@ -119,6 +119,7 @@
 |北京|[作业帮](https://www.zybang.com/)|2019年4月7日| 大小周 |[看准网](https://www.kanzhun.com/pl6288762.html)|
 |天津|[天津天地伟业科技有限公司](http://tideway.com.cn/)|2019年4月8日| 强制996 |[看准网](https://www.kanzhun.com/gsr1634154tl56.html?ka=review-label11)|
 |上海|[上海壹米滴答供应链管理有限公司](https://www.yimidida.com)|2019年4月8日| 大小周 | [壹米滴答日历](img/yimidida.jpeg) |
+|北京|[数美科技](https://www.ishumei.com/)|2019年4月8日|大小周，加班|[知乎](https://www.zhihu.com/question/290696102)|
 |北京|[快方送药](http://www.kfyao.com/)|已经施行一段时间了| 996 | [看准网](https://www.kanzhun.com/pl5675303.html) |
 |苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996,9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
 
