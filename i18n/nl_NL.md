@@ -18,7 +18,7 @@ Een "996" werkschema staat in **botte schending** van de grondwet van de Volksre
 > _ ** Werkende mensen in de Volksrepubliek China hebben recht op rust. ** _
 > De staat breidt faciliteiten uit voor rust en herstel van werkende mensen en schrijft werkuren en vakanties voor werknemers en personeel voor.
 
-### [Arbeidsrecht van de Volksrepubliek China] (http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
+### [Arbeidsrecht van de Volksrepubliek China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
 
 #### Hoofdstuk I: Artikel 3:
 > Arbeiders hebben hetzelfde recht op werk en beroepskeuze, **het recht op loon voor arbeid**, **op rust en vakanties**, op bescherming van veiligheid en gezondheid op het werk, op opleiding in beroepsvaardigheden, op sociale zekerheid en welzijn, tot het indienen van arbeidsconflicten voor schikking en andere rechten met betrekking tot arbeid bepaald door de wet.
