@@ -32,7 +32,7 @@ Related reports:
 What is 996?
 ---
 
-The Wikipedia page on the [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system).
+The [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system) on wikipedia.
 
 A "996" work schedule refers to an unofficial work schedule (9 a.m.&ndash;9 p.m., 6 days per week) that has been gaining popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
 
