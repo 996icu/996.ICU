@@ -89,6 +89,7 @@ Community powers
  - [996.RIP](https://996.rip) Old news never vanished.
  - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
+ - [996.action](https://github.com/CPdogson/996action) it also includes more actions by monitoring the way the labor department complies with labor laws through information disclosure.
 
 Where are the issues?
 ---
