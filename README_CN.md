@@ -9,8 +9,9 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-如果你想添加 996.ICU 徽章到你项目，请阅读下面的[我能做什么？](#我能做什么)
-同时也欢迎为这个库点亮 Star 和做出贡献。
+<a href="https://www.patreon.com/996icu">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="150">
+</a>
 
 相关报道
 ---
@@ -83,9 +84,9 @@
  
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
 
- - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
+ - [996.Leave](https://github.com/623637646/996.Leave) 介绍与鼓励海外工作。
  
- - [996.RIP](https://996.rip) 不要忘记旧闻。
+ - [996.RIP](https://996.rip) 企业可能会忘，但我们不会忘。
  
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
  

@@ -8,13 +8,12 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
 <a href="https://www.patreon.com/996icu">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="110">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="150">
 </a>
-
-If you want to refer to the 996.ICU badge, read the section [What can I do?](#what-can-i-do) below.
 
 Related press:
 ---
+
 * *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/). 26 March, 2019.
 * *Sixth Tone:* [Chinese Developers Protest Overwork on GitHub](https://www.sixthtone.com/news/1003771/chinese-developers-protest-overwork-on-github). 28 March, 2019.
 * *Abacus:*  [Follow China’s “996” work hours and you’ll end up in an ICU, says Chinese developer](https://www.abacusnews.com/digital-life/follow-chinas-996-work-hours-and-youll-end-icu-says-chinese-developer/article/3003702). 28 March, 2019.
