@@ -80,6 +80,7 @@
 
 - IT之家：[“Python之父发声：我们能为中国的“996”程序员做什么？](https://www.ithome.com/0/418/079.htm)
 - 南方都市报：[“996”不止互联网，学者建议增加工时，低标准、严执法](https://m.mp.oeeee.com/a/BAAFRD000020190409151093.html)
+- 东方卫报：[“996”工作制当以高压监管扭转高压加班](http://dfwb.njnews.cn/html/2019-04/10/content_63529.htm)
 
 ### 非中国媒体
 
