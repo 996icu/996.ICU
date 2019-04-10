@@ -115,7 +115,7 @@
 |北京|[初见科技](www.chujian.com/)|2019年4月7日|995|[看准网](https://www.kanzhun.com/gsr2031621.html?ka=com1-review)|
 |深圳|[道通科技](www.auteltech.cn/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr479390tl56.html?ka=review-label8)|
 |深圳|[尊豪网络科技有限公司](www.szzunhao.com/)|2019年4月7日|每天10小时|[看准网](https://m.kanzhun.com/pl6818466.html?sid=kzapp&from=singlemessage)|
-|泰安|[浪潮软件](www.inspur.com/)|2019年4月7日|6*12 ！|[看准网](https://www.kanzhun.com/gsr49271tl56.html?ka=review-label10),[知乎](https://www.zhihu.com/question/53373183/answer/139767404)|
+|泰安|[浪潮软件](www.inspur.com/)|2019年4月7日|6\*12 ！|[看准网](https://www.kanzhun.com/gsr49271tl56.html?ka=review-label10),[知乎](https://www.zhihu.com/question/53373183/answer/139767404)|
 |北京|[作业帮](https://www.zybang.com/)|2019年4月7日| 大小周 |[看准网](https://www.kanzhun.com/pl6288762.html)|
 |天津|[天津天地伟业科技有限公司](http://tideway.com.cn/)|2019年4月8日| 强制996 |[看准网](https://www.kanzhun.com/gsr1634154tl56.html?ka=review-label11)|
 |上海|[上海壹米滴答供应链管理有限公司](https://www.yimidida.com)|2019年4月8日| 大小周 | [壹米滴答日历](img/yimidida.jpeg) |
@@ -127,5 +127,6 @@
 |苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996,9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
 |武汉|[武汉精臣智慧标识科技有限公司](http://www.jc2008.com/)|2018年9月|966|[考勤日历](img/精臣智慧-打卡日历.jpg)<br>[考勤制度-0](img/精臣智慧-考勤制度-0.jpg)<br>[考勤制度-1](img/精臣智慧-考勤制度-1.jpg)<br>[考勤制度-2](img/精臣智慧-考勤制度-2.jpg)|
 |山东淄博|[山东兆物网络技术股份有限公司](http://www.imegaware.com/)|2019年4月9日|8106|[看准网](https://www.kanzhun.com/pl6588029.html),[看准网](https://www.kanzhun.com/gsr668403.html?ka=head-bread3)|
+
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
