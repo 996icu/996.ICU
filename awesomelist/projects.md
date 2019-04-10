@@ -41,7 +41,7 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [NumbCube](https://github.com/KirosHan/NumbCube) | [Github](https://github.com/KirosHan/NumbCube) | NumbCube流媒体直播解决方案 |
 | - | [bootcdn](https://github.com/AJLoveChina/bootcdn) | [Github](https://github.com/AJLoveChina/bootcdn) | :wrench:快速查询一个开源库在bootcdn的URL地址|
 | - | [vue-keyboard](https://github.com/AJLoveChina/vue-keyboard) | [vue-keyboard](https://ajlovechina.github.io/vue-keyboard/docs/index.html) | :musical_keyboard:A real hand tapping keyboard for vuejs.|
-| - | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | [Github](https://github.com/pphdsny/Leetcode-Java) | Leetcode java题解，持续更新|
+| <img src="https://raw.githubusercontent.com/pphdsny/Leetcode-Java/master/images/leetcode-icon.png" width="60"> | [Leetcode-Java](https://github.com/pphdsny/Leetcode-Java) | [Github](https://github.com/pphdsny/Leetcode-Java) | Leetcode java题解，持续更新|
 | - | [dynamic-add-date](https://github.com/yidasanqian/dynamic-add-date) | [Github](https://github.com/yidasanqian/dynamic-add-date) | 一款基于MyBatis框架，可以对插入和更新Sql语句动态地添加日期列和对应值的插件|
 | - |[WebSocketDemo](https://github.com/0xZhangKe/WebSocketDemo)|[Github](https://github.com/0xZhangKe/WebSocketDemo)|用于简化 WebSocket 在 Android 平台使用的封装方法|
 | - |[ShiZhong](https://github.com/0xZhangKe/ShiZhong)|[Github](https://github.com/0xZhangKe/ShiZhong)|一个用于制定各种计划的APP|
@@ -118,3 +118,16 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [tkJSPinyin](https://github.com/Tedko/tkJSPinyin) | [Github](https://github.com/Tedko/tkJSPinyin) | Get Chinese pinyin from Chinese. Based on JSPinyin. Ported to ES6, no need for mootool, etc. |
 | - | [HookPHP](https://github.com/letwang/HookPHP) | [Github](https://github.com/letwang/HookPHP) | 一款基于C扩展搭建支持AI在线编程的PHP框架！ |
 | <img src="https://avatars3.githubusercontent.com/u/37617585" width="60"> | [cmdb](https://gitee.com/py2010/cmdb) | [cmdb](https://github.com/py2010/cmdb) | django, webssh, websftp, docker 容器管理, web => xshell (从CMDB网页直接跳转到Xshell终端) |
+| <img src="https://raw.githubusercontent.com/SecurityPaper/996.ICU/master/awesomelist/img/SecurityPaper.png" width="60"> | [SecurityPaper](https://github.com/SecurityPaper/SecurityPaper-web/) | [www.securitypaper.org](https://www.securitypaper.org) | SecurityPaper 致力于中国互联网公司安全建设指导意见白皮书，所有文档都来自中国互联网一线安全工程师编写整理 |
+| <img src="./img/data_analysis_icon.png" width="60"> | [DataAnalysisInAction](https://github.com/xiaomiwujiecao/DataAnalysisInAction) | [Github](https://github.com/xiaomiwujiecao/DataAnalysisInAction) | 极客时间数据分析实战45讲的详细笔记(包含markdown、图片、思维导图、代码 、数据) ！ |
+| - | [996icu-slack-recorder](https://github.com/simon300000/996icu-slack-recorder) | [GitHub](https://github.com/simon300000/996icu-slack-recorder) | 996icu Slack会议记录Bot |
+| - | [JApiDocs](https://github.com/YeDaxia/JApiDocs)|[GitHub](https://github.com/YeDaxia/JApiDocs)|Api Docs Generator Tools For Java Web Developer. (Java 高效 API 接口文档生成工具)|
+| - | [UAFormat.js](https://github.com/jeeinn/ua-format-js) | [Github](https://github.com/jeeinn/ua-format-js) | 一个userAgent解析器UAFormat.js(参考UAParser.js) |
+| - | [Shadowsocks-Check](https://github.com/JamCh01/shadowsocks_check) | [Github](https://github.com/JamCh01/shadowsocks_check) | You can check your SS server status by this script. And it will be the most graceful way. |
+| <img src="https://raw.githubusercontent.com/StructureBuilder/react-keep-alive/master/assets/react-logo.png" width="60"> | [react-keep-alive](https://github.com/StructureBuilder/react-keep-alive) | [Github](https://github.com/StructureBuilder/react-keep-alive) | 一个保持组件状态并避免重复重渲染的组件
+| - | [react-inputs-validation](https://github.com/edwardfhsiao/react-inputs-validation) |[Github](https://github.com/edwardfhsiao/react-inputs-validation) / [Npm](https://www.npmjs.com/package/react-inputs-validation) | React inputs validation components.  |
+| <img src="https://github.com/KyleBing/rime-wubi86-jidan/blob/master/imgs/logo.png?raw=true" width="60"> | [Rime极点五笔码表](https://github.com/KyleBing/rime-wubi86-jidan) | [GitHub](https://github.com/KyleBing/rime-wubi86-jidan) | Mac Rime (鼠须管) 五笔极点码表，配置方案 |
+| <img src="https://github.com/KyleBing/TouchbarBBT/blob/master/logo.png?raw=true" width="60"> | [MacbookPro Touchbar 个性化](https://github.com/KyleBing/TouchbarBBT) | [GitHub](https://github.com/KyleBing/TouchbarBBT) | 结合 BetterTouchToll 实现个性化 Macbook Pro Touch bar |
+|<img src="https://gw.alicdn.com/tfs/TB1F65jQkvoK1RjSZFwXXciCFXa-338-90.png" width="60"> | [imageCrop](https://github.com/mrme2014/imageCrop/tree/add-license-1) | [GitHub](https://github.com/mrme2014/imageCrop/tree/add-license-1) | 基于android6.0系统源码的图片裁剪库 |
+| - | [996.BROWSER](https://github.com/996browser/996.BROWSER) | [GitHub](https://github.com/996browser/996.BROWSER) | 屏蔽996.icu的浏览器列表 |
+| - | [BMChineseSort](https://github.com/Baymax0/BMChineseSort) | [GitHub](https://github.com/Baymax0/BMChineseSort) | iOS端的基于某个中文属性的模型数组排序 |
