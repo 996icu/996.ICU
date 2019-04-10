@@ -110,11 +110,11 @@
 |上海|[小红书](https://www.xiaohongshu.com/)|2019年4月7日|1095|[看准网](https://www.kanzhun.com/gsr1950189.html?ka=com-blocker1-review#co_tab)|
 |广州|[三七互娱](www.37wan.net/)|2019年4月7日|9115 9116?|[看准网](https://www.kanzhun.com/gsr1906275.html?ka=com-blocker1-review#co_tab)|
 |上海|[依图科技](https://www.yitutech.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1669492tl526.html?ka=review-label13),[知乎](https://www.zhihu.com/question/300132949/answer/606529193)|
-|天津|[小黑鱼](https://blackfish.cn)|2019年4月7日|996|[看准网](https://m.kanzhun.com/gsr6771936.html)|
+|天津|[小黑鱼](https://blackfish.cn)|2019年4月7日|996|[看准网](https://m.kanzhun.com/gsr479390tl56.html?ka=review-label8)|
+|深圳|[尊豪网络科技有限公司](www.szzunhao.com/)|2019年4月7日|每天10小时|[看准nzhun.com/gsr6771936.html)|
 |深圳|[深圳市猜猜城科技有限公司](www.guesscity.net/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr6671156.html?ka=com1-review)|
 |北京|[初见科技](www.chujian.com/)|2019年4月7日|995|[看准网](https://www.kanzhun.com/gsr2031621.html?ka=com1-review)|
-|深圳|[道通科技](www.auteltech.cn/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr479390tl56.html?ka=review-label8)|
-|深圳|[尊豪网络科技有限公司](www.szzunhao.com/)|2019年4月7日|每天10小时|[看准网](https://m.kanzhun.com/pl6818466.html?sid=kzapp&from=singlemessage)|
+|深圳|[道通科技](www.auteltech.cn/)|2019年4月7日|996|[看准网](https://www.ka网](https://m.kanzhun.com/pl6818466.html?sid=kzapp&from=singlemessage)|
 |泰安|[浪潮软件](www.inspur.com/)|2019年4月7日|6*12 ！|[看准网](https://www.kanzhun.com/gsr49271tl56.html?ka=review-label10),[知乎](https://www.zhihu.com/question/53373183/answer/139767404)|
 |北京|[作业帮](https://www.zybang.com/)|2019年4月7日| 大小周 |[看准网](https://www.kanzhun.com/pl6288762.html)|
 |天津|[天津天地伟业科技有限公司](http://tideway.com.cn/)|2019年4月8日| 强制996 |[看准网](https://www.kanzhun.com/gsr1634154tl56.html?ka=review-label11)|
@@ -124,6 +124,7 @@
 |北京|[数美科技](https://www.ishumei.com/)|2019年4月8日|大小周，加班|[知乎](https://www.zhihu.com/question/290696102)|
 |北京|[快方送药](http://www.kfyao.com/)|已经施行一段时间了| 996 | [看准网](https://www.kanzhun.com/pl5675303.html) |
 |苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996,9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
+|河北|[荣盛房地产开发有限公司](http://www.sohu.com/a/291161836_171643)|已经施行一段时间了| 996 | 内部文件 |
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
