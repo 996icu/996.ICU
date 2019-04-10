@@ -129,5 +129,4 @@
 |山东淄博|[山东兆物网络技术股份有限公司](http://www.imegaware.com/)|2019年4月9日|8106|[看准网](https://www.kanzhun.com/pl6588029.html),[看准网](https://www.kanzhun.com/gsr668403.html?ka=head-bread3)|  
 |杭州|[盘石信息科技有限公司](http://www.adyun.com/zh-cn/index.html)|2018年11月12日|996/9106|[图片](img/浙江杭州盘石信息技术有限公司996制度.png)
 |成都|[成都二次元动漫有限公司)](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历| 
-
-
+|深圳|[广东虚拟现实科技有限公司(Ximmerse)](https://www.ximmerse.com/)|2016年06月1日|996|[邮件通知](img/Ximmerse考勤邮件.png) [制度截图](img/Ximmerse制度方案.png)|
