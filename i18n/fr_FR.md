@@ -14,11 +14,11 @@ L'article 41 de la [Loi du travail de la République populaire de Chine](http://
 
 ## Gain de popularité
 
-En novembre 2018, [Jumei](jumei.com) a commencé à adopter le régime de travail « 996 » et à le considérer comme les horaires de travail normales. La société refuse toute rémunération pour les heures supplémentaires et ne donne aucun jour de congé payé. Même un jour de congé sans solde doit compter 11 heures au lieu de 8 heures. Le samedi, les employés doivent envoyer un e-mail au directeur du département pour approuver le "congé". En janvier 2019, les employés d'un nouveau groupe de Jumei appelé Wangwang ont été forcés à abandonner tous les congés, la durée du service. Ils étaient par ailleurs obligés de transferer le contrat de travail à Jumei, sans quoi ils étaient renvoyés.
+En novembre 2018, [Jumei](https://www.jumei.com) a commencé à adopter le régime de travail « 996 » et à le considérer comme les horaires de travail normaux. La société refuse toute rémunération pour les heures supplémentaires et ne donne aucun jour de congé payé. Même un jour de congé sans solde doit compter 11 heures au lieu de 8 heures. Le samedi, les employés doivent envoyer un e-mail au directeur du département pour approuver le "congé". En janvier 2019, les employés d'un nouveau groupe de Jumei appelé Wangwang ont été forcés à abandonner tous les congés, la durée du service. Ils étaient par ailleurs obligés de transférer le contrat de travail à Jumei, sans quoi ils étaient renvoyés.
 
 Début 2019, une entreprise d'e-commerce chinoise appelée _Youzan_ a déclaré son adoption au régime de travail « 996 » lors de la fête du Nouvel An Chinois de la société. Le PDG de Youzan a annoncé que ce sera certainement une bonne décision si une rétrospective est faite quelques années plus tard.
 
-Mi-mars 2019, il a été signalé que [Jingdong](http://jd.com) avait commencé à adopter le mode de fonctionnement « 996 » ou « 995 » dans certaines unités commerciales. Le département des relations publiquess chez JD a publié sur son compte maimai (`脉脉`, une plate-forme de réseau social d'entreprises chinoises): « (Notre culture consiste à) nous consacrer de tout notre cœur (à atteindre les objectifs de l'entreprise). »
+Mi-mars 2019, il a été signalé que [Jingdong](https://www.jd.com) avait commencé à adopter le mode de fonctionnement « 996 » ou « 995 » dans certaines unités commerciales. Le département des relations publiques chez JD a publié sur son compte maimai (`脉脉`, une plate-forme de réseau social d'entreprises chinoises): « (Notre culture consiste à) nous consacrer de tout notre cœur (à atteindre les objectifs de l'entreprise). »
 
 ## Compensation et récompense
 
@@ -26,6 +26,6 @@ Selon la loi du travail en Chine, les employés qui suivent le schéma de travai
 
 ## D'où vient le nom du repo `996.ICU` (`996.USI` en français) ?
 
-A cause du mode de travail « 996 », beaucoup de travailleurs risquent de finir dans l'**U**nité de **S**oins **I**ntensifs (**I**ntensive **C**are **U**nit en anglais).
+À cause du mode de travail « 996 », beaucoup de travailleurs risquent de finir dans l'**U**nité de **S**oins **I**ntensifs (**I**ntensive **C**are **U**nit en anglais).
 
 La vie des développeurs compte.
