@@ -130,5 +130,3 @@
 |成都|[成都二次元动漫有限公司)](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历| 
 
 
-更多不良公司（包括但不限于违法加班）请参见：
-[程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
