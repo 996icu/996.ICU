@@ -114,3 +114,4 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [PUSH TO KINDLE!](https://github.com/Aneureka/push-to-kindle) | [Github](https://github.com/Aneureka/push-to-kindle) | 一个简洁优雅的 Kindle 文档推送工具 |
 | - | [android-chat](https://github.com/wildfirechat/android-chat) | [Github](https://github.com/wildfirechat/android-chat) | 一款全开源的Android IM 应用 |
 | - | [ios-chat](https://github.com/wildfirechat/ios-chat) | [Github](https://github.com/wildfirechat/ios-chat) | 一款全开源的iOS即时通讯APP |
+| <img src="https://upload-images.jianshu.io/upload_images/3203841-d604cc8852aec94a.png" width="60"> | [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes) | [Github](https://github.com/zhaoolee/ChromeAppHeroes) | 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ | 
