@@ -120,6 +120,7 @@
 |天津|[天津天地伟业科技有限公司](http://tideway.com.cn/)|2019年4月8日| 强制996 |[看准网](https://www.kanzhun.com/gsr1634154tl56.html?ka=review-label11)|
 |上海|[上海壹米滴答供应链管理有限公司](https://www.yimidida.com)|2019年4月8日| 大小周 | [壹米滴答日历](img/yimidida.jpeg) |
 |苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996,9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
+/苏州/[凌志软件股份有限公司](http://www.linkstec.com/)/2019年4月/996，9106，9116/[专坑实习生](img/lingzhi1.png)、[看准网](https://www.kanzhun.com/gsr99810c50.html)/
 
 更多不良公司（包括但不限于违法加班）请参见：
 [程序员找工作黑名单](https://github.com/shengxinjing/programmer-job-blacklist)
