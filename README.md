@@ -94,7 +94,6 @@ Community powers
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
  - [996.action](https://github.com/CPdogson/996action) it also includes more actions by monitoring the way the labor department complies with labor laws through information disclosure.
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) add `996ICU` and `955WLB` tag on recruitment website.
- - [996.Arbitration](https://github.com/Y1ran/996.Law) is a repo that mainly introduces labor arbitration and litigation procedures, and collects relevant rights protection cases.
 
 Where are the issues?
 ---
