@@ -134,3 +134,7 @@
 ## 法文媒体
 
 - ZDNet：[996.ICU : Sur Github, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm)
+
+## 日文媒体
+
+- HuffPost：[謎のワード「996.ICU」が話題に　残業に苦しむIT社員たちが、過酷な労働実態を相次ぎ告発](https://www.huffingtonpost.jp/entry/996-icu-china_jp_5cad6335e4b01bf960076f52)
