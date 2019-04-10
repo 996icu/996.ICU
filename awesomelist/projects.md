@@ -130,3 +130,4 @@ Projects under Anti 996ICU License. Thanks for your support!
 | <img src="https://github.com/KyleBing/TouchbarBBT/blob/master/logo.png?raw=true" width="60"> | [MacbookPro Touchbar 个性化](https://github.com/KyleBing/TouchbarBBT) | [GitHub](https://github.com/KyleBing/TouchbarBBT) | 结合 BetterTouchToll 实现个性化 Macbook Pro Touch bar |
 |<img src="https://gw.alicdn.com/tfs/TB1F65jQkvoK1RjSZFwXXciCFXa-338-90.png" width="60"> | [imageCrop](https://github.com/mrme2014/imageCrop/tree/add-license-1) | [GitHub](https://github.com/mrme2014/imageCrop/tree/add-license-1) | 基于android6.0系统源码的图片裁剪库 |
 | - | [996.BROWSER](https://github.com/996browser/996.BROWSER) | [GitHub](https://github.com/996browser/996.BROWSER) | 屏蔽996.icu的浏览器列表 |
+| - | [BMChineseSort](https://github.com/Baymax0/BMChineseSort) | [GitHub](https://github.com/Baymax0/BMChineseSort) | iOS端的基于某个中文属性的模型数组排序 |
