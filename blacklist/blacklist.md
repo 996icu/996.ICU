@@ -128,6 +128,7 @@
 |武汉|[武汉精臣智慧标识科技有限公司](http://www.jc2008.com/)|2018年9月|966|[考勤日历](img/精臣智慧-打卡日历.jpg)<br>[考勤制度-0](img/精臣智慧-考勤制度-0.jpg)<br>[考勤制度-1](img/精臣智慧-考勤制度-1.jpg)<br>[考勤制度-2](img/精臣智慧-考勤制度-2.jpg)|
 |山东淄博|[山东兆物网络技术股份有限公司](http://www.imegaware.com/)|2019年4月9日|8106|[看准网](https://www.kanzhun.com/pl6588029.html),[看准网](https://www.kanzhun.com/gsr668403.html?ka=head-bread3)|  
 |杭州|[盘石信息科技有限公司](http://www.adyun.com/zh-cn/index.html)|2018年11月12日|996/9106|[图片](img/浙江杭州盘石信息技术有限公司996制度.png)
-|成都|[成都二次元动漫有限公司)](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历| 
+|成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历| 
+|北京|[东华软件股份公司](http://www.dhcc.com.cn/)|2018年2月|996是基础工作时间，在此基础上常常继续加班到深夜或通宵，没有加班费和加班餐|亲历 [百度口碑](https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1) | 
 
 
