@@ -35,7 +35,7 @@
 
 我能做什么？
 ---
-- 更新这个[名单](blacklist/blacklist.md)（注附带证据），来帮助每一位工作者。
+- 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位工作者。
 - 把这个[徽章](externals/instruction.md)添加到你的项目来支持 996.ICU
 - 为你的项目添加[反 996 许可证](LICENSE_CN)。
 - 给社区与项目发展提出新的议案。
@@ -54,7 +54,7 @@
 * 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。**发言请参考[社区行为准则](https://github.com/996icu/996.ICU/blob/master/Community_Rules_CN.md)。**
 
 * 目前反 996 许可证正处于起草阶段，与此也希望有相关经验的专业人士能给予帮助。
-  
+
 
 提案
 ---
@@ -81,15 +81,15 @@
  - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的反向 repo，旨在让更多的人逃离 996，加入 955 的行列。
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
- 
+
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
 
  - [996.Leave](https://github.com/623637646/996.Leave) 介绍与鼓励海外工作。
- 
+
  - [996.RIP](https://996.rip) 企业可能会忘，但我们不会忘。
- 
+
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
- 
+
  - [996.action](https://github.com/CPdogson/996action) 向地方人力资源和社会保障局进行信息公开，要求公开他们的工作报告和计划。这是一项温柔的法律行动，面向所有劳动者，它完全合法，成本低，并且可以诉讼，并且不会使你丢掉工作。除此之外，该项目未来将进行更多行动。
 
 Issues 去哪了？
