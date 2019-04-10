@@ -11,8 +11,6 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
   <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="150">
 </a>
 
-If you want to refer to the 996.ICU badge, read the section [What can I do?](#what-can-i-do) below.
-
 Related press:
 ---
 
