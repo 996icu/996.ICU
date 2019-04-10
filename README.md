@@ -7,9 +7,13 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
+<a href="https://www.patreon.com/996icu">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="110">
+</a>
+
 If you want to refer to the 996.ICU badge, read the section [What can I do?](#what-can-i-do) below.
 
-Related reports:
+Related press:
 ---
 * *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/). 26 March, 2019.
 * *Sixth Tone:* [Chinese Developers Protest Overwork on GitHub](https://www.sixthtone.com/news/1003771/chinese-developers-protest-overwork-on-github). 28 March, 2019.
@@ -84,12 +88,13 @@ Community powers
 ---
 
  - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies. It promotes people to flee 996 and join 955.
- - [996.LAW](https://github.com/Y1ran/996.Law) is a repo that collects useful information about cases between employees and enterprise.
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
  - [996.RIP](https://996.rip) Old news never vanished.
  - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
  - [996.action](https://github.com/CPdogson/996action) it also includes more actions by monitoring the way the labor department complies with labor laws through information disclosure.
+ - [996.avengers](https://github.com/996-icu-avengers/Natasha) add `996ICU` and `955WLB` tag on recruitment website.
+ - [996.Arbitration](https://github.com/Y1ran/996.Law) is a repo that mainly introduces labor arbitration and litigation procedures, and collects relevant rights protection cases.
 
 Where are the issues?
 ---

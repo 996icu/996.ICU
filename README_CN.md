@@ -79,8 +79,6 @@
 
  - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的反向 repo，旨在让更多的人逃离 996，加入 955 的行列。
 
- - [996.LAW](https://github.com/Y1ran/996.Law) 法律板块，此 repo 主要收集大家的仲裁、民事诉讼信息。
-
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
  
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
@@ -90,6 +88,10 @@
  - [996.RIP](https://996.rip) 不要忘记旧闻。
  
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
+ 
+ - [996.action](https://github.com/CPdogson/996action) 向地方人力资源和社会保障局进行信息公开，要求公开他们的工作报告和计划。这是一项温柔的法律行动，面向所有劳动者，它完全合法，成本低，并且可以诉讼，并且不会使你丢掉工作。除此之外，该项目未来将进行更多行动。
+
+ - [996.Arbitration](https://github.com/Y1ran/996.Law) 此 repo 主要介绍劳动仲裁及诉讼程序，收集相关维权案例。
 
 Issues 去哪了？
 ---

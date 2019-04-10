@@ -72,7 +72,14 @@
 
 - 搜狐新闻：[想要拯救中国程序员，「Python 之父」也看不下去 996 了](https://www.sohu.com/a/306720983_105527)
 
-- 央视新闻：[“工作996，生病ICU” 你遭遇过这样的加班吗？](http://m.news.cctv.com/2019/04/09/ARTIsThYaww3YyEsiirdc0Jt190409.shtml)
+- 央视新闻：[“工作996，生病ICU” 你遭遇过这样的加班吗？](http://m.news.cctv.com/2019/04/09/ARTIsThYaww3YyEsiirdc0Jt190409.shtml)	
+
+- InfoQ：[996.ICU 背后：程序员在互联网公司的真实生态](https://www.infoq.cn/article/0iTzgfWTY8-ehJV5JoTO)
+
+- 央视网: [工作996、生病ICU，高薪工作为何总难摆脱加班命运？](https://mp.weixin.qq.com/s/PCtiuFlAPEmJqHr7rRmkww)
+
+- IT之家：[“Python之父发声：我们能为中国的“996”程序员做什么？](https://www.ithome.com/0/418/079.htm)
+- 南方都市报：[“996”不止互联网，学者建议增加工时，低标准、严执法](https://m.mp.oeeee.com/a/BAAFRD000020190409151093.html)
 
 ### 非中国媒体
 
@@ -111,6 +118,7 @@
 - The Verge：[Tencent and Xiaomi may be censoring a GitHub page for airing worker grievances](https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances)
 
 - 金融时报：[China tech worker protest against long working hours goes viral](https://archive.is/IZqTj)
+- Reuters：[Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B)
 
 ## 韩文媒体
 
