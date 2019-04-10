@@ -90,7 +90,7 @@
 |东莞|[步步高](www.gdbbk.com/)|2019年4月7日|8106 ！|[看准网](https://www.kanzhun.com/gsr3153tl56.html?ka=review-label12)|
 |北京|[百度](https://www.baidu.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17),[知乎](https://www.zhihu.com/question/20489266/answer/15775901)|
 |广州|[网易游戏](game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
-|北京|[便利蜂](https://www.bianlifeng.com/)|2019年4月7日||[看准网](https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8)|
+|北京|[便利蜂](https://www.bianlifeng.com/)|2019年4月7日|10105|[看准网](https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8)|
 |杭州|[网易考拉海购](https://www.kaola.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14)|
 |佛山|[美的集团](https://www.midea.cn/)|2019年4月7日|996大小周|[看准网](https://www.kanzhun.com/gsr7884tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/35741672/answer/115286682)|
 |北京|[VIPKID](https://www.vipkid.com.cn/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr5616047tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/67611489/answer/502602988)|
