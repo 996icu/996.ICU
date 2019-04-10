@@ -83,7 +83,7 @@
  
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
 
- - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
+ - [996.Leave](https://github.com/623637646/996.Leave) 介绍与鼓励海外工作。
  
  - [996.RIP](https://996.rip) 不要忘记旧闻。
  
