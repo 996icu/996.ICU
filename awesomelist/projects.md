@@ -114,6 +114,7 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [PUSH TO KINDLE!](https://github.com/Aneureka/push-to-kindle) | [Github](https://github.com/Aneureka/push-to-kindle) | 一个简洁优雅的 Kindle 文档推送工具 |
 | - | [android-chat](https://github.com/wildfirechat/android-chat) | [Github](https://github.com/wildfirechat/android-chat) | 一款全开源的Android IM 应用 |
 | - | [ios-chat](https://github.com/wildfirechat/ios-chat) | [Github](https://github.com/wildfirechat/ios-chat) | 一款全开源的iOS即时通讯APP |
+| <img src="https://upload-images.jianshu.io/upload_images/3203841-d604cc8852aec94a.png" width="60"> | [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes) | [Github](https://github.com/zhaoolee/ChromeAppHeroes) | 🌈Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ | 
 | - | [winger](https://github.com/huanStephen/winger) | [Github](https://github.com/huanStephen/winger) | 基于http协议的数据代理工具 |
 | - | [tkJSPinyin](https://github.com/Tedko/tkJSPinyin) | [Github](https://github.com/Tedko/tkJSPinyin) | Get Chinese pinyin from Chinese. Based on JSPinyin. Ported to ES6, no need for mootool, etc. |
 | - | [HookPHP](https://github.com/letwang/HookPHP) | [Github](https://github.com/letwang/HookPHP) | 一款基于C扩展搭建支持AI在线编程的PHP框架！ |
@@ -131,3 +132,4 @@ Projects under Anti 996ICU License. Thanks for your support!
 |<img src="https://gw.alicdn.com/tfs/TB1F65jQkvoK1RjSZFwXXciCFXa-338-90.png" width="60"> | [imageCrop](https://github.com/mrme2014/imageCrop/tree/add-license-1) | [GitHub](https://github.com/mrme2014/imageCrop/tree/add-license-1) | 基于android6.0系统源码的图片裁剪库 |
 | - | [996.BROWSER](https://github.com/996browser/996.BROWSER) | [GitHub](https://github.com/996browser/996.BROWSER) | 屏蔽996.icu的浏览器列表 |
 | - | [BMChineseSort](https://github.com/Baymax0/BMChineseSort) | [GitHub](https://github.com/Baymax0/BMChineseSort) | iOS端的基于某个中文属性的模型数组排序 |
+
