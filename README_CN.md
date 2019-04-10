@@ -85,7 +85,7 @@
 
  - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
  
- - [996.RIP](https://996.rip) 不要忘记旧闻。
+ - [996.RIP](https://996.rip) 企业可能会忘，但我们不会忘。
  
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
  
