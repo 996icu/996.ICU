@@ -10,7 +10,7 @@ guido：
 [Can we do something for 996 programmers in China?](https://discuss.python.org/t/can-we-do-something-for-996-programmers-in-china/1119)
 
 ## 网友讨论
-
+- 知乎提问：[如何看待「不接受 996 就是吃不了苦」的论调？](https://www.zhihu.com/question/66480166/answer/645286662?from=timeline&utm_medium=social&utm_oi=46596863557632&utm_source=wechat_session&s_s_i=nWwxRst17JzS7zGAbBYyqbuGhggHYT18xFpOb%2F8iSw8%3D&s_r=1)
 - 知乎提问：[如何看待「有赞」年会公开宣布 996 工作制？](https://www.zhihu.com/question/309428750)
 - v2ex讨论：[电商有赞年会宣布实施 996/鼓励离婚 CEO 解释:好事](https://www.v2ex.com/t/531475)
 - 知乎提问：[如何评价冯大辉（Fenng）的新文《聊聊 996》?](https://www.zhihu.com/question/318572705)
