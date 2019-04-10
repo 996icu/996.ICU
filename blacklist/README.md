@@ -118,7 +118,7 @@
 |北京|[作业帮](https://www.zybang.com/)|2019年4月7日| 大小周 |[看准网](https://www.kanzhun.com/pl6288762.html)|
 |天津|[天津天地伟业科技有限公司](http://tideway.com.cn/)|2019年4月8日| 强制996 |[看准网](https://www.kanzhun.com/gsr1634154tl56.html?ka=review-label11)|
 |上海|[上海壹米滴答供应链管理有限公司](https://www.yimidida.com)|2019年4月8日| 大小周 | [壹米滴答日历](img/yimidida.jpeg) |
-|广州|[广州蓝鸽集团](http://www.chinalancoo.com)|2019年4月9日|每月加班最低50小时，曾经一个月加班60小时被喝茶,薪资50%需要加班和绩效才能获得 |知乎爆料(https://www.zhihu.com/question/40782949) |
+|广州|[广州蓝鸽集团](http://www.chinalancoo.com)|2019年4月9日|每月加班最低50小时，曾经一个月加班60小时被喝茶,薪资50%需要加班和绩效才能获得 |[知乎爆料](https://www.zhihu.com/question/40782949) |
 |广州|[广州创思信息技术有限公司（9377 游戏）](https://www.9377.com)|2019年4月8日|大小周加班|[知乎](https://www.zhihu.com/question/53318899)
 |上海|[金杜律师事务所](https://www.kwm.com/zh/cn)|2019年4月8日| 早10晚6但基本9点以后下班，周末给任务，请假给任务 | [看准网](https://www.kanzhun.com/gsr14366.html)|
 |北京|[数美科技](https://www.ishumei.com/)|2019年4月8日|大小周，加班|[知乎](https://www.zhihu.com/question/290696102)|
@@ -128,7 +128,7 @@
 |武汉|[武汉精臣智慧标识科技有限公司](http://www.jc2008.com/)|2018年9月|966|[考勤日历](img/精臣智慧-打卡日历.jpg)<br>[考勤制度-0](img/精臣智慧-考勤制度-0.jpg)<br>[考勤制度-1](img/精臣智慧-考勤制度-1.jpg)<br>[考勤制度-2](img/精臣智慧-考勤制度-2.jpg)|
 |山东淄博|[山东兆物网络技术股份有限公司](http://www.imegaware.com/)|2019年4月9日|8106|[看准网](https://www.kanzhun.com/pl6588029.html),[看准网](https://www.kanzhun.com/gsr668403.html?ka=head-bread3)|  
 |杭州|[盘石信息科技有限公司](http://www.adyun.com/zh-cn/index.html)|2018年11月12日|996/9106|[图片](img/浙江杭州盘石信息技术有限公司996制度.png)
-|北京|[快陪练](https://www.kuaipeilian.com/|2019年4月8日|996|[发言为其招聘经理](https://pic.superbed.cn/item/5cad617f3a213b0417f7cc2a)|
+|北京|[快陪练](https://www.kuaipeilian.com)|2019年4月8日|996|[发言为其招聘经理](https://pic.superbed.cn/item/5cad617f3a213b0417f7cc2a)|
 |深圳|[广东虚拟现实科技有限公司(Ximmerse)](https://www.ximmerse.com/)|2016年06月1日|996|[邮件通知](img/Ximmerse考勤邮件.png) [制度截图](img/Ximmerse制度方案.png)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历| 
 |北京|[东华软件股份公司](http://www.dhcc.com.cn/)|2018年2月|996|亲历 [百度口碑](https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1) | 
