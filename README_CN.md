@@ -9,8 +9,9 @@
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/#/zh_CN)
 
-如果你想添加 996.ICU 徽章到你项目，请阅读下面的[我能做什么？](#我能做什么)
-同时也欢迎为这个库点亮 Star 和做出贡献。
+<a href="https://www.patreon.com/996icu">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="150">
+</a>
 
 相关报道
 ---
@@ -34,7 +35,7 @@
 
 我能做什么？
 ---
-- 更新这个[名单](blacklist/blacklist.md)（注附带证据），来帮助每一位工作者。
+- 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位工作者。
 - 把这个[徽章](externals/instruction.md)添加到你的项目来支持 996.ICU
 - 为你的项目添加[反 996 许可证](LICENSE_CN)。
 - 给社区与项目发展提出新的议案。
@@ -53,7 +54,7 @@
 * 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。**发言请参考[社区行为准则](https://github.com/996icu/996.ICU/blob/master/Community_Rules_CN.md)。**
 
 * 目前反 996 许可证正处于起草阶段，与此也希望有相关经验的专业人士能给予帮助。
-  
+
 
 提案
 ---
@@ -80,18 +81,16 @@
  - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的反向 repo，旨在让更多的人逃离 996，加入 955 的行列。
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
- 
+
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
 
- - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
- 
- - [996.RIP](https://996.rip) 不要忘记旧闻。
- 
- - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
- 
- - [996.action](https://github.com/CPdogson/996action) 向地方人力资源和社会保障局进行信息公开，要求公开他们的工作报告和计划。这是一项温柔的法律行动，面向所有劳动者，它完全合法，成本低，并且可以诉讼，并且不会使你丢掉工作。除此之外，该项目未来将进行更多行动。
+ - [996.Leave](https://github.com/623637646/996.Leave) 介绍与鼓励海外工作。
 
- - [996.Arbitration](https://github.com/Y1ran/996.Law) 此 repo 主要介绍劳动仲裁及诉讼程序，收集相关维权案例。
+ - [996.RIP](https://996.rip) 企业可能会忘，但我们不会忘。
+
+ - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
+
+ - [996.action](https://github.com/CPdogson/996action) 向地方人力资源和社会保障局进行信息公开，要求公开他们的工作报告和计划。这是一项温柔的法律行动，面向所有劳动者，它完全合法，成本低，并且可以诉讼，并且不会使你丢掉工作。除此之外，该项目未来将进行更多行动。
 
 Issues 去哪了？
 ---
@@ -105,7 +104,7 @@ License
 [反 996 许可证](LICENSE)
 
  - 此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。
- - 在此处查看反 996 许可证下的[完整项目列表](awesomelist/projects.md)
+ - 在此处查看反 996 许可证下的[完整项目列表](awesomelist/README.md)
  - 此许可证的灵感来源于 @xushunke：[Design A Software License Of Labor Protection -- 996ICU License](https://github.com/996icu/996.ICU/pull/15642)
  - 当前版本反 996 许可证由 [伊利诺伊大学法学院的 Katt Gu, J.D](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao) 起草；由 [Dimension](https://www.dimension.im) 的首席执行官 [Suji Yan](https://www.linkedin.com/in/tedkoyan/) 提供建议。
  - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
