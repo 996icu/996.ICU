@@ -44,7 +44,7 @@ A "996" work schedule refers to an unofficial work schedule (9 a.m.&ndash;9 p.m.
 What can I do?
 ---
 
-- Update this [list](blacklist/blacklist.md) with evidence to help every worker.  
+- Update this [list](list_black/blacklist.md) with evidence to help every worker.  
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 - License your awesome projects with the [Anti 996 License](LICENSE).  
 - Add proposals to give advice about the development of 996.ICU.
@@ -108,7 +108,7 @@ License
 [Anti-996 License](LICENSE)
 
  - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working
- - See a [full list of projects](awesomelist/projects.md) under Anti-996 License
+ - See a [full list of projects](list_awesome/projects.md) under Anti-996 License
  - It is an idea of @xushunke: [Design A Software License Of Labor Protection -- Anti 996 License](https://github.com/996icu/996.ICU/pull/15642)
  - This version of Anti-996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).  
  - This draft is adapted from the MIT license. For more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
