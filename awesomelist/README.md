@@ -134,4 +134,5 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [BMChineseSort](https://github.com/Baymax0/BMChineseSort) | [GitHub](https://github.com/Baymax0/BMChineseSort) | iOS端的基于某个中文属性的模型数组排序 |
 | - | [nginx-log-rotation](https://github.com/chenrulongmaster/nginx-log-rotation) | [GitHub](https://github.com/chenrulongmaster/nginx-log-rotation) | Nginx日志滚动 |
 | - | [producer-consumer-problem](https://github.com/chenrulongmaster/producer-consumer-problem) | [GitHub](https://github.com/chenrulongmaster/producer-consumer-problem) | Java 多线程生产者消费者问题 |
+| <img src="https://avatars1.githubusercontent.com/u/46107204?s=96&v=4" width="60"> | [开源矿工](https://github.com/ntminer/ntminer) | [GitHub](https://github.com/ntminer/ntminer) | 显卡一键挖矿软件，一键开挖各种显卡币 |
 
