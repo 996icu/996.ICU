@@ -132,4 +132,6 @@ Projects under Anti 996ICU License. Thanks for your support!
 |<img src="https://gw.alicdn.com/tfs/TB1F65jQkvoK1RjSZFwXXciCFXa-338-90.png" width="60"> | [imageCrop](https://github.com/mrme2014/imageCrop/tree/add-license-1) | [GitHub](https://github.com/mrme2014/imageCrop/tree/add-license-1) | 基于android6.0系统源码的图片裁剪库 |
 | - | [996.BROWSER](https://github.com/996browser/996.BROWSER) | [GitHub](https://github.com/996browser/996.BROWSER) | 屏蔽996.icu的浏览器列表 |
 | - | [BMChineseSort](https://github.com/Baymax0/BMChineseSort) | [GitHub](https://github.com/Baymax0/BMChineseSort) | iOS端的基于某个中文属性的模型数组排序 |
+| - | [nginx-log-rotation](https://github.com/chenrulongmaster/nginx-log-rotation) | [GitHub](https://github.com/chenrulongmaster/nginx-log-rotation) | Nginx日志滚动 |
+| - | [producer-consumer-problem](https://github.com/chenrulongmaster/producer-consumer-problem) | [GitHub](https://github.com/chenrulongmaster/producer-consumer-problem) | Java 多线程生产者消费者问题 |
 
