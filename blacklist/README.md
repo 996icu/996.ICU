@@ -89,7 +89,7 @@
 |东莞|[步步高](www.gdbbk.com/)|2019年4月7日|8106 ！|[看准网](https://www.kanzhun.com/gsr3153tl56.html?ka=review-label12)|
 |北京|[百度](https://www.baidu.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17),[知乎](https://www.zhihu.com/question/20489266/answer/15775901)|
 |广州|[网易游戏](game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
-|北京|[便利蜂](https://www.bianlifeng.com/)|2019年4月7日||[看准网](https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8)|
+|北京|[便利蜂](https://www.bianlifeng.com/)|2019年4月7日|10105|[看准网](https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8)|
 |杭州|[网易考拉海购](https://www.kaola.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14)|
 |佛山|[美的集团](https://www.midea.cn/)|2019年4月7日|996大小周|[看准网](https://www.kanzhun.com/gsr7884tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/35741672/answer/115286682)|
 |北京|[VIPKID](https://www.vipkid.com.cn/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr5616047tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/67611489/answer/502602988)|
@@ -131,6 +131,7 @@
 |深圳|[广东虚拟现实科技有限公司(Ximmerse)](https://www.ximmerse.com/)|2016年06月1日|996|[邮件通知](img/Ximmerse考勤邮件.png) [制度截图](img/Ximmerse制度方案.png)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历| 
 |北京|[东华软件股份公司](http://www.dhcc.com.cn/)|2018年2月|996|亲历 [百度口碑](https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1) | 
+|北京|[信美人寿相互保险社](https://www.trustlife.com/)|2019年|996|[看准网](https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review)、[看准网](https://www.kanzhun.com/gsr6603074.html?ka=com1-review)| 
 |太原|[辉讯网络技术有限公司](http://www.7zy.net/)|2019年3月|996|亲历 [考勤](https://i.loli.net/2019/04/11/5cae537484b5d.jpg) | 
 |上海|[上海鱼泡泡信息科技有限公司](https://www.yupaopao.com//)|2018年12月|996|[脉脉](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjA4NjEwNjcsImlhdCI6MTU1NDk1MDU0OX0.Hd0uP3y9GMnN1OA8fhV0xvCQKT-GBQ33BzUmT1CCavk) | 
-|武汉|[武汉星云海数字科技股份有限公司](http://www.scotec.net/)|2019年4月|996|[看准网](https://www.kanzhun.com/gso5662099.html)|
+|武汉|[武汉星云海数字科技股份有限公司](http://www.scotec.net/)|2019年4月|996|[看准网](https://www.kanzhun.com/gso5662099.html)
