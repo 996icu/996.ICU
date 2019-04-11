@@ -6,8 +6,8 @@
 guido：
 [Can we do something for 996 programmers in China?](https://discuss.python.org/t/can-we-do-something-for-996-programmers-in-china/1119)
 - 人民日报：[“996”工作制该不该消灭？](http://t.people.com.cn/discussD.action?topicId=8160)
-- ~~有赞CEO 白鸦：[只是聊聊 enjoy](https://mp.weixin.qq.com/s/n13Xbu0HpJaNGW0gYMbpYw)～～
-- ~~无码科技 冯大辉(Fenng)：[聊聊 996](https://mp.weixin.qq.com/s/Jnt8wM-oCVQppfztxB_KEQ)～～
+~~有赞CEO 白鸦：[只是聊聊 enjoy](https://mp.weixin.qq.com/s/n13Xbu0HpJaNGW0gYMbpYw)～～
+~~无码科技 冯大辉(Fenng)：[聊聊 996](https://mp.weixin.qq.com/s/Jnt8wM-oCVQppfztxB_KEQ)~~
 
 
 ## 网友讨论
