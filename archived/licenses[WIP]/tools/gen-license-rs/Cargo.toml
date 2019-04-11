@@ -1,0 +1,9 @@
+[package]
+name = "gen-license-rs"
+version = "0.1.0"
+authors = ["luojia65 <me@luojia.cc>"]
+description = "Rusty tool to create license file, GitHub LICENSE code supported."
+edition = "2018"
+
+[dependencies]
+clap = "2.32.0"
