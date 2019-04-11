@@ -16,5 +16,5 @@ Related press:
 * *Wired:* [How github is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/). 4 April, 2019.
 * *Reuters:* [Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B). 5 April, 2019.
 * *Vice:* [Chinese Workers Are Trying to Bake Fair Labor Practices Into Software](https://motherboard.vice.com/en_us/article/mbz84n/chinese-workers-are-trying-to-bake-fair-labor-practices-into-software). 5 April, 2019.
-* *Quantz* [How GitHub became a bulletin board for Chinese tech worker complaints](https://qz.com/1589309/996-icu-github-hosts-chinese-tech-worker-complaints/). 9 April, 2019.
-* *AsiaOne* [Abusive work schedules in China's tech industry under fire](https://www.asiaone.com/world/abusive-work-schedules-chinas-tech-industry-under-fire). 10 April, 2019.
+* *Quantz:* [How GitHub became a bulletin board for Chinese tech worker complaints](https://qz.com/1589309/996-icu-github-hosts-chinese-tech-worker-complaints/). 9 April, 2019.
+* *AsiaOne:* [Abusive work schedules in China's tech industry under fire](https://www.asiaone.com/world/abusive-work-schedules-chinas-tech-industry-under-fire). 10 April, 2019.
