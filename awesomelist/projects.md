@@ -114,3 +114,4 @@ Projects under Anti 996ICU License. Thanks for your support!
 | - | [PUSH TO KINDLE!](https://github.com/Aneureka/push-to-kindle) | [Github](https://github.com/Aneureka/push-to-kindle) | 一个简洁优雅的 Kindle 文档推送工具 |
 | - | [android-chat](https://github.com/wildfirechat/android-chat) | [Github](https://github.com/wildfirechat/android-chat) | 一款全开源的Android IM 应用 |
 | - | [ios-chat](https://github.com/wildfirechat/ios-chat) | [Github](https://github.com/wildfirechat/ios-chat) | 一款全开源的iOS即时通讯APP |
+| <img src="https://avatars1.githubusercontent.com/u/49405480?s=200&v=4" width="60"> | [mSQL](https://github.com/m-sql/msql) | [GitHub](https://github.com/m-sql/msql) | 一个对SQL美化和自动化改写 及 EXPLAIN 深度解析的工具 |
