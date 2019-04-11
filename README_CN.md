@@ -69,6 +69,8 @@
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
 
  - [996.action](https://github.com/CPdogson/996action) 向地方人力资源和社会保障局进行信息公开，要求公开他们的工作报告和计划。这是一项温柔的法律行动，面向所有劳动者，它完全合法，成本低，并且可以诉讼，并且不会使你丢掉工作。除此之外，该项目未来将进行更多行动。
+ 
+ - [996.avengers](https://github.com/996-icu-avengers/Natasha) 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
 
 Issues 去哪了？
 ---
