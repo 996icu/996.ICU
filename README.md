@@ -44,7 +44,7 @@ What can I do?
 - Update this [list](blacklist/README.md) with evidence to help every worker.  
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 - License your awesome projects with the [Anti 996 License](LICENSE).  
-- Add proposals to give advice about the development of 996.ICU.
+- Add [proposals](proposal/README.md) to give advice about the development of 996.ICU.
 - Go home at 6 pm without feeling sorry.
 
 
@@ -60,20 +60,6 @@ Principles and purposes
 * We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
 
 * We are working on the drafting of Anti-996 License right now and we hope to receive assistance from professionals with relevant experience.
-
-
-Proposals
----
-A proposal is a document accepted by 996.ICU.  
-Typically, a proposal should outline a solution or suggestion about the development of the project and community.  
-For more details, please read the [proposal template](proposal/proposal_template.md) document.  
-
-To help the development of 996.ICU, you can do several things base on proposals.
-
-- Read the accepted proposals and try to improve them.
-- Take actions according to the accepted proposals.
-- Give your own proposals with a PR following the proposal format.
-
 
 Expanding influence
 ---
@@ -107,7 +93,6 @@ License
 
  - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working
  - See a [full list of projects](awesomelist/README.md) under Anti-996 License
- - It is an idea of @xushunke: [Design A Software License Of Labor Protection -- Anti 996 License](https://github.com/996icu/996.ICU/pull/15642)
- - This version of Anti-996 License is drafted by [Katt Gu, J.D, University of Illinois, College of Law](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao); advised by [Suji Yan](https://www.linkedin.com/in/tedkoyan/), CEO of [Dimension](https://www.dimension.im).  
+
  - This draft is adapted from the MIT license. For more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
  - For law professionals or anyone who is willing to contribute to future version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.

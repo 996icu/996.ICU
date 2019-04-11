@@ -19,10 +19,6 @@
 
 点击此处查看相关报道的[完整列表](/externals/news.md)
 
-相关文章和讨论
----
-
-点击此处查看相关文章和讨论的[完整列表](/externals/article_and_discussion.md)
 
 什么是996？
 ---
@@ -36,7 +32,7 @@
 - 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位工作者。
 - 把这个[徽章](externals/instruction.md)添加到你的项目来支持 996.ICU
 - 为你的项目添加[反 996 许可证](LICENSE_CN)。
-- 给社区与项目发展提出新的议案。
+- 给社区与项目发展提出新的[议案](proposal/README.md)。
 - 下午6点钟下班回家。
 
 原则和目的
@@ -52,20 +48,6 @@
 * 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。**发言请参考[社区行为准则](https://github.com/996icu/996.ICU/blob/master/Community_Rules_CN.md)。**
 
 * 目前反 996 许可证正处于起草阶段，与此也希望有相关经验的专业人士能给予帮助。
-
-
-提案
----
-一个提案指的是被 996.ICU 项目接受的建议文档。
-通常一个提案应该给出一个能促进项目或社区本身发展的建议或解决方案。
-请阅读[提案模板](proposal/proposal_template.md)来了解更多细节。
-
-关于提案部分，你可以尝试以下事情来助力996.ICU项目的发展：
-- 阅读996ICU项目已接受的提案并且尝试提出改进建议。
-- 根据提案建议做出自己力所能及的行动。
-- 对项目或社区的发展提出自己的想法，并通过PR的形式提交到项目组。
-
-
 
 扩大影响
 ---
@@ -103,7 +85,5 @@ License
 
  - 此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。
  - 在此处查看反 996 许可证下的[完整项目列表](awesomelist/README.md)
- - 此许可证的灵感来源于 @xushunke：[Design A Software License Of Labor Protection -- 996ICU License](https://github.com/996icu/996.ICU/pull/15642)
- - 当前版本反 996 许可证由 [伊利诺伊大学法学院的 Katt Gu, J.D](https://scholar.google.com.sg/citations?user=PTcpQwcAAAAJ&hl=en&oi=ao) 起草；由 [Dimension](https://www.dimension.im) 的首席执行官 [Suji Yan](https://www.linkedin.com/in/tedkoyan/) 提供建议。
  - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
  - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢你的帮助。
