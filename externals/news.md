@@ -4,6 +4,10 @@
 
 - 人民日报： [工作996生病ICU，劳动监察部门应积极介入](https://m.weibo.cn/status/4357697258275940)
 
+- 人民日报： [强制加班不应成为企业文化](https://weibo.com/2803301701/Hp6mB7OPG?filter=hot&root_comment_id=0&type=comment#_rnd1554948128403)
+
+- 人民日报： [被“996”围困的年轻人，像是定好闹钟的机器](https://weibo.com/ttarticle/p/show?id=2309404357697255411145)
+
 - 光明网： [莫让“996工作制”成了职场明规则](http://guancha.gmw.cn/2019-04/06/content_32719988.htm)（[Wayback Machine](https://web.archive.org/web/20190409022532/http://guancha.gmw.cn/2019-04/06/content_32719988.htm)）
 
 - 人民网：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)（[Wayback Machine](https://web.archive.org/web/20190409022535/http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)）
