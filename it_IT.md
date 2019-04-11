@@ -2,8 +2,8 @@
 ===
 
 ## Cos'è "996"?
-Un lavoro "996" fa riferimento ad un orario di lavoro non ufficiale (9 - 21, 6 giorni a settimana) che sta riscuotendo sempre più popolarità.
-Lavorare per una compagnia che incoraggia il lavoro "996" significa lavorare solitamente per 60 ore a settimana.
+Un lavoro "996" fa riferimento ad un orario di lavoro non ufficiale (9 ~ 21, 6 giorni a settimana) che sta riscuotendo sempre più popolarità.
+Lavorare per una compagnia che incoraggia il lavoro "996" significa lavorare solitamente per circa 60 ore a settimana.
 
 ## Legge sul lavoro nella Repubblica Popolare Cinese
 [Legge sul lavoro nella Repubblica Popolare Cinese](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm) L'articolo 41 afferma:
