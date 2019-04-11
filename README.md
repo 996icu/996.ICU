@@ -11,11 +11,11 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 
 Related press:
 ---
-* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
-* *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)
-* *Wired:* [How github is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
+* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral.](https://radiichina.com/github-protest-chinese-tech-996/)
+* *Financial Times:*  [China tech worker protest against long working hours goes viral.](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)
+* *Wired:* [How github is helping overworked chinese programmers.](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
 
-See a [full list of press](externals/news_EN.md)
+See a [full list of press](externals/news_EN.md).
 
 
 
@@ -43,7 +43,7 @@ Principles and purposes
 
 * This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
 
-* It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
+* It is great progress from closed source to open source, and it will also be great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
 
 * We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
 
@@ -61,10 +61,10 @@ Community powers
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
  - [996.law](https://github.com/CPdogson/996.law) This is a manual for workers who want to conduct labor arbitration and litigation on their own.
  - [996.RIP](https://996.rip) Old news never vanished.
- - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
+ - [996.Leave](https://github.com/623637646/996.Leave) encourages & introduces working overseas.
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
  - [996.action](https://github.com/CPdogson/996action) Supporters are encouraged to participate in public supervision.
- - [996.avengers](https://github.com/996-icu-avengers/Natasha) add `996ICU` and `955WLB` tag on recruitment website.
+ - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
 
 Where are the issues?
 ---
@@ -78,8 +78,8 @@ License
 
 [Anti-996 License](LICENSE)
 
- - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working
- - See a [full list of projects](awesomelist/README.md) under Anti-996 License
+ - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working.
+ - See a [full list of projects](awesomelist/README.md) under Anti-996 License.
 
  - This draft is adapted from the MIT license. For more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
- - For law professionals or anyone who is willing to contribute to future version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
+ - For law professionals or anyone who is willing to contribute to future versions directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
