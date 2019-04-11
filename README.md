@@ -47,7 +47,6 @@ Principles and purposes
 
 * We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
 
-* We are working on the drafting of Anti-996 License right now and we hope to receive assistance from professionals with relevant experience.
 
 Expanding influence
 ---
