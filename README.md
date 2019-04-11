@@ -90,7 +90,7 @@ Community powers
  - [996.RIP](https://996.rip) Old news never vanished.
  - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
- - [996.action](https://github.com/CPdogson/996action) it also includes more actions by monitoring the way the labor department complies with labor laws through information disclosure.
+ - [996.action](https://github.com/CPdogson/996action) Supporters are encouraged to participate in public supervision, which is important to ensure local labor departments' compliance with labor laws and keep related information public. Public supervision is not only legal and low cost, but also provides protection to your health and job security. This module will motivate more legal actions in the future.
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) add `996ICU` and `955WLB` tag on recruitment website.
 
 Where are the issues?
