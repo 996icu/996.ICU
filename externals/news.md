@@ -4,6 +4,8 @@
 
 - 人民日报： [工作996生病ICU，劳动监察部门应积极介入](https://m.weibo.cn/status/4357697258275940)
 
+- 人民日报： [强制加班不应成为企业文化](http://paper.people.com.cn/rmrb/html/2019-04/11/nw.D110000renmrb_20190411_2-19.htm)
+
 - 光明网： [莫让“996工作制”成了职场明规则](http://guancha.gmw.cn/2019-04/06/content_32719988.htm)（[Wayback Machine](https://web.archive.org/web/20190409022532/http://guancha.gmw.cn/2019-04/06/content_32719988.htm)）
 
 - 人民网：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)（[Wayback Machine](https://web.archive.org/web/20190409022535/http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)）
@@ -134,3 +136,7 @@
 ## 法文媒体
 
 - ZDNet：[996.ICU : Sur Github, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm)
+
+## 日文媒体
+
+- HuffPost：[謎のワード「996.ICU」が話題に　残業に苦しむIT社員たちが、過酷な労働実態を相次ぎ告発](https://www.huffingtonpost.jp/entry/996-icu-china_jp_5cad6335e4b01bf960076f52)
