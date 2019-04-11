@@ -61,6 +61,8 @@
  - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的反向 repo，旨在让更多的人逃离 996，加入 955 的行列。
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
+ 
+ - [996.law](https://github.com/CPdogson/996.law) 面向所有劳动者的一份劳动仲裁与劳动诉讼的攻略手册，看完它之后你甚至不用找律师。并且倡导劳动者在工作中随时取证以备后患。
 
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
 
