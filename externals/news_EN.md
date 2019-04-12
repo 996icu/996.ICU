@@ -18,3 +18,5 @@ Related press:
 * *Vice:* [Chinese Workers Are Trying to Bake Fair Labor Practices Into Software](https://motherboard.vice.com/en_us/article/mbz84n/chinese-workers-are-trying-to-bake-fair-labor-practices-into-software). 5 April, 2019.
 * *Quantz:* [How GitHub became a bulletin board for Chinese tech worker complaints](https://qz.com/1589309/996-icu-github-hosts-chinese-tech-worker-complaints/). 9 April, 2019.
 * *AsiaOne:* [Abusive work schedules in China's tech industry under fire](https://www.asiaone.com/world/abusive-work-schedules-chinas-tech-industry-under-fire). 10 April, 2019.
+* *National Public Radio:* [GitHub Has Become A Haven For China's Censored Internet Users](https://www.npr.org/2019/04/10/709490855/github-has-become-a-haven-for-chinas-censored-internet-users). 10 April, 2019.
+* *Channel NewsAsia:* [Commentary: China's protest against long working hours is so old-fashioned](https://www.channelnewsasia.com/news/commentary/china-996-protest-working-long-hours-old-fashioned-11433878). 11 April, 2019.
