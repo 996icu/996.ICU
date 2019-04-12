@@ -9,9 +9,9 @@ guido：
 - ~~有赞CEO 白鸦：[只是聊聊 enjoy](https://mp.weixin.qq.com/s/n13Xbu0HpJaNGW0gYMbpYw)~~
 - ~~无码科技 冯大辉(Fenng)：[聊聊 996](https://mp.weixin.qq.com/s/Jnt8wM-oCVQppfztxB_KEQ)~~
 
-
 ## 网友讨论
 
+- 豆瓣讨论：[官方锤！--马云：996是修来的福报！](https://www.douban.com/group/topic/138160128/)
 - 知乎提问：[如何看待「不接受 996 就是吃不了苦」的论调？](https://www.zhihu.com/question/66480166/answer/645286662)
 - 知乎提问：[如何看待「有赞」年会公开宣布 996 工作制？](https://www.zhihu.com/question/309428750)
 - v2ex讨论：[电商有赞年会宣布实施 996/鼓励离婚 CEO 解释:好事](https://www.v2ex.com/t/531475)
