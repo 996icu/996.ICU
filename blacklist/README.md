@@ -146,4 +146,4 @@
 |大连|[大连东软集团](https://www.neusoft.com/cn/)|2019年4月|9106|[看准网](https://www.kanzhun.com/pl5758283.html?ka=review-item2)、[看准网](https://www.kanzhun.com/pl5892120.html?ka=review-item10)|
 |北京|[中科曙光](https://www.sugon.com/)|2019年4月|996|有的部门加班到凌晨<br>[牛客网](http://m.nowcoder.com/discuss/61536?type=0&pos=29)、[看准网](https://www.kanzhun.com/pl6092119.html)|
 |深圳|[微付充科技有限公司](http://www.vfuchong.com/)|2019年4月|大小周， 每个月固定两天|[职友集](https://www.jobui.com/company/12488776/salary/)
-
+|不详|[TEEX](https://teex.io/)|2019年4月|公然宣扬996的“正确性”“合理性”|[微信公众号](https://mp.weixin.qq.com/s?__biz=Mzg5NDAwOTcyMQ==&mid=2247483862&idx=1&sn=1e176f17b69f1400ba8d4746ac2fdb07&chksm=c02769c0f750e0d698237e0bbb1a379d94a658d427d027c6f9a0abde617f0a37c52ccb6e3ef2&token=115514540&lang=zh_CN#rd)
