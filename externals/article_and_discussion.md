@@ -11,6 +11,7 @@ guido：
 
 ## 网友讨论
 
+- B站讨论：[马云谈996](https://www.bilibili.com/read/cv2437037)
 - 豆瓣讨论：[官方锤！--马云：996是修来的福报！](https://www.douban.com/group/topic/138160128/)
 - 知乎提问：[如何看待「不接受 996 就是吃不了苦」的论调？](https://www.zhihu.com/question/66480166/answer/645286662)
 - 知乎提问：[如何看待「有赞」年会公开宣布 996 工作制？](https://www.zhihu.com/question/309428750)
