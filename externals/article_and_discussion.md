@@ -11,7 +11,7 @@ guido：
 
 ## 网友讨论
 
-- 知乎提问：[如何看待马云 4 月 11 日在内外直播中将 996 称为「修来的福报」？](https://www.zhihu.com/question/319774219)
+- 知乎提问：[如何看待马云4月11日在内外直播中将 996 称为「修来的福报」](https://www.zhihu.com/question/319774219/answer/649131721)
 - 豆瓣讨论：[官方锤！--马云：996是修来的福报！](https://www.douban.com/group/topic/138160128/)
 - 知乎提问：[如何看待「不接受 996 就是吃不了苦」的论调？](https://www.zhihu.com/question/66480166/answer/645286662)
 - 知乎提问：[如何看待「有赞」年会公开宣布 996 工作制？](https://www.zhihu.com/question/309428750)
