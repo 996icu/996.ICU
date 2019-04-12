@@ -27,3 +27,4 @@ Translations of 996.ICU's contents
 * [Suomi](fi_FI.md)
 * [Svenska](se_SE.md)
 * [Catalan](ca_ES.md)
+* [Dutch](nl_NL.md)
