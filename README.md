@@ -43,7 +43,7 @@ Principles and purposes
 
 * This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
 
-* It is a great progress from closed source to open source, and it will also be a great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
+* It is great progress from closed source to open source, and it will also be great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
 
 * We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
 
@@ -61,10 +61,10 @@ Community powers
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
  - [996.law](https://github.com/CPdogson/996.law) This is a manual for workers who want to conduct labor arbitration and litigation on their own.
  - [996.RIP](https://996.rip) Old news never vanished.
- - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
+ - [996.Leave](https://github.com/623637646/996.Leave) encourages & introduces working overseas.
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
  - [996.action](https://github.com/CPdogson/996action) Supporters are encouraged to participate in public supervision.
- - [996.avengers](https://github.com/996-icu-avengers/Natasha) add `996ICU` and `955WLB` tag on recruitment website.
+ - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
 
 Where are the issues?
 ---
@@ -83,3 +83,8 @@ License
 
  - This draft is adapted from the MIT license. For more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
  - For law professionals or anyone who is willing to contribute to future version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
+ 
+Contact
+---
+
+You can reach me by [E-mail](mailto:996icu.repo@gmail.com) if you need.
