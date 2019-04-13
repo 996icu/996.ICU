@@ -78,6 +78,14 @@ Issues 去哪了？
 即使有互动限制，Issues 区依然完全失去了控制。
 因此我**个人**决定关闭 Issues，这与 GitHub 或其他方面无关。
 
+
+Cartoons
+---
+
+这是为了反映本项目引起的一些滑稽反应产生的一个漫画。
+![funny-cartoon])(funny.jpg)
+
+
 License
 ---
 
