@@ -23,6 +23,7 @@
 - 21财经：[工作996，生病ICU！程序员们这次忍不了了，弄出个大项目](https://m.21jingji.com/article/20190404/herald/23b634af7003164f1ca6f602772a5c71.html)
 - 新浪资讯：[沉默or抵制? 多家互联网公司被指实行996工作制](https://zx.sina.cn/2019-04-06/zx-ihvhiqax0377991.d.html?wm=3049_0015)
 - 爱范儿：[病态的 996 早需改变，而且不应该只从程序员开始](https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)（[Wayback Machine](https://web.archive.org/web/20190406123533/https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)）
+- 都市快报：[平时996，生病ICU！杭州90后小伙昨晚晕倒在之江大桥上，同事说他天天加班](https://mp.weixin.qq.com/s?src=11&timestamp=1555156605&ver=1544&signature=AlREcOs830k6DfxfA-1g7pQUzvWnMSQoWy7IsldMulA7Fepg6CnyHLvHma0Y-dmtmdbwc4xdmqkQ1EkeLdGM-FuQVRQ3aYjR8IRpmhl6Mep8JkJTwu6hfo7UfcfVMcXc&new=1)
 
 ### 非中国媒体
 - BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
