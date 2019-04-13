@@ -83,7 +83,7 @@ Cartoons
 ---
 
 这是为了反映本项目引起的一些滑稽反应产生的一个漫画。
-![funny-cartoon])(funny.jpg)
+![funny-cartoon](funny.jpg)
 
 
 License
