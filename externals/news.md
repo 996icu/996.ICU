@@ -16,11 +16,15 @@
 
 - 中工网：[“996”工作制，道德绑架无法掩盖违法事实](http://right.workercn.cn/164/201904/08/190408094926754.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022600/http://right.workercn.cn/164/201904/08/190408094926754.shtml)）
 
+- 半月谈： [半月谈评论：警惕常态化的“996”工作制催生“过劳一代”](http://www.banyuetan.org/jrt/detail/20190412/1000200033134991555033104055857336_1.html)
+
 - 南方日报：[正视年轻人压力“爆棚”的危险](http://epaper.southcn.com/nfdaily/html/2019-04/03/content_7790850.htm)（[Wayback Machine](https://web.archive.org/web/20190409022702/http://epaper.southcn.com/nfdaily/html/2019-04/03/content_7790850.htm)）
 
 - 广州日报：[“996工作制”不可持续](http://gzdaily.dayoo.com/pc/html/2019-04/03/content_108225_594534.htm)（[Wayback Machine](https://web.archive.org/web/20190409022702/http://gzdaily.dayoo.com/pc/html/2019-04/03/content_108225_594534.htm)）
 
 - 经济日报（中国经济网）：[拒绝“996”工作制！以人为本才能获得长远发展](http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022740/http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)）
+
+- 经济日报： [互联网“996工作制”遭诟病](http://paper.ce.cn/jjrb/html/2019-04/11/content_388567.htm)
 
 - 全天候科技：[996，谁的ICU？](https://awtmt.com/articles/3506048)（[Wayback Machine](https://web.archive.org/web/20190409022752/https://awtmt.com/articles/3506048)）
 
@@ -87,6 +91,8 @@
 - 东方卫报：[“996”工作制当以高压监管扭转高压加班](http://dfwb.njnews.cn/html/2019-04/10/content_63529.htm) ([Wayback Machine](https://web.archive.org/web/20190412052515/http://dfwb.njnews.cn/html/2019-04/10/content_63529.htm))
 
 - 四川日报：[“工作996，生病ICU”上热搜 ，你的工作加班严重吗？](https://mp.weixin.qq.com/s/jkmRgTicyZyC604kIJhn-g)([Wayback Machine](https://web.archive.org/web/20190410031555/https://mp.weixin.qq.com/s/jkmRgTicyZyC604kIJhn-g))
+
+- 钱江晚报：[“996”工作制，道德绑架无法掩盖违法事实](http://qjwb.zjol.com.cn/html/2019-04/08/content_3757863.htm?div=-1)
 
 ### 非中国媒体
 
