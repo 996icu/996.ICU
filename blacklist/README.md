@@ -65,7 +65,6 @@
 |深圳|[马上金融](https://www.msxf.com/)|2018年3月|996|每天下班开会分享，实际超过996<br>[看准网](https://www.kanzhun.com/pl5641018.html)
 |北京|[霁云科技](https://xin.baidu.com/detail/compinfo?pid=xlTM-TogKuTwdr2zNtf0Zpjhxx2gQd9FZQmd&from=ps)|2019年3月|996|[boss直聘](https://www.zhipin.com/gongsi/2c08264377f4a5c61nx739i-Fw~~.html?ka=search_rcmd_company_2c08264377f4a5c61nx739i-Fw~~)|
 |广州|[多益网络](https://www.duoyi.com)|2018年3月|9106|[看准网](https://www.kanzhun.com/gsr1365983tl56.html)、[知乎](https://www.zhihu.com/question/22713470/answer/145287600)|
-|北京|[北京必胜课教育科技有限公司](http://winlesson.com/)|2019年4月|966|[图片-1](img/bsk966-001.jpeg) [图片-2](img/bsk966-003.png)|
 |上海|[蝴蝶互动](http://hoodinn.hgame.com/default/index)|2019年2月|966|[知乎：如何评价蝴蝶互动？](https://www.zhihu.com/question/40858342/answer/616999472) / [聊天记录截图](img/蝴蝶互动-聊天记录.png) / ([所受委托资料-0](img/蝴蝶互动-报告委托截图-0.jpg)  [所受委托资料-1](img/蝴蝶互动-报告委托截图-1.jpg))|
 |深圳|[深圳市世纪纵横科技发展有限公司](http://www.viothink.com/?tdsourcetag=s_pctim_aiomsg)|2019年4月|966、加班、拖延工资|[拖欠工资](img/chat1.png),[拖欠工资](img/chat2.png),[拖欠工资](img/chat3.png)。而且经常加班到1、2点[加班1](img/taxi.jpg)[加班2](img/taxi2.jpg)[加班3](img/taxi3.jpg)。周六是强制上班|
 |北京|[北京关键科技股份有限公司](http://www.keyware.com.cn/)|2019年3月|986|986且没加班费不能换休[图片-1](img/keware1.png) [图片-2](img/keyware2.png)|[公众号发布,说自发加班加点](https://mp.weixin.qq.com/s/3bB1csq2LYIWsvOjuHcAOQ)|  
@@ -90,7 +89,7 @@
 |东莞|[步步高](www.gdbbk.com/)|2019年4月7日|8106 ！|[看准网](https://www.kanzhun.com/gsr3153tl56.html?ka=review-label12)|
 |北京|[百度](https://www.baidu.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17),[知乎](https://www.zhihu.com/question/20489266/answer/15775901)|
 |广州|[网易游戏](game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
-|北京|[便利蜂](https://www.bianlifeng.com/)|2019年4月7日||[看准网](https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8)|
+|北京|[便利蜂](https://www.bianlifeng.com/)|2019年4月7日|10105|[看准网](https://www.kanzhun.com/gsr6351491tl526.html?ka=review-label8)|
 |杭州|[网易考拉海购](https://www.kaola.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14)|
 |佛山|[美的集团](https://www.midea.cn/)|2019年4月7日|996大小周|[看准网](https://www.kanzhun.com/gsr7884tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/35741672/answer/115286682)|
 |北京|[VIPKID](https://www.vipkid.com.cn/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr5616047tl56.html?ka=review-label14),[知乎](https://www.zhihu.com/question/67611489/answer/502602988)|
@@ -125,12 +124,26 @@
 |北京|[快方送药](http://www.kfyao.com/)|已经施行一段时间了| 996 | [看准网](https://www.kanzhun.com/pl5675303.html) |
 |苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996,9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
 |苏州|[凌志软件股份有限公司](http://www.linkstec.com/)|2019年4月|996，9106，9116|[专坑实习生](img/lingzhi1.png)、[看准网](https://www.kanzhun.com/gsr99810c50.html)|
-|武汉|[武汉精臣智慧标识科技有限公司](http://www.jc2008.com/)|2018年9月|966|[考勤日历](img/精臣智慧-打卡日历.jpg)<br>[考勤制度-0](img/精臣智慧-考勤制度-0.jpg)<br>[考勤制度-1](img/精臣智慧-考勤制度-1.jpg)<br>[考勤制度-2](img/精臣智慧-考勤制度-2.jpg)|
+|武汉|[武汉精臣智慧标识科技有限公司](http://www.jc2008.com/)|2018年9月|966|[考勤日历](img/精臣智慧-打卡日历.jpg)<br>[考勤制度-1](img/精臣智慧-考勤制度-1.jpg)|
 |山东淄博|[山东兆物网络技术股份有限公司](http://www.imegaware.com/)|2019年4月9日|8106|[看准网](https://www.kanzhun.com/pl6588029.html),[看准网](https://www.kanzhun.com/gsr668403.html?ka=head-bread3)|  
 |杭州|[盘石信息科技有限公司](http://www.adyun.com/zh-cn/index.html)|2018年11月12日|996/9106|[图片](img/浙江杭州盘石信息技术有限公司996制度.png)
 |北京|[快陪练](https://www.kuaipeilian.com)|2019年4月8日|996|[发言为其招聘经理](https://pic.superbed.cn/item/5cad617f3a213b0417f7cc2a)|
 |深圳|[广东虚拟现实科技有限公司(Ximmerse)](https://www.ximmerse.com/)|2016年06月1日|996|[邮件通知](img/Ximmerse考勤邮件.png) [制度截图](img/Ximmerse制度方案.png)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历| 
 |北京|[东华软件股份公司](http://www.dhcc.com.cn/)|2018年2月|996|亲历 [百度口碑](https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1) | 
+|天津|[易思维(杭州/天津)科技有限公司](http://www.tjisv.com/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl6228054.html)| 
+|长沙|[湖南创发科技有限公司](http://www.transfar.com/)|2019年3月|996|亲历 [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [博客园](http://www.cnblogs.com/rawman/p/3401579.html)| 
+|珠海|[金山软件](http://www.kingsoft.com/)|2017年7月12日|996/9106|[图片](img/金山软件-9106.png)
+|北京|[信美人寿相互保险社](https://www.trustlife.com/)|2019年|996|[看准网](https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review)、[看准网](https://www.kanzhun.com/gsr6603074.html?ka=com1-review)| 
 |太原|[辉讯网络技术有限公司](http://www.7zy.net/)|2019年3月|996|亲历 [考勤](https://i.loli.net/2019/04/11/5cae537484b5d.jpg) | 
 |上海|[上海鱼泡泡信息科技有限公司](https://www.yupaopao.com//)|2018年12月|996|[脉脉](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjA4NjEwNjcsImlhdCI6MTU1NDk1MDU0OX0.Hd0uP3y9GMnN1OA8fhV0xvCQKT-GBQ33BzUmT1CCavk) | 
+|武汉|[武汉星云海数字科技股份有限公司](http://www.scotec.net/)|2019年4月|996|[图片](img/hxqc1.jpg)、[图片](img/hxqc2.jpg)、[图片](img/hxqc3.jpg)、[看准网](https://www.kanzhun.com/gso5662099.html)|
+|北京|[北京中广创思文化传播有限公司](http://www.cbct.cn/)|2019年4月|996/9107|[图片](img/北京中广创思9107钉钉截图.jpg)
+|天津|[北京必胜课教育有限公司-天津部门](https://www.winlesson.com/)|2019年4月|966|[管理规定](img/23123.png)|更新：天津部门私下强制大小周，要求员工保密。|
+|福建|[福建浔兴拉链科技股份有限公司](http://www.sbszipper.com/)|2019年4月11日|大小周|亲历+[元旦前考勤注解](img/fjxxydkq.png)[大小周外加周末充当法定节假日外加随意重置大小周顺序-元旦](img/fjxxydfj.png)、[大小周外加周末充当法定节假日外加随意重置大小周顺序-清明节](img/fjxxqmfj.png)|
+|上海|[掌门一对一教育有限公司](https://www.zhangmen.com/)|2019年4月|大小周|[看准网](https://www.kanzhun.com/pl7018849.html)|
+|北京|[易车网](http://beijing.bitauto.com/)|2019年4月|996|[办公软件截图](img/易车996.png )、[脉脉](img/易车脉脉.png)|
+|大连|[大连东软集团](https://www.neusoft.com/cn/)|2019年4月|9106|[看准网](https://www.kanzhun.com/pl5758283.html?ka=review-item2)、[看准网](https://www.kanzhun.com/pl5892120.html?ka=review-item10)|
+|北京|[中科曙光](https://www.sugon.com/)|2019年4月|996|有的部门加班到凌晨<br>[牛客网](http://m.nowcoder.com/discuss/61536?type=0&pos=29)、[看准网](https://www.kanzhun.com/pl6092119.html)|
+|深圳|[微付充科技有限公司](http://www.vfuchong.com/)|2019年4月|大小周， 每个月固定两天|[职友集](https://www.jobui.com/company/12488776/salary/)
+
