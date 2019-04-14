@@ -1,4 +1,4 @@
-[996.ICU](https://996.icu)
+[996.ICU](https://996.icu/#/en_US)
 =======
 ### **Please note there are NO any official accounts, apps or merchandise except for the domain and this repository.**
 
