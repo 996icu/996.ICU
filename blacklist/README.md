@@ -35,6 +35,7 @@
 |所在城市|公司名字|曝光/施行时间|制度描述|证据内容|
 |:---:|:---:|:---:|:---:|:---:|
 |深圳|[华为](https://www.huawei.com/cn/)|2010年8月|9106|[华为：“自愿”的奋斗者协议](http://focus.news.163.com/10/0921/15/6H460OOP00011SM9.html)([图片](img/huawei.jpg))|
+|深圳/杭州|[华为外包](https://www.kanzhun.com/gsr1439970.html)|2018年3月|大小周、加班、裁员|[华为外包是怎样的体验？ - 知乎](https://www.zhihu.com/question/28517881)[打卡记录](img/huawei_hangzhou_timing.png)|
 |杭州|[阿里巴巴](https://www.alibabagroup.com/)|2018年6月|996|[阿里巴巴的996加班文化，看到这些恐怖数据，你也会辞职！](https://kuaibao.qq.com/s/20180612A1FAPU00)<br>[马云：996是修来的福报! 律师：涉嫌违法](http://m.sohu.com/a/307564633_241241)<br>[马云：后悔忙于工作 没时间陪家人 有来生绝不这样](https://v.qq.com/x/page/h0860wwt0xl.html)|
 |杭州|[蚂蚁金服](https://www.antfin.com/)|2018年11月|9106|[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q)|
 |北京|[京东](https://www.jd.com)|2019年3月|995|[京东回应995工作制：不会强制要求 但要全情投入](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)<br>[刘强东内部邮件称要淘汰或协商解决掉“三种人”](https://i.loli.net/2019/04/02/5ca2e8727f213.jpg)|
@@ -54,7 +55,6 @@
 |北京|[中软国际](http://www.chinasofti.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC508620126J00303154805.htm)|
 |北京|[柯莱特](http://www.camelotchina.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120179637J00117070515.htm)|
 |北京|[高伟达](http://www.git.com.cn/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120702341J00114014810.htm)|
-|深圳|[华为外包](https://www.kanzhun.com/gsr1439970.html)|2018年3月|大小周、加班、裁员|[华为外包是怎样的体验？ - 知乎](https://www.zhihu.com/question/28517881)|
 |深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、<br>加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)<br> [跨越的水军洗地被抓现行](https://www.zhihu.com/question/47203239/answer/643311492)|
 |上海|[砸立](https://m.eyee.com/)|2019年1月|996|[看准网](https://www.kanzhun.com/gsr5728610tl526.html?ka=review-label2)|
 |杭州|[一喂](http://www.yivizd.com)|2017年5月|996|[图片链接](http://note.youdao.com/noteshare?id=0113f40833aaebfc7bbb6c0f83d65f96)|
