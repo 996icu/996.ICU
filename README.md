@@ -37,6 +37,7 @@ What can I do?
 - License your awesome projects with the [Anti 996 License](LICENSE).  
 - Add [proposals](proposal/README.md) to give advice about the development of 996.ICU.
 - Go home at 6 pm without feeling sorry.
+- Post your personal experience at [Minister's mailbox](http://www.mohrss.gov.cn/SYrlzyhshbzb/zxhd/buzhangxinxiang/woyaoxiexin/)
 
 
 Principles and purposes
