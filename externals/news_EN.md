@@ -20,3 +20,5 @@ Related press:
 * *AsiaOne:* [Abusive work schedules in China's tech industry under fire](https://www.asiaone.com/world/abusive-work-schedules-chinas-tech-industry-under-fire). 10 April, 2019.
 * *National Public Radio:* [GitHub Has Become A Haven For China's Censored Internet Users](https://www.npr.org/2019/04/10/709490855/github-has-become-a-haven-for-chinas-censored-internet-users). 10 April, 2019.
 * *Channel NewsAsia:* [Commentary: China's protest against long working hours is so old-fashioned](https://www.channelnewsasia.com/news/commentary/china-996-protest-working-long-hours-old-fashioned-11433878). 11 April, 2019.
+* *Fortune:* [China's Workers Are Protesting Tech's Deadly '996' Overtime Culture. Alibaba's Jack Ma Says He Requires It.](http://fortune.com/2019/04/12/china-996-jack-ma/) 12 April, 2019.
+* *TechCrunch:* [China’s startup ecosystem is hitting back at demanding working hours](https://techcrunch.com/2019/04/12/china-996/). 12 April, 2019.
