@@ -42,15 +42,13 @@ What can I do?
 Principles and purposes
 ---
 
-* 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
+* 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion. Because we strive for humane work hours and conditions for all fields of work, this is not a place to compare who has it the worst. Instead, talk with us to see how you can adapt the ideas behind this movement for your field of work.
 
 * This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
 
 * It is great progress from closed source to open source, and it will also be great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
 
 * We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
-
-* We strive for humane work hours and conditions for all fields of work, not just in tech and tech-related fields. This is not a place to compare which jobs have it the worst. Instead, talk with us to see how you can adapt the ideas behind this movement for your field of work.
 
 Expanding influence
 ---
