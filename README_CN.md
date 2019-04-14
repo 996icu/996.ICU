@@ -1,6 +1,16 @@
 [996.ICU](https://996.icu)
 =======
-### **请注意 996.ICU 没有除域名和库以外的任何官方账号、app、周边，请勿给予有心之人可乘之机。**
+### **请注意 996.ICU 没有除域名，库，996ICU APP以外的任何官方账号、周边，请勿给予有心之人可乘之机。**
+
+
+
+官方APP
+---
+下载链接：
+
+![](https://github.com/996icuapp/996.icu.app/blob/master/images/qr_code.png)
+
+[996ICU APP](https://github.com/996icuapp/996.icu.app)
 
 * [English version](./README.md)
 
