@@ -1,0 +1,134 @@
+#!/usr/bin/env ruby
+
+require 'optparse'
+
+LICENSES = [
+  "agpl-3.0",
+  "apache-2.0",
+  "bsd-2-clause",
+  "bsd-3-clause",
+  "epl-2.0",
+  "gpl-2.0",
+  "gpl-3.0",
+  "lgpl-2.1",
+  "lgpl-3.0",
+  "mit",
+  "mpl-2.0",
+  "unlicenses",
+  "996icu-0.1",
+]
+
+LangMap = {
+  "zh" => "zh-cn",
+  "zh-cn" => "zh-cn",
+  "zh-hans" => "zh-cn",
+  "en" => "en-us",
+  "en-us" => "en-us",
+}
+
+LicenseName = "LICENSE"
+
+def printHelp
+puts <<-EOS
+usage: gen-license [-h] [--list] [--996icu [{en-us,zh-cn}]]
+                   [{agpl-3.0,apache-2.0,bsd-2-clause,bsd-3-clause,epl-2.0,gpl-2.0,gpl-3.0,lgpl-2.1,lgpl-3.0,mit,mpl-2.0,unlicenses,996icu-0.1}]
+
+tools to create license file, support GitHub LICENSE code.
+
+positional arguments:
+  {agpl-3.0,apache-2.0,bsd-2-clause,bsd-3-clause,epl-2.0,gpl-2.0,gpl-3.0,lgpl-2.1,lgpl-3.0,mit,mpl-2.0,unlicenses,996icu-0.1}
+                        LICENSE Code, --list to see
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --list                Show supported LICENSE Codes
+  --996icu [{en-us,zh-cn}]
+                        Expand LICENSE with 996ICU LICENSE, Choose a language
+                        vesion or default zh-cn
+EOS
+end
+
+def printLicenses
+  puts LICENSES
+end
+
+def printCodeError(code)
+  puts "error: argument code: invalid choice: '#{code}' (choose from 'agpl-3.0', 'apache-2.0', 'bsd-2-clause', 'bsd-3-clause', 'epl-2.0', 'gpl-2.0', 'gpl-3.0', 'lgpl-2.1', 'lgpl-3.0', 'mit', 'mpl-2.0', 'unlicenses', '996icu-0.1')"
+end
+
+def printResult(code)
+  puts "#{code} license has been generated"
+end
+
+def readTemplate(name)
+  File.read(File.join(File.dirname(__FILE__), "../licenses/#{name}.txt"), :encoding => Encoding::UTF_8)
+end
+
+def writeLicense(content)
+  File.write("LICENSE", content)
+end
+
+def parse
+  opt = OptionParser.new
+  argvLength = ARGV.length
+  code = ARGV[0]
+  lang = ARGV[2]
+
+  if argvLength == 0
+    printHelp
+  end
+
+  if code && ARGV.length == 1
+    if LICENSES.include?(code)
+      s = readTemplate("#{code}")
+      writeLicense(s)
+      printResult(code)
+    else
+      printCodeError(code)
+    end
+  end
+
+  opt.on('-h') {|v|
+    if v == true
+      printHelp
+    end
+  }
+
+  opt.on('--list') {|v|
+    if v == true
+      if ARGV.length == 0
+        printLicenses
+      else
+        printHelp
+      end
+    end
+  }
+
+  opt.on('--996icu') {|v|
+    if v == true && 
+      if LICENSES.include?(code)
+        langCode = "zh-cn"
+        if LangMap.has_key?(lang)
+          langCode = LangMap[lang]
+        end
+        t = readTemplate("996.icu.template.#{langCode}")
+        s = readTemplate("#{code}")
+        t.gsub!(/{other}/, code)
+        t.gsub!(/{content}/, s)
+        writeLicense(t)
+        printResult(code + " (996icu #{langCode})")
+      else
+        printCodeError(code)
+      end
+    end
+  }
+
+  begin
+    opt.parse!(ARGV)
+  rescue OptionParser::InvalidOption => e
+    printHelp
+  end
+
+end
+
+parse
