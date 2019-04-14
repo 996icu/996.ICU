@@ -2,7 +2,11 @@
 
 ## 中文媒体
 
+- 人民日报： [人民日报评论：不能给反对996的员工贴“混日子”标签](https://finance.ifeng.com/c/7lrctvSXirY)
+
 - 人民日报： [工作996生病ICU，劳动监察部门应积极介入](https://m.weibo.cn/status/4357697258275940)
+
+- 人民日报： [强制加班不应成为企业文化](http://paper.people.com.cn/rmrb/html/2019-04/11/nw.D110000renmrb_20190411_2-19.htm)
 
 - 光明网： [莫让“996工作制”成了职场明规则](http://guancha.gmw.cn/2019-04/06/content_32719988.htm)（[Wayback Machine](https://web.archive.org/web/20190409022532/http://guancha.gmw.cn/2019-04/06/content_32719988.htm)）
 
@@ -14,11 +18,15 @@
 
 - 中工网：[“996”工作制，道德绑架无法掩盖违法事实](http://right.workercn.cn/164/201904/08/190408094926754.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022600/http://right.workercn.cn/164/201904/08/190408094926754.shtml)）
 
+- 半月谈： [半月谈评论：警惕常态化的“996”工作制催生“过劳一代”](http://www.banyuetan.org/jrt/detail/20190412/1000200033134991555033104055857336_1.html)
+
 - 南方日报：[正视年轻人压力“爆棚”的危险](http://epaper.southcn.com/nfdaily/html/2019-04/03/content_7790850.htm)（[Wayback Machine](https://web.archive.org/web/20190409022702/http://epaper.southcn.com/nfdaily/html/2019-04/03/content_7790850.htm)）
 
 - 广州日报：[“996工作制”不可持续](http://gzdaily.dayoo.com/pc/html/2019-04/03/content_108225_594534.htm)（[Wayback Machine](https://web.archive.org/web/20190409022702/http://gzdaily.dayoo.com/pc/html/2019-04/03/content_108225_594534.htm)）
 
 - 经济日报（中国经济网）：[拒绝“996”工作制！以人为本才能获得长远发展](http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022740/http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)）
+
+- 经济日报： [互联网“996工作制”遭诟病](http://paper.ce.cn/jjrb/html/2019-04/11/content_388567.htm)
 
 - 全天候科技：[996，谁的ICU？](https://awtmt.com/articles/3506048)（[Wayback Machine](https://web.archive.org/web/20190409022752/https://awtmt.com/articles/3506048)）
 
@@ -26,7 +34,7 @@
 
 - 好奇心日报：[在代码仓库里反对“996”，中国程序员抗议加班制度](https://www.qdaily.com/articles/62583.html)（[Wayback Machine](https://web.archive.org/web/20190405021913/https://www.qdaily.com/articles/62583.html)）
 
-- 好奇心日报：[996 惹怒程序员之后，他们的抗议引发了全球关注](https://www.qdaily.com/articles/62652.html)（[Wayback Machine](https://web.archive.org/web/20190405013618/https://www.qdaily.com/articles/62652.html)）
+- 好奇心日报：[~~996 惹怒程序员之后，他们的抗议引发了全球关注~~](https://www.qdaily.com/articles/62652.html)（[Wayback Machine](https://web.archive.org/web/20190405013618/https://www.qdaily.com/articles/62652.html)）
 
 - 新华网：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://www.xinhuanet.com/2019-04/02/c_1124313774.htm)（[Wayback Machine](https://web.archive.org/web/20190409023804/http://www.xinhuanet.com/2019-04/02/c_1124313774.htm)）
 
@@ -49,6 +57,7 @@
 - 新浪资讯：[沉默or抵制? 多家互联网公司被指实行996工作制](https://zx.sina.cn/2019-04-06/zx-ihvhiqax0377991.d.html)（[Wayback Machine](https://web.archive.org/web/20190409024013/https://zx.sina.cn/2019-04-06/zx-ihvhiqax0377991.d.html)）
 
 - 爱范儿：[病态的 996 早需改变，而且不应该只从程序员开始](https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)（[Wayback Machine](https://web.archive.org/web/20190406123533/https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)）
+- 都市快报：[平时996，生病ICU！杭州90后小伙昨晚晕倒在之江大桥上，同事说他天天加班](https://mp.weixin.qq.com/s?src=11&timestamp=1555156605&ver=1544&signature=AlREcOs830k6DfxfA-1g7pQUzvWnMSQoWy7IsldMulA7Fepg6CnyHLvHma0Y-dmtmdbwc4xdmqkQ1EkeLdGM-FuQVRQ3aYjR8IRpmhl6Mep8JkJTwu6hfo7UfcfVMcXc&new=1)
 
 - 36氪: [996 到底还要不要继续？](https://mp.weixin.qq.com/s/8opnRvTaiwkUWBBuIhhM8Q)（[Wayback Machine](https://web.archive.org/web/20190409024017/https://mp.weixin.qq.com/s/8opnRvTaiwkUWBBuIhhM8Q)）
 
@@ -64,27 +73,29 @@
 
 - 澎湃新闻：[996是天然正确的工作伦理？其实延长工时并不能提高生产力](https://www.thepaper.cn/newsDetail_forward_3272320)（[Wayback Machine](https://web.archive.org/web/20190409024018/https://www.thepaper.cn/newsDetail_forward_3272320)）
 
-- 齐鲁晚报：[互联网行业成“996工作制”重灾区](http://epaper.qlwb.com.cn/qlwb/content/20190407/ArticelA04002FM.htm)
+- 齐鲁晚报：[互联网行业成“996工作制”重灾区](http://epaper.qlwb.com.cn/qlwb/content/20190407/ArticelA04002FM.htm) ([Wayback Machine](https://web.archive.org/web/20190412051636/http://epaper.qlwb.com.cn/qlwb/content/20190407/ArticelA04002FM.htm))
 
 - 深圳特区报：[996工作制”：竭泽而渔不可取](http://sztqb.sznews.com/PC/layout/201904/08/node_A02.html#content_630258)
 
-- 海外网：[抵制“996”折射中国社会一大发展变化](http://opinion.haiwainet.cn/n/2019/0409/c353596-31532645.html)
+- 海外网：[抵制“996”折射中国社会一大发展变化](http://opinion.haiwainet.cn/n/2019/0409/c353596-31532645.html) ([Wayback Machine](https://web.archive.org/web/20190412051759/http://opinion.haiwainet.cn/n/2019/0409/c353596-31532645.html))
 
-- 搜狐新闻：[想要拯救中国程序员，「Python 之父」也看不下去 996 了](https://www.sohu.com/a/306720983_105527)
+- 搜狐新闻：[想要拯救中国程序员，「Python 之父」也看不下去 996 了](https://www.sohu.com/a/306720983_105527) ([Wayback Machine](https://web.archive.org/web/20190412051812/https://www.sohu.com/a/306720983_105527))
 
-- 央视新闻：[“工作996，生病ICU” 你遭遇过这样的加班吗？](http://m.news.cctv.com/2019/04/09/ARTIsThYaww3YyEsiirdc0Jt190409.shtml)	
+- 央视新闻：[“工作996，生病ICU” 你遭遇过这样的加班吗？](http://m.news.cctv.com/2019/04/09/ARTIsThYaww3YyEsiirdc0Jt190409.shtml) ([Wayback Machine](https://web.archive.org/web/20190412051813/http://m.news.cctv.com/2019/04/09/ARTIsThYaww3YyEsiirdc0Jt190409.shtml))
 
 - InfoQ：[996.ICU 背后：程序员在互联网公司的真实生态](https://www.infoq.cn/article/0iTzgfWTY8-ehJV5JoTO)
 
-- 央视网: [工作996、生病ICU，高薪工作为何总难摆脱加班命运？](https://mp.weixin.qq.com/s/PCtiuFlAPEmJqHr7rRmkww)
+- 央视网: [工作996、生病ICU，高薪工作为何总难摆脱加班命运？](https://mp.weixin.qq.com/s/PCtiuFlAPEmJqHr7rRmkww) ([Wayback Machine](https://web.archive.org/web/20190412051815/https://mp.weixin.qq.com/s/PCtiuFlAPEmJqHr7rRmkww))
 
-- IT之家：[“Python之父发声：我们能为中国的“996”程序员做什么？](https://www.ithome.com/0/418/079.htm)
+- IT之家：[“Python之父发声：我们能为中国的“996”程序员做什么？](https://www.ithome.com/0/418/079.htm) ([Wayback Machine](https://web.archive.org/web/20190412051817/https://www.ithome.com/0/418/079.htm))
 
-- 南方都市报：[“996”不止互联网，学者建议增加工时，低标准、严执法](https://m.mp.oeeee.com/a/BAAFRD000020190409151093.html)
+- 南方都市报：[“996”不止互联网，学者建议增加工时，低标准、严执法](https://m.mp.oeeee.com/a/BAAFRD000020190409151093.html) ([Wayback Machine](https://web.archive.org/web/20190412051817/https://m.mp.oeeee.com/a/BAAFRD000020190409151093.html))
 
-- 东方卫报：[“996”工作制当以高压监管扭转高压加班](http://dfwb.njnews.cn/html/2019-04/10/content_63529.htm)
+- 东方卫报：[“996”工作制当以高压监管扭转高压加班](http://dfwb.njnews.cn/html/2019-04/10/content_63529.htm) ([Wayback Machine](https://web.archive.org/web/20190412052515/http://dfwb.njnews.cn/html/2019-04/10/content_63529.htm))
 
 - 四川日报：[“工作996，生病ICU”上热搜 ，你的工作加班严重吗？](https://mp.weixin.qq.com/s/jkmRgTicyZyC604kIJhn-g)([Wayback Machine](https://web.archive.org/web/20190410031555/https://mp.weixin.qq.com/s/jkmRgTicyZyC604kIJhn-g))
+
+- 钱江晚报：[“996”工作制，道德绑架无法掩盖违法事实](http://qjwb.zjol.com.cn/html/2019-04/08/content_3757863.htm?div=-1)
 
 ### 非中国媒体
 
@@ -95,6 +106,7 @@
 - 多维新闻网：[“码农”线上串联维权 引中国官媒关注](http://news.dwnews.com/china/news/2019-04-03/60127095.html)
 
 - 联合早报：[中国程序员网上抗议“996”工作制引关注](https://www.zaobao.com/realtime/china/story20190405-946187)
+- 联合早报：[胡锡进：996不能够成为职场普遍号召](https://www.zaobao.com/realtime/china/story20190413-948394)
 
 - 德国之声：[996.ICU”——码农活命站起来](https://p.dw.com/p/3GSN5)
 
@@ -134,3 +146,7 @@
 ## 法文媒体
 
 - ZDNet：[996.ICU : Sur Github, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm)
+
+## 日文媒体
+
+- HuffPost：[謎のワード「996.ICU」が話題に　残業に苦しむIT社員たちが、過酷な労働実態を相次ぎ告発](https://www.huffingtonpost.jp/entry/996-icu-china_jp_5cad6335e4b01bf960076f52)
