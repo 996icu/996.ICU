@@ -146,6 +146,7 @@
 |北京|[易车网](http://beijing.bitauto.com/)|2019年4月|996|[办公软件截图](img/易车996.png )、[脉脉](img/易车脉脉.png)|
 |大连|[大连东软集团](https://www.neusoft.com/cn/)|2019年4月|9106|[看准网](https://www.kanzhun.com/pl5758283.html?ka=review-item2)、[看准网](https://www.kanzhun.com/pl5892120.html?ka=review-item10)|
 |深圳|[微付充科技有限公司](http://www.vfuchong.com/)|2019年4月|大小周， 每个月固定两天|[职友集](https://www.jobui.com/company/12488776/salary/)
+|上海|[邻趣网络有限公司](https://linjia.me)|2018年9月|995|七点左右下班要在群里报备 [工作群截图1](img/邻趣工作群截图.jpeg ) [工作群截图2](img/邻趣工作群截图2.jpeg) [工作群截图3](img/邻趣工作群截图3.jpeg)
 |北京|[北京数码视讯科技股份有限公司](http://www.sumavision.com/)|2011年4月|996亲历,管理规定，大小周|[看准网](https://www.kanzhun.com/pl474513.html)
 |福州|[中富通集团股份有限公司](http://www.zftii.com/)|2019年4月|宣扬马云996 随意要求员工加班|[微信截图](img/zftjt.jpg)
 |北京|[北京声智科技有限公司](http://www.soundai.com/)|2019年4月|996|[看准网：包括 HR 全员996](https://www.kanzhun.com/gsr5680797tl526.html?ka=review-label1)
