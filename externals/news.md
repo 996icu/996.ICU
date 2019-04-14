@@ -2,6 +2,8 @@
 
 ## 中文媒体
 
+- 人民日报： [崇尚奋斗，不等于强制996](https://m.weibo.cn/status/4360947026232430)
+
 - 人民日报： [工作996生病ICU，劳动监察部门应积极介入](https://m.weibo.cn/status/4357697258275940)
 
 - 人民日报： [强制加班不应成为企业文化](http://paper.people.com.cn/rmrb/html/2019-04/11/nw.D110000renmrb_20190411_2-19.htm)
