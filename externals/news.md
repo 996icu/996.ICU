@@ -14,6 +14,8 @@
 
 - 人民网：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)（[Wayback Machine](https://web.archive.org/web/20190409022535/http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)）
 
+- 工人日报：[马云谈996时，可曾知道8小时工作制是这样争取来的！](https://mp.weixin.qq.com/s/tp0u0wI0gHEjlV5ZpdDoDQ)
+
 - 工人日报：[“工作996，生病ICU”该引起重视了](http://news.workercn.cn/32845/201904/07/190407041525409.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022551/http://news.workercn.cn/32845/201904/07/190407041525409.shtml)）
 
 - 央广网：[风波再起 40余家互联网公司被指实行“996工作制”](http://china.cnr.cn/xwwgf/20190405/t20190405_524568985.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022701/http://china.cnr.cn/xwwgf/20190405/t20190405_524568985.shtml)）
