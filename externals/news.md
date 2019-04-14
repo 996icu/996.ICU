@@ -2,6 +2,8 @@
 
 ## 中文媒体
 
+- 人民日报： [崇尚奋斗，不等于强制996](https://m.weibo.cn/status/4360947026232430)
+
 - 人民日报： [人民日报评论：不能给反对996的员工贴“混日子”标签](https://finance.ifeng.com/c/7lrctvSXirY)
 
 - 人民日报： [工作996生病ICU，劳动监察部门应积极介入](https://m.weibo.cn/status/4357697258275940)
