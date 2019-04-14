@@ -50,6 +50,7 @@ Principles and purposes
 
 * We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
 
+* We strive for humane work hours and conditions for all fields of work, not just in tech and tech-related fields. This is not a place to compare which jobs have it the worst. Instead, talk with us to see how you can adapt the ideas behind this movement for your field of work.
 
 Expanding influence
 ---
