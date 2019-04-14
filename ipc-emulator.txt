@@ -1,0 +1,1 @@
+sys v ipc emulator: control_pipe_fd = 79, ipc_domain = com.eltechs.ed
