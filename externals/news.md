@@ -2,7 +2,9 @@
 
 ## 中文媒体
 
-- 工人日报：[马云谈996时，可曾知道8小时工作制是这样争取来的！](https://mp.weixin.qq.com/s/tp0u0wI0gHEjlV5ZpdDoDQ)
+- 人民日报： [崇尚奋斗，不等于强制996](https://m.weibo.cn/status/4360947026232430)
+
+- 人民日报： [人民日报评论：不能给反对996的员工贴“混日子”标签](https://finance.ifeng.com/c/7lrctvSXirY)
 
 - 人民日报： [工作996生病ICU，劳动监察部门应积极介入](https://m.weibo.cn/status/4357697258275940)
 
@@ -11,6 +13,8 @@
 - 光明网： [莫让“996工作制”成了职场明规则](http://guancha.gmw.cn/2019-04/06/content_32719988.htm)（[Wayback Machine](https://web.archive.org/web/20190409022532/http://guancha.gmw.cn/2019-04/06/content_32719988.htm)）
 
 - 人民网：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)（[Wayback Machine](https://web.archive.org/web/20190409022535/http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)）
+
+- 工人日报：[马云谈996时，可曾知道8小时工作制是这样争取来的！](https://mp.weixin.qq.com/s/tp0u0wI0gHEjlV5ZpdDoDQ)
 
 - 工人日报：[“工作996，生病ICU”该引起重视了](http://news.workercn.cn/32845/201904/07/190407041525409.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022551/http://news.workercn.cn/32845/201904/07/190407041525409.shtml)）
 
