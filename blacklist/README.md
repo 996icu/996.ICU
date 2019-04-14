@@ -131,6 +131,7 @@
 |深圳|[广东虚拟现实科技有限公司(Ximmerse)](https://www.ximmerse.com/)|2016年06月1日|996|[邮件通知](img/Ximmerse考勤邮件.png) [制度截图](img/Ximmerse制度方案.png)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历| 
 |北京|[东华软件股份公司](http://www.dhcc.com.cn/)|2018年2月|996|亲历 [百度口碑](https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1) | 
+|深圳|[边度网络科技（深圳）有限公司](https://www.kanman.com/)|2019年3月25日|996|[制度要求截图](img/bindo_com_996.jpg)<br>[打卡截图](img/bindo_com_996_2.jpg)| 
 |天津|[易思维(杭州/天津)科技有限公司](http://www.tjisv.com/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl6228054.html)| 
 |长沙|[湖南创发科技有限公司](http://www.transfar.com/)|2019年3月|996|亲历 [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [博客园](http://www.cnblogs.com/rawman/p/3401579.html)| 
 |珠海|[金山软件](http://www.kingsoft.com/)|2017年7月12日|996/9106|[图片](img/金山软件-9106.png)
@@ -144,6 +145,9 @@
 |上海|[掌门一对一教育有限公司](https://www.zhangmen.com/)|2019年4月|大小周|[看准网](https://www.kanzhun.com/pl7018849.html)|
 |北京|[易车网](http://beijing.bitauto.com/)|2019年4月|996|[办公软件截图](img/易车996.png )、[脉脉](img/易车脉脉.png)|
 |大连|[大连东软集团](https://www.neusoft.com/cn/)|2019年4月|9106|[看准网](https://www.kanzhun.com/pl5758283.html?ka=review-item2)、[看准网](https://www.kanzhun.com/pl5892120.html?ka=review-item10)|
-|北京|[中科曙光](https://www.sugon.com/)|2019年4月|996|有的部门加班到凌晨<br>[牛客网](http://m.nowcoder.com/discuss/61536?type=0&pos=29)、[看准网](https://www.kanzhun.com/pl6092119.html)|
 |深圳|[微付充科技有限公司](http://www.vfuchong.com/)|2019年4月|大小周， 每个月固定两天|[职友集](https://www.jobui.com/company/12488776/salary/)
 |上海|[七牛云](https://www.qiniu.com/)|2018年11月|995、裁员|[Boss直聘](img/七牛云995.jpg)、[脉脉](img/七牛云裁员1.jpg)、[脉脉](img/七牛云裁员2.jpg)、[脉脉](img/七牛云裁员3.jpg)、[看准网](https://www.kanzhun.com/pl7147841.html?ka=comreview-result1)|
+|上海|[邻趣网络有限公司](https://linjia.me)|2018年9月|995|七点左右下班要在群里报备 [工作群截图1](img/邻趣工作群截图.jpeg ) [工作群截图2](img/邻趣工作群截图2.jpeg) [工作群截图3](img/邻趣工作群截图3.jpeg)
+|北京|[北京数码视讯科技股份有限公司](http://www.sumavision.com/)|2011年4月|996亲历,管理规定，大小周|[看准网](https://www.kanzhun.com/pl474513.html)
+|福州|[中富通集团股份有限公司](http://www.zftii.com/)|2019年4月|宣扬马云996 随意要求员工加班|[微信截图](img/zftjt.jpg)
+|北京|[北京声智科技有限公司](http://www.soundai.com/)|2019年4月|996|[看准网：包括 HR 全员996](https://www.kanzhun.com/gsr5680797tl526.html?ka=review-label1)

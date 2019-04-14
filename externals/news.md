@@ -2,6 +2,8 @@
 
 ## 中文媒体
 
+- 人民日报： [人民日报评论：不能给反对996的员工贴“混日子”标签](https://finance.ifeng.com/c/7lrctvSXirY)
+
 - 人民日报： [工作996生病ICU，劳动监察部门应积极介入](https://m.weibo.cn/status/4357697258275940)
 
 - 人民日报： [强制加班不应成为企业文化](http://paper.people.com.cn/rmrb/html/2019-04/11/nw.D110000renmrb_20190411_2-19.htm)
@@ -55,6 +57,7 @@
 - 新浪资讯：[沉默or抵制? 多家互联网公司被指实行996工作制](https://zx.sina.cn/2019-04-06/zx-ihvhiqax0377991.d.html)（[Wayback Machine](https://web.archive.org/web/20190409024013/https://zx.sina.cn/2019-04-06/zx-ihvhiqax0377991.d.html)）
 
 - 爱范儿：[病态的 996 早需改变，而且不应该只从程序员开始](https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)（[Wayback Machine](https://web.archive.org/web/20190406123533/https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)）
+- 都市快报：[平时996，生病ICU！杭州90后小伙昨晚晕倒在之江大桥上，同事说他天天加班](https://mp.weixin.qq.com/s?src=11&timestamp=1555156605&ver=1544&signature=AlREcOs830k6DfxfA-1g7pQUzvWnMSQoWy7IsldMulA7Fepg6CnyHLvHma0Y-dmtmdbwc4xdmqkQ1EkeLdGM-FuQVRQ3aYjR8IRpmhl6Mep8JkJTwu6hfo7UfcfVMcXc&new=1)
 
 - 36氪: [996 到底还要不要继续？](https://mp.weixin.qq.com/s/8opnRvTaiwkUWBBuIhhM8Q)（[Wayback Machine](https://web.archive.org/web/20190409024017/https://mp.weixin.qq.com/s/8opnRvTaiwkUWBBuIhhM8Q)）
 
@@ -103,6 +106,7 @@
 - 多维新闻网：[“码农”线上串联维权 引中国官媒关注](http://news.dwnews.com/china/news/2019-04-03/60127095.html)
 
 - 联合早报：[中国程序员网上抗议“996”工作制引关注](https://www.zaobao.com/realtime/china/story20190405-946187)
+- 联合早报：[胡锡进：996不能够成为职场普遍号召](https://www.zaobao.com/realtime/china/story20190413-948394)
 
 - 德国之声：[996.ICU”——码农活命站起来](https://p.dw.com/p/3GSN5)
 

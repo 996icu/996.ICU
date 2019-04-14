@@ -1,4 +1,4 @@
-[996.ICU](https://996.icu)
+[996.ICU](https://996.icu/#/zh_CN)
 =======
 ### **请注意 996.ICU 没有除域名和库以外的任何官方账号、app、周边，请勿给予有心之人可乘之机。**
 
@@ -55,7 +55,7 @@
 社区
 ---
 
- - [955.WLB](https://github.com/formulahendry/955.WLB) 996.ICU 的反向 repo，旨在让更多的人逃离 996，加入 955 的行列。
+ - [955.WLB](https://github.com/formulahendry/955.WLB) 955 公司白名单，旨在让更多的人逃离 996，加入 955 的行列。
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
  
