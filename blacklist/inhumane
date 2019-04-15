@@ -1,0 +1,5 @@
+996=Ma("马云支持996？")
+if Ma=="yes":
+print(" He is inhumane")
+else:
+print("we don't want to end up in Hospital")
