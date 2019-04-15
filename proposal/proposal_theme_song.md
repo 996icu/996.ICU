@@ -2,49 +2,40 @@
 
 HEAD | SUMMARY
 -----|--------
-Title:| Proposal Template for 996.icu Projects
-Author:| xiao
+Title:| 关于反996运动主题曲的提案
+Author:| anole1949
 Status:| Draft
-Type:| Template
-Created:| 31-Mar-2019
+Type:| ThemeSong
+Created:| 15-Apr-2019
 Post-History:| None
 
 ## Why this Proposal?
 
-I write this template for the whole community. <br/>
-I wish we can record useful and valuable suggestions and make them happen.
+我们需要自己的主题曲，以向外界清晰传达我们的声音和诉求，以及我们的处境。
 
 ## Community Value
 
-Provide a template for new proposals. <br/>
-A proposal can be used to record suggestions and agreements. <br/>
-Make the community members understanding and reviewing import decisions what have been made and discussed better.
+让大家能够发出同一个声音，也能争取更大限度的舆论支持。
 
 ## Problems
 
-In this part, the proposer should describe what problems we are facing. <br/>
-For example, currently, we don't have a way to record import decisions and suggestions. <br/>
-Pull Requests area is too general and not a good way to express ideas. <br/>
-We need a much more formal channel.
+目前只完成了歌词，没有能力谱曲，还希望有大侠帮忙
 
 ## Solutions
 
-In this part, the proposer should statement the solutions or proposals to solve these problems listed in ***Problems*** part. <br/>
-For example, we add the proposal directory in the repo and init this proposal template to help the community to build a much more formal channel for suggestion and discussion.
+各位随便改，改到大家满意为止
 
 ## Resource & Requirements
 
-In this part, list out the resource or other requirements required by the proposal or solution.
+尚无
 
 ## Actions & implementation Plan
 
-In this part, the proposer should describe the actions and implementation plan after the proposal is approved by the community.
+尚无
 
 ## References
 
-In the part, list out links to the reference resource.
-For example, for this proposal, the main reference is <br/>
-- [PEP 1 -- PEP Purpose and Guidelines](https://www.python.org/dev/peps/pep-0001/)
+尚无
 
 ## Copyright
 
