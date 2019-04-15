@@ -125,6 +125,7 @@
 ### 香港媒体
 
 - 南华早报：[‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github)
+- 南华早报：[Quantity or quality? China’s ‘996’ work culture comes under scrutiny](https://www.scmp.com/tech/start-ups/article/3005947/quantity-or-quality-chinas-996-work-culture-comes-under-scrutiny)
 
 ### 非中国媒体
 
