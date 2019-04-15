@@ -1,7 +1,7 @@
 # 相关媒体报道，感谢媒体朋友们
 
 ## 中文媒体
-
+- 新华网：[辛识平：奋斗应提倡，996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
 - 半月谈：[半月谈评论：996与奋斗无关，与利益有关](http://www.banyuetan.org/dyp/detail/20190415/1000200033134991555306789054254821_1.html)
 
 - 人民日报： [崇尚奋斗，不等于强制996](https://m.weibo.cn/status/4360947026232430)
@@ -103,7 +103,6 @@
 
 - 钱江晚报：[“996”工作制，道德绑架无法掩盖违法事实](http://qjwb.zjol.com.cn/html/2019-04/08/content_3757863.htm?div=-1)
 
-- 半月谈：[996与奋斗无关，与利益有关](https://mp.weixin.qq.com/s/cCrj8F2CQrlLTrBrwtcMqA)
 
 ### 非中国媒体
 
