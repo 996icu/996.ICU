@@ -101,6 +101,8 @@
 
 - 钱江晚报：[“996”工作制，道德绑架无法掩盖违法事实](http://qjwb.zjol.com.cn/html/2019-04/08/content_3757863.htm?div=-1)
 
+- 半月谈：[996与奋斗无关，与利益有关](https://mp.weixin.qq.com/s/cCrj8F2CQrlLTrBrwtcMqA)
+
 ### 非中国媒体
 
 - BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
