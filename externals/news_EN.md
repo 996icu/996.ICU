@@ -22,3 +22,8 @@ Related press:
 * *Channel NewsAsia:* [Commentary: China's protest against long working hours is so old-fashioned](https://www.channelnewsasia.com/news/commentary/china-996-protest-working-long-hours-old-fashioned-11433878). 11 April, 2019.
 * *Fortune:* [China's Workers Are Protesting Tech's Deadly '996' Overtime Culture. Alibaba's Jack Ma Says He Requires It.](http://fortune.com/2019/04/12/china-996-jack-ma/) 12 April, 2019.
 * *TechCrunch:* [China’s startup ecosystem is hitting back at demanding working hours](https://techcrunch.com/2019/04/12/china-996/). 12 April, 2019.
+* *Reuters:* [Alibaba founder defends overtime work culture as 'huge blessing'](https://www.reuters.com/article/us-china-tech-labour/alibaba-founder-defends-overtime-work-culture-as-huge-blessing-idUSKCN1RO1BC?il=0). 12 April, 2019
+* *Reuters:* [China's JD.com boss criticizes 'slackers' as company makes cuts](https://www.reuters.com/article/us-jd-com-labour/chinas-jd-com-boss-criticizes-slackers-as-company-makes-cuts-idUSKCN1RP06D). 13 April, 2019
+* *Metro:* [China’s richest man makes his employees work 72 hours a week and calls it a ‘blessing’](https://metro.co.uk/2019/04/13/chinas-richest-man-makes-employees-work-72-hours-week-calls-blessing-9197237/). 13 April, 2019
+* *Global Times:* [Company's competitiveness can't rest on 996 overtime culture](http://www.globaltimes.cn/content/1145888.shtml). 14 April, 2019
+* *Pandaily:* [Is 996 Truly a Blessing? Let’s Hear What Richard Liu and Jack Ma Have to Say.](https://pandaily.com/is-996-truly-a-blessing-lets-hear-what-richard-liu-and-jack-ma-has-to-say/). 14 April, 2019
