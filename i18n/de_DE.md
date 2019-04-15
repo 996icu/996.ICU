@@ -10,7 +10,7 @@ Artikel 43
 
 > Die Werktätigen der Volksrepublik China haben das Recht auf Erholung.
 >
-> Der Staat entwickelt Einrichtungen für die Erholung und für die Genesung der Werktätigen und legt die Arbeitsstunden und Ur1aubsregelungen der Arbeiter und Angestellten fest.
+> Der Staat entwickelt Einrichtungen für die Erholung und für die Genesung der Werktätigen und legt die Arbeitsstunden und Urlaubsregelungen der Arbeiter und Angestellten fest.
 
 ## [Arbeitsrechts der Volksrepublik China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
 
