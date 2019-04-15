@@ -116,6 +116,8 @@
 
 - FT中文网：[996工作制与中国科技企业的国际化](http://www.ftchinese.com/story/001082216)
 
+- 996ICU服务平台：[什么是GitHub 996.ICU 项目（上）](https://mp.weixin.qq.com/s/Ap5da4K7yQEl9XywDDUvpQ)
+
 ## 英文媒体
 
 ### 香港媒体
