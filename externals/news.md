@@ -2,7 +2,7 @@
 
 ## 中文媒体
 
-- 半月谈：[半月谈评论：996与奋斗无关，与利益有关](http://www.banyuetan.org/dyp/detail/20190415/1000200033134991555306789054254821_1.html)
+- 半月谈：[半月谈评论：996与奋斗无关，与利益有关](http://www.banyuetan.org/dyp/detail/20190415/1000200033134991555306789054254821_1.html)（[Wayback Machine](https://web.archive.org/web/20190415132908/http://www.banyuetan.org/dyp/detail/20190415/1000200033134991555306789054254821_1.html)）
 
 - 人民日报： [崇尚奋斗，不等于强制996](https://m.weibo.cn/status/4360947026232430)
 
