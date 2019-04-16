@@ -70,7 +70,7 @@ Community powers
  - [996.action](https://github.com/CPdogson/996action) Supporters are encouraged to participate in public supervision.
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
  - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
-
+ - [955.manifesto](https://github.com/freemaxi/955.manifesto) the declaration refuse forced 996 and only accept 995 in principle.
 Where are the issues?
 ---
 
