@@ -2,6 +2,8 @@
 
 ## 中文媒体
 
+- 百家号：思潮风气：[父辈996吓到日本年轻人：少挣一点没关系，但是要过得自如一些](https://mbd.baidu.com/newspage/data/landingshare?context=%7B%22nid%22%3A%22news_8826570818509297651%22%2C%22sourceFrom%22%3A%22bjh%22%2C%22url_data%22%3A%22bjhauthor%22%7D)
+
 - 中新网：[逃离996：我宁可不婚不育不买房，也不要拼命](http://www.chinanews.com/gn/2019/04-16/8809887.shtml)
 
 - 新华网：[辛识平：奋斗应提倡，996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
