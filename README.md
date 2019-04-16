@@ -90,7 +90,7 @@ Community powers
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
 
  - [996.Leave](https://github.com/623637646/996.Leave) encourage & introduce working overseas.
-
+ - [955.manifesto](https://github.com/freemaxi/955.manifesto) the declaration refuse forced 996 and only accept 995 in principle.
 
 Where are the issues?
 ---
