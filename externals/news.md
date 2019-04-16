@@ -107,7 +107,6 @@
 
 - 凤凰网：[视频：监控实拍深圳某公司程序员周末加班突然晕倒 现场画面触目惊心](http://v.ifeng.com/video_22036450.shtml)
 
-
 ### 非中国媒体
 
 - BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
