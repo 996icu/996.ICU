@@ -70,6 +70,8 @@
 
 - 爱范儿：[病态的 996 早需改变，而且不应该只从程序员开始](https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)（[Wayback Machine](https://web.archive.org/web/20190406123533/https://mp.weixin.qq.com/s/4YVDRAHl3E4AF163xhDKjA)）
 
+- 都市快报：[平时996，生病ICU！杭州90后小伙昨晚晕倒在之江大桥上，同事说他天天加班](https://www.sohu.com/a/307906125_671633)
+
 - 36氪: [996 到底还要不要继续？](https://mp.weixin.qq.com/s/8opnRvTaiwkUWBBuIhhM8Q)（[Wayback Machine](https://web.archive.org/web/20190409024017/https://mp.weixin.qq.com/s/8opnRvTaiwkUWBBuIhhM8Q)）
 
 - 爱否科技: [继续沉默？996 的「罪与罚」](https://mp.weixin.qq.com/s/wejz1ty8_NoMTrmE5uIZoQ)（[Wayback Machine](https://web.archive.org/web/20190409024017/https://mp.weixin.qq.com/s/wejz1ty8_NoMTrmE5uIZoQ)）
