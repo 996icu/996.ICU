@@ -21,6 +21,10 @@ Related press:
 See a [full list of press](externals/news_EN.md)
 
 
+Road map
+---
+* [中文路线图](./proposal/proposal_roadmap.md)
+
 
 What is 996?
 ---
