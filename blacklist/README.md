@@ -139,3 +139,4 @@
 |上海|[上海鱼泡泡信息科技有限公司](https://www.yupaopao.com//)|2018年12月|996|[脉脉](https://maimai.cn/web/gossip_detail?encode_id=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MjA4NjEwNjcsImlhdCI6MTU1NDk1MDU0OX0.Hd0uP3y9GMnN1OA8fhV0xvCQKT-GBQ33BzUmT1CCavk) | 
 |武汉|[武汉星云海数字科技股份有限公司](http://www.scotec.net/)|2019年4月|996|[图片](img/hxqc1.jpg)、[图片](img/hxqc2.jpg)、[图片](img/hxqc3.jpg)、[看准网](https://www.kanzhun.com/gso5662099.html)|
 |上海|[掌门一对一教育有限公司](https://www.zhangmen.com/)|2019年4月|大小周|[前东家]、[https://www.kanzhun.com/pl7018849.html]
+|深圳|[深圳市览众科技股份有限公司](http://www.legion-tech.net/pc/index.html)|2018-04-03|8105/9106/007| 亲历，周末派活，下班派活，24小时待命，[看准网](https://www.kanzhun.com/pl6361673.html)|
