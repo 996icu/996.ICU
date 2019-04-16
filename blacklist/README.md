@@ -132,7 +132,7 @@
 |深圳|[广东虚拟现实科技有限公司(Ximmerse)](https://www.ximmerse.com/)|2016年06月1日|996|[邮件通知](img/Ximmerse考勤邮件.png) [制度截图](img/Ximmerse制度方案.png)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历| 
 |北京|[东华软件股份公司](http://www.dhcc.com.cn/)|2018年2月|996|亲历 [百度口碑](https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1) | 
-|深圳|[边度网络科技（深圳）有限公司](https://www.kanman.com/)|2019年3月25日|996|[制度要求截图](img/bindo_com_996.jpg)<br>[打卡截图](img/bindo_com_996_2.jpg)| 
+|深圳|[边度网络科技（深圳）有限公司](https://www.bindo.com/)|2019年3月25日|996|[制度要求截图](img/bindo_com_996.jpg)<br>[打卡截图](img/bindo_com_996_2.jpg)| 
 |天津|[易思维(杭州/天津)科技有限公司](http://www.tjisv.com/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl6228054.html)| 
 |长沙|[湖南创发科技有限公司](http://www.transfar.com/)|2019年3月|996|亲历 [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [博客园](http://www.cnblogs.com/rawman/p/3401579.html)| 
 |珠海|[金山软件](http://www.kingsoft.com/)|2017年7月12日|996/9106|[图片](img/金山软件-9106.png)
