@@ -11,6 +11,11 @@
 [![Slack](https://img.shields.io/badge/slack-996icu-green.svg)](https://join.slack.com/t/996icu/shared_invite/enQtNTg4MjA3MzA1MzgxLWQyYzM5M2IyZmIyMTVjMzU5NTE5MGI5Y2Y2YjgwMmJiMWMxMWMzNGU3NDJmOTdhNmRlYjJlNjk5ZWZhNWIwZGM)
 [![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
 
+最新进展 Breaking News
+---
+今天晚上，美国之音会讨论996的问题，请大家积极关注。
+
+[4月16日(周二)【时事大家谈】话题：马云996工作制：员工的福气还是资本家的剥削？](https://www.voachinese.com)
 
 相关报道
 ---
