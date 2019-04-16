@@ -46,8 +46,6 @@
 
 - 好奇心日报：[在代码仓库里反对“996”，中国程序员抗议加班制度](https://www.qdaily.com/articles/62583.html)（[Wayback Machine](https://web.archive.org/web/20190405021913/https://www.qdaily.com/articles/62583.html)）
 
-- 好奇心日报：[~~996 惹怒程序员之后，他们的抗议引发了全球关注~~](https://www.qdaily.com/articles/62652.html)（[Wayback Machine](https://web.archive.org/web/20190405013618/https://www.qdaily.com/articles/62652.html)）
-
 - 中国青年报：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
 
 - 北京青年报：[40家互联网公司陷“996”工作制风波](http://www.chinanews.com/sh/2019/04-05/8801021.shtml)（[Wayback Machine](https://web.archive.org/web/20190409023804/http://www.chinanews.com/sh/2019/04-05/8801021.shtml)）
