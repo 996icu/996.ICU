@@ -81,7 +81,8 @@
  - [996.Leave](https://github.com/623637646/996.Leave) 介绍鼓励海外工作。
  
  - [996.RIP](https://996.rip) 不要忘记旧闻。
-
+ 
+ -[955.manifesto](https://github.com/AlectoMegaeraTisiphone/955.manifesto) 拒绝强迫996，原则上只接受955的宣言。
 Issues 去哪了？
 ---
 
