@@ -17,6 +17,7 @@
 
 - 《共青团中央》：[工作996，生病ICU？关注：年轻人该如何奋斗](https://mp.weixin.qq.com/s/e5qaW6ED_WUunNYG-q7frg)
 - 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
+- 《半月谈评论》：[996与奋斗无关，与利益有关](http://www.banyuetan.org/dyp/detail/20190415/1000200033134991555306789054254821_1.html)
 
 点击此处查看相关报道的[完整列表](/externals/news.md)
 
@@ -72,6 +73,8 @@
  - [996.action](https://github.com/CPdogson/996action) 向地方人力资源和社会保障局进行信息公开，要求公开他们的工作报告和计划。这是一项温柔的法律行动，面向所有劳动者，它完全合法，成本低，并且可以诉讼，并且不会使你丢掉工作。除此之外，该项目未来将进行更多行动。
  
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
+ 
+ - [996.OD](https://github.com/zheolong/996.OD.git) 程序员长期996导致的职业病，为广大程序员兄弟提供可以查询的常见职业病信息，为职业病防治法的立法改进提供依据。
  
 Issues 去哪了？
 ---

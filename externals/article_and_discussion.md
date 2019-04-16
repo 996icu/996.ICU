@@ -12,6 +12,7 @@ guido：
 - 连岳：[说说996，自愿的心理治疗功能](https://mp.weixin.qq.com/s?__biz=MjM5NDU0Mjk2MQ%3D%3D&mid=2651633063&idx=1&sn=179e1809e659e92f263d0f7ef4048807)
 - 吴晓波：[猛药996背后：不能单纯归咎于个体或企业](http://tech.sina.com.cn/csj/2019-04-12/doc-ihvhiewr5126008.shtml)
 - 刘强东：[地板闹钟的故事](http://www.bbtnews.com.cn/2019/0412/295093.shtml)
+- ~~环球时报主编 胡锡进：[我担心996会影响中国企业的核心竞争力](https://weibo.com/1989660417/HpJcHtLTP)~~
 
 ## 网友讨论
 
