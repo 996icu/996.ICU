@@ -2,6 +2,8 @@
 
 ## 中文媒体
 
+- 新华网：[辛识平：奋斗应提倡，996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+
 - 半月谈：[半月谈评论：996与奋斗无关，与利益有关](http://www.banyuetan.org/dyp/detail/20190415/1000200033134991555306789054254821_1.html)
 
 - 人民日报： [崇尚奋斗，不等于强制996](https://m.weibo.cn/status/4360947026232430)
@@ -42,7 +44,7 @@
 
 - 好奇心日报：[~~996 惹怒程序员之后，他们的抗议引发了全球关注~~](https://www.qdaily.com/articles/62652.html)（[Wayback Machine](https://web.archive.org/web/20190405013618/https://www.qdaily.com/articles/62652.html)）
 
-- 新华网：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://www.xinhuanet.com/2019-04/02/c_1124313774.htm)（[Wayback Machine](https://web.archive.org/web/20190409023804/http://www.xinhuanet.com/2019-04/02/c_1124313774.htm)）
+- 中国青年报：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
 
 - 北京青年报：[40家互联网公司陷“996”工作制风波](http://www.chinanews.com/sh/2019/04-05/8801021.shtml)（[Wayback Machine](https://web.archive.org/web/20190409023804/http://www.chinanews.com/sh/2019/04-05/8801021.shtml)）
 
@@ -102,6 +104,7 @@
 - 四川日报：[“工作996，生病ICU”上热搜 ，你的工作加班严重吗？](https://mp.weixin.qq.com/s/jkmRgTicyZyC604kIJhn-g)([Wayback Machine](https://web.archive.org/web/20190410031555/https://mp.weixin.qq.com/s/jkmRgTicyZyC604kIJhn-g))
 
 - 钱江晚报：[“996”工作制，道德绑架无法掩盖违法事实](http://qjwb.zjol.com.cn/html/2019-04/08/content_3757863.htm?div=-1)
+
 
 ### 非中国媒体
 
