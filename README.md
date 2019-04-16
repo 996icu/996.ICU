@@ -1,5 +1,7 @@
-[996.ICU](https://996.icu)
+[996.ICU](https://996.icu/#/en_US)
 =======
+### **Please note that there does NOT exist any other official account, app or merchandise except for the official domain and this repository.**
+
 * [中文版](./README_CN.md)
 
 The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
@@ -7,6 +9,7 @@ The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu/#/en_US)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Slack](https://img.shields.io/badge/slack-996icu-green.svg)](https://join.slack.com/t/996icu/shared_invite/enQtNTg4MjA3MzA1MzgxLWQyYzM5M2IyZmIyMTVjMzU5NTE5MGI5Y2Y2YjgwMmJiMWMxMWMzNGU3NDJmOTdhNmRlYjJlNjk5ZWZhNWIwZGM)
+[![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
 
 
 Related press:
@@ -51,7 +54,7 @@ Principles and purposes
 Expanding influence
 ---
 
-Please feel free to [translate 996.ICU's contents](i18n/i18n.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
+Please feel free to [translate 996.ICU's contents](i18n/README.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
 
 Community powers
@@ -60,11 +63,13 @@ Community powers
  - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies.
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
  - [996.law](https://github.com/CPdogson/996.law) This is a manual for workers who want to conduct labor arbitration and litigation on their own.
- - [996.RIP](https://996.rip) Old news never vanished.
+ - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, current another anonymous voting list.
  - [996.Leave](https://github.com/623637646/996.Leave) encourages & introduces working overseas.
+ - [996.RIP](https://996.rip) Old news never vanished.
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
  - [996.action](https://github.com/CPdogson/996action) Supporters are encouraged to participate in public supervision.
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
+ - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
 
 Where are the issues?
 ---
