@@ -147,6 +147,7 @@
 |深圳|[广东虚拟现实科技有限公司(Ximmerse)](https://www.ximmerse.com/)|2016年06月1日|996|[邮件通知](img/Ximmerse考勤邮件.png) [制度截图](img/Ximmerse制度方案.png)|
 |深圳|[边度网络科技（深圳）有限公司](https://www.bindo.com/)|2019年3月25日|996|[制度要求截图](img/bindo_com_996.jpg)<br>[打卡截图](img/bindo_com_996_2.jpg)|
 |深圳|[微付充科技有限公司](http://www.vfuchong.com/)|2019年4月|大小周， 每个月固定两天|[职友集](https://www.jobui.com/company/12488776/salary/)|
+|深圳|[深圳沈鼓测控技术有限公司](http://www.shenguyun.com/)|2019年4月|提倡员工签署自愿加班协议|[承诺书图片](img/深圳沈鼓自愿加班承诺书.jpg)
 |深圳|[深圳市前海手绘科技文化有限公司](https://www.laihua.com/)|2019年4月|996连坐，如果有人迟到或请事假，全部门996一周|[群聊图片](img/来画996.png)|
 |深圳/杭州|[华为外包](https://www.kanzhun.com/gsr1439970.html)|2018年3月|大小周、加班、裁员|[华为外包是怎样的体验？ - 知乎](https://www.zhihu.com/question/28517881)[打卡记录](img/huawei_hangzhou_timing.png)|
 |珠海|[金山软件](http://www.kingsoft.com/)|2017年7月12日|996/9106|[图片](img/金山软件-9106.png)|
@@ -158,4 +159,4 @@
 |苏州|[Momenta](https://www.momenta.cn/)|2019年4月|996|CEO朋友圈宣扬马云996|[微信截图](img/mbgwb.jpg)|
 |长沙|[湖南创发科技有限公司](http://www.transfar.com/)|2019年3月|996|亲历 [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [博客园](http://www.cnblogs.com/rawman/p/3401579.html)|
 |青岛|[海尔集团](http://www.haier.net/)|2019年4月|996|[在海尔工作怎么样](https://www.zhihu.com/question/21895528) + 亲历|
-|西安|[易点天下](http://facebook.yeahmobi.com/) ｜-----｜9116/9117｜每天下午6点开始开会，动不动就通宵，管理层的一个是从华为挖过来的，有狂躁症，动不动就炸，肯恐怖。[工作截图]（img/易点天下.jpeg）
+|西安|[易点天下](http://facebook.yeahmobi.com/) ｜-----｜9116/9117｜每天下午6点开始开会，动不动就通宵，管理层的一个是从华为挖过来的，有狂躁症，动不动就炸，肯恐怖。[工作截图]（img/易点天下.jpeg）|
