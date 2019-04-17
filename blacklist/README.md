@@ -133,8 +133,7 @@
 |深圳|[深信服](http://www.sangfor.com.cn)|2019年3月|9106|[深信服真的每天加班到 11 点吗](https://www.v2ex.com/t/525495)|
 |深圳|[跨越速运](http://www.ky-express.com/)|2018年8月|大小周、<br>加班、裁员|[如何看待跨越速运的裁员方式？ - 知乎](https://www.zhihu.com/question/312825261)<br> [跨越的水军洗地被抓现行](https://www.zhihu.com/question/47203239/answer/643311492)|
 |深圳|[马上金融](https://www.msxf.com/)|2018年3月|996|每天下班开会分享，实际超过996<br>[看准网](https://www.kanzhun.com/pl5641018.html)|
-|深圳|[深圳市世纪纵横科技发展有限公司](http://www.viothink.com/?tdsourcetag=s_pctim_aiomsg)|2019年4月|966、加班、拖延工资|[拖欠工资](img/chat1.png)|[拖欠工资](img/chat2.png)|[拖欠工资](img/chat3.png)。而且经常加
-班到1、2点[加班1](img/taxi.jpg)[加班2](img/taxi2.jpg)[加班3](img/taxi3.jpg)。周六是强制上班|
+|深圳|[深圳市世纪纵横科技发展有限公司](http://www.viothink.com/?tdsourcetag=s_pctim_aiomsg)|2019年4月|966、加班、拖延工资|[拖欠工资](img/chat1.png)[拖欠工资](img/chat2.png)[拖欠工资](img/chat3.png)。而且经常加班到1、2点[加班1](img/taxi.jpg)[加班2](img/taxi2.jpg)[加班3](img/taxi3.jpg)。周六是强制上班|
 |深圳|[深圳市环球易购电子商务有限公司](https://www.globalegrow.com/)|2007年5月|大小周、经常996、偶尔通宵|[劳动合同](img/globalegrow_labor_contract.jpg)、[Offer](img/globalegrow_offer.jpg)+亲历|
 |深圳|[腾讯](https://www.tencent.com/zh-cn/index.html)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5855.html?ka=com-blocker1-review#co_tab)|[知乎](https://www.zhihu.com/question/30383728/answer/49853422)|[知乎](https://www.zhihu.com/question/294418645/answer/494094055)|
 |深圳|[VIVO](https://www.vivo.com.cn/)|2019年4月14日|996大小周|[看准网](https://www.kanzhun.com/pl6139773.html?ka=review-item2)|
@@ -159,4 +158,4 @@
 |苏州|[Momenta](https://www.momenta.cn/)|2019年4月|996|CEO朋友圈宣扬马云996|[微信截图](img/mbgwb.jpg)|
 |长沙|[湖南创发科技有限公司](http://www.transfar.com/)|2019年3月|996|亲历 [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [博客园](http://www.cnblogs.com/rawman/p/3401579.html)|
 |青岛|[海尔集团](http://www.haier.net/)|2019年4月|996|[在海尔工作怎么样](https://www.zhihu.com/question/21895528) + 亲历|
-|西安|[易点天下](http://facebook.yeahmobi.com/) ｜-----｜9116/9117｜每天下午6点开始开会，动不动就通宵，管理层的一个是从华为挖过来的，有狂躁症，动不动就炸，肯恐怖。[工作截图]（img/易点天下.jpeg）|
+|西安|[易点天下](http://facebook.yeahmobi.com/)|-----|9116/9117|每天下午6点开始开会，动不动就通宵，管理层的一个是从华为挖过来的，有狂躁症，动不动就炸，肯恐怖。[工作截图](img/易点天下.jpeg)|
