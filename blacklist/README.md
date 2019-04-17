@@ -157,4 +157,4 @@
 |苏州|[Momenta](https://www.momenta.cn/)|2019年4月|996,CEO朋友圈宣扬马云996|[微信截图](img/mbgwb.jpg)
 |武汉|[武汉斗鱼网络科技有限公司](https://www.douyu.com/)|2018年9月|每天至少加班两小时，拖欠大量工资，无加班费|[看准网](https://m.kanzhun.com/pl6708460.html）
 |北京|[蛋壳公寓](https://www.danke.com/)|2018年7月|10106/10107|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)
-|北京|[北京领为军融](http://linkvic.com/)|2018年10月8日|996|[微信截图1](img/linkvic1.jpg)、[微信截图2](img/linkvic2.jpg)
+|北京|[北京领为军融科技有限公司](http://linkvic.com/)|2018年10月8日|996|[微信截图1](img/linkvic1.jpg)、[微信截图2](img/linkvic2.jpg)
