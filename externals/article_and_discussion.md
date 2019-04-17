@@ -33,6 +33,7 @@ guido：
 - 新闻实验室，川叶：[996.ICU背后：程序员在互联网公司的真实生态](https://mp.weixin.qq.com/s?__biz=MjM5NDEwNjQ0MQ%3D%3D&mid=2654281959&idx=1&sn=19105a25ac2c7caa32051333b7d754cf)
 - 环球人力资源智库，白睿：[被消失的996.ICU，互联网繁华背后的隐忧](https://cj.sina.com.cn/articles/view/2205892054/837b3dd601900g6bq)
 - ifanr，蒋鸿昌：[病态的 996 早需改变，而且不应该只从程序员开始](https://www.ifanr.com/1195365)
+- 果壳，莱德：[想要996的老板们，等待你们的恐怕是全司集体摸鱼](https://mp.weixin.qq.com/s/fMbEtL7rEWvqJQUA-5duRQ)
 
 ## 播客讨论（Podcast）
 
