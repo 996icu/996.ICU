@@ -2,6 +2,8 @@
 
 ## 中文媒体
 
+- 人民网：[遏制“996” 需要劳动监察部门发力](http://industry.people.com.cn/n1/2019/0417/c413883-31033624.html)
+
 - 中新网：[逃离996：我宁可不婚不育不买房，也不要拼命](http://www.chinanews.com/gn/2019/04-16/8809887.shtml)
 
 - 新华网：[辛识平：奋斗应提倡，996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
