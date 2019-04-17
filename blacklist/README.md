@@ -147,6 +147,7 @@
 |北京|[易车网](http://beijing.bitauto.com/)|2019年4月|996|[办公软件截图](img/易车996.png )、[脉脉](img/易车脉脉.png)|
 |大连|[大连东软集团](https://www.neusoft.com/cn/)|2019年4月|9106|[看准网](https://www.kanzhun.com/pl5758283.html?ka=review-item2)、[看准网](https://www.kanzhun.com/pl5892120.html?ka=review-item10)|
 |深圳|[微付充科技有限公司](http://www.vfuchong.com/)|2019年4月|大小周， 每个月固定两天|[职友集](https://www.jobui.com/company/12488776/salary/)
+|四川|[四川澳沙科技有限公司](http://www.aosatech.com/aosa/index.html)|2019年4月16日|996|[图片](img/劳动合同1 - 副本.jpg)|、[图片](img/劳动合同2 - 副本.jpg)|[图片](img/微信老板认可996 - 副本.jpg)
 |深圳|[深圳市前海手绘科技文化有限公司](https://www.laihua.com/)|2019年4月|996连坐，如果有人迟到或请事假，全部门996一周|[群聊图片](img/来画996.png)
 |上海|[七牛云](https://www.qiniu.com/)|2018年11月|995、裁员|[Boss直聘](img/七牛云995.jpg)、[脉脉](img/七牛云裁员1.jpg)、[脉脉](img/七牛云裁员2.jpg)、[脉脉](img/七牛云裁员3.jpg)、[看准网](https://www.kanzhun.com/pl7147841.html?ka=comreview-result1)|
 |上海|[邻趣网络有限公司](https://linjia.me)|2018年9月|995|七点左右下班要在群里报备 [工作群截图1](img/邻趣工作群截图.jpeg ) [工作群截图2](img/邻趣工作群截图2.jpeg) [工作群截图3](img/邻趣工作群截图3.jpeg)
