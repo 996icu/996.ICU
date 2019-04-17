@@ -1,5 +1,5 @@
 
-﻿**请注意：维护本列表的目的在于为《中华人民共和国劳动法》的执行提供参考依据。**
+**请注意：维护本列表的目的在于为《中华人民共和国劳动法》的执行提供参考依据。**
 违法加班制度是指违反相关法律法规及劳动合同，未经与工会和劳动者协商便强制加班加点<sup>1</sup>，或加班加点超出法定时限（每日三小时或每月三十六小时）<sup>2</sup>，或未足额支付加班加点工资报酬（不低于工资的百分之一百五十）<sup>3</sup>的非法用工制度。
 
 1. [《中华人民共和国劳动法》](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)第四章第四十一条
@@ -84,7 +84,7 @@
 |北京|[快方送药](http://www.kfyao.com/)|已经施行一段时间了|996| [看准网](https://www.kanzhun.com/pl5675303.html) |
 |北京|[快陪练](https://www.kuaipeilian.com)|2019年4月8日|996|[发言为其招聘经理](https://pic.superbed.cn/item/5cad617f3a213b0417f7cc2a)|
 |北京|[东华软件股份公司](http://www.dhcc.com.cn/)|2018年2月|996|亲历 [百度口碑](https://koubei.baidu.com/s/xt.dhcc.com.cn?from=ps_pc1) |
-|北京|[信美人寿相互保险社](https://www.trustlife.com/)|2019年|996|[看准网](https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review)、[看准网](https://www.kanzhun.com/gsr6603074.html?ka=com1-review|
+|北京|[信美人寿相互保险社](https://www.trustlife.com/)|2019年|996|[看准网](https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review)、[看准网](https://www.kanzhun.com/gsr6603074.html?ka=com1-review)|
 |北京|[北京中广创思文化传播有限公司](http://www.cbct.cn/)|2019年4月|996/9107|[图片](img/北京中广创思9107钉钉截图.jpg)|
 |北京|[易车网](http://beijing.bitauto.com/)|2019年4月|996|[办公软件截图](img/易车996.png )、[脉脉](img/易车脉脉.png)|
 |北京|[北京数码视讯科技股份有限公司](http://www.sumavision.com/)|2011年4月|996亲历|管理规定，大小周|[看准网](https://www.kanzhun.com/pl474513.html)|
