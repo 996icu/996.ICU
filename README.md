@@ -71,6 +71,8 @@ Community powers
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
  - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
 
+ - [996.TSC](https://github.com/lxlxw/996.TSC) The surrounding culture of 996.ICU. Including but not limited to music, sticker, poster, wallpaper, DIY T-Shirt, Logo.
+
 Where are the issues?
 ---
 
