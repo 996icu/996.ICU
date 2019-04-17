@@ -34,6 +34,7 @@
 - 为你的项目添加[反 996 许可证](LICENSE_CN)。
 - 给社区与项目发展提出新的[议案](proposal/README.md)。
 - 下午6点钟下班回家。
+**- 进行一个[信息公开](https://github.com/CPdogson/996action) 报名截至2019年4月20日21:00**
 
 原则和目的
 ---
