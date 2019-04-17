@@ -75,6 +75,8 @@
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
  
  - [996.OD](https://github.com/zheolong/996.OD.git) 程序员长期996导致的职业病，为广大程序员兄弟提供可以查询的常见职业病信息，为职业病防治法的立法改进提供依据。
+
+ - [996.TSC](https://github.com/lxlxw/996.TSC) 衍生出来的周边文化，欢迎一切积极的、具有建设性意义的建议，倡导成熟的、负责任的发言和作品。
  
 Issues 去哪了？
 ---
