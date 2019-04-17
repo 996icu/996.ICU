@@ -55,4 +55,4 @@
 
 附：[中华人民共和国劳动法（2018年修订版）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
 
-Developers' lives matter. 夫開發者，其弗生哉？
+Developers' lives matter. 夫开发者，其弗生哉？
