@@ -2,6 +2,8 @@
 
 ## 中文媒体
 
+- 经济日报：[挥别“996”，从今天开始](http://paper.ce.cn/jjrb/html/2019-04/18/content_389134.htm)
+
 - 人民网：[遏制“996” 需要劳动监察部门发力](http://industry.people.com.cn/n1/2019/0417/c413883-31033624.html)
 
 - 中新网：[逃离996：我宁可不婚不育不买房，也不要拼命](http://www.chinanews.com/gn/2019/04-16/8809887.shtml)
