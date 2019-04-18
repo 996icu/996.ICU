@@ -130,6 +130,7 @@
 - 德国之声：[996.ICU”——码农活命站起来](https://p.dw.com/p/3GSN5)
 
 - FT中文网：[996工作制与中国科技企业的国际化](http://www.ftchinese.com/story/001082216)
+- FT中文网：[从“马云三谈996”窥视中国企业家的内心世界](http://www.ftchinese.com/story/001082356?full=y)
 
 ## 英文媒体
 
