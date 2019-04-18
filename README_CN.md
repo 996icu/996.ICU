@@ -15,6 +15,7 @@
 相关报道
 ---
 
+- 《新华网》：[辛识平：奋斗应提倡，996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
 - 《共青团中央》：[工作996，生病ICU？关注：年轻人该如何奋斗](https://mp.weixin.qq.com/s/e5qaW6ED_WUunNYG-q7frg)
 - 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
 - 《半月谈评论》：[996与奋斗无关，与利益有关](http://www.banyuetan.org/dyp/detail/20190415/1000200033134991555306789054254821_1.html)
