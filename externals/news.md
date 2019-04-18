@@ -1,6 +1,7 @@
 # 相关媒体报道，感谢媒体朋友们
 
 ## 中文媒体
+- 996服务平台：[“996”工作制，不缺智慧，缺的是对法律、法规和规章的敬畏](https://mp.weixin.qq.com/s/IFcDJb-pffsr8U8Kw1hsYA)
 
 - 经济日报：[挥别“996”，从今天开始](http://paper.ce.cn/jjrb/html/2019-04/18/content_389134.htm)
 
