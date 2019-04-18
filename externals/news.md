@@ -2,6 +2,8 @@
 
 ## 中文媒体
 
+- 新浪财经：[多名政协委员回应马云996：对员工提要求就是违法](http://finance.sina.com.cn/chanjing/gsnews/2019-04-18/doc-ihvhiqax3657558.shtml)
+
 - 每日经济网：[“996”不符合社会主义关于人的发展价值观](http://www.nbd.com.cn/articles/2019-04-14/1321040.html)
 
 - 经济日报：[挥别“996”，从今天开始](http://paper.ce.cn/jjrb/html/2019-04/18/content_389134.htm)
