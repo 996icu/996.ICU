@@ -25,7 +25,7 @@
 
 - 工人日报：[“工作996，生病ICU”该引起重视了](http://news.workercn.cn/32845/201904/07/190407041525409.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022551/http://news.workercn.cn/32845/201904/07/190407041525409.shtml)）
 
-# 经济日报
+### 经济日报
 
 - 经济日报（中国经济网）：[拒绝“996”工作制！以人为本才能获得长远发展](http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022740/http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)）
 
