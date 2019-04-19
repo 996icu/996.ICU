@@ -149,6 +149,7 @@
 |深圳|[深圳沈鼓测控技术有限公司](http://www.shenguyun.com/)|2019年4月|提倡员工签署自愿加班协议|[承诺书图片](img/深圳沈鼓自愿加班承诺书.jpg)
 |深圳|[深圳市前海手绘科技文化有限公司](https://www.laihua.com/)|2019年4月|996连坐，如果有人迟到或请事假，全部门996一周|[群聊图片](img/来画996.png)|
 |深圳/杭州|[华为外包](https://www.kanzhun.com/gsr1439970.html)|2018年3月|大小周、加班、裁员|[华为外包是怎样的体验？ - 知乎](https://www.zhihu.com/question/28517881)[打卡记录](img/huawei_hangzhou_timing.png)|
+|深圳|[深圳聚力创想信息科技有限公司](https://www.qidianla.com/)|------|大小周、加班|[打卡通知1](img/qidianxueyuan1.jpg)、[打卡通知2](img/qidianxueyuan2.jpg)|
 |珠海|[金山软件](http://www.kingsoft.com/)|2017年7月12日|996/9106|[图片](img/金山软件-9106.png)|
 |福州|[中富通集团股份有限公司](http://www.zftii.com/)|2019年4月|宣扬马云996 随意要求员工加班|[微信截图](img/zftjt.jpg)|
 |福建|[福建浔兴拉链科技股份有限公司](http://www.sbszipper.com/)|2019年4月11日|大小周|亲历+[元旦前考勤注解](img/fjxxydkq.png)[大小周外加周末充当法定节假日外加随意重置大小周顺序-元旦](img/fjxxydfj.png)、[大小周外>加周末充当法定节假日外加随意重置大小周顺序-清明节](img/fjxxqmfj.png)|
