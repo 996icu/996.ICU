@@ -116,6 +116,12 @@
 
 - 凤凰网：[视频：监控实拍深圳某公司程序员周末加班突然晕倒 现场画面触目惊心](http://v.ifeng.com/video_22036450.shtml)
 
+- 新浪财经：[胡锡进谈“996”现象：既莫上纲上线 也应认真缓解](http://finance.sina.com.cn/wm/2019-04-06/doc-ihvhiqax0439519.shtml?cre=tianyi&mod=pchp&loc=1&r=0&rfunc=100&tj=none&tr=12)
+
+- 环球网：[胡锡进再谈996:公司高管怎么高强度工作都行,但不应强制要求员工](https://m.huanqiu.com/r/MV8wXzE0NzE3MTY1XzEyNjRfMTU1NTEzODkyMA==)
+
+- 环球时报：[胡锡进三谈996：高管有想怎么工作都行的选择权，但员工却没有](https://mp.weixin.qq.com/s?src=11&timestamp=1555570362&ver=1553&signature=RKvMC*B0tUqBZ*JshgPtH9t-YMq1ekFT3dsXvZ04WKvNXH845jDoh9-9TU2qvwwRaexND*o3Lry*sHTLnpWbSvB4bHjWWE04zxtGtgd9hhvO9haGojcQNHiJFdx*9ViD&new=1)
+
 ### 非中国媒体
 
 - BBC中文网：[中国程序员GitHub上抗议“996”血汗加班走红网络](https://www.bbc.com/zhongwen/simp/chinese-news-47824716)
