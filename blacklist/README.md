@@ -57,6 +57,7 @@
 |北京|[京东](https://www.jd.com)|2019年3月|995|[京东回应995工作制：不会强制要求 但要全情投入](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)<br>[刘强东内部邮件称要淘汰或协商解决掉“三种人”](https://i.loli.net/2019/04/02/5ca2e8727f213.jpg)|
 |北京|[58同城](https://www.58.com)|2019年4月7日|996|[58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml)<br>[看准网](https://www.kanzhun.com/gsr10329.html?ka=com-blocker1-review#co_tab)|[知乎](https://www.zhihu.com/question/50217184/answer/121096322)|
 |北京|[途家网](https://www.tujia.com)|2017年12月|897|[暴力裁员、996加班、发感冒冲剂、搭睡觉帐篷、诉讼材料](https://www.tujia.xyz/)|
+|北京|[每日优鲜](https://www.missfresh.cn/)|-----|007/996|app更新记录,大肆鼓吹996|
 |北京|[字节跳动](https://bytedance.com)|2017年7月|996|[看准网1](https://www.kanzhun.com/gsr5622411tl56.html)、[看准网2](https://www.kanzhun.com/pl6583181.html)、[搜狐](https://www.sohu.com/a/256795805_231667)|
 |北京|[用友](http://www.yonyou.com/)|2018年12月|997|[在用友工作是怎样一番体验？ - 知乎](https://www.zhihu.com/question/26683235)|
 |北京|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
@@ -149,6 +150,7 @@
 |深圳|[深圳沈鼓测控技术有限公司](http://www.shenguyun.com/)|2019年4月|提倡员工签署自愿加班协议|[承诺书图片](img/深圳沈鼓自愿加班承诺书.jpg)
 |深圳|[深圳市前海手绘科技文化有限公司](https://www.laihua.com/)|2019年4月|996连坐，如果有人迟到或请事假，全部门996一周|[群聊图片](img/来画996.png)|
 |深圳/杭州|[华为外包](https://www.kanzhun.com/gsr1439970.html)|2018年3月|大小周、加班、裁员|[华为外包是怎样的体验？ - 知乎](https://www.zhihu.com/question/28517881)[打卡记录](img/huawei_hangzhou_timing.png)|
+|深圳|[深圳聚力创想信息科技有限公司](https://www.qidianla.com/)|------|大小周、加班|[打卡通知1](img/qidianxueyuan1.jpg)、[打卡通知2](img/qidianxueyuan2.jpg)|
 |珠海|[金山软件](http://www.kingsoft.com/)|2017年7月12日|996/9106|[图片](img/金山软件-9106.png)|
 |福州|[中富通集团股份有限公司](http://www.zftii.com/)|2019年4月|宣扬马云996 随意要求员工加班|[微信截图](img/zftjt.jpg)|
 |福建|[福建浔兴拉链科技股份有限公司](http://www.sbszipper.com/)|2019年4月11日|大小周|亲历+[元旦前考勤注解](img/fjxxydkq.png)[大小周外加周末充当法定节假日外加随意重置大小周顺序-元旦](img/fjxxydfj.png)、[大小周外>加周末充当法定节假日外加随意重置大小周顺序-清明节](img/fjxxqmfj.png)|
@@ -160,3 +162,4 @@
 |青岛|[海尔集团](http://www.haier.net/)|2019年4月|996|[在海尔工作怎么样](https://www.zhihu.com/question/21895528) + 亲历|
 |西安|[易点天下](http://facebook.yeahmobi.com/)|-----|9116/9117|每天下午6点开始开会，动不动就通宵，管理层的一个是从华为挖过来的，有狂躁症，动不动就炸，肯恐怖。[工作截图](img/易点天下.jpeg)|
 |潍坊|[歌尔股份](https://www.goertek.com/)|2019年4月|大小周|[考勤规定](img/goertek.jpeg)|
+|济南|[浪潮集团](http://www.inspur.com/)|-----|996|奋进者申请书 [996工作制](https://baike.baidu.com/item/996%E5%B7%A5%E4%BD%9C%E5%88%B6/19940031?fromtitle=996&fromid=19958311&fr=aladdin#3)|
