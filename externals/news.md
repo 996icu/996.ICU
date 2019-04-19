@@ -120,7 +120,7 @@
 
 - 环球网：[胡锡进再谈996:公司高管怎么高强度工作都行,但不应强制要求员工](https://m.huanqiu.com/r/MV8wXzE0NzE3MTY1XzEyNjRfMTU1NTEzODkyMA==)
 
-- 环球时报：[胡锡进三谈996：高管有想怎么工作都行的选择权，但员工却没有](https://mp.weixin.qq.com/s?src=11&timestamp=1555570362&ver=1553&signature=RKvMC*B0tUqBZ*JshgPtH9t-YMq1ekFT3dsXvZ04WKvNXH845jDoh9-9TU2qvwwRaexND*o3Lry*sHTLnpWbSvB4bHjWWE04zxtGtgd9hhvO9haGojcQNHiJFdx*9ViD&new=1)
+- 环球时报：[胡锡进三谈996：高管有想怎么工作都行的选择权，但员工却没有](http://v.ifeng.com/201904/video_38353481.shtml)
 
 ### 非中国媒体
 
