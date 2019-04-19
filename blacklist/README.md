@@ -159,3 +159,4 @@
 |长沙|[湖南创发科技有限公司](http://www.transfar.com/)|2019年3月|996|亲历 [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [博客园](http://www.cnblogs.com/rawman/p/3401579.html)|
 |青岛|[海尔集团](http://www.haier.net/)|2019年4月|996|[在海尔工作怎么样](https://www.zhihu.com/question/21895528) + 亲历|
 |西安|[易点天下](http://facebook.yeahmobi.com/)|-----|9116/9117|每天下午6点开始开会，动不动就通宵，管理层的一个是从华为挖过来的，有狂躁症，动不动就炸，肯恐怖。[工作截图](img/易点天下.jpeg)|
+|潍坊|[歌尔股份](https://www.goertek.com/)|-----|大小周|[工作截图](img/易点天下.jpeg)|
