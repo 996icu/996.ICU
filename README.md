@@ -59,7 +59,7 @@ Please feel free to [translate 996.ICU's contents](i18n/README.md), adjust the f
 Milestones
 ---
 
-* [Company](github.com/996icu/996.ICU/milestone/1?closed=1) that calls off the 996 work schedule
+* [Company](htts://github.com/996icu/996.ICU/milestone/1?closed=1) that calls off the 996 work schedule
 
 
 Community powers
