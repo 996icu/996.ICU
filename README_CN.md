@@ -58,6 +58,8 @@
 ---
 
  - [955.WLB](https://github.com/formulahendry/955.WLB) 955 公司白名单，旨在让更多的人逃离 996，加入 955 的行列。
+ 
+ - [955jobs.com](https://955jobs.com/) 955公司白名单，收录955公司12210家，这些公司自己在51jobs上面说自己是朝九晚五，或者周末双休。另外收录996公司15344，这些公司的招聘信息是周六，周日发布的，所以认为他们【连HR周末都加班，更不用说程序员】。黑名单放在[china_job_survey](https://github.com/juwikuang/china_job_survey) 这个repo。
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
  
