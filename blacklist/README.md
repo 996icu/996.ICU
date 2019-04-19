@@ -111,6 +111,10 @@
 |成都|[tap4fun](https://www.tap4fun.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历|
 |成都|[成都索贝数码科技股份有限公司](http://www.sobey.com/)|2019年4月8日| 996 无倒休 | [看准网](https://www.kanzhun.com/pl7169544.html) |
+|苏州|[Momenta](https://www.momenta.cn/)|2019年4月|996,CEO朋友圈宣扬马云996|[微信截图](img/mbgwb.jpg)
+|武汉|[武汉斗鱼网络科技有限公司](https://www.douyu.com/)|2018年9月|每天至少加班两小时，拖欠大量工资，无加班费|[看准网](https://m.kanzhun.com/pl6708460.html）
+|北京|[蛋壳公寓](https://www.danke.com/)|2018年7月|10106/10107|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)
+|河北秦皇岛|[河北东软软件有限公司](https://www.neuqsoft.com/)|2019年4月|8.30-21,副总亲自回复邮件加班|[邮件截图](img/河北东软软件有限公司申请加班.png)
 |杭州|[阿里巴巴](https://www.alibabagroup.com/)|2018年6月|996|[阿里巴巴的996加班文化，看到这些恐怖数据，你也会辞职！](https://kuaibao.qq.com/s/20180612A1FAPU00)<br>[马云：996是修来的福报! 律师：涉嫌违法](http://m.sohu.com/a/307564633_241241)<br>[马云：后悔忙于工作 没时间陪家人 有来生绝不这样](https://v.qq.com/x/page/h0860wwt0xl.html)|
 |杭州|[蚂蚁金服](https://www.antfin.com/)|2018年11月|9106|[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q)|
 |杭州|[有赞](https://www.youzan.com)|2019年1月|996|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|
