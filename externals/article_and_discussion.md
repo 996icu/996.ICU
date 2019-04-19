@@ -5,13 +5,9 @@
 - Python之父 Guido van Rossum
 guido：
 [Can we do something for 996 programmers in China?](https://discuss.python.org/t/can-we-do-something-for-996-programmers-in-china/1119)
-- 人民日报：[“996”工作制该不该消灭？](http://t.people.com.cn/discussD.action?topicId=8160)
-- ~~阿里巴巴 马云：[马云谈996](https://mp.weixin.qq.com/s/oc0NugBjpsn1_mBtbib2Lg)~~
-- ~~有赞CEO 白鸦：[只是聊聊 enjoy](https://mp.weixin.qq.com/s/n13Xbu0HpJaNGW0gYMbpYw)~~
-- ~~无码科技 冯大辉(Fenng)：[聊聊 996](https://mp.weixin.qq.com/s/Jnt8wM-oCVQppfztxB_KEQ)~~
+- 袁腾飞:[袁腾飞聊996：是兄弟就来加班？加你妹！](https://www.youtube.com/watch?v=v95MoOaLyFY)
 - 连岳：[说说996，自愿的心理治疗功能](https://mp.weixin.qq.com/s?__biz=MjM5NDU0Mjk2MQ%3D%3D&mid=2651633063&idx=1&sn=179e1809e659e92f263d0f7ef4048807)
 - 吴晓波：[猛药996背后：不能单纯归咎于个体或企业](http://tech.sina.com.cn/csj/2019-04-12/doc-ihvhiewr5126008.shtml)
-- 刘强东：[地板闹钟的故事](http://www.bbtnews.com.cn/2019/0412/295093.shtml)
 
 ## 网友讨论
 
