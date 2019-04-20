@@ -6,6 +6,7 @@ Related press:
 * *Abacus:*  [Follow China’s “996” work hours and you’ll end up in an ICU, says Chinese developer](https://www.abacusnews.com/digital-life/follow-chinas-996-work-hours-and-youll-end-icu-says-chinese-developer/article/3003702). 28 March, 2019.
 * *South China Morning Post:* [‘Developers’ lives matter’ – Chinese software engineers use Github to protest against the country’s 996 work schedule](https://www.scmp.com/tech/start-ups/article/3003691/developers-lives-matter-chinese-software-engineers-use-github). 29 March, 2019.
 * *TechNode:*  [Briefing: Chinese developers protest ‘996’ in viral Github post](https://technode.com/2019/03/29/briefing-chinese-developers-protest-996-in-viral-github-post/). 29 March, 2019.
+* *TechNode Video:*  [Chinese workers react to 996.ICU](https://www.youtube.com/watch?v=kz5PntzynZU). 17 April, 2019.
 * *Packt Pub:*  [‘Developers’ lives matter’: Chinese developers protest over the “996 work schedule” on GitHub](https://hub.packtpub.com/developers-lives-matter-chinese-developers-protest-over-the-996-work-schedule-on-github/). 29 March, 2019.
 * *Inkstone:*  [China’s tech workers protest brutal work culture with communist jingles](https://www.inkstonenews.com/tech/china-tech-workers-protest-996-working-schedule-github/article/3003800). 29 March, 2019.
 * *THE VERGE:* [Chinese developers use GitHub to protest long work hours](https://www.theverge.com/2019/4/2/18291035/chinese-developers-github-protest-long-work-hours). 2 April, 2019.
