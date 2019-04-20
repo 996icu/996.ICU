@@ -110,7 +110,7 @@
 |成都|[tap4fun](https://www.tap4fun.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历|
 |成都|[成都索贝数码科技股份有限公司](http://www.sobey.com/)|2019年4月8日| 996 无倒休 | [看准网](https://www.kanzhun.com/pl7169544.html) |
-|成都|[成都未知未来科技有限公司](https://cdxfuture.com/xf/)|2018年12月|大小周、拖欠工资，裁员无补偿|[周六加班](img/xf周六加班通知.png)[提醒补加班](img/xf提醒补加班.png)[裁员后还拖欠工资](img/xf被裁员拖欠薪资.jpg)[仲裁书](img/xf劳动仲裁书.jpg)
+|成都|[成都未知未来科技有限公司](https://cdxfuture.com/xf/)|2018年12月|大小周、拖欠工资，裁员无补偿|[周六加班](img/xf周六加班通知.png)，[提醒补加班](img/xf提醒补加班.png)，[裁员后还拖欠工资](img/xf被裁员拖欠薪资.jpg)，[仲裁书](img/xf劳动仲裁书.jpg)
 |苏州|[Momenta](https://www.momenta.cn/)|2019年4月|996,CEO朋友圈宣扬马云996|[微信截图](img/mbgwb.jpg)
 |武汉|[武汉斗鱼网络科技有限公司](https://www.douyu.com/)|2018年9月|每天至少加班两小时，拖欠大量工资，无加班费|[看准网](https://m.kanzhun.com/pl6708460.html）
 |北京|[蛋壳公寓](https://www.danke.com/)|2018年7月|10106/10107|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)
