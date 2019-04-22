@@ -1,6 +1,6 @@
 [996.ICU](https://996.icu/#/en_US)
 =======
-### **Please note that there exist NO other official account, app or merchandise except for the official domain and this repository.**
+### **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
 
 * [中文版](./README_CN.md)
 
