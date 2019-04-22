@@ -2,7 +2,7 @@
 =======
 ### **请注意 996.ICU 没有除域名和库以外的任何官方账号、app、周边，请勿给予有心之人可乘之机。**
 
-[![Build Status](https://img.shields.io/badge/README-中文-yellow.svg)](README.md)
+[![Build Status](https://img.shields.io/badge/README-中文-yellow.svg?style=flat-square)](README.md)
 
 `996.ICU`  是指“工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
 
