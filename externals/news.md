@@ -126,6 +126,8 @@
 
 - 环球网：[胡锡进再谈996:公司高管怎么高强度工作都行,但不应强制要求员工](https://m.huanqiu.com/r/MV8wXzE0NzE3MTY1XzEyNjRfMTU1NTEzODkyMA==)
 
+- 金融界：[冯仑：关于「996」，我的看法是这样的](https://baijiahao.baidu.com/s?id=1631468784393271629&wfr=spider&for=pc)
+
 
 ### 非中国媒体
 
