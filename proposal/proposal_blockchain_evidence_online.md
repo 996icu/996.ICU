@@ -33,9 +33,36 @@ Use Blockchain so that the evidence cannot be denied.
 Blockchain developers.
 區塊鏈軟體工程師
 
+EOS Wallet
+EOS 钱包
+
 ## Actions & implementation Plan
 
-To be added
+
+There is a DApp can save datas permanently (IPFS) on EOS Blockchain.
+
+在EOS区块链上已经有对应的DApp可以永久存储该类数据（IPFS）。
+
+- 下载一个EOS钱包 [TokenPocket](https://www.tokenpocket.pro/)
+
+- 创建一个EOS账号
+
+- 在钱包的DApp浏览器中访问 智能签名 https://smartsignature.io/
+
+- 记录证据并保存，你的数据将保存在IPFS上。
+
+
+
+
+- Download a EOS Wallet [TokenPocket](https://www.tokenpocket.pro/)
+
+- Create a EOS Account
+
+- Visit Smart Signature in the wallet's DApp Browser:  https://smartsignature.io/
+
+- Record your evidence and save, your data will be store in IPFS.
+
+
 
 ## References
 
