@@ -56,12 +56,6 @@ Expanding influence
 
 Please feel free to [translate 996.ICU's contents](i18n/README.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
-Milestones
----
-
-* [Company](https://github.com/996icu/996.ICU/milestone/1?closed=1) that calls off the 996 work schedule
-
-
 Community powers
 ---
 
