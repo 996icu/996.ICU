@@ -2,7 +2,7 @@
 =======
 ### **Please note that there exist NO other official account, app or merchandise except for the official domain and this repository.**
 
-[![Build Status](https://img.shields.io/badge/README-EN-yellow.svg?style=flat-square)](README_CN.md)
+[![LanguageChange](https://img.shields.io/badge/README-EN-yellow.svg?style=flat-square)](README_CN.md)
 
 The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
 
