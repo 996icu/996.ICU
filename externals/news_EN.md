@@ -31,4 +31,3 @@ Related press:
 * *The Economist:* [Office workers in China organise a rare online labour movement](https://www.economist.com/china/2019/04/20/office-workers-in-china-organise-a-rare-online-labour-movement). 17 April, 2019
 * *The New York Times:* [The Richest Man in China Is Wrong. 12-Hour Days Are No ‘Blessing.’](https://www.nytimes.com/2019/04/21/opinion/jack-ma-996.html). 21 April, 2019
 * *Bloomberg:* [Microsoft Workers Criticize Block of GitHub Protest in China](https://www.bloomberg.com/news/articles/2019-04-22/microsoft-workers-criticize-block-of-github-protest-in-china). 22 April, 2019
-
