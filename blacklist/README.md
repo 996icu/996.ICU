@@ -66,7 +66,7 @@
 |北京|[京东](https://www.jd.com)|2019年3月|995|[京东回应995工作制：不会强制要求 但要全情投入](http://tech.163.com/19/0312/13/EA2QGIOK00097U7R.html)<br>[刘强东内部邮件称要淘汰或协商解决掉“三种人”](https://i.loli.net/2019/04/02/5ca2e8727f213.jpg)|
 |北京|[58同城](https://www.58.com)|2019年4月7日|996|[58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml)<br>[看准网](https://www.kanzhun.com/gsr10329.html?ka=com-blocker1-review#co_tab)|[知乎](https://www.zhihu.com/question/50217184/answer/121096322)|
 |北京|[途家网](https://www.tujia.com)|2017年12月|897|[暴力裁员、996加班、发感冒冲剂、搭睡觉帐篷、诉讼材料](https://www.tujia.xyz/)|
-|北京|[每日优鲜](https://www.missfresh.cn/)|-----|007/996|app更新记录,大肆鼓吹996|
+|北京|[每日优鲜](https://www.missfresh.cn/)|-----|007/996|[app更新记录,大肆鼓吹996](img/每日优鲜鼓吹996.png)|
 |北京|[字节跳动](https://bytedance.com)|2017年7月|996|[看准网1](https://www.kanzhun.com/gsr5622411tl56.html)、[看准网2](https://www.kanzhun.com/pl6583181.html)、[搜狐](https://www.sohu.com/a/256795805_231667)|
 |北京|[用友](http://www.yonyou.com/)|2018年12月|997|[在用友工作是怎样一番体验？ - 知乎](https://www.zhihu.com/question/26683235)|
 |北京|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
@@ -75,7 +75,7 @@
 |北京|[高伟达](http://www.git.com.cn/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC120702341J00114014810.htm)|
 |北京|[霁云科技](https://xin.baidu.com/detail/compinfo?pid=xlTM-TogKuTwdr2zNtf0Zpjhxx2gQd9FZQmd&from=ps)|2019年3月|996|[boss直聘](https://www.zhipin.com/gongsi/2c08264377f4a5c61nx739i-Fw~~.html?ka=search_rcmd_company_2c08264377f4a5c61nx739i-Fw~~)|
 |北京|[北京关键科技股份有限公司](http://www.keyware.com.cn/)|2019年3月|986|986且没加班费不能换休[图片-1](img/keyware1.jpg)<br>[图片-2](img/keyware2.jpg)|
-|北京|[首约科技（北京）有限公司](https://www.01zhuanche.com/)|2019年3月|996|工作日无加班费无调休|加班时长作为KPI评估标准|
+|北京|[首约科技（北京）有限公司](https://www.01zhuanche.com/)|2019年3月|996|工作日无加班费无调休、加班时长作为KPI评估标准|
 |北京|[Boss直聘(北京华品博睿网络技术有限公司)](https://www.zhipin.com/)|2019年4月2日|大小周|[OFFER邮件(已处理图片和关键字过滤)](https://upload.cc/i1/2019/04/03/1wfI7o.png) + 亲历|
 |北京|[北京游奕互动软件有限公司](http://www.uegame.com/)|2016年3月|986|加班不给钱的那种，用这个来卡大家项目上线分红[打卡记录](img/yyhd.png)|
 |北京|[小米](https://www.mi.com)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr347791.html?ka=com-blocker1-review#co_tab)|[知乎](https://www.zhihu.com/question/270788307/answer/356518575)|
@@ -97,7 +97,7 @@
 |北京|[信美人寿相互保险社](https://www.trustlife.com/)|2019年|996|[看准网](https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review)、[看准网](https://www.kanzhun.com/gsr6603074.html?ka=com1-review)|
 |北京|[北京中广创思文化传播有限公司](http://www.cbct.cn/)|2019年4月|996/9107|[图片](img/北京中广创思9107钉钉截图.jpg)|
 |北京|[易车网](http://beijing.bitauto.com/)|2019年4月|996|[办公软件截图](img/易车996.png )、[脉脉](img/易车脉脉.png)|
-|北京|[北京数码视讯科技股份有限公司](http://www.sumavision.com/)|2011年4月|996亲历|管理规定，大小周|[看准网](https://www.kanzhun.com/pl474513.html)|
+|北京|[北京数码视讯科技股份有限公司](http://www.sumavision.com/)|2011年4月|996，大小周|亲历 [看准网](https://www.kanzhun.com/pl474513.html)|
 |北京|[北京声智科技有限公司](http://www.soundai.com/)|2019年4月|996|[看准网：包括 HR 全员996](https://www.kanzhun.com/gsr5680797tl526.html?ka=review-label1)|
 |北京|[蛋壳公寓](https://www.danke.com/)|2018年7月|10106/10107|[看准网](https://www.kanzhun.com/gsm5710300.html?ka=com-blocker1-interview#co_tab%EF%BC%89)|
 |北京|[北京掌握时代科技股份有限公司](http://www.mastertimes.net/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)|
@@ -116,7 +116,7 @@
 |广州|[多益网络](https://www.duoyi.com)|2018年3月|9106|[看准网](https://www.kanzhun.com/gsr1365983tl56.html)、[知乎](https://www.zhihu.com/question/22713470/answer/145287600)|
 |广州|[网易游戏](https://game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14)|[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
 |广州|[三七互娱](www.37wan.net/)|2019年4月7日|9115 9116?|[看准网](https://www.kanzhun.com/gsr1906275.html?ka=com-blocker1-review#co_tab)|
-|广州|[广州蓝鸽集团](http://www.chinalancoo.com)|2019年4月9日|每月加班最低50小时，曾经一个月加班60小时被喝茶|薪资50%需要加班和绩效才能获得 |[知乎爆料](https://www.zhihu.com/question/40782949)|
+|广州|[广州蓝鸽集团](http://www.chinalancoo.com)|2019年4月9日|每月加班最低50小时，曾经一个月加班60小时被喝茶，薪资50%需要加班和绩效才能获得 |[知乎爆料](https://www.zhihu.com/question/40782949)|
 |广州|[广州创思信息技术有限公司（9377 游戏）](https://www.9377.com)|2019年4月8日|大小周加班|[知乎](https://www.zhihu.com/question/53318899)|
 |成都|[tap4fun](https://www.tap4fun.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历|
@@ -167,9 +167,9 @@
 |福州|[中富通集团股份有限公司](http://www.zftii.com/)|2019年4月|宣扬马云996 随意要求员工加班|[微信截图](img/zftjt.jpg)|
 |福建|[福建浔兴拉链科技股份有限公司](http://www.sbszipper.com/)|2019年4月11日|大小周|亲历+[元旦前考勤注解](img/fjxxydkq.png)[大小周外加周末充当法定节假日外加随意重置大小周顺序-元旦](img/fjxxydfj.png)、[大小周外>加周末充当法定节假日外加随意重置大小周顺序-清明节](img/fjxxqmfj.png)|
 |苏州|[顺舟智能](http://www.shuncom.com)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC549324722J00346803701.htm)|
-|苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996|9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
+|苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996、9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
 |苏州|[凌志软件股份有限公司](http://www.linkstec.com/)|2019年4月|996，9106，9116|[专坑实习生](img/lingzhi1.png)、[看准网](https://www.kanzhun.com/gsr99810c50.html)|
-|苏州|[Momenta](https://www.momenta.cn/)|2019年4月|996|CEO朋友圈宣扬马云996|[微信截图](img/mbgwb.jpg)|
+|苏州|[Momenta](https://www.momenta.cn/)|2019年4月|996|[CEO朋友圈宣扬马云996](img/mbgwb.jpg)|
 |长沙|[湖南创发科技有限公司](http://www.transfar.com/)|2019年3月|996|亲历 [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [博客园](http://www.cnblogs.com/rawman/p/3401579.html)|
 |青岛|[海尔集团](http://www.haier.net/)|2019年4月|996|[在海尔工作怎么样](https://www.zhihu.com/question/21895528) + 亲历|
 |西安|[易点天下](http://facebook.yeahmobi.com/)|-----|9116/9117|每天下午6点开始开会，动不动就通宵，管理层的一个是从华为挖过来的，有狂躁症，动不动就炸，肯恐怖。[工作截图](img/易点天下.jpeg)|
