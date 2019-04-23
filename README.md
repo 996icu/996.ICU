@@ -70,6 +70,7 @@ Community powers
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
  - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU
+ - [996.coop](https://github.com/itgongren/996.coop) Try to build a self-employing, self-managing, and self-allocating cooperative. Create dignitive jobs.
 
 Where are the issues?
 ---
