@@ -175,7 +175,7 @@
 - 金融时报：[China tech worker protest against long working hours goes viral](https://archive.is/IZqTj)
 - Reuters：[Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B)
 
--THE VERGE: [Microsoft workers pressure company to stand by embattled Chinese GitHub repo](https://www.theverge.com/2019/4/22/18511088/microsoft-github-tech-censorship-996-repository-china)
+- THE VERGE: [Microsoft workers pressure company to stand by embattled Chinese GitHub repo](https://www.theverge.com/2019/4/22/18511088/microsoft-github-tech-censorship-996-repository-china)
 
 
 ## 韩文媒体
