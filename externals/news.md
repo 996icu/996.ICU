@@ -4,6 +4,8 @@
 
 - 新浪财经：[多名政协委员回应马云996：对员工提要求就是违法](http://finance.sina.com.cn/chanjing/gsnews/2019-04-18/doc-ihvhiqax3657558.shtml)
 
+- 新浪财经：[胡锡进谈“996”现象：既莫上纲上线 也应认真缓解](http://finance.sina.com.cn/wm/2019-04-06/doc-ihvhiqax0439519.shtml?cre=tianyi&mod=pchp&loc=1&r=0&rfunc=100&tj=none&tr=12)
+
 - 每日经济网：[“996”不符合社会主义关于人的发展价值观](http://www.nbd.com.cn/articles/2019-04-14/1321040.html)
 
 - 经济日报：[挥别“996”，从今天开始](http://paper.ce.cn/jjrb/html/2019-04/18/content_389134.htm)
@@ -123,8 +125,6 @@
 - 凤凰网：[胡锡进三谈996：高管有想怎么工作都行的选择权，但员工却没有](http://v.ifeng.com/201904/video_38353481.shtml)
 
 - 凤凰网：[拒绝996同样是为了中国经济！新华社、人民日报等官媒：996当退场](https://feng.ifeng.com/c/7m379HCXbMq)
-
-- 新浪财经：[胡锡进谈“996”现象：既莫上纲上线 也应认真缓解](http://finance.sina.com.cn/wm/2019-04-06/doc-ihvhiqax0439519.shtml?cre=tianyi&mod=pchp&loc=1&r=0&rfunc=100&tj=none&tr=12)
 
 - 环球网：[胡锡进再谈996:公司高管怎么高强度工作都行,但不应强制要求员工](https://m.huanqiu.com/r/MV8wXzE0NzE3MTY1XzEyNjRfMTU1NTEzODkyMA==)
 
