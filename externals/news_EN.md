@@ -30,5 +30,6 @@ Related press:
 * *Pandaily:* [Is 996 Truly a Blessing? Let’s Hear What Richard Liu and Jack Ma Have to Say](https://pandaily.com/is-996-truly-a-blessing-lets-hear-what-richard-liu-and-jack-ma-has-to-say/). 14 April, 2019
 * *The Economist:* [Office workers in China organise a rare online labour movement](https://www.economist.com/china/2019/04/20/office-workers-in-china-organise-a-rare-online-labour-movement). 17 April, 2019
 * *The New York Times:* [The Richest Man in China Is Wrong. 12-Hour Days Are No ‘Blessing.’](https://www.nytimes.com/2019/04/21/opinion/jack-ma-996.html). 21 April, 2019
+* *Bloomberg:* [Microsoft Workers Criticize Block of GitHub Protest in China](https://www.bloomberg.com/news/articles/2019-04-22/microsoft-workers-criticize-block-of-github-protest-in-china). 22 April, 2019
 * *THE VERGE:* [Microsoft workers pressure company to stand by embattled Chinese GitHub repo](https://www.theverge.com/2019/4/22/18511088/microsoft-github-tech-censorship-996-repository-china). 23 April, 2019
 
