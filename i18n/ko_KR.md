@@ -13,7 +13,6 @@
 [![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
 
 ## 관련 언론 보도 :
----
 * *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
 * *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)
 * *Wired:* [How github is helping overworked Chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
@@ -21,11 +20,9 @@
 [언론기사 전체 목록](externals/news_EN.md)을 확인하세요.
 
 ## 996이란?
----
 "996" 근무 일정이란 (중국에서) 인기를 얻고 있는 비공식 근무 일정(오전 9시 ~ 오후 9시, 주 6일)을 뜻합니다. "996" 근무 일정을 권장하는 회사에서 일하는 것은 보통 일주일에 적어도 60시간 이상 일한다는 것을 의미합니다. 더 많은 정보를 알고 싶다면 위키피디아 [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system) 페이지를 방문하세요. 
 
 ## 내가 무엇을 할 수 있나요? 
----
 - 모든 노동자를 돕기 위해 증거를 가지고 이 [리스트](blacklist/README.md)를 업데이트해주세요. 
 - 당신의 프로젝트에 이 [배지](externals/instruction.md)를 추가해서 996.ICU를 지지하세요.
 - 당신의 멋진 프로젝트에 [996 반대 라이센스](LICENSE)를 사용하세요.
@@ -33,7 +30,6 @@
 - 죄책감 없이 오후 6시에 퇴근하세요. 
 
 ## 원칙과 목적 
----
 * 996.ICU는 IT업계 실무자들에 의해 시작된 이니셔티브입니다. 우리는 다른 분야와 다른 국가의 사람들이 이 토론에 참여하는 것을 환영합니다. 
 
 * 이것은 정치적인 운동이 아닙니다. 우리는 노동법을 강력히 준수하며, 고용주가 피고용의 합법적인 권리와 이익을 존중할 것을 요구합니다.
@@ -43,11 +39,9 @@
 * 우리는 모든 긍정적이고 건설적인 제안을 기꺼이 경청할 것이며, 성숙하고 책임감 있는 연설을 지지합니다. 
 
 ## 영향력 확대
----
 자유롭게 [996.ICU 컨텐츠를 번역](i18n/README.md)하고, 형식을 수정하고, 내용을 추가하고, 문법 오류를 수정하세요. 너무 많은 번역을 추가하는 것은 이 프로젝트의 주요 방향과 맞지 않는다는 점에 유의해주세요.
 
 ## 커뮤니티의 힘 
----
  - [955.WLB](https://github.com/formulahendry/955.WLB)는 955 근로 일정(오전 9시 ~ 오후 5시, 주 5일 근무)을 준수하는 워크라이프 밸런스가 좋은 기업을 모아놓은 화이트리스트를 관리하는 저장소입니다. 
  - [996.LIST](https://github.com/fengT-T/996_list)는 996 기업과 955 기업의 순위 리스트를 다루는 저장소입니다. 
  - [996.law](https://github.com/CPdogson/996.law)는 노동 중재와 소송을 독자적으로 수행하려는 노동자를 위한 매뉴얼입니다. 
@@ -61,12 +55,10 @@
  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft와 Github 근로자들은 996.ICU를 지지합니다. 
  
  ## 이슈는 어디에 있나요?
- ---
  상호작용 제한이 있음에도 불구하고 이슈 영역은 완전히 통제 불가능 상태입니다. 그래서 나는 Github나 다른 사람들에 의해서가 아니라  **개인적으로** 그것을 끄기로 결정했습니다. 
  
  
  ## 라이센스
- ---
  [996반대 라이센스](LICENSE)
  
  - 이 라이센스의 목적은 노동법을 준수하지 않는 회사들이 이 라이센스를 가진 소프트웨어나 코드를 사용하지 못하게 하여, 그 회사들이 일하는 방식을 재검토하도록 만드는 것입니다. 
@@ -79,5 +71,4 @@
  
  
  # 연락처 
- ---
  필요하다면 [이메일](mailto:996icu.repo@gmail.com)을 통해 나에게 연락할 수 있습니다. 
