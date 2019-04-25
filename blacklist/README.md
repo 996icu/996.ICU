@@ -97,6 +97,7 @@
 |北京|[信美人寿相互保险社](https://www.trustlife.com/)|2019年|996|[看准网](https://www.kanzhun.com/gsr5723919.html?ka=com-blocker1-review)、[看准网](https://www.kanzhun.com/gsr6603074.html?ka=com1-review)|
 |北京|[北京中广创思文化传播有限公司](http://www.cbct.cn/)|2019年4月|996/9107|[图片](img/北京中广创思9107钉钉截图.jpg)|
 |北京|[易车网](http://beijing.bitauto.com/)|2019年4月|996|[办公软件截图](img/易车996.png )、[脉脉](img/易车脉脉.png)|
+|北京|[北京今始科技有限公司](https://linkface.cn/)|2019年3月|996、恶意裁员|[邮件截图](img/linkface-996.jpg )、[知乎](https://www.zhihu.com/question/300467880/answer/532121441)|
 |北京|[北京数码视讯科技股份有限公司](http://www.sumavision.com/)|2011年4月|996，大小周|亲历 [看准网](https://www.kanzhun.com/pl474513.html)|
 |北京|[北京声智科技有限公司](http://www.soundai.com/)|2019年4月|996|[看准网：包括 HR 全员996](https://www.kanzhun.com/gsr5680797tl526.html?ka=review-label1)|
 |北京|[蛋壳公寓](https://www.danke.com/)|2018年7月|10106/10107|[看准网](https://www.kanzhun.com/gsm5710300.html?ka=com-blocker1-interview#co_tab%EF%BC%89)|
@@ -111,7 +112,7 @@
 |天津|[易思维(杭州/天津)科技有限公司](http://www.tjisv.com/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl6228054.html)|
 |太原|[辉讯网络技术有限公司](http://www.7zy.net/)|2019年3月|996|亲历 [考勤](https://i.loli.net/2019/04/11/5cae537484b5d.jpg) |
 |山东淄博|[山东兆物网络技术股份有限公司](http://www.imegaware.com/)|2019年4月9日|8106|[看准网](https://www.kanzhun.com/pl6588029.html)|[看准网](https://www.kanzhun.com/gsr668403.html?ka=head-bread3)|
-|广州|[小鹏汽车](http://www.xiaopeng.com/)|2018年|大小周、大会战（996）|[工作日程安排表](https://raw.githubusercontent.com/xiaopeng996icu/996.ICU/2b01c57202351af334c157361ffe702d42765bbc/blacklist/img/%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6.JPG)|
+|广州|[小鹏汽车(XPENG Motors)](http://www.xiaopeng.com/)|2018年|大小周、大会战（996）、各部门的上班时间进行排名|[工作日程安排表](https://raw.githubusercontent.com/xiaopeng996icu/996.ICU/2b01c57202351af334c157361ffe702d42765bbc/blacklist/img/%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6.JPG)|
 |广州|[鲸鱼游戏](http://www.adjingyu.com/)|2017年3月|996|[考勤](https://raw.githubusercontent.com/xuhaodong/img/master/196803444329033095.jpg)|
 |广州|[多益网络](https://www.duoyi.com)|2018年3月|9106|[看准网](https://www.kanzhun.com/gsr1365983tl56.html)、[知乎](https://www.zhihu.com/question/22713470/answer/145287600)|
 |广州|[网易游戏](https://game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14)|[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
@@ -134,6 +135,7 @@
 |杭州|[浙江宇视科技有限公司](http://fenxiao.uniview.com/)|2018年|大小周加班|[看准网](https://www.kanzhun.com/gsmsh10805642.html)|[知乎](https://www.zhihu.com/question/265531337/answer/296562572)|
 |杭州|[网易考拉海购](https://www.kaola.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14)|
 |杭州|[盘石信息科技有限公司](http://www.adyun.com/zh-cn/index.html)|2018年11月12日|996/9106|[图片](img/浙江杭州盘石信息技术有限公司996制度.png)|
+|武汉|[武汉小码联城科技有限公司](http://www.i-xiaoma.com)|2019年4月22日|995|年前年后各裁员一波<br>[钉钉截图](img/小码联城加班.png)|
 |武汉|[氪细胞](http://www.timing360.com/)|2019年3月|996|名义上996，实际下班时间更晚<br>[考勤日历](img/timing360-0823.jpg)<br>[考勤规则](img/timing360-1201.jpg)|
 |武汉|[武汉精臣智慧标识科技有限公司](http://www.jc2008.com/)|2018年9月|966|[考勤日历](img/精臣智慧-打卡日历.jpg)<br>[考勤制度-1](img/精臣智慧-考勤制度-1.jpg)|
 |武汉|[武汉星云海数字科技股份有限公司](http://www.scotec.net/)|2019年4月|996|[图片](img/hxqc1.jpg)、[图片](img/hxqc2.jpg)、[图片](img/hxqc3.jpg)、[看准网](https://www.kanzhun.com/gso5662099.html)|
@@ -176,3 +178,5 @@
 |潍坊|[歌尔股份](https://www.goertek.com/)|2019年4月|大小周、节假日遇单休从双休周调休|[考勤规定](img/goertek.jpeg) [放假安排1](img/goertek-1.jpg) [放假安排2](img/goertek-2.jpg)|
 |济南|[浪潮集团](http://www.inspur.com/)|-----|996|奋进者申请书 [996工作制](https://baike.baidu.com/item/996%E5%B7%A5%E4%BD%9C%E5%88%B6/19940031?fromtitle=996&fromid=19958311&fr=aladdin#3)|
 |深圳|[紫优科技](https://www.zhipin.com/gongsir/7610a4892e11cc781XZ_09i1FA~~.html?ka=company-jobs)|2019年4月|9116| [公司老板发的招聘信息](img/深圳紫优科技.jpg)|
+|上海/西安|[华勤通讯技术有限公司](http://www.huaqin.com/)|2019年4月|996| [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [知乎](https://www.zhihu.com/question/49628909/answer/522467068)|
+|北京|[小猪短租](http://www.xiaozhu.com/)|-----|997|4.22-5.10连续上班,晚上默认加班,不加班领导会找谈话。[工作截图](img/小猪短租.jpg)|
