@@ -34,4 +34,5 @@ Related press:
 * *The Guardian:* [Microsoft workers decry grueling '996' working standard at Chinese tech firms](https://www.theguardian.com/technology/2019/apr/22/microsoft-workers-decry-grueling-996-working-standard-at-chinese-tech-firms). 23 April, 2019
 * *Bloomberg:* [Microsoft Workers Criticize Block of GitHub Protest in China](https://www.bloomberg.com/news/articles/2019-04-22/microsoft-workers-criticize-block-of-github-protest-in-china). 22 April, 2019
 * *THE VERGE:* [Microsoft workers pressure company to stand by embattled Chinese GitHub repo](https://www.theverge.com/2019/4/22/18511088/microsoft-github-tech-censorship-996-repository-china). 23 April, 2019
-
+* *The Register:* [Fed up with 72-hour, six-day working weeks, IT workers emit cries for help via GitHub repo](https://www.theregister.co.uk/2019/04/23/microsoft_github_china/). 23 April, 2019
+* *GIZMODO:* [Microsoft and GitHub Workers Take a Stand Against Grueling, Inhumane '996' Culture in China](https://gizmodo.com/microsoft-and-github-workers-take-a-stand-against-gruel-1834210579). 22 April, 2019
