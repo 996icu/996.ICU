@@ -3,7 +3,7 @@ ANTI-996 DAY
 
 **Date: March 26th of each year.**
 
-On March 26th, 2019, a Chinese programmer @996icu created a GitHub project 996.ICU. This project is about the 996-working mode in China. The project received more than 100,000 stars in just three days, and many Chinese programmers translated the project into multiple languages. We recommend the name "ANTI-996 DAY" on March 26th each year.
+On March 26th, 2019, a Chinese programmer @996icu created a GitHub project 996.ICU. This project is about the 996-working mode in China. The project received more than 100,000 stars in just three days, and many Chinese programmers translated the project into multiple languages. We recommend to promote March 26th for each year as "ANTI-996 DAY".
 
 
 
