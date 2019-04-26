@@ -14,6 +14,7 @@ Projects under Anti 996ICU License. Thanks for your support!
 
 | LOGO | 项目|官网|Stars|简介|License|
 |:---:|:---|:---|:---|:---|----|
+|-|[async-retry.ts](https://www.npmjs.com/package/async-retry.ts)|[Github](https://www.npmjs.com/package/async-retry.ts)|![](https://img.shields.io/github/stars/jeff-tian/async-retry.ts.svg)|Retry Pattern 的 TypeScript 实现|[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)|
 |-|yasio|[Github](https://github.com/halx99/yasio)|![](https://img.shields.io/github/stars/halx99/yasio.svg)|A cross platform & lightweight socket io service|[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)|
 |-|WAF|[Github](https://github.com/chengdedeng/waf)|![](https://img.shields.io/github/stars/chengdedeng/waf.svg)|Web Application Firewall or API Gateway(应用防火墙/API网关)|[![LICENSE](https://badges.frapsoft.com/os/mit/mit.svg)](https://opensource.org/licenses/mit-license.php)|
 |<img src="https://github.com/ofcold/identity-card/raw/2.0/id-card.svg?sanitize=true" width="60">|ID Card|[Github](https://github.com/ofcold/identity-card)|![](https://img.shields.io/github/stars/ofcold/identity-card.svg)|身份证号码信息|[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)|
