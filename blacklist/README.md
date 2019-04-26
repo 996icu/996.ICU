@@ -104,7 +104,7 @@
 |北京|[北京掌握时代科技股份有限公司](http://www.mastertimes.net/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
 |厦门|[4399游戏](www.4399.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13)|[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
-|嘉兴|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2\|sz@320_1001\|ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)|
+|嘉兴/广州|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|曾经一个月加班60小时被喝茶、[知乎爆料](https://www.zhihu.com/question/40782949)、[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2\|sz@320_1001\|ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)|
 |大连|[大连东软集团](https://www.neusoft.com/cn/)|2019年4月|9106|[看准网](https://www.kanzhun.com/pl5758283.html?ka=review-item2)、[看准网](https://www.kanzhun.com/pl5892120.html?ka=review-item10)|
 |天津|[长城汽车股份有限公司天津园区](http://www.gwm.com.cn/)|2019年3月28日|大小周|[招聘简章](http://www.hljsxy.org.cn/website/sites/common/readwNews.aspx?JpkId=1&id=13289)|
 |天津|[小黑鱼](https://blackfish.cn)|2019年4月7日|996|[看准网](https://m.kanzhun.com/gsr6771936.html)|
@@ -117,7 +117,6 @@
 |广州|[多益网络](https://www.duoyi.com)|2018年3月|9106|[看准网](https://www.kanzhun.com/gsr1365983tl56.html)、[知乎](https://www.zhihu.com/question/22713470/answer/145287600)|
 |广州|[网易游戏](https://game.163.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr15379tl56.html?ka=review-label14)|[知乎](https://www.zhihu.com/question/20563272/answer/57486502)|
 |广州|[三七互娱](www.37wan.net/)|2019年4月7日|9115 9116?|[看准网](https://www.kanzhun.com/gsr1906275.html?ka=com-blocker1-review#co_tab)|
-|广州|[广州蓝鸽集团](http://www.chinalancoo.com)|2019年4月9日|每月加班最低50小时，曾经一个月加班60小时被喝茶，薪资50%需要加班和绩效才能获得 |[知乎爆料](https://www.zhihu.com/question/40782949)|
 |广州|[广州创思信息技术有限公司（9377 游戏）](https://www.9377.com)|2019年4月8日|大小周加班|[知乎](https://www.zhihu.com/question/53318899)|
 |成都|[tap4fun](https://www.tap4fun.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr59860tl56.html?ka=review-label15)|
 |成都|[成都二次元动漫有限公司](https://www.kanman.com/)|2018年12月1日|996|[图片-1](img/ecy1.jpg) [图片-2](img/ecy12.jpg)[图片-3](img/ecy4.jpg) + 亲历|
