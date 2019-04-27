@@ -93,3 +93,8 @@ License
  - 在此处查看反 996 许可证下的[完整项目列表](awesomelist/README.md)
  - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
  - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢你的帮助。
+
+联系方式
+---
+
+你可以通过 [E-mail](mailto:996icu.repo@gmail.com) 联系我。
