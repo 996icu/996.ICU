@@ -4,11 +4,21 @@
 
 - 新浪财经：[多名政协委员回应马云996：对员工提要求就是违法](http://finance.sina.com.cn/chanjing/gsnews/2019-04-18/doc-ihvhiqax3657558.shtml)
 
+- 新浪财经：[胡锡进谈“996”现象：既莫上纲上线 也应认真缓解](http://finance.sina.com.cn/wm/2019-04-06/doc-ihvhiqax0439519.shtml?cre=tianyi&mod=pchp&loc=1&r=0&rfunc=100&tj=none&tr=12)
+
 - 每日经济网：[“996”不符合社会主义关于人的发展价值观](http://www.nbd.com.cn/articles/2019-04-14/1321040.html)
 
 - 经济日报：[挥别“996”，从今天开始](http://paper.ce.cn/jjrb/html/2019-04/18/content_389134.htm)
 
+- 经济日报（中国经济网）：[拒绝“996”工作制！以人为本才能获得长远发展](http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022740/http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)）
+
+- 经济日报： [互联网“996工作制”遭诟病](http://paper.ce.cn/jjrb/html/2019-04/11/content_388567.htm)
+
+- 中国经济网：[“996”工作制有蔓延趋势：超七成白领无偿加班](http://www.ce.cn/cysc/newmain/yc/jsxw/201904/22/t20190422_31908001.shtml)
+
 - 人民网：[遏制“996” 需要劳动监察部门发力](http://industry.people.com.cn/n1/2019/0417/c413883-31033624.html)
+
+- 人民网：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)（[Wayback Machine](https://web.archive.org/web/20190409022535/http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)）
 
 - 中新网：[逃离996：我宁可不婚不育不买房，也不要拼命](http://www.chinanews.com/gn/2019/04-16/8809887.shtml)
 
@@ -28,8 +38,6 @@
 
 - 光明网： [莫让“996工作制”成了职场明规则](http://guancha.gmw.cn/2019-04/06/content_32719988.htm)（[Wayback Machine](https://web.archive.org/web/20190409022532/http://guancha.gmw.cn/2019-04/06/content_32719988.htm)）
 
-- 人民网：[“996工作制”是谁的如意算盘？](http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)（[Wayback Machine](https://web.archive.org/web/20190409022535/http://opinion.people.com.cn/n1/2019/0402/c119388-31009768.html)）
-
 - 工人日报：[马云谈996时，可曾知道8小时工作制是这样争取来的！](https://mp.weixin.qq.com/s/tp0u0wI0gHEjlV5ZpdDoDQ)
 
 - 工人日报：[“工作996，生病ICU”该引起重视了](http://news.workercn.cn/32845/201904/07/190407041525409.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022551/http://news.workercn.cn/32845/201904/07/190407041525409.shtml)）
@@ -43,10 +51,6 @@
 - 南方日报：[正视年轻人压力“爆棚”的危险](http://epaper.southcn.com/nfdaily/html/2019-04/03/content_7790850.htm)（[Wayback Machine](https://web.archive.org/web/20190409022702/http://epaper.southcn.com/nfdaily/html/2019-04/03/content_7790850.htm)）
 
 - 广州日报：[“996工作制”不可持续](http://gzdaily.dayoo.com/pc/html/2019-04/03/content_108225_594534.htm)（[Wayback Machine](https://web.archive.org/web/20190409022702/http://gzdaily.dayoo.com/pc/html/2019-04/03/content_108225_594534.htm)）
-
-- 经济日报（中国经济网）：[拒绝“996”工作制！以人为本才能获得长远发展](http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)（[Wayback Machine](https://web.archive.org/web/20190409022740/http://views.ce.cn/view/ent/201904/03/t20190403_31794131.shtml)）
-
-- 经济日报： [互联网“996工作制”遭诟病](http://paper.ce.cn/jjrb/html/2019-04/11/content_388567.htm)
 
 - 全天候科技：[996，谁的ICU？](https://awtmt.com/articles/3506048)（[Wayback Machine](https://web.archive.org/web/20190409022752/https://awtmt.com/articles/3506048)）
 
@@ -120,11 +124,14 @@
 
 - 凤凰网：[视频：监控实拍深圳某公司程序员周末加班突然晕倒 现场画面触目惊心](http://v.ifeng.com/video_22036450.shtml)
 
-- 新浪财经：[胡锡进谈“996”现象：既莫上纲上线 也应认真缓解](http://finance.sina.com.cn/wm/2019-04-06/doc-ihvhiqax0439519.shtml?cre=tianyi&mod=pchp&loc=1&r=0&rfunc=100&tj=none&tr=12)
+- 凤凰网：[胡锡进三谈996：高管有想怎么工作都行的选择权，但员工却没有](http://v.ifeng.com/201904/video_38353481.shtml)
+
+- 凤凰网：[拒绝996同样是为了中国经济！新华社、人民日报等官媒：996当退场](https://feng.ifeng.com/c/7m379HCXbMq)
 
 - 环球网：[胡锡进再谈996:公司高管怎么高强度工作都行,但不应强制要求员工](https://m.huanqiu.com/r/MV8wXzE0NzE3MTY1XzEyNjRfMTU1NTEzODkyMA==)
 
-- 凤凰网：[胡锡进三谈996：高管有想怎么工作都行的选择权，但员工却没有](http://v.ifeng.com/201904/video_38353481.shtml)
+- 金融界：[冯仑：关于「996」，我的看法是这样的](https://baijiahao.baidu.com/s?id=1631468784393271629&wfr=spider&for=pc)
+
 
 ### 非中国媒体
 
@@ -169,6 +176,9 @@
 
 - 金融时报：[China tech worker protest against long working hours goes viral](https://archive.is/IZqTj)
 - Reuters：[Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B)
+
+- THE VERGE: [Microsoft workers pressure company to stand by embattled Chinese GitHub repo](https://www.theverge.com/2019/4/22/18511088/microsoft-github-tech-censorship-996-repository-china)
+
 
 ## 韩文媒体
 

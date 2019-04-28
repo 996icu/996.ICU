@@ -53,12 +53,6 @@
 [996.ICU 内容翻译](i18n/README.md)，请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
 
 
-里程碑
----
-
-* 已取消996的[公司](https://github.com/996icu/996.ICU/milestone/1?closed=1)
-
-
 社区
 ---
 
@@ -76,11 +70,13 @@
 
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
 
- - [996.action](https://github.com/CPdogson/996action) 向地方人力资源和社会保障局进行信息公开，要求公开他们的工作报告和计划。这是一项温柔的法律行动，面向所有劳动者，它完全合法，成本低，并且可以诉讼，并且不会使你丢掉工作。除此之外，该项目未来将进行更多行动。
+ - [996.action](https://github.com/CPdogson/996action) 强调用行动抗议996的板块，向政府信息公开火热进行中，#向马云寄劳动法#行为艺术式，除此之外还有许多行动选择。
  
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
  
  - [996.OD](https://github.com/zheolong/996.OD.git) 程序员长期996导致的职业病，为广大程序员兄弟提供可以查询的常见职业病信息，为职业病防治法的立法改进提供依据。
+ 
+  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) 微软与GitHub员工自发组织 实名签名 支持 996.ICU
  
 Issues 去哪了？
 ---
