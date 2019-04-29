@@ -45,8 +45,6 @@ Voices
 ### Government
 - [The 996 shall disappear](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
 
-### Ministry of Human Resources and Social Security
-- ...
 
 ### Capitalists
 - **Jack Ma, founder of Alibaba**: `'996' is a reward`.
