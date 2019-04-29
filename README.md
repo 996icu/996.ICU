@@ -39,6 +39,24 @@ What can I do?
 - Go home at 6 pm without feeling sorry.
 
 
+Voices
+---
+
+### Government
+- [The 996 shall disappear](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+
+### Ministry of Human Resources and Social Security
+- ...
+
+### Capitalists
+- **Jack Ma, founder of Alibaba**: `'996' is a reward`.
+- **Richard Liu, founder of JD.com**: `We will never force our employee to work as '996'`.
+However, as a result many anonymous employees says that there is a **list** of departments which **ranked** them by overtime hours. The shortest will take punishments. And the leaders never leave evidences when ask employees to work as '996'.
+- **Bai Ya, founder of Youzan**: `This will definitely be a right decision when we look back in a few years`
+
+
+
+
 Principles and purposes
 ---
 
