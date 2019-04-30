@@ -126,7 +126,7 @@
 |杭州|[阿里巴巴](https://www.alibabagroup.com/)|2018年6月|996|[阿里巴巴的996加班文化，看到这些恐怖数据，你也会辞职！](https://kuaibao.qq.com/s/20180612A1FAPU00)<br>[马云：996是修来的福报! 律师：涉嫌违法](http://m.sohu.com/a/307564633_241241)<br>[马云：后悔忙于工作 没时间陪家人 有来生绝不这样](https://v.qq.com/x/page/h0860wwt0xl.html)|
 |杭州|[蚂蚁金服](https://www.antfin.com/)|2018年11月|9106|[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q)|
 |杭州|[有赞](https://www.youzan.com)|2019年1月|996|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|
-|杭州|[一喂](http://www.yivizd.com)|2017年5月|996|[图片链接](http://note.youdao.com/noteshare?id=0113f40833aaebfc7bbb6c0f83d65f96)|
+|杭州|[一喂](http://www.yivizd.com)|2017年5月|996|[图片链接](img/一喂996加班证据.html)|
 |杭州|[智贝科技](https://www.zhipin.com/gongsi/09aefd7a9d507c2f1nd82tu9Ew~~.html)|2019年3月|强制996、歧视程序员|[程序员吐槽：薪资低，996加班无补助，歧视程序员，这hr真乃神人](https://baijiahao.baidu.com/s?id=1627625016599313128)|
 |杭州|[同花顺](http://www.10jqka.com.cn/)|2018年12月|大小周、加班|[看准网](https://www.kanzhun.com/pl6896401.html)|
 |杭州|[杭州海康威视数字技术股份有限公司](https://www.hikvision.com/cn/)|2018年|996|[看准网](https://www.kanzhun.com/pl6448138.html)|[知乎](https://www.zhihu.com/question/31379626/answer/399779602)|[图片](img/hikvision_fj.png)|
