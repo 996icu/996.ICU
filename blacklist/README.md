@@ -13,10 +13,10 @@
 更新此文件时，请提供必要的描述内容及确切证据。
 证据可包括下列两种类型：
 - 外部证据（包括但不限于官方公告、新闻链接、招聘网站官方描述等）
-  - 可直接粘贴链接
+- 可直接粘贴链接
 - 内部证据（包括但不限于内部论坛、内部邮件、打卡记录、调休记录等）
-  - 可粘贴截图链接
-  - 如果您不想在证据内容处填写截图链接，可在PR描述中附带截图
+- 可粘贴截图链接
+- 如果您不想在证据内容处填写截图链接，可在PR描述中附带截图
 
 截图请**抹掉一切个人信息**，包括但不限于名字，内部ID，电话号码，邮箱地址等。为防止某些公司[使用数字盲水印对截屏进行追踪](https://www.zhihu.com/question/50735753/answer/122593277)，建议使用屏摄的方法采集图片证据。如果截图需要放在GitHub，请放在`blacklist/img`文件夹里。
 
@@ -126,7 +126,7 @@
 |杭州|[阿里巴巴](https://www.alibabagroup.com/)|2018年6月|996|[阿里巴巴的996加班文化，看到这些恐怖数据，你也会辞职！](https://kuaibao.qq.com/s/20180612A1FAPU00)<br>[马云：996是修来的福报! 律师：涉嫌违法](http://m.sohu.com/a/307564633_241241)<br>[马云：后悔忙于工作 没时间陪家人 有来生绝不这样](https://v.qq.com/x/page/h0860wwt0xl.html)|
 |杭州|[蚂蚁金服](https://www.antfin.com/)|2018年11月|9106|[阿里前员工吐槽：从蚂蚁金服离职了，真的拿员工当蚂蚁使](https://t.cj.sina.com.cn/articles/view/6680234487/18e2c49f700100dq3q)|
 |杭州|[有赞](https://www.youzan.com)|2019年1月|996|[年会成了“鸿门宴”，这家公司“强制996”被员工举报](http://www.linkshop.com.cn/web/archives/2019/418163.shtml)|
-|杭州|[一喂](http://www.yivizd.com)|2017年5月|996|[图片链接](img/一喂996加班证据.html)|
+|杭州|[一喂](http://www.yivizd.com)|2017年5月|996|[图片链接1](img/一喂加班证据1.png)、[图片链接2](img/一喂加班证据2.png)、[图片链接3](img/一喂加班证据3.png)、[图片链接4](img/一喂加班证据4.png)、[图片链接5](img/一喂加班证据5.png)、[图片链接6](img/一喂加班证据6.png)、[图片链接7](img/一喂加班证据7.png)|
 |杭州|[智贝科技](https://www.zhipin.com/gongsi/09aefd7a9d507c2f1nd82tu9Ew~~.html)|2019年3月|强制996、歧视程序员|[程序员吐槽：薪资低，996加班无补助，歧视程序员，这hr真乃神人](https://baijiahao.baidu.com/s?id=1627625016599313128)|
 |杭州|[同花顺](http://www.10jqka.com.cn/)|2018年12月|大小周、加班|[看准网](https://www.kanzhun.com/pl6896401.html)|
 |杭州|[杭州海康威视数字技术股份有限公司](https://www.hikvision.com/cn/)|2018年|996|[看准网](https://www.kanzhun.com/pl6448138.html)|[知乎](https://www.zhihu.com/question/31379626/answer/399779602)|[图片](img/hikvision_fj.png)|
