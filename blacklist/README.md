@@ -181,4 +181,4 @@
 |上海/西安|[华勤通讯技术有限公司](http://www.huaqin.com/)|2019年4月|996| [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [知乎](https://www.zhihu.com/question/49628909/answer/522467068)|
 |北京|[小猪短租](http://www.xiaozhu.com/)|-----|997|4.22-5.10连续上班,晚上默认加班,不加班领导会找谈话。[工作截图](img/小猪短租.jpg)|
 |深圳|深圳市蓝色海洋教育科技有限公司|2019年4月|996|一家2019年4月新成立的公司，明确996招聘 [招聘截图](img/lansehaiyang-boss.jpeg)|
-|广州|广州明动软件股份有限公司|2018年9月|9106|每天晚上10:30才能走，甚至更晚，一周六天 [领导发的邮件](https://raw.githubusercontent.com/willywonkauk/staticref/master/1.png)|
+|广州|[广州明动软件股份有限公司](http://www.minstone.com.cn/)|2018年9月|9106|每天晚上10:30才能走，甚至更晚，经常通宵，一周六天 [领导发的邮件](https://raw.githubusercontent.com/willywonkauk/staticref/master/1.png)|
