@@ -38,6 +38,7 @@ Related press:
 * *The Telegraph:* [Microsoft urged to shield China's overworked computer programmers from censorship after '996 ICU' campaign goes viral](https://www.telegraph.co.uk/technology/2019/04/22/microsoft-pressure-keep-chinas-996-tech-workers-voices-heard/). 22 April, 2019
 * *The Guardian:* [Microsoft workers decry grueling '996' working standard at Chinese tech firms](https://www.theguardian.com/technology/2019/apr/22/microsoft-workers-decry-grueling-996-working-standard-at-chinese-tech-firms). 23 April, 2019
 * *The Register:* [Fed up with 72-hour, six-day working weeks, IT workers emit cries for help via GitHub repo](https://www.theregister.co.uk/2019/04/23/microsoft_github_china/). 23 April, 2019
+* *The New York Times:* [‘996’ Is China’s Version of Hustle Culture. Tech Workers Are Sick of It.](https://www.nytimes.com/2019/04/29/technology/china-996-jack-ma.html) 29 April, 2019
 * *The Inquirer:* [Microsoft workers protest as GitHub blocks 996 China complaints](https://www.theinquirer.net/inquirer/news/3074523/microsoft-workers-protest-as-github-blocks-996-china-complaints). 24 April, 2019
 * *China Digital Times:* [U.S. Tech Workers Back Chinese Counterparts](https://chinadigitaltimes.net/2019/04/u-s-tech-workers-back-chinese-counterparts-over-work-conditions/). 26 April, 2019
 * *Indian Express:* [How the debate in China’s tech world on ‘996’ drew in Alibaba’s Jack Ma and state media](https://indianexpress.com/article/express-sunday-eye/the-shape-of-shift-5694554/). 28 April, 2019
