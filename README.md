@@ -33,7 +33,7 @@ Visit [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_s
 What can I do?
 ---
 
-- Update this [list](blacklist/README.md) with evidence to help every worker.  
+- Update this [list](blacklist/README.md) with evidence to help every worker.  [Third party perfect list channel](https://www.996action.com/index.php/889799)
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 - License your awesome projects with the [Anti 996 License](LICENSE).  
 - Add [proposals](proposal/README.md) to give advice about the development of 996.ICU.
