@@ -2,7 +2,6 @@
 =======
 **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
 
-**The 996.icu domain currently is at ‘server hold’ status. Because it is listed in the spamhaus project for some reason. I’ve asked them for a removal and they did. Next step is waiting for the .icu registry having the server hold status removed. This is nothing but a mistake. Please stay calm.**
 * [中文版](./README_CN.md)
 
 The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
