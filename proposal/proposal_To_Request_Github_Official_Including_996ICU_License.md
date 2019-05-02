@@ -1,8 +1,8 @@
-# Proposal for Requesting Github Official Including 996ICU License
+# Proposal for Requesting GitHub Official Including 996ICU License
 
 HEAD | SUMMARY
 -----|--------
-Title:| Proposal for Requesting Github Official Including 996ICU License
+Title:| Proposal for Requesting GitHub Official Including 996ICU License
 题目: | 提案请求github官方收录996ICU License
 Author:| ff4415
 作者:| ff4415
@@ -18,7 +18,7 @@ Post-History:| None
 ## Why this Proposal?
 ## 提案目的
 
-To Request Github Official Including 996ICU License <br/>
+To Request GitHub Official Including 996ICU License <br/>
 提案请求github官方收录996ICU License <br/>
 
 ## Community Value
@@ -70,9 +70,9 @@ there are several requirements for a license to be [cataloged](https://chooseali
 ## Solutions
 ## 解决方案
 
-[Discussion about adding 996 to Github official](https://github.com/kattgu7/Anti-996-License/issues/11) opened in [Anti-996-License](https://github.com/kattgu7/Anti-996-License) . Welcome to [Anti-996-License](https://github.com/kattgu7/Anti-996-License)  discussing this topic. And to approach this goal, need supports and cooperation. Feel free to fill this solution.
+[Discussion about adding 996 to GitHub official](https://github.com/kattgu7/Anti-996-License/issues/11) opened in [Anti-996-License](https://github.com/kattgu7/Anti-996-License) . Welcome to [Anti-996-License](https://github.com/kattgu7/Anti-996-License)  discussing this topic. And to approach this goal, need supports and cooperation. Feel free to fill this solution.
 
-在[Anti-996-License](https://github.com/kattgu7/Anti-996-License) 下面开了[Discussion about adding 996 to Github official](https://github.com/kattgu7/Anti-996-License/issues/11)。 请大家去 [Anti-996-License](https://github.com/kattgu7/Anti-996-License) 讨论。 达成这个目标需要各方的支持与合作。欢迎各位继续补充提案。
+在[Anti-996-License](https://github.com/kattgu7/Anti-996-License) 下面开了[Discussion about adding 996 to GitHub official](https://github.com/kattgu7/Anti-996-License/issues/11)。 请大家去 [Anti-996-License](https://github.com/kattgu7/Anti-996-License) 讨论。 达成这个目标需要各方的支持与合作。欢迎各位继续补充提案。
 
 
 ## Resource & Requirements
