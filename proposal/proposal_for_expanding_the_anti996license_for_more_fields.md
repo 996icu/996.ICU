@@ -17,7 +17,7 @@ Post-History:| None
 
 ## Why this Proposal?
 
-In order to increase the influence of the Project, I suggest to increase the scope of the license. <br/>
+In order to increase the influence of the Project, I suggest to increase the scope of the license. <br>
 
 ## 社区价值
 

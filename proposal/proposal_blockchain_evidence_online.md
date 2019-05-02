@@ -67,10 +67,10 @@ There is a DApp can save datas permanently (IPFS) on EOS Blockchain.
 ## References
 
 In the part, list out links to the reference resource.
-For example, for this proposal, the main reference is <br/>
+For example, for this proposal, the main reference is <br>
 - [PEP 1 -- PEP Purpose and Guidelines](https://www.python.org/dev/peps/pep-0001/)
 
 ## Copyright
 
-This document has been placed in the public domain. <br/>
+This document has been placed in the public domain. <br>
 ***996.ICU Project All Right Reserved 2019***

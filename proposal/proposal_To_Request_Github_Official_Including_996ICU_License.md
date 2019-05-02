@@ -18,23 +18,23 @@ Post-History:| None
 ## Why this Proposal?
 ## 提案目的
 
-To Request GitHub Official Including 996ICU License <br/>
-提案请求github官方收录996ICU License <br/>
+To Request GitHub Official Including 996ICU License <br>
+提案请求github官方收录996ICU License <br>
 
 ## Community Value
 ## 社区价值
 
-Highlight 996ICU License badge <br/>
-让 996ICU License badge 更显眼 <br/>
+Highlight 996ICU License badge <br>
+让 996ICU License badge 更显眼 <br>
 
-Promote adoption of 996ICU License <br/>
-让 996ICU License 更易用 <br/>
+Promote adoption of 996ICU License <br>
+让 996ICU License 更易用 <br>
 
 ## Problems
 ## 问题
 
-To approach this, we need to add license to ChooseALicense.com. <br/>
-为了达到这个目标， 我们需要把 license 提交到 **ChooseALicense.com**. <br/>
+To approach this, we need to add license to ChooseALicense.com. <br>
+为了达到这个目标， 我们需要把 license 提交到 **ChooseALicense.com**. <br>
 
 It mentioned that only a small number are highlighted on the home page and
 there are several requirements for a license to be [cataloged](https://choosealicense.com/appendix/) on the site:
