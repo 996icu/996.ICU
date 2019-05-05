@@ -188,4 +188,6 @@
 |广西|广西安辰信息产业股份有限公司|2019年4月|大小周|考勤时间截图，可提供制度文件(https://github.com/euxeuxeux/996.ICU/blob/master/blacklist/img/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20190429115610.png)|
 |山东|潍柴动力股份有限公司/潍柴集团|2019年5月|无双休|[知乎问答1](http://www.zhihu.com/question/309984979)[知乎问答2](http://www.zhihu.com/question/270906947)|
 |深圳|深圳市金泰长丰科技有限公司|2019年5月|大小周、无加班工|[看准网](https://www.kanzhun.com/gsr6472604.html)|
-|重庆|重庆力华亘田科技有限公司|2019年5月|886计件，实际两周放一天假，没有加班费，法定假缩水。计时大小周，加班费不分法定假与周末，一律7元每小时。|![截图](https://i.loli.net/2019/05/05/5cce4fc86f789.jpg)|
+|重庆|重庆力华亘田科技有限公司|2019年5月|886计件，实际两周放一天假，没有加班费，法定假缩水。计时大小周，加班费不分法定假与周末，一律7元每小时。|[截图](https://i.loli.net/2019/05/05/5cce4fc86f789.jpg)|
+|北京|北京永信至诚科技股份有限公司|2019年5月|正常965，但强制每月加三天班，每周末加半天班|[内部手册](https://i.loli.net/2019/05/05/5ccee0a6e15b2.jpg)[激励敬业政策](https://i.loli.net/2019/05/05/5ccee0a706458.jpg)[内部PPT](https://i.loli.net/2019/05/05/5ccee0a722527.jpg)|
+|北京|美团|2019年5月|10 10 5|[看准网](https://www.kanzhun.com/pl469105.html)[CSDN](https://blog.csdn.net/weixin_43245088/article/details/85635423 )[ifeng](https://finance.ifeng.com/a/20170505/15358688_0.shtml)|
