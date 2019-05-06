@@ -82,7 +82,7 @@
  
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
  
- - [996.ICU.APP](https://github.com/996icuapp/996.icu.app) 提供加班工资计算器，加班时长和工资一目了然、996/955公司榜单和讨论区功能。
+ - [996.ICU.APP](https://github.com/996icuapp/996.icu.app) 开源的996.icu手机app，提供加班工资计算器，加班时长和工资一目了然、996/955公司榜单和讨论区功能，可以在app内访问996.ICU的GitHub项目主页。
 
 Issues 去哪了？
 ---
