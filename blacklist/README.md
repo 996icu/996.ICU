@@ -187,6 +187,7 @@
 |广州|[广州明动软件股份有限公司](http://www.minstone.com.cn/)|2018年9月|9106|每天晚上10:30才能走，甚至更晚，经常通宵，一周六天 [领导发的邮件](https://raw.githubusercontent.com/willywonkauk/staticref/master/1.png)|
 |广西|广西安辰信息产业股份有限公司|2019年4月|大小周|[考勤时间截图，可提供制度文件](https://github.com/euxeuxeux/996.ICU/blob/master/blacklist/img/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20190429115610.png)|
 |广西|广西安辰信息产业股份有限公司|2019年4月|大小周|考勤时间截图，可提供制度文件(https://github.com/euxeuxeux/996.ICU/blob/master/blacklist/img/%E6%90%9C%E7%8B%97%E6%88%AA%E5%9B%BE20190429115610.png)|
+|深圳|[深圳市康拓普信息技术有限公司](https://www.szcomtop.com//)|2019年4月|996|亲历| 
 |山东|潍柴动力股份有限公司/潍柴集团|2019年5月|无双休|[知乎问答1](http://www.zhihu.com/question/309984979)[知乎问答2](http://www.zhihu.com/question/270906947)|
 |深圳|深圳市金泰长丰科技有限公司|2019年5月|大小周、无加班工|[看准网](https://www.kanzhun.com/gsr6472604.html)|
 |重庆|重庆力华亘田科技有限公司|2019年5月|886计件，实际两周放一天假，没有加班费，法定假缩水。计时大小周，加班费不分法定假与周末，一律7元每小时。|[截图](https://i.loli.net/2019/05/05/5cce4fc86f789.jpg)|
