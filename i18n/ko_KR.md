@@ -52,10 +52,10 @@
  - [996.action](https://github.com/CPdogson/996action) 지지자들은 공개 감독에 참여하도록 권장됩니다.
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) 구인구직 사이트에 `996ICU` `955WLB` 태그를 추가합니다. 
  - [996.OD](https://github.com/zheolong/996.OD.git) 직업병은 중환자실(ICU)로 가는 사전 경고입니다. 
- - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft와 Github 근로자들은 996.ICU를 지지합니다. 
+ - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft와 GitHub 근로자들은 996.ICU를 지지합니다. 
  
  ## 이슈는 어디에 있나요?
- 상호작용 제한이 있음에도 불구하고 이슈 영역은 완전히 통제 불가능 상태입니다. 그래서 나는 Github나 다른 사람들에 의해서가 아니라  **개인적으로** 그것을 끄기로 결정했습니다. 
+ 상호작용 제한이 있음에도 불구하고 이슈 영역은 완전히 통제 불가능 상태입니다. 그래서 나는 GitHub나 다른 사람들에 의해서가 아니라  **개인적으로** 그것을 끄기로 결정했습니다. 
  
  
  ## 라이센스
