@@ -86,6 +86,7 @@ Community powers
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
  - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU
+ - [996.LastWords](https://github.com/gnoloehz/996.LastWords) Leave your last words for your family, friends or the world.
 
 Where are the issues?
 ---
