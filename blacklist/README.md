@@ -191,3 +191,4 @@
 |北京|美团|2019年5月|10 10 5|[看准网用户评论](https://www.kanzhun.com/pl469105.html)、 [CSDN](https://blog.csdn.net/weixin_43245088/article/details/85635423 )、 [ifeng](https://finance.ifeng.com/a/20170505/15358688_0.shtml)|
 |苏州|玩友时代|2019年5月|995, 排班996值班;无加班工资，名义调休，真调休的话领导各种不爽|[看准网](https://www.kanzhun.com/gsr5632014tl56.html)|
 |北京|赞同科技|2019年5月|997, 无加班工资|[看准网](https://www.kanzhun.com/gsr37775.html)、 [看准网用户评论](https://www.kanzhun.com/pl5666140.html)|
+|北京|网医纳康|2019年5月|996，奋斗者协议|[奋斗者协议图片](http://ww1.sinaimg.cn/large/5e18fb3fly1g2tzf4xpjej20go0m83zd.jpg)
