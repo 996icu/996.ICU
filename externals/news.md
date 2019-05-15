@@ -191,3 +191,9 @@
 ## 日文媒体
 
 - HuffPost：[謎のワード「996.ICU」が話題に　残業に苦しむIT社員たちが、過酷な労働実態を相次ぎ告発](https://www.huffingtonpost.jp/entry/996-icu-china_jp_5cad6335e4b01bf960076f52)
+
+- Reuters：[アングル：中国テク業界の過酷な「996」勤務、異例の抗議拡大](https://jp.reuters.com/article/china-overwork-protest-idJPKCN1RK0KV)
+
+- 東方新報：[中国で「996勤務」とは、プログラマーの勤務実態](https://www.afpbb.com/articles/-/3221092)
+
+- 東方新報：[プログラマーの過酷な勤務「996」問題に、中国EC二大巨頭の反応は](https://www.afpbb.com/articles/-/3221206)
