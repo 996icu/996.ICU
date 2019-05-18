@@ -19,6 +19,7 @@ Translations of 996.ICU's contents
 * [Tagalog](tg_TG.md)
 * [العربية](ar_EG.md)
 * [فارسی](fa_IR.md)
+* [Türkçe](tr_TR.md)
 * [Gaeilge na hÉireann](ga.md)
 * [Esperanto](epo.md)
 * [文言-简体中文](zh-lzh-Hans.md)
