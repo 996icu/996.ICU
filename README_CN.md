@@ -84,7 +84,7 @@
 
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
 
- - [996.action](https://github.com/CPdogson/996action) 强调用行动抗议996的板块，向政府信息公开火热进行中，#向马云寄劳动法#行为艺术式，除此之外还有许多行动选择。
+ - [996.action](https://github.com/CPdogson/996action) 强调用行动抗议996的板块，向政府信息公开火热进行中，#向马云寄劳动法#行为艺术式，除此之外还有许多行动选择。5月20日起诉成都市人力资源和社会保障局。
  
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
  
