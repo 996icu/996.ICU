@@ -50,7 +50,7 @@
 - **白鸦, 有赞CEO**: `几年后回看，这次绝对是好事`。
 
 ### 开发者
-- van Guido Rossum, Python之父: `"996"工作制是不人道的.`
+- Guido van Rossum, Python之父: `"996"工作制是不人道的`.
 原则和目的
 ---
 
