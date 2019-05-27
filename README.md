@@ -42,17 +42,18 @@ What can I do?
 Voices
 ---
 
-### Government
+### State Media
 - [The 996 shall disappear](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
 
 
 ### Capitalists
-- **Jack Ma, founder of Alibaba**: `'996' is a huge blessing`.
+- **Jack Ma, founder of Alibaba**: `It is a huge blessing to be able to '996'`.
 - **Richard Liu, founder of JD.com**: `We will never force our employee to work as '996'`.
-However, as a result many anonymous employees says that there is a **list** of departments which **ranked** them by overtime hours. The shortest will take punishments. And the leaders never leave evidences when ask employees to work as '996'.
-- **Bai Ya, founder of Youzan**: `This will definitely be a right decision when we look back in a few years`
+(However, as a result many anonymous employees says that there is a **list** of departments which **ranked** them by overtime hours. The shortest will take punishments. And the leaders never leave evidences when ask employees to work as '996'.)
+- **Bai Ya, founder of Youzan**: `This will definitely be a right decision when we look back in a few years.`
 
-
+### Developers
+- **Guido van Rossum, founder of Python**: `The '996' working schedule is inhumane.`
 
 
 Principles and purposes
