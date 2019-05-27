@@ -203,6 +203,7 @@
 |南京|车置宝|2019年5月|996|[看准网评论](https://www.kanzhun.com/pl6252690.html)|
 |深圳|深圳市艾森智能技术有限公司|2019年5月|996，加班无工资，激励员工多加班。扬言说不加班不是的公司会死去。|[聊天截图](img/wechatimg5498-meitu-1.png)|
 |杭州|杭州数澜科技有限公司|2019年5月|996|[看准网](https://www.kanzhun.com/gsr5709934.html)<br/>[看准网评论1](https://www.kanzhun.com/pl7182332.html)<br/>[看准网评论2](https://www.kanzhun.com/pl6556133.html)|
+|大连|[大连同方软银科技股份有限公司](http://www.tfrunning.com.cn)|2019年4月|996|[看准网](https://www.kanzhun.com/pl5661184.html?ka=review-item6)、[看准网](https://www.kanzhun.com/pl7170642.html?ka=review-item-ckqw)|
 |深圳市|优学派（深圳市致远优学教育科技有限公司）（优学天下教育发展股份有限公司）|2019年5月|规定965，实际一年3/4时间都是9(9-凌晨5)(6‖7)，没有加班工资。|[职友集（看“是否经常加班”投票）](https://www.jobui.com/company/12458179/salary/)<br/>朋友圈记录:[图片1](img/优学派1.jpg)，[图片2](img/优学派2.jpg)，[图片3](img/优学派3.jpg)
 |武汉|武汉精灵云网络科技股份有限公司|2019年5月|恶意裁员|[搜狐新闻](http://www.sohu.com/a/313841193_120047182)[公司声明](https://i.loli.net/2019/05/22/5ce4ba51e8e6655960.jpg)|
 |深圳|深圳农村商业银行|2019年5月|8.5 8.5 6 外包|[微信群内部截图](https://i.loli.net/2019/05/22/5ce4bb4c48a1269468.png)|
