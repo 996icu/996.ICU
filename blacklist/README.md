@@ -106,6 +106,7 @@
 |厦门|[4399游戏](www.4399.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13)|[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
 |嘉兴/广州|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|曾经一个月加班60小时被喝茶、[知乎爆料](https://www.zhihu.com/question/40782949)、[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2\|sz@320_1001\|ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)|
 |大连|[大连东软集团](https://www.neusoft.com/cn/)|2019年4月|9106|[看准网](https://www.kanzhun.com/pl5758283.html?ka=review-item2)、[看准网](https://www.kanzhun.com/pl5892120.html?ka=review-item10)|
+|大连|[大连同方软银科技股份有限公司](http://www.tfrunning.com.cn)|2019年4月|996|[看准网](https://www.kanzhun.com/pl5661184.html?ka=review-item6)、[看准网](https://www.kanzhun.com/pl7170642.html?ka=review-item-ckqw)|
 |天津|[长城汽车股份有限公司天津园区](http://www.gwm.com.cn/)|2019年3月28日|大小周|[招聘简章](http://www.hljsxy.org.cn/website/sites/common/readwNews.aspx?JpkId=1&id=13289)|
 |天津|[小黑鱼](https://blackfish.cn)|2019年4月7日|996|[看准网](https://m.kanzhun.com/gsr6771936.html)|
 |天津|[天津天地伟业科技有限公司](http://tideway.com.cn/)|2019年4月8日| 强制996 |[看准网](https://www.kanzhun.com/gsr1634154tl56.html?ka=review-label11)|
@@ -202,6 +203,13 @@
 |南京|车置宝|2019年5月|996|[看准网评论](https://www.kanzhun.com/pl6252690.html)|
 |深圳|深圳市艾森智能技术有限公司|2019年5月|996，加班无工资，激励员工多加班。扬言说不加班不是的公司会死去。|[聊天截图](img/wechatimg5498-meitu-1.png)|
 |杭州|杭州数澜科技有限公司|2019年5月|996|[看准网](https://www.kanzhun.com/gsr5709934.html)<br/>[看准网评论1](https://www.kanzhun.com/pl7182332.html)<br/>[看准网评论2](https://www.kanzhun.com/pl6556133.html)|
-|深圳市|优学派（深圳市致远优学教育科技有限公司）（优学天下教育发展股份有限公司）|2019年5月|规定965，实际一年3/4时间都是9(9-凌晨5)(6‖7)，没有加班工资。|[职友集（看“是否经常加班”投票）](https://www.jobui.com/company/12458179/salary/)<br/>朋友圈记录:[图片1](img/优学派1.jpg)，[图片2](img/优学派2.jpg)，[图片3](img/优学派3.jpg)|
-|西安|伯图大数据西安分公司|2019年5月|我公司规定是996的上班模式，看能接受吗？第一个数字上班时间，第二个数字下班时间，第三个数字一周的上班天数。这是我们规定的上班时间，薪资可以谈，但是需要来公司和用人部门面谈一下。|[boss聊天图](https://raw.githubusercontent.com/xiaopeng996icu/996.ICU/2b01c57202351af334c157361ffe702d42765bbc/blacklist/img/%E4%BC%AF%E5%9B%BE%E5%A4%A7%E6%95%B0%E6%8D%AE.jpg)|
 |大连|[大连同方软银科技股份有限公司](http://www.tfrunning.com.cn)|2019年4月|996|[看准网](https://www.kanzhun.com/pl5661184.html?ka=review-item6)、[看准网](https://www.kanzhun.com/pl7170642.html?ka=review-item-ckqw)|
+|深圳市|优学派（深圳市致远优学教育科技有限公司）（优学天下教育发展股份有限公司）|2019年5月|规定965，实际一年3/4时间都是9(9-凌晨5)(6‖7)，没有加班工资。|[职友集（看“是否经常加班”投票）](https://www.jobui.com/company/12458179/salary/)<br/>朋友圈记录:[图片1](img/优学派1.jpg)，[图片2](img/优学派2.jpg)，[图片3](img/优学派3.jpg)
+|武汉|武汉精灵云网络科技股份有限公司|2019年5月|恶意裁员|[搜狐新闻](http://www.sohu.com/a/313841193_120047182)[公司声明](https://i.loli.net/2019/05/22/5ce4ba51e8e6655960.jpg)|
+|深圳|深圳农村商业银行|2019年5月|8.5 8.5 6 外包|[微信群内部截图](https://i.loli.net/2019/05/22/5ce4bb4c48a1269468.png)|
+|北京|北京中体联合数据科技有限公司|2019年5月|996|[内部邮件](https://i.loli.net/2019/05/22/5ce4bcc5a753d12104.png)](https://i.loli.net/2019/05/22/5ce4bcc5a753d12104.png)[内部聊天](https://i.loli.net/2019/05/22/5ce4bcc627c3f19326.png)](https://i.loli.net/2019/05/22/5ce4bcc627c3f19326.png)|
+|北京|北京金山办公软件有限公司|2019年5月|996，黑心企业，默认加班，无加班工资，不加班被谈话，一个奇葩的公司|[看准网](https://www.kanzhun.com/pl6009932.html?ka=comreview-showall1)|
+|合肥市|安徽学云教育信息科技有限公司|2019年5月|每周 一二四六 加班，虽然没说到几点，但基本默认必须到9点以后|[公司领导人员的群](https://i.loli.net/2019/05/22/5ce4be42874ad66243.jpg)](https://i.loli.net/2019/05/22/5ce4be42874ad66243.jpg)[说话的是CTO](https://i.loli.net/2019/05/22/5ce4be428979080125.jpg)](https://i.loli.net/2019/05/22/5ce4be428979080125.jpg)|
+|武汉|武汉精灵云|2019年5月|利用合同漏洞等拒绝赔偿开除赔款|[V2ex](https://www.v2ex.com/t/563422)|
+|马鞍山市|马鞍山百助网络科技有限公司|2019年5月|996|[BOSS直聘](https://www.zhipin.com/gongsi/ce2fa3a8b75fc0c91nBz2t8~.html?ka=company-intro)[BOSS直聘截图](https://i.loli.net/2019/05/22/5ce4bf68e304995658.png)](https://i.loli.net/2019/05/22/5ce4bf68e304995658.png)|
+|西安|伯图大数据西安分公司|2019年5月|我公司规定是996的上班模式，看能接受吗？第一个数字上班时间，第二个数字下班时间，第三个数字一周的上班天数。这是我们规定的上班时间，薪资可以谈，但是需要来公司和用人部门面谈一下。|[boss聊天图](https://github.com/996icu/996.ICU/blob/master/blacklist/img/%E4%BC%AF%E5%9B%BE%E5%A4%A7%E6%95%B0%E6%8D%AE.jpg)|
