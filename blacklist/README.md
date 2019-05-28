@@ -213,3 +213,4 @@
 |武汉|武汉精灵云|2019年5月|利用合同漏洞等拒绝赔偿开除赔款|[V2ex](https://www.v2ex.com/t/563422)|
 |马鞍山市|马鞍山百助网络科技有限公司|2019年5月|996|[BOSS直聘](https://www.zhipin.com/gongsi/ce2fa3a8b75fc0c91nBz2t8~.html?ka=company-intro)[BOSS直聘截图](https://i.loli.net/2019/05/22/5ce4bf68e304995658.png)](https://i.loli.net/2019/05/22/5ce4bf68e304995658.png)|
 |西安|伯图大数据西安分公司|2019年5月|我公司规定是996的上班模式，看能接受吗？第一个数字上班时间，第二个数字下班时间，第三个数字一周的上班天数。这是我们规定的上班时间，薪资可以谈，但是需要来公司和用人部门面谈一下。|[boss聊天图](https://github.com/996icu/996.ICU/blob/master/blacklist/img/%E4%BC%AF%E5%9B%BE%E5%A4%A7%E6%95%B0%E6%8D%AE.jpg)|
+|广州|广州智悦网络科技有限公司|2019 年 4 月 1 号| 995 |[图片](/blacklist/img/gz_zhiyue.png)|
