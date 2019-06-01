@@ -2,7 +2,7 @@
 
 Generate LICENSES. Use Python3.
 
-All LICENSE file comes from github. to see the license code [here](https://help.github.com/en/articles/licensing-a-repository#searching-github-by-license-type)
+All LICENSE file comes from github. [Click here](https://help.github.com/en/articles/licensing-a-repository#searching-github-by-license-type) to see the license code.
 
 Support [996.ICU Expanded LICENSE](https://github.com/996icu/996.ICU)
 
