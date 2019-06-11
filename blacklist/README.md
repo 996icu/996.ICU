@@ -213,6 +213,7 @@
 |武汉|精灵云网络|2019年5月|利用合同漏洞等拒绝赔偿开除赔款|[V2ex](https://www.v2ex.com/t/563422) [搜狐新闻](http://www.sohu.com/a/313841193_120047182) [公司声明](https://i.loli.net/2019/05/22/5ce4ba51e8e6655960.jpg)|
 |马鞍山市|马鞍山百助网络科技有限公司|2019年5月|996|[BOSS直聘](https://www.zhipin.com/gongsi/ce2fa3a8b75fc0c91nBz2t8~.html?ka=company-intro)[BOSS直聘截图](https://i.loli.net/2019/05/22/5ce4bf68e304995658.png)[截图2](https://i.loli.net/2019/05/22/5ce4bf68e304995658.png)|
 |西安|伯图大数据西安分公司|2019年5月|我公司规定是996的上班模式，看能接受吗？第一个数字上班时间，第二个数字下班时间，第三个数字一周的上班天数。这是我们规定的上班时间，薪资可以谈，但是需要来公司和用人部门面谈一下。|[boss聊天图](https://github.com/996icu/996.ICU/blob/master/blacklist/img/%E4%BC%AF%E5%9B%BE%E5%A4%A7%E6%95%B0%E6%8D%AE.jpg)|
+|成都|[成都几维科技](http://www.kiwigames.cn/)|2019年3月|10 8 5，项目提审阶段10 10 6，实习生也不放过，并且实习生没有加班工资|[qq群内部截图1](img/成都几维科技1.png)、[qq群内部截图2](img/成都几维科技2.png)
 |大连|[同方软银](http://www.tfrunning.com.cn/)|2017年5月|996|[看准网1](https://www.kanzhun.com/pl5661184.html?ka=review-item6) [看准网2](https://www.kanzhun.com/pl7170642.html?ka=review-item-ckqw)|
 |杭州|[浙江大华](https://www.dahuatech.com/index.php/about.html)|2015年10月|浙江杭州办linux运维的技术支持大小周、无加班工资|[看准网](https://www.kanzhun.com/pl6967786.html?ka=review-item-ckqw)|
 |深圳|[利朗达](http://www.rondaful.com/)|2017年10月|996、加班费一天15块|[知乎](https://www.zhihu.com/question/265739414)|
