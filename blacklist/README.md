@@ -219,3 +219,4 @@
 |深圳|[利朗达](http://www.rondaful.com/)|2017年10月|996、加班费一天15块|[知乎](https://www.zhihu.com/question/265739414)|
 |兰州|[中电万维](http://www.wanwei.com.cn/)|2018年3月|997|[看准网](https://www.kanzhun.com/pl7109874.html?ka=review-item4)|
 |上海|[上海欧电云信息科技有限公司](http://www.odianyun.com/)|2019年5月|表面是965，其实至少995，经常加班到凌晨1‖2点，没有加班工资。|[加班点餐邮件1](img/欧电云加班行政邮件截图3.png)，[加班点餐邮件2](img/欧电云加班餐票截图1.png),[加班点餐邮件2](img/欧电云加班餐票截图2.png|
+|南京|[南京万米信息技术有限公司](http://www.wanmi.com/)|2019年6月|公司经常996|[ceo强调9961](img/ceo图1.png)，[ceo强调9962](img/ceo图2.png)|
