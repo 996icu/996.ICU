@@ -220,3 +220,4 @@
 |兰州|[中电万维](http://www.wanwei.com.cn/)|2018年3月|997|[看准网](https://www.kanzhun.com/pl7109874.html?ka=review-item4)|
 |广州|广州智悦网络科技有限公司|2019 年 4 月 1 号| 995 |[图片](/blacklist/img/gz_zhiyue.png)|
 |上海|[上海欧电云信息科技有限公司](http://www.odianyun.com/)|2019年5月|表面是965，其实至少995，经常加班到凌晨1‖2点，没有加班工资。|[加班点餐邮件1](img/欧电云加班行政邮件截图3.png)，[加班点餐邮件2](img/欧电云加班餐票截图1.png),[加班点餐邮件2](img/欧电云加班餐票截图2.png|
+|南京|[南京万米信息技术有限公司](http://www.wanmi.com/)|2019年6月|公司经常996|[ceo强调9961](img/ceo1.jpeg)，[ceo强调9962](img/ceo2.jpeg)|
