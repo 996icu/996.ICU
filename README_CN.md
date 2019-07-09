@@ -4,7 +4,7 @@
 
 * [English version](./README.md)
 
-`996.ICU`  是指“工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
+`996.ICU` 是指“工作 996，生病 ICU”。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
@@ -31,11 +31,11 @@
 我能做什么？
 ---
 - 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位工作者。[为不熟悉GitHub劳动者准备的提交渠道](https://www.996action.com/index.php/889799)
-- 把这个[徽章](externals/instruction.md)添加到你的项目来支持 996.ICU
+- 把这个[徽章](externals/instruction.md)添加到你的项目来支持 996.ICU。
 - 为你的项目添加[反 996 许可证](LICENSE_CN)。
 - 给社区与项目发展提出新的[议案](proposal/README.md)。
 - 下午6点钟下班回家。
-- 企业和群众可以登录中国政府网（www.gov.cn） 或下载国务院客户端，进入国务院“互联网+督查”专栏，也可以关注中国政府网微信公众号，进入国务院“互联网+督查”小程序提供线索、反映问题、提出建议。国务院办公厅将对收到的问题线索和意见建议进行汇总整理，督促有关地方、部门处理。对企业和群众反映强烈、带有普遍性的重要问题线索，国务院办公厅督查室将直接派员督查。经查证属实、较为典型的问题，将予以公开曝光、严肃处理。 
+- 企业和群众可以登录中国政府网（www.gov.cn）或下载国务院客户端，进入国务院“互联网+督查”专栏，也可以关注中国政府网微信公众号，进入国务院“互联网+督查”小程序提供线索、反映问题、提出建议。国务院办公厅将对收到的问题线索和意见建议进行汇总整理，督促有关地方、部门处理。对企业和群众反映强烈、带有普遍性的重要问题线索，国务院办公厅督查室将直接派员督查。经查证属实、较为典型的问题，将予以公开曝光、严肃处理。
 
 各界声音
 ---
@@ -44,13 +44,13 @@
 - [996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
 
 ### 资本家
-- **马云, 阿里巴巴创始人**: `“996”是一种福报`。
-- **刘强东，京东创始人**: `京东不会强制995或者996`。
+- **马云，阿里巴巴创始人**：`“996”是一种福报`。
+- **刘强东，京东创始人**：`京东不会强制995或者996`。
 但是有许多员工匿名表示，公司内部有一个“加班排名表”，列举了各个部门的加班情况排名，排名低的部门会受到惩罚。领导们安排996工作时，也会注意不留下证据。
-- **白鸦, 有赞CEO**: `几年后回看，这次绝对是好事`。
+- **白鸦，有赞CEO**：`几年后回看，这次绝对是好事`。
 
 ### 开发者
-- Guido van Rossum, Python之父: `"996"工作制是不人道的`.
+- Guido van Rossum，Python之父：`"996"工作制是不人道的`。
 
 原则和目的
 ---
@@ -76,9 +76,9 @@
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
  
- - [996.law](https://github.com/CPdogson/996.law) 面向所有劳动者的一份劳动仲裁与劳动诉讼的攻略手册，看完它之后你甚至不用找律师。并且倡导劳动者在工作中随时取证以备后患。
+ - [996.law](https://github.com/CPdogson/996.law) 面向所有劳动者的一份劳动仲裁与劳动诉讼的攻略手册，看完它之后你甚至不用找律师，并且倡导劳动者在工作中随时取证以备后患。
 
- - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
+ - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List，另外一个匿名投票列表。
 
  - [996.Leave](https://github.com/623637646/996.Leave) 介绍与鼓励海外工作。
 
@@ -92,7 +92,7 @@
  
  - [996.OD](https://github.com/zheolong/996.OD.git) 程序员长期996导致的职业病，为广大程序员兄弟提供可以查询的常见职业病信息，为职业病防治法的立法改进提供依据。
  
-  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) 微软与GitHub员工自发组织 实名签名 支持 996.ICU
+  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) 微软与GitHub员工自发组织 实名签名 支持 996.ICU。
   
   - [699cn](https://github.com/996-699/996.699) 一键存证微信小程序，免安装永久免费，完全公益性质。一键采集员工当前经纬度和打卡时间存证到服务器，未来目标是期望更多志愿者加入团队，建设成为基于分布式账本技术的存证平台，只要地球上还有程序员，证据就永远存在。
  
