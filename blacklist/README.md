@@ -154,13 +154,15 @@
 |深圳|[腾讯](https://www.tencent.com/zh-cn/index.html)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5855.html?ka=com-blocker1-review#co_tab)|[知乎](https://www.zhihu.com/question/30383728/answer/49853422)|[知乎](https://www.zhihu.com/question/294418645/answer/494094055)|
 |深圳|[VIVO](https://www.vivo.com.cn/)|2019年4月14日|996大小周|[看准网](https://www.kanzhun.com/pl6139773.html?ka=review-item2)|
 |深圳|[房多多](https://m.fangdd.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr2072113tl56.html?ka=review-label13)|[知乎](https://www.zhihu.com/question/24225318/answer/63820083)|
-|深圳|[万兴科技](https://www.wondershare.cn/)|2019年4月7日|995|[看准网](https://www.kanzhun.com/gsr1682212tl56.html?ka=review-label12)|
+|深圳|[万兴科技](https://www.wondershare.cn/)|2019年
+4月7日|995|[看准网](https://www.kanzhun.com/gsr1682212tl56.html?ka=review-label12)|
 |深圳|[追一科技](https://zhuiyi.ai/)|2019年4月7日|10106 疯狂加班|[看准网](https://www.kanzhun.com/gsr5693705.html?ka=com1-review)|[知乎](https://www.zhihu.com/question/59128341/answer/271630324)|[知乎](https://www.zhihu.com/question/59128341/answer/637566953)|[知乎](https://www.zhihu.com/question/59128341/answer/347608941)|
 |深圳|[深圳市猜猜城科技有限公司](www.guesscity.net/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr6671156.html?ka=com1-review)|
 |深圳|[道通科技](www.auteltech.cn/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr479390tl56.html?ka=review-label8)|
 |深圳|[尊豪网络科技有限公司](www.szzunhao.com/)|2019年4月7日|每天10小时|[看准网](https://m.kanzhun.com/pl6818466.html?sid=kzapp&from=singlemessage)|
 |深圳|[广东虚拟现实科技有限公司(Ximmerse)](https://www.ximmerse.com/)|2016年06月1日|996|[邮件通知](img/Ximmerse考勤邮件.png) [制度截图](img/Ximmerse制度方案.png)|
-|深圳|[边度网络科技（深圳）有限公司](https://www.bindo.com/)|2019年3月25日|996|[制度要求截图](img/bindo_com_996.jpg)<br>[打卡截图](img/bindo_com_996_2.jpg)|
+|深圳|[边度网络科技（深圳）有限公司](https://www.bindo.com/)|2019年3月25日|996|[制度要求截图](img/bindo_com_996.jpg)<br>[
+截图](img/bindo_com_996_2.jpg)|
 |深圳|[微付充科技有限公司](http://www.vfuchong.com/)|2019年4月|大小周， 每个月固定两天|[职友集](https://www.jobui.com/company/12488776/salary/)|
 |深圳|[深圳沈鼓测控技术有限公司](http://www.shenguyun.com/)|2019年4月|提倡员工签署自愿加班协议|[承诺书图片](img/深圳沈鼓自愿加班承诺书.jpg)
 |深圳|[深圳市前海手绘科技文化有限公司](https://www.laihua.com/)|2019年4月|996连坐，如果有人迟到或请事假，全部门996一周|[群聊图片](img/来画996.png)|
@@ -231,3 +233,6 @@
 |长沙|杭州数梦工场科技有限公司|2019年9月|周一到周四早9晚9 周五周日早9晚6|[内部排版](https://i.loli.net/2019/06/22/5d0dd5063e0ed50557.png)|
 |桐庐|海康威视|2019年9月|777大小周|[知乎](https://www.zhihu.com/question/36922386/answer/545711911)|
 |郑州|宇通客车股份有限公司|2019年9月|887|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
+|杭州|安徽凯才信息有限公司(呆萝卜)杭州研发中心|2019年6月|996，无加班工资|[内部群通知](https://i.loli.net/2019/07/18/5d2f4d561cc2672533.jpeg)|
+
+|桐庐|海康威视|2019年9月|777大小周|[知乎](https://www.zhihu.com/question/36922386/answer/545711911)|
