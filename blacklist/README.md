@@ -231,5 +231,5 @@
 |长沙|杭州数梦工场科技有限公司|2019年9月|周一到周四早9晚9 周五周日早9晚6|[内部排版](https://i.loli.net/2019/06/22/5d0dd5063e0ed50557.png)|
 |桐庐|海康威视|2019年9月|777大小周|[知乎](https://www.zhihu.com/question/36922386/answer/545711911)|
 |郑州|宇通客车股份有限公司|2019年9月|887|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)|
-|北京|北京渔塘软件科技有限公司|2019年7月|不允许午休|[脉脉](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiM2NhN2RiOWNhZGI1MTFlOWJkMjU4MDE4NDRlNTAxOTAiLCJ1IjoxNTM1ODg1MzgsImlkIjoyMjg3MjYwNH0.eJI3-R8rcb6_TzD3kiziHvCI_hKhjUQG8392DdIYi0s
+|北京|北京渔塘软件科技有限公司|2019年7月|不允许午休|[脉脉](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYmI1ZTIzY2NhZWNhMTFlOWJjMzc1MjU0MDAxYmIzMTYiLCJ1IjoxNTM1ODg1MzgsImlkIjoyMjkwMzE0MH0.VlLMoR7dD5t_C7-0U5Hd-IfohyAVKOHgBklEU1l8rDo
 )|
