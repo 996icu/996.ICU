@@ -218,7 +218,7 @@
 |杭州|[浙江大华](https://www.dahuatech.com/index.php/about.html)|2015年10月|浙江杭州办linux运维的技术支持大小周、无加班工资|[看准网](https://www.kanzhun.com/pl6967786.html?ka=review-item-ckqw)|
 |深圳|[利朗达](http://www.rondaful.com/)|2017年10月|996、加班费一天15块|[知乎](https://www.zhihu.com/question/265739414)|
 |兰州|[中电万维](http://www.wanwei.com.cn/)|2018年3月|997|[看准网](https://www.kanzhun.com/pl7109874.html?ka=review-item4)|
-|广州|广州智悦网络科技有限公司|2019 年 4 月 1 号| 995 |[图片](/blacklist/img/gz_zhiyue.png)|
+|广州|广州智悦网络科技有限公司|2019年4月1号| 995 |[图片](/blacklist/img/gz_zhiyue.png)|
 |上海|[上海欧电云信息科技有限公司](http://www.odianyun.com/)|2019年5月|表面是965，其实至少995，经常加班到凌晨1‖2点，没有加班工资。|[加班点餐邮件1](img/欧电云加班行政邮件截图3.png)，[加班点餐邮件2](img/欧电云加班餐票截图1.png),[加班点餐邮件2](img/欧电云加班餐票截图2.png|
 |南京|[南京万米信息技术有限公司](http://www.wanmi.com/)|2019年6月|公司经常996|[ceo强调9961](img/ceo1.jpeg)，[ceo强调9962](img/ceo2.jpeg)|
 |成都|成都市极米科技有限公司|2019年6月|大小周、99|[公司群内通知](https://i.loli.net/2019/06/22/5d0dcde28d55045439.png)|
@@ -229,5 +229,6 @@
 |上海|思满科技|2019年9月|至少996，无加班工资|在看准app上花钱洗评论 kpi随意克扣。[真实的评价](https://i.loli.net/2019/06/22/5d0dd3da9640210875.jpg)[真是评价](https://i.loli.net/2019/06/22/5d0dd3dbee9a994536.jpg)[HR自己写的假评价](https://i.loli.net/2019/06/22/5d0dd3da6617453896.jpg)|
 |上海|上海非码网络科技有限公司|2019年9月|996，无加班费，更不提供加班餐。|[班车通知](https://i.loli.net/2019/06/22/5d0dd4ac3a91b42022.png)[内部论坛](https://i.loli.net/2019/06/22/5d0dd4ae49dbb47592.png)|
 |长沙|杭州数梦工场科技有限公司|2019年9月|周一到周四早9晚9 周五周日早9晚6|[内部排版](https://i.loli.net/2019/06/22/5d0dd5063e0ed50557.png)|
-|桐庐|海康威视|2019年9月|777大小周|[知乎](https://www.zhihu.com/question/36922386/answer/545711911)|
-|郑州|宇通客车股份有限公司|2019年9月|887|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
+|桐庐|海康威视|2019年9月|777大小周|[海康威视加班具体到什么程度啊？](https://www.zhihu.com/question/36922386/answer/545711911)|
+|郑州|宇通客车股份有限公司|2019年9月|887|[郑州宇通客车研发技术岗位平常加班有加班费吗？](https://www.zhihu.com/question/303129920/answer/576465096)|
+|北京|北京渔塘软件科技有限公司|2019年7月月|早10晚11|[如何看待渔塘科技 CEO 郭潇潇禁止技术人员午休，称「渔塘没有午休这件事，从未有过」？](https://www.zhihu.com/question/336496755)|
