@@ -243,6 +243,7 @@
 |上海|上海非码网络科技有限公司|2019年9月|996，无加班费，更不提供加班餐。|[班车通知](https://i.loli.net/2019/06/22/5d0dd4ac3a91b42022.png)[内部论坛](https://i.loli.net/2019/06/22/5d0dd4ae49dbb47592.png)|
 |长沙|杭州数梦工场科技有限公司|2019年9月|周一到周四早9晚9 周五周日早9晚6|[内部排版](https://i.loli.net/2019/06/22/5d0dd5063e0ed50557.png)|
 |桐庐|海康威视|2019年9月|777大小周|[知乎](https://www.zhihu.com/question/36922386/answer/545711911)|
+|杭州|吾诺瀚卓||8:30-18:00，一周6天|https://baijiahao.baidu.com/s?id=1640013112742652456&wfr=spider&for=pc|
 |北京|北京渔塘软件科技有限公司|2019年7月|不允许午休|[脉脉](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYmI1ZTIzY2NhZWNhMTFlOWJjMzc1MjU0MDAxYmIzMTYiLCJ1IjoxNTM1ODg1MzgsImlkIjoyMjkwMzE0MH0.VlLMoR7dD5t_C7-0U5Hd-IfohyAVKOHgBklEU1l8rDo
 )|
 |临沂|临沂乐卓软件开发有限公司|未知，应该是从成立开始|86.56|仅工作一日无证据，早八点到晚六点半为正常上班时间。|
