@@ -31,7 +31,9 @@
 |杭州|[杭州复杂美科技有限公司](https://github.com/33cn/chain33/)|2019年4月|9-6-5|[员工手册](img/chain33.jpg)|
 |成都|[四川锦程消费金融有限责任公司](http://www.jccfc.com/)|2019年4月|915-530-5|[考勤规则通知邮件](img/timing_20190401111520.png)|
 |深圳|[深圳市凉屋游戏科技有限公司](http://www.chillyroom.com/)|2019年4月|上午10:00 - 下午1:00；下午2:30 - 下午7:00|[内部wiki员工手册截图](img/chillyroom_prove.png)|
-|天津|[摩卡软件(天津)有限公司](http://mochasoft.com.cn)|2019年4月|8:30 - 17:30，上下班各弹性1h；午休 1h；|[员工手册部分截图](img/mocha.png)|
 |长沙|[湖南快乐阳光互动娱乐传媒有限公司](http://www.mgtv.com)|2019年4月|965;中午休息2小时|[邮件通知](img/mgtv.png)|
 |北京|[长城宽带](https://www.96090090.com/)|2019年4月|9:00-5:30-5|[考勤规则通知邮件](img/gwbn.jpeg)|
 |上海|[三零卫士](http://www.30wish.net)|2019年4月|9:30-17:30-5|[钉钉考勤规则说明](img/30wish.png)|
+|北京|[语知科技](http://http://yuzhinlp.com/)|2019年4月|9:00-18:00-5;上下班弹性半小时;午休1h;|[员工手册截图](img/yuzhi_nlp.png)|
+|北京|[北京优锘科技有限公司](http://www.uinnova.cn/)|2019年4月|9-6-5;弹性工作;午休一个钟;|[员工手册截图](img/uinnova.png)|
+|北京, 西安|[北京庖丁科技有限公司](https://www.paodingai.com/)|2019年5月|9-6-5;弹性工作;午休一小时;|[内部 WiKi 截图](img/PaodingAI-wiki.png)|
