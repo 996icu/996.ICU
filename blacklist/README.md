@@ -180,7 +180,6 @@
 |深圳|[深圳聚力创想信息科技有限公司](https://www.qidianla.com/)|------|大小周、加班|[打卡通知1](img/qidianxueyuan1.jpg)、[打卡通知2](img/qidianxueyuan2.jpg)|
 |珠海|[金山软件](http://www.kingsoft.com/)|2017年7月12日|996/9106|[图片](img/金山软件-9106.png)|
 |福州|[中富通集团股份有限公司](http://www.zftii.com/)|2019年4月|宣扬马云996 随意要求员工加班|[微信截图](img/zftjt.jpg)|
-|福建|[福建浔兴拉链科技股份有限公司](http://www.sbszipper.com/)|2019年4月11日|大小周|亲历+[元旦前考勤注解](img/fjxxydkq.png)[大小周外加周末充当法定节假日外加随意重置大小周顺序-元旦](img/fjxxydfj.png)、[大小周外>加周末充当法定节假日外加随意重置大小周顺序-清明节](img/fjxxqmfj.png)|
 |苏州|[顺舟智能](http://www.shuncom.com)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC549324722J00346803701.htm)|
 |苏州|[苏州同思软件有限公司](http://www.one-dream.com.cn/)|2019年4月|996、9106|[图片](img/tongsi1.png)、[图片](img/tongsi2.png)、[图片](img/tongsi3.png)、[图片](img/tongsi4.png)、[看准网](https://www.kanzhun.com/pl6983505.html?ka=comreview-showall2)|
 |苏州|[凌志软件股份有限公司](http://www.linkstec.com/)|2019年4月|996，9106，9116|[专坑实习生](img/lingzhi1.png)、[看准网](https://www.kanzhun.com/gsr99810c50.html)|
@@ -244,8 +243,6 @@
 |长沙|杭州数梦工场科技有限公司|2019年9月|周一到周四早9晚9 周五周日早9晚6|[内部排版](https://i.loli.net/2019/06/22/5d0dd5063e0ed50557.png)|
 |桐庐|海康威视|2019年9月|777大小周|[知乎](https://www.zhihu.com/question/36922386/answer/545711911)|
 |杭州|吾诺瀚卓||8:30-18:00，一周6天|https://baijiahao.baidu.com/s?id=1640013112742652456&wfr=spider&for=pc|
-|北京|北京渔塘软件科技有限公司|2019年7月|不允许午休|[脉脉](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiYmI1ZTIzY2NhZWNhMTFlOWJjMzc1MjU0MDAxYmIzMTYiLCJ1IjoxNTM1ODg1MzgsImlkIjoyMjkwMzE0MH0.VlLMoR7dD5t_C7-0U5Hd-IfohyAVKOHgBklEU1l8rDo
-)|
 |临沂|临沂乐卓软件开发有限公司|未知，应该是从成立开始|86.56|仅工作一日无证据，早八点到晚六点半为正常上班时间。|
 |郑州|宇通客车股份有限公司|2019年9月|887|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
 |东莞|[华勤通讯](http://www.huaqin.com/)|2019年7月|996，每天加班|[知乎](https://www.zhihu.com/question/49628909/answer/522467068)
