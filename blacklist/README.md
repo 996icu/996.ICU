@@ -104,6 +104,8 @@
 |北京|[北京声智科技有限公司](http://www.soundai.com/)|2019年4月|996|[看准网：包括 HR 全员996](https://www.kanzhun.com/gsr5680797tl526.html?ka=review-label1)|
 |北京|[蛋壳公寓](https://www.danke.com/)|2018年7月|10106/10107|[看准网](https://www.kanzhun.com/gsm5710300.html?ka=com-blocker1-interview#co_tab%EF%BC%89)|
 |北京|[北京掌握时代科技股份有限公司](http://www.mastertimes.net/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)|
+|北京|[快手](https://kuaishou.com)|2019年6月18日|996|[腾讯新闻](https://new.qq.com/omn/20190619/20190619A0NKNM.html)
+|北京|[51talk](http://www.51talk.com/)|2019年4月|早11晚10一周6天，领导不高兴就不放假或者让你晚上12点走|[看准网](https://www.kanzhun.com/question/769860.html)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
 |厦门|[4399游戏](www.4399.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13)|[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
 |嘉兴/广州|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|曾经一个月加班60小时被喝茶、[知乎爆料](https://www.zhihu.com/question/40782949)、[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2\|sz@320_1001\|ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)|
@@ -224,6 +226,7 @@
 |成都|成都市极米科技有限公司|2019年6月|大小周、99|[公司群内通知](https://i.loli.net/2019/06/22/5d0dcde28d55045439.png)|
 |兰州|中电万维信息技术有限责任公司|2019年6月|996|[TIM截图](https://i.loli.net/2019/06/22/5d0dcf975ff1796946.png)[TIM截图](https://i.loli.net/2019/06/22/5d0dcf97c1d9342344.png)|
 |成都|成都洋葱新未来网络科技有限公司|2019年6月|9 10 6 无加班工资，工作日加班4小时第二天只能晚到30分钟，仅周末加班可调休|[考勤日历](https://i.loli.net/2019/06/22/5d0dd018e6b5033832.jpg)[考勤日历](https://i.loli.net/2019/06/22/5d0dd01990b2834188.jpg)|
+|成都、宁波、惠州|TCL通讯|2019年6月|提倡996、007，无加班工资|[动员令](img/tcl1.png)<br/>[微信公众号:JoyUI_2018每周速报](img/tcl2.png)|
 |深圳|中睿宏智汽车技术（深圳）有限公司|2109年6月|995并且拖欠工资|[V2EX](https://www.v2ex.com/t/572452#reply413)|
 |北京、南京|小诚文化传媒有限公司|2019年6月|大小周、无加班工资、无年假、绩效占比过高|[考勤记录](https://i.loli.net/2019/06/22/5d0dd11c7099916753.jpg)|
 |上海|思满科技|2019年9月|至少996，无加班工资|在看准app上花钱洗评论 kpi随意克扣。[真实的评价](https://i.loli.net/2019/06/22/5d0dd3da9640210875.jpg)[真是评价](https://i.loli.net/2019/06/22/5d0dd3dbee9a994536.jpg)[HR自己写的假评价](https://i.loli.net/2019/06/22/5d0dd3da6617453896.jpg)|
@@ -236,3 +239,4 @@
 |山东临沂|临沂沂川网络科技有限公司|2019年4月|端午强制加班不放假|[工作群截图](https://i.loli.net/2019/07/16/5d2d7f1a5e46021101.png)|
 |山东临沂|临沂沂川网络科技有限公司|2019年4月|请假1天扣双倍工资,定修4天(即使某月有5个周日)|[规定照片](https://i.loli.net/2019/07/16/5d2d7f8d4d4a955770.jpg)|
 |山东临沂|临沂沂川电子有限公司|2015年9月|沂川网络招聘用的皮包公司|附录内3个视频,关键证据:视频内宣传板上印有2公司logo|
+|上海|普道科技|2019年7月|晚上11点,早上10点,一周6天|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
