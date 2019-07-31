@@ -105,6 +105,7 @@
 |北京|[蛋壳公寓](https://www.danke.com/)|2018年7月|10106/10107|[看准网](https://www.kanzhun.com/gsm5710300.html?ka=com-blocker1-interview#co_tab%EF%BC%89)|
 |北京|[北京掌握时代科技股份有限公司](http://www.mastertimes.net/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)|
 |北京|[快手](https://kuaishou.com)|2019年6月18日|996|[腾讯新闻](https://new.qq.com/omn/20190619/20190619A0NKNM.html)
+|北京|[51talk](http://www.51talk.com/)|2019年4月|早11晚10一周6天，领导不高兴就不放假或者让你晚上12点走|[看准网](https://www.kanzhun.com/question/769860.html)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
 |厦门|[4399游戏](www.4399.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13)|[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
 |嘉兴/广州|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|曾经一个月加班60小时被喝茶、[知乎爆料](https://www.zhihu.com/question/40782949)、[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2\|sz@320_1001\|ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)|
