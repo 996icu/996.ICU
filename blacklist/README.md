@@ -104,6 +104,7 @@
 |北京|[北京声智科技有限公司](http://www.soundai.com/)|2019年4月|996|[看准网：包括 HR 全员996](https://www.kanzhun.com/gsr5680797tl526.html?ka=review-label1)|
 |北京|[蛋壳公寓](https://www.danke.com/)|2018年7月|10106/10107|[看准网](https://www.kanzhun.com/gsm5710300.html?ka=com-blocker1-interview#co_tab%EF%BC%89)|
 |北京|[北京掌握时代科技股份有限公司](http://www.mastertimes.net/)|2019年4月|996|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)|
+|北京|[快手](https://kuaishou.com)|2019年6月18日|996|[腾讯新闻](https://new.qq.com/omn/20190619/20190619A0NKNM.html)
 |北京|[51talk](http://www.51talk.com/)|2019年4月|早11晚10一周6天，领导不高兴就不放假或者让你晚上12点走|[看准网](https://www.kanzhun.com/question/769860.html)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
 |厦门|[4399游戏](www.4399.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13)|[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
@@ -231,4 +232,4 @@
 |上海|上海非码网络科技有限公司|2019年9月|996，无加班费，更不提供加班餐。|[班车通知](https://i.loli.net/2019/06/22/5d0dd4ac3a91b42022.png)[内部论坛](https://i.loli.net/2019/06/22/5d0dd4ae49dbb47592.png)|
 |长沙|杭州数梦工场科技有限公司|2019年9月|周一到周四早9晚9 周五周日早9晚6|[内部排版](https://i.loli.net/2019/06/22/5d0dd5063e0ed50557.png)|
 |桐庐|海康威视|2019年9月|777大小周|[知乎](https://www.zhihu.com/question/36922386/answer/545711911)|
-|郑州|宇通客车股份有限公司|2019年9月|887|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
+|郑州|宇通客车股份有限公司|2019年9月|887|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)|
