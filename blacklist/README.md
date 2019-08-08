@@ -148,6 +148,7 @@
 |杭州|[浙江宇视科技有限公司](http://fenxiao.uniview.com/)|2018年|大小周加班|[看准网](https://www.kanzhun.com/gsmsh10805642.html)|[知乎](https://www.zhihu.com/question/265531337/answer/296562572)|
 |杭州|[网易考拉海购](https://www.kaola.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr5686940tl526.html?ka=review-label14)|
 |杭州|[盘石信息科技有限公司](http://www.adyun.com/zh-cn/index.html)|2018年11月12日|996/9106|[图片](img/浙江杭州盘石信息技术有限公司996制度.png)|
+|杭州|[悠书网络科技有限公司](http://www.77ad.com/)|2019年5月到7月底|955/每周强制加班8小时,每月不达标辞退|[图片](img/悠书科技网络有限公司1.jpg)、[图片](img/悠书科技网络有限公司2.jpg)|
 |武汉|[武汉小码联城科技有限公司](http://www.i-xiaoma.com)|2019年4月22日|995|年前年后各裁员一波<br>[钉钉截图](img/小码联城加班.png)|
 |武汉|[氪细胞](http://www.timing360.com/)|2019年3月|996|名义上996，实际下班时间更晚<br>[考勤日历](img/timing360-0823.jpg)<br>[考勤规则](img/timing360-1201.jpg)|
 |武汉|[武汉精臣智慧标识科技有限公司](http://www.jc2008.com/)|2018年9月|966|[考勤日历](img/精臣智慧-打卡日历.jpg)<br>[考勤制度-1](img/精臣智慧-考勤制度-1.jpg)|
