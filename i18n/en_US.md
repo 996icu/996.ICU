@@ -4,15 +4,15 @@
 ## Introducing "996"
 996 working, ICU waiting.
 
-The "996" work schedule is referring to an illegal work schedule in China. It has been gaining popularity among companies. The schedule starts from 9 a.m. and ends at 9 p.m. (12 hours) each day, for 6 days a week.
+The "996" work schedule refers to an illegal work schedule in China. It has been gaining popularity among companies. The schedule starts at 9 a.m. and ends at 9 p.m. each day, for 6 days a week.
 
 Serving in a company that encourages the "996" work schedule usually means working for at least 72 hours a week.
 
 ## Laws and Regulations
 
-A "996" work schedule is in **blunt violation** of the Constitution of the People's Republic of China along with multiple other legislations:
+A "996" work schedule is a **direct violation** to the Constitution of the People's Republic of China along with multiple other legislations:
 
-### The Constitution of the People's Republic of China
+### [The Constitution of the People's Republic of China](http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm)
 
 #### Chapter II: Article 43:
 > _**Working people in the People’s Republic of China have the right to rest.**_  
@@ -68,7 +68,7 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 > 3. Arranging overtime work but giving no overtime pay; or  
 > 4. Failing to pay the worker financial compensation pursuant to the provisions of this Law when revoking or terminating a labor contract.
 
-### State Council Regulations on Working Hours of Employees
+### [State Council Regulations on Working Hours of Employees](https://www.ilo.org/dyn/travail/docs/369/The%20Regulations%20of%20the%20State%20Council%20on%20the%20Hours%20of%20Work%20of%20Employees.pdf)
 
 ### Article 3:
 > Workers and staff shall work 8 hours a day and 40 hours a week.
@@ -78,7 +78,7 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 
 ## Gaining popularity and publicity
 
-- In early September 2016, numerous reliable sources reported that  __*58.com*__  A.K.A. `58同城` (__*NYSE: WUBA*__), a classified advertisements company, introduced the "996" work schedule without overtime pay on weekends. The company later claimed that the schedule was only practiced to manage extra workload during the peak season (September and October) and that this schedule would not be mandatory.
+- In early September 2016, numerous reliable sources reported that  __*58.com*__  A.K.A. `58同城` (__*NYSE: WUBA*__), a classified advertisements company, practiced the "996" work schedule without overtime pay on weekends. The company later claimed that the schedule was only practiced to manage extra workload during the peak season (September and October) and that this schedule would not be mandatory.
 
 - In January 2019, __*Youzan.com*__ A.K.A. `有赞` (__*HKG: 8083*__), a Hangzhou-based e-commerce company, announced in its annual gala, that the company would start enforcing the "996" work schedule. Bai Ya, the CEO of Youzan, responded,
 
@@ -88,13 +88,14 @@ A "996" work schedule is in **blunt violation** of the Constitution of the Peopl
 
   > "[Our company culture is] the wholehearted devotion of ourselves [to achieve the business objectives]."
 
-Gaining more publicity only recently, this work schedule, however, has long been an "open secret" practice in many companies in China.
+This work schedule is only gaining publicity recently. However, it has log been practiced as an "open secret" in many companies in China.
+
 ## Compensation and benefits
 
 According to the Labour Law, employees who follow the "996" work schedule should be paid 2.275 times their basic salary. Unfortunately, employees rarely receive this payment.
 
 ## The origin of this repo's name -- `996.ICU`
 
-Tolerating of the "996" work schedule will inevitably result in risking your own health, which may send you to an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
+Tolerating of the "996" work schedule will apparently result in creating health risk, which may send you to an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
 
 __Developers' lives matter.__
