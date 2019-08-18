@@ -542,6 +542,6 @@
 |上海|普道科技|2019年7月|晚上11点,早上10点,一周6天|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
 
 |长沙|湖南大唐先一科技有限公司|2019年7月|1,2,4,6强制加班，早上9点，晚上9点|[看准网](
-https://www.kanzhun.com/pl7407836.html?ka=review-item-ckqw)|[工作群截图](
-https://s2.ax1x.com/2019/08/18/mQm2Hf.png)|[工作群截图](https://s2.ax1x.com/2019/08/18/mQmD9H.png)
+https://www.kanzhun.com/pl7407836.html?ka=review-item-ckqw),[工作群截图](
+https://s2.ax1x.com/2019/08/18/mQm2Hf.png),[工作群截图](https://s2.ax1x.com/2019/08/18/mQmD9H.png)
 
