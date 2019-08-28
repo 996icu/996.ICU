@@ -1,21 +1,21 @@
 996.ICU
 ===
 
-## Introducing to "996".
+## Introducing "996"
 996 working, ICU waiting.
 
-A "996" work schedule refers to an illegal work schedule that starts from 9 a.m. and ends at 9 p.m. each day, six days a week, which has been gaining popularity.
+The "996" work schedule refers to an illegal work schedule in China. It has been gaining popularity among companies. The schedule starts at 9 a.m. and ends at 9 p.m. each day, for 6 days a week.
 
-Serving in a company that encourages the "996" work schedule usually means working for at least 60 hours a week.
+Serving in a company that encourages the "996" work schedule usually means working for at least 72 hours a week.
 
 ## Laws and Regulations
 
-A "996" work schedule is in **blunt violation** of the _**Constitution of the People's Republic of China**_ along with multiple other legislations:
+A "996" work schedule is a **direct violation** to the Constitution of the People's Republic of China along with multiple other legislations:
 
-### The Constitution of the People's Republic of China
+### [The Constitution of the People's Republic of China](http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm)
 
 #### Chapter II: Article 43:
-> _**He who labours in the People's Republic of China have the right to rest.**_  
+> _**Working people in the People’s Republic of China have the right to rest.**_  
 > The state expands facilities for rest and recuperation of working people and prescribes working hours and vacations for workers and staff.
 
 ### [Labour Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
@@ -58,7 +58,7 @@ A "996" work schedule is in **blunt violation** of the _**Constitution of the Pe
 #### Chapter V: Article 62:
 > The receiving unit shall perform the following obligations:  
 > ......  
-> 3. to give overtime pay and performance bonuses and provide welfare benefits related to specific posts;  
+> 3. To give overtime pay and performance bonuses and provide welfare benefits related to specific posts;  
 > ......  
 
 #### Chapter VII: Article 85:
@@ -68,33 +68,34 @@ A "996" work schedule is in **blunt violation** of the _**Constitution of the Pe
 > 3. Arranging overtime work but giving no overtime pay; or  
 > 4. Failing to pay the worker financial compensation pursuant to the provisions of this Law when revoking or terminating a labor contract.
 
-### State Council Regulations on Working Hours of Employees
+### [State Council Regulations on Working Hours of Employees](https://www.ilo.org/dyn/travail/docs/369/The%20Regulations%20of%20the%20State%20Council%20on%20the%20Hours%20of%20Work%20of%20Employees.pdf)
 
-### Article 3：
+### Article 3:
 > Workers and staff shall work 8 hours a day and 40 hours a week.
 
-### Article 6：
-> No unit or individual shall extend the working hours of their workers and staff without authorization. When the working hours are necessary to extend for the purpose of special case or emergent assignment， it shall be implemented according to the relevant provisions of the State.
+### Article 6:
+> No unit or individual shall extend the working hours of their workers and staff without authorization. When the working hours are necessary to extend for the purpose of special case or emergent assignment, it shall be implemented according to the relevant provisions of the State.
 
 ## Gaining popularity and publicity
 
-- In early September 2016, it is reported by reliable sources that __*58.com*__  A.K.A. `58同城` (NYSE：WUBA), a classified advertisements company, introduced the "996" work schedule, without paying employees weekends overtime. The company later claimed that the schedule was only practised to manage extra workload during peak season(September and October) and this schedule is not mandatory.
+- In early September 2016, numerous reliable sources reported that  __*58.com*__  A.K.A. `58同城` (__*NYSE: WUBA*__), a classified advertisements company, practiced the "996" work schedule without overtime pay on weekends. The company later claimed that the schedule was only practiced to manage extra workload during the peak season (September and October) and that this schedule would not be mandatory.
 
-- In January 2019, __*Youzan*__ A.K.A. `有赞` (HKG: 8083), a Hangzhou-based E-commerce company, announced that the company would adopt "996" work schedule in the annual convention. Bai Ya, the CEO of Youzan, responded,
+- In January 2019, __*Youzan.com*__ A.K.A. `有赞` (__*HKG: 8083*__), a Hangzhou-based e-commerce company, announced in its annual gala, that the company would start enforcing the "996" work schedule. Bai Ya, the CEO of Youzan, responded,
 
   > "This will definitely be a right decision when we look back in a few years."
 
-- In March 2019, it was reported that __*JD.com*__  A.K.A. `京东` (NASDAQ: JD), a major E-commerce company, started adopting "996" or "995" work schedules in some departments. The PR of JD posted on Maimai (`脉脉`, a Chinese real-name business social network platform), stated that 
+- In March 2019, __*JD.com*__  A.K.A. `京东` (__*NASDAQ: JD*__), a major e-commerce company, started enforcing "996" or "995" work schedules in some departments. The PR of JD stated on Maimai (`脉脉`, a Chinese business social network platform),
 
-  > "(Our company culture is) to devote ourselves wholeheartedly (to achieve the business objectives)".
+  > "[Our company culture is] the wholehearted devotion of ourselves [to achieve the business objectives]."
 
-Gaining more publicity only recently, this work schedule, however, has long been a known "secret" practised in multiple companies in China.
+This work schedule is only gaining publicity recently. However, it has log been practiced as an "open secret" in many companies in China.
+
 ## Compensation and benefits
 
-According to the Labour Law, employees who follow the "996" work schedule deserve to be paid 2.275 times of their basic salary. Unfortunately, people rarely receive this overtime pay.
+According to the Labour Law, employees who follow the "996" work schedule should be paid 2.275 times their basic salary. Unfortunately, employees rarely receive this payment.
 
 ## The origin of this repo's name -- `996.ICU`
 
-If you continue to tolerate the "996" work schedule, you will risk your own health and might need to stay in an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
+Tolerating of the "996" work schedule will apparently result in creating health risk, which may send you to an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
 
 __Developers' lives matter.__

@@ -2,7 +2,6 @@
 
 ## 协议文本
 
-- [pull/15642 最初草案](LICENSE)
 - [基于 MIT 修改的 MIT-996ICU 协议](LICENSE-MIT-996)
 - [可扩展其他协议的 996ICU 协议模板](LICENSE.996icu.zh-hans)
 - [可扩展其他协议的 996ICU 协议模板的英文翻译版本](LICENSE.996icu.en-US)
@@ -10,7 +9,7 @@
 
 ## 其他信息
 
-- [已使用 996ICU 协议的项目](projects_supporting_996_LICENSE.md)
+- [已使用 996ICU 协议的项目](/awesomelist/README.md)
 
 ## 工具
 
