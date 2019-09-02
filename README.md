@@ -88,6 +88,7 @@ Community powers
  - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
  - [996.Q](https://github.com/alexddhuang/996.Q) A repository to collect mocks, jokes, or gags about 996. 
  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU
+ - [996.Blockchain](https://github.com/996BC/996.Blockchain) Blockchain for the 996 evidence
 
 Where are the issues?
 ---
