@@ -88,6 +88,7 @@ Community powers
  - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
  - [996.Q](https://github.com/alexddhuang/996.Q) A repository to collect mocks, jokes, or gags about 996. 
  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU
+ - [996.Error](https://github.com/MagicLu550/996Error) Collect "996" exceptions written in various languages and can be used directly in the project.
 
 Where are the issues?
 ---
