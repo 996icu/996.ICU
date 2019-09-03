@@ -50,7 +50,7 @@
 - **白鸦, 有赞CEO**: `几年后回看，这次绝对是好事`。
 
 ### 开发者
-- Guido van Rossum, Python之父: `"996"工作制是不人道的`.
+- Guido van Rossum, Python之父: [`"996"工作制是不人道的`](https://twitter.com/gvanrossum/status/1111628076801236993).
 
 原则和目的
 ---
@@ -93,6 +93,8 @@
  - [996.OD](https://github.com/zheolong/996.OD.git) 程序员长期996导致的职业病，为广大程序员兄弟提供可以查询的常见职业病信息，为职业病防治法的立法改进提供依据。
  
  - [996.Q](https://github.com/alexddhuang/996.Q) 收集有关 996 的自嘲、笑话、段子。
+ 
+  - [996.survey](https://github.com/0594mazhiyuan/996.survey) 一份对于 996 现状的调查。
  
   - [support.996.ICU](https://github.com/msworkers/support.996.ICU) 微软与GitHub员工自发组织 实名签名 支持 996.ICU
   
