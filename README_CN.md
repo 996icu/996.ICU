@@ -94,6 +94,8 @@
  
  - [996.Q](https://github.com/alexddhuang/996.Q) 收集有关 996 的自嘲、笑话、段子。
  
+ - [996.Polls](https://github.com/alexddhuang/996.Polls) 此仓库以投票方式选出新的 [996.ICU](https://github.com/996icu/996.ICU) 活跃管理者。
+ 
   - [support.996.ICU](https://github.com/msworkers/support.996.ICU) 微软与GitHub员工自发组织 实名签名 支持 996.ICU
   
   - [699cn](https://github.com/996-699/996.699) 一键存证微信小程序，免安装永久免费，完全公益性质。一键采集员工当前经纬度和打卡时间存证到服务器，未来目标是期望更多志愿者加入团队，建设成为基于分布式账本技术的存证平台，只要地球上还有程序员，证据就永远存在。
