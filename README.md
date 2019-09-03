@@ -49,7 +49,7 @@ Voices
 ### Capitalists
 - **Jack Ma, founder of Alibaba**: `It is a huge blessing to be able to '996'`.
 - **Richard Liu, founder of JD.com**: `We will never force our employee to work as '996'`.
-(However, as a result many anonymous employees says that there is a **list** of departments which **ranked** them by overtime hours. The shortest will take punishments. And the leaders never leave evidences when ask employees to work as '996'.)
+(However, as a result many anonymous employees claim that there is a **list** of departments which **ranked** them by overtime hours. The shortest will take punishments. And the leaders never leave evidences when asking employees to work as '996'.)
 - **Bai Ya, founder of Youzan**: `This will definitely be a right decision when we look back in a few years.`
 
 ### Developers
