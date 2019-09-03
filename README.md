@@ -53,7 +53,7 @@ Voices
 - **Bai Ya, founder of Youzan**: `This will definitely be a right decision when we look back in a few years.`
 
 ### Developers
-- **Guido van Rossum, founder of Python**: `The '996' working schedule is inhumane.`
+- **Guido van Rossum, founder of Python**: [`The '996' working schedule is inhumane.`](https://twitter.com/gvanrossum/status/1111628076801236993)
 
 
 Principles and purposes
