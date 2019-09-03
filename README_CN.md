@@ -36,6 +36,8 @@
 - 给社区与项目发展提出新的[议案](proposal/README.md)。
 - 下午6点钟下班回家。
 - 企业和群众可以登录中国政府网（www.gov.cn） 或下载国务院客户端，进入国务院“互联网+督查”专栏，也可以关注中国政府网微信公众号，进入国务院“互联网+督查”小程序提供线索、反映问题、提出建议。国务院办公厅将对收到的问题线索和意见建议进行汇总整理，督促有关地方、部门处理。对企业和群众反映强烈、带有普遍性的重要问题线索，国务院办公厅督查室将直接派员督查。经查证属实、较为典型的问题，将予以公开曝光、严肃处理。 
+- 互助式举报，通过群聊频道[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTA5NTc3MTk0MDRlMzIzNTI3ZDk1Y2IxNzQzZmM0NGQzNmI0NDA3MWE2ZWQyY2RlNjhkN2ViYjYyMDAzMGVmNjQ) 找到有相似举报需求的加班受害者，相互举报对方公司的违法事实，根据《劳动保障监察条例》第一章第九条 “任何组织或者个人对违反劳动保障法律、法规或者规章的行为，有权向劳动保障行政部门举报。” 通过电话以朋友的名义向当地劳动监察大队举报，以便更稳妥的保护当事人身份信息。详细内容请见[互助式举报说明细项](externals/mutual_help.md)
+
 
 各界声音
 ---
