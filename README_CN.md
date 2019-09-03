@@ -36,6 +36,8 @@
 - 给社区与项目发展提出新的[议案](proposal/README.md)。
 - 下午6点钟下班回家。
 - 企业和群众可以登录中国政府网（www.gov.cn） 或下载国务院客户端，进入国务院“互联网+督查”专栏，也可以关注中国政府网微信公众号，进入国务院“互联网+督查”小程序提供线索、反映问题、提出建议。国务院办公厅将对收到的问题线索和意见建议进行汇总整理，督促有关地方、部门处理。对企业和群众反映强烈、带有普遍性的重要问题线索，国务院办公厅督查室将直接派员督查。经查证属实、较为典型的问题，将予以公开曝光、严肃处理。 
+- 互助式举报，通过群聊频道[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTA5NTc3MTk0MDRlMzIzNTI3ZDk1Y2IxNzQzZmM0NGQzNmI0NDA3MWE2ZWQyY2RlNjhkN2ViYjYyMDAzMGVmNjQ) 找到有相似举报需求的加班受害者，相互举报对方公司的违法事实，根据《劳动保障监察条例》第一章第九条 “任何组织或者个人对违反劳动保障法律、法规或者规章的行为，有权向劳动保障行政部门举报。” 通过电话以朋友的名义向当地劳动监察大队举报，以便更稳妥的保护当事人身份信息。详细内容请见[互助式举报说明细项](externals/mutual_help.md)
+
 
 各界声音
 ---
@@ -50,7 +52,7 @@
 - **白鸦, 有赞CEO**: `几年后回看，这次绝对是好事`。
 
 ### 开发者
-- Guido van Rossum, Python之父: `"996"工作制是不人道的`.
+- Guido van Rossum, Python之父: [`"996"工作制是不人道的`](https://twitter.com/gvanrossum/status/1111628076801236993).
 
 原则和目的
 ---
@@ -94,9 +96,15 @@
  
  - [996.Q](https://github.com/alexddhuang/996.Q) 收集有关 996 的自嘲、笑话、段子。
  
+  - [996.survey](https://github.com/0594mazhiyuan/996.survey) 一份对于 996 现状的调查。
+ 
   - [support.996.ICU](https://github.com/msworkers/support.996.ICU) 微软与GitHub员工自发组织 实名签名 支持 996.ICU
   
   - [699cn](https://github.com/996-699/996.699) 一键存证微信小程序，免安装永久免费，完全公益性质。一键采集员工当前经纬度和打卡时间存证到服务器，未来目标是期望更多志愿者加入团队，建设成为基于分布式账本技术的存证平台，只要地球上还有程序员，证据就永远存在。
+
+  - [996.Blockchain](https://github.com/996BC/996.Blockchain) 一个存储加班证据摘要的区块链项目
+
+  - [996.Error](https://github.com/MagicLu550/996Error) 收集各种语言写的“996”异常,可以在项目中直接使用
  
 Issues 去哪了？
 ---
