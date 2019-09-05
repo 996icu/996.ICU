@@ -49,11 +49,11 @@ Voices
 ### Capitalists
 - **Jack Ma, founder of Alibaba**: `It is a huge blessing to be able to '996'`.
 - **Richard Liu, founder of JD.com**: `We will never force our employee to work as '996'`.
-(However, as a result many anonymous employees says that there is a **list** of departments which **ranked** them by overtime hours. The shortest will take punishments. And the leaders never leave evidences when ask employees to work as '996'.)
+(However, as a result many anonymous employees claim that there is a **list** of departments which **ranked** them by overtime hours. The shortest will take punishments. And the leaders never leave evidences when asking employees to work as '996'.)
 - **Bai Ya, founder of Youzan**: `This will definitely be a right decision when we look back in a few years.`
 
 ### Developers
-- **Guido van Rossum, founder of Python**: `The '996' working schedule is inhumane.`
+- **Guido van Rossum, founder of Python**: [`The '996' working schedule is inhumane.`](https://twitter.com/gvanrossum/status/1111628076801236993)
 
 
 Principles and purposes
@@ -87,7 +87,10 @@ Community powers
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
  - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
  - [996.Q](https://github.com/alexddhuang/996.Q) A repository to collect mocks, jokes, or gags about 996. 
+ - [996.survey](https://github.com/0594mazhiyuan/996.survey) A survey of the status of 996.
  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU
+ - [996.Blockchain](https://github.com/996BC/996.Blockchain) Blockchain for the 996 evidence
+ - [996.Error](https://github.com/MagicLu550/996Error) Collect "996" exceptions written in various languages and can be used directly in the project.
 
 Where are the issues?
 ---
