@@ -73,6 +73,8 @@ Expanding influence
 
 Please feel free to [translate 996.ICU's contents](i18n/README.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
+On September 19, 2019, Qin Chen, a software engineer at Facebook, took his own life. Inspired by 996.ICU, another Github project is created: [RIP Qin Chen](https://ripqinchen.github.io/)
+
 Community powers
 ---
 
