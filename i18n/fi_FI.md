@@ -1,107 +1,105 @@
 996.ICU
 ===
 
-## Esittelyssä "996".
-996 työskentelee, ICU odottaa.
+## Esittelyssä ”996”.
+Työskentele ”996”, joudu ICU:hun
 
-"996" -työaikataulussa viitataan laittomaan työaikatauluun, joka alkaa klo 9.00 ja päättyy joka päivä klo 9.00, kuusi päivää viikossa, joka on kasvanut suosiotaan.
+”996”-työaikataululla viitataan laittomaan työaikatauluun, joka alkaa klo 9.00 ja päättyy klo 21.00, kuusi päivää viikossa, ja joka on kasvattanut suosiotaan.
 
-"996" -työaikataulua kannustava yritys tarkoittaa yleensä työskentelyä vähintään 60 tuntia viikossa.
+”996”-työaikataulua noudattavasa yrityksessä työskentely tarkoittaa yleensä työskentelyä vähintään 60 tuntia viikossa.
 
 ## Laki ja asetukset
 
-"996" -työaikataulu on ** tylsä ​​rikkominen ** Kiinan kansantasavallan perustuslaista yhdessä monien muiden lakien kanssa:
+”996” -työaikataulu **rikkoo suoraan** Kiinan kansantasavallan perustuslakia setä monia muita lakeja
 
-### Kiinan kansantasavallan perustuslaki
+### [Kiinan kansantasavallan perustuslaki](http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm)
 
-#### II luku: 43 artikla:
-> Kiinan kansantasavallassa työskentelevällä on oikeus levätä.
+#### II luku, 43. artikla:
+> Kiinan kansantasavallassa työskentelevillä on oikeus levätä.
 >
 > Valtio laajentaa työväestön lepo- ja virkistysmahdollisuuksia ja määrää työntekijöille ja henkilökunnalle työajat ja lomat.
 
-### [Kiinan kansantasavallan työoikeus](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
+### [Kiinan kansantasavallan työvoimalaki](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
 
-#### I luku: 3 artikla:
-> Työntekijöillä on yhtäläiset oikeudet työhön ja ammatinvalintaan, ** oikeus palkkaukseen työvoimasta **, ** lepoon ja lomaan **, työturvallisuuden ja ammatillisten taitojen koulutukseen, sosiaalivakuutukseen Ja hyvinvointi, työoikeudellisten riitojen esittäminen ratkaisusta ja muut työhön liittyvät oikeudet.
+#### I luku, 3. artikla:
+> Työntekijöillä on yhtäläiset oikeudet työhön ja ammatinvalintaan, **oikeus korvaukseen työstä**, **lepoon ja lomaan**, työturvallisuuden ja -terveyden suojeluun, ammatillisten taitojen koulutukseen, sosiaaliturvaan, hyvinvointiin ja työtaistelujen sovitteluun, sekä muita lain määräämiä työhön liittyviä oikeuksia.
 
-#### IV luku: 36 artikla:
-> Valtion on käytettävä työaikajärjestelmää, työntekijöiden on työskenneltävä enintään kahdeksan tuntia päivässä ja enintään 44 tuntia viikossa keskimäärin.
+#### IV luku, 36. artikla:
+> Valtion on harjoitettavaa työaikajärjestelmää, jossa työntekijöiden on työskenneltävä keskimäärin enintään kahdeksan tuntia päivässä ja enintään 44 tuntia viikossa.
 
-#### IV luku: 39 artikla:
-> Jos yritys ei voi noudattaa tämän lain 36 ja 38 artiklan määräyksiä sen tuotannon erityisluonteen vuoksi, se voi työvoimatoimiston suostumuksella hyväksyä muita työaikaa ja lepoa koskevia sääntöjä.
+#### IV luku, 39. artikla:
+> Jos yritys ei pysty noudattamaan tämän lain 36. ja 38. artiklan määräyksiä sen tuotannon erityisluonteen vuoksi, se voi työvoimatoimiston suostumuksella ottaa käyttöön muita työaikaa ja lepoa koskevia sääntöjä.
 
-#### IV luku: 41 artikla:
-Työllinen yksikkö voi pidentää työtuntejaan, mikäli sen tuotanto tai liiketoiminta edellyttää ammattiyhdistystä ja työntekijöitä kuultuaan, mutta pidennetty työaika ei yleensä saa ylittää yhtä tuntia, jos tällaista pidentämistä tarvitaan erityisistä syistä, Edellytyksenä siitä, että työntekijöiden terveys on taattu, pidennetyt ajat eivät saa ylittää kolmea tuntia päivässä, mutta kokonaiskesto ei saa ylittää kolmekymmentäkuusi tuntia.
+#### IV luku, 41. artikla:
+Työyksikkö voi pidentää työaikojaan kuultuaan ammattiyhdistystä ja työntekijöitä mikäli sen tuotanto tai liiketoiminta sitä edellyttää, mutta työajan pidennys ei yleensä saa ylittää yhtä tuntia päivässä; mikäli tällaista pidentämistä tarvitaan erityisistä syistä, työajan pidennys ei saa ylittää kolmea tuntia päivässä, sillä ehdolla, että työntekijöiden terveys taataan. Työaikaa ei kuitenkaan saa kuukaudessa pidentää yli 36 tunnilla.
 
-#### IV luku: 43 artikla:
-> Työllistävä yksikkö ei saa pidentää työntekijöiden työaikaa tämän lain määräysten vastaisesti.
+#### IV luku, 43. artikla:
+> Työyksikkö ei saa pidentää työntekijöiden työaikaa tämän lain määräysten vastaisesti.
 
-#### IV luku: 44 artikla:
-44 artikla Työnantajayksikkö maksaa seuraavien standardien mukaisesti seuraavien standardien mukaisesti korkeampia palkkoja kuin tavanomaisissa työajoissa:
+#### IV luku, 44. artikla:
+> Työyksikön on maksettava työstä seuraavasti normaalia korkeampaa korvausta:
 >
-> (1) Maksamaan vähintään 150 prosenttia normaalipalkasta, jos työaikaa pidennetään;
+> (1) vähintään 150 prosenttia normaalipalkasta, jos työaikaa pidennetään;
 >
-> (2) Maksamaan vähintään 200 prosenttia normaalipalkasta, jos työ on järjestetty pois päivinä, eikä järjestelypäiviä voida järjestää, tai
+> (2) vähintään 200 prosenttia normaalipalkasta, jos työtä tehdään vapaapäivänä eikä korvaavia vapaapäiviä voida järjestää; tai
 >
-> (3) Maksamaan vähintään 300 prosenttia tavanomaisista palkoista, jos työ on järjestetty lakisääteisiin vapaapäiviin.
+> (3) vähintään 300 prosenttia normaalipalkasta, jos työtä tehdään lakisääteisinä vapaapäivinä.
 
-#### XII luku: 90 artikla:
-> Jos työvoimayksikkö laajentaa tämän lain määräyksiä rikkovien työntekijöiden työaikaa, työhallinnon hallinnollinen yksikkö antaa sille varoituksen, määrätä sen tekemään korjauksia ja voi määrätä sakon.
+#### XII luku, 90. artikla:
+> Mikäli työyksikkö pidentää työntekijöidensä työaikaa tämän lain määräysten vastaisesti, hallinnollisen työvoimaviraston on annettava sille varoitus ja määrättävä sitä tekemään korjauksia, minkä lisäksi se voi määrätä sakkoja.
 
-#### XII luku: 91 artikla:
-> Jos työnantajayksikkö tekee jonkin seuraavista työntekijöiden laillisia oikeuksia ja etuja loukkaavista teoista, työvoiman hallintoyksikkö määrää sen maksamaan palkansaajille palkkoja tai korvaamaan taloudelliset tappiot, ja voi myös määrätä sen maksamaan korvaus:
->
-> ......
->
-> __ (2) kieltäytyä maksamasta työntekijöille palkkoja pidennetyistä työajoista; __
+#### XII luku, 91. artikla:
+> Mikäli työyksikkö syyllistyy johonkin seuraavista työntekijöiden laillisia oikeuksia ja etuja rikkovista rikkomuksista, hallinnollisen työvoimaviraston on määrätävä sitä maksamaan työntekijöilleen palkkaa tai korvaamaan taloudelliset vahingot, minkä lisäksi se voi määrätä sitä maksamaan korvausta:
 >
 > ......
-
-### [Kiinan kansantasavallan työsopimusoikeus](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
-
-#### III luku: 31 artikla:
-Työvoimayksikön on noudatettava tiukasti työvoimakiintiötä koskevaa normia eikä se saa pakottaa työntekijöitä tekemään ylitöitä tai tekemään niitä peiteltynä, jos työllistävä yksikkö järjestää työntekijän ylitöitä, sen on annettava hänelle ylityökorvaus. Valtion asiaa koskevat määräykset.
-
-#### V luku: 62 artikla:
-> Vastaanottava yksikkö suorittaa seuraavat velvoitteet:
-> ......
-> (3) antamaan ylityökorvauksia ja tulospalkkioita ja tarjoamaan tietyille virkoihin liittyviä hyvinvointitukia;
+>
+> **(2) kieltäytyminen maksamasta työntekijöille korvausta pidennetyistä työajoista;**
+>
 > ......
 
-#### VII luku: 85 artikla:
-> Jos työllistävän yksikön tekee jonkin seuraavista teoista, hallinnollisen osaston työ on määrättävä maksamaan työvoiman palkkausta, anna ylityökorvaukset tai tehdä muita rahallista korvausta määräajassa, jos työ korvaus on pienempi kuin paikallinen vähimmäispalkka korko, se maksaa erotuksen. Jos se ei sisällä tähän maksun umpeutumista määräajan, se on velvoitettava korvaamaan ylimääräistä korvausta työntekijälle nopeudella vähintään 50 prosenttia mutta enintään 100 prosenttia on maksettava:
-> (1) ei maksa työntekijälle hänen työvoiman palkkiot ajallaan ja täysimääräisesti määrätty työsopimus tai määräämällä tavalla valtio;
-> (2) maksaa työvoima korvaus nopeudella alapuolella paikallisen minimipalkkaa kurssia;
-> (3) järjestetään ylityöt mutta antaa mitään ylityökorvauksia, tai
-> (4) ei maksa työntekijälle taloudellisen korvauksen säännösten mukaisesti tämän lain kun kumoamista tai päättämisestä työsopimuksen.
+### [Kiinan kansantasavallan työsopimuslaki](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
 
-### Valtioneuvoston asetusten työaika Työntekijät
+#### III luku, 31. artikla:
+> Työyksikön on tarkasti noudatettava työkiintiöstä asetettua normia, eikä se saa pakottaa työntekijöitään tekemään ylitöitä tai huijata ylitöihin. Mikäli työyksikkö järjestää työntekijän tekemään ylitöitä, sen on maksettava ylityökorvausta asianmukaisten valtion säädösten mukaisesti.
 
-### 3 artikla:
+#### V luku, 62. artikla:
+> Vastaanottavan yksikön on suoritettava seuraavat velvoitteet:
+> ......
+> (3) ylityökorvauksien ja suoritebonusten maksaminen sekä tiettyihin tehtäviin liittyvien hyvinvointietuuksien tarjoaminen;
+> ......
+
+#### VII luku, 85. artikla:
+> Mikäli työyksikkö syyllistyy johonkin seuraavista rikkomuksista, hallinnollisen työvoimaviraston on määrättävä sitä maksamaan korvaus työstä, maksamaan ylityökorvausta tai muulla tavalla tekemään taloudellinen hyvitys tietyssä ajassa; jos työkorvaus on matalampi kuin paikallinen vähimmäispalkkataso, sen on maksettava erotus. Jos se ei suorita maksua aikarajan puitteissa, sitä on määrättävä maksamaan työntekijälle lisäkorvaus, joka on vähintään 50 prosenttia ja enintään 100 prosenttia maksettavasta summasta:
+
+> (1) työntekijän työvoimakorvausten maksamatta jättäminen ajoissa ja kokonaisuudessaan työsopimuksen tai valtion säädöksen mukaisesti;
+> (2) paikallista vähimmäispalkkatasoa matalamman työvoimakorvauksen maksaminen;
+> (3) ylityön järjestäminen mutta ylityökorvauksen maksamatta jättäminen; tai
+> (4) tämän lain mukaisen taloudellisen korvauksen maksamatta jättäminen työsopimusta purettaessa tai päätettäessä.
+
+### Valtioneuvoston määräyksiä työntekijöiden työajasta
+
+### 3. artikla:
 > Työntekijät ja toimihenkilöt työskentelevät 8 tuntia päivässä ja 40 tuntia viikossa.
 
-### 6 artikla:
-> Ei yksikköä tai yksittäisen saa pidentää työaikoja työntekijöidensä ja henkilöstöä ilman lupaa. Kun työaika on tarpeen pidentää varten erikoistapaus ja uusia tehtävän, se pannaan täytäntöön mukaan asiaa koskevia määräyksiä valtion.
+### 6. artikla:
+> Yksikkö tai henkilö ei saa pidentää työntekijöidensä tai toimihenkilöidensä työaikaa ilman lupaa. Mikäli työaikojen pidentäminen on välttämätöntä erityisen tärkeän tehtävän takia, se on pantava täytäntöön asianmukaisten valtion säädösten mukaisesti. 
 
 ## suosiotaan ja julkisuutta
 
-- Syyskuun alussa 2016 mukaan luotettavat uutiset ovat, että __ * 58.com * __ AKA `58 city` (NYSE: WUBA), joka on luokiteltuja ilmoituksia yhtiö esitteli "996" työsuunnitelma, maksamatta työntekijöiden viikonloppuisin ylitöitä Yritys. väitti myöhemmin, että aikataulu oli vain harjoiteltu hallitsemaan ylimääräisen työn sesongin aikana (syyskuu ja lokakuu), ja tämä aikataulu ei ole pakollinen vaatimus.
+* Vuoden 2016 syyskuun alussa useat luotettavat lähteet kertoivat, että ***58.com*** eli `58同城` (NYSE: **WUBA**), mainontayritykseksi luokiteltu yritys, harjoitti ”996”-työaikataulua ilman ylityökorvausta viikonloppuisin. Yritys väitti myöhemmin, että työaikataulua harjoitettiin ainoastaan huippusesongin (syys-lokakuu) kovan kysynnän aiheuttaman ylimääräisen työtaakan vuoksi ja että se ei olisi pakollinen.
+* Tammikuussa 2019 ***Youzan.com*** eli `有赞` (HKG: **8083**), hangzhoulainen nettikaupankäyntiyritys, ilmoitti vuotuisessa gaalassaan alkavansa harjoittaa ”996”-työaikataulua. Toimitusjohtaja Bai Ya vastasi:
+> Tämä tulee varmasti olemaan oikea päätös, kun muutaman vuoden kuluttua katsomme taaksepäin.
+* Maaliskuussa 2019 ***JD.com*** eli `京东` (NASDAQ: **JD**), suuri nettikauppayritys, alkoi harjoittaa ”996”- tai ”995”-työaikataulua joillakin osastoillaan. JD:n PR totesi Maimaissa (`脉脉`, kiinalainen yritysten sosiaalinen alusta);
+> [Yrityskulttuuriimme kuuluu] täysi antautuneisuus [liiketoiminnallisten tavoitteiden saavuttamiseksi.
 
-- Tammikuussa 2019 __ * Youzan * __ AKA `jotta praise` (HKG: 8083), joka on Hangzhou-pohjainen sähköisen kaupankäynnin yritys) ilmoitti yhtiö ottaisi käyttöön "996" työaikataulu vuosikokouksen Bai Ya, The. toimitusjohtaja Youzan, vastasi,
+Tämä työaikataulu on vasta vastikään saanut julkisuutta. Sitä on kuitenkin pitkään harjoitettu ”avoimena salaisuutena” useissa yrityksissä Kiinassa.
 
-  > "Tämä tulee varmasti oikea päätös, kun katsomme taaksepäin muutaman vuoden."
-
-- Maaliskuussa 2019 todettiin, että __ * JD.com * __ AKA `Jingdong` (NASDAQ: JD), joka on merkittävä sähköisen kaupankäynnin yritys) aloitti hyväksyä "996" tai "995" työajat joissakin yksiköissä. PR JD lähetetty maimai ( `tenderness`, kiinalainen todellisen nimen liiketoiminnan sosiaalinen verkkoympäristö) totesi, että
-
-  > "(Kulttuurimme on) omistautua täysin (saavuttaa liiketoiminnan tavoitteita)".
-
-Saamassa enemmän julkisuutta vasta äskettäin, tätä työtä aikataulu on kuitenkin jo pitkään ollut tunnettu "salainen" harjoitetaan useita yritysten Kiinassa.
 ## Korvaukset ja edut
 
-Mukaan työlain, työntekijät, jotka seuraavat "996" työvuoroluettelo ansaitsevat maksetaan 2,275 kertaa peruspalkastaan. Valitettavasti ihmiset harvoin saavat tämän ylityökorvauksia.
+Työvoimalain mukaan ”996”työaikataulua seuraavien työntekijöiden tulisi saada työstään 2,275-kertainen korvaus. Tämä kuitenkin toteutuu harvoin.
 
-## Alkuperä Tämän Repo nimi - `996.ICU`
+## Repon nimen alkuperä - `996.ICU`
 
-Jos jatkat sietää "996" työsuunnitelma, saatatte oman terveyden ja ehkä pysyä käytettäessä _**I**ntensive **C**ovat **U**nit_ joskus. ( `6` rimmaa `U` Mandarin)
+”996”-työaikataulun noudattaminen on ilmeinen terveysriski, joka saattaa johtaa noudattajansa ***I**ntensive **C**are **U**nit*iin (teho-osastolle). Mandariinikiinassa `6` ja `U` rimmaavat.
 
-__Developers elämään väliä .__
+**Kehittäjien elämillä on väliä**
