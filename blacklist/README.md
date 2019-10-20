@@ -192,6 +192,7 @@
 |济南|[浪潮集团](http://www.inspur.com/)|-----|996|奋进者申请书 [996工作制](https://baike.baidu.com/item/996%E5%B7%A5%E4%BD%9C%E5%88%B6/19940031?fromtitle=996&fromid=19958311&fr=aladdin#3)|
 |西安|[中软国际科技服务有限公司](http://www.chinasofti.com/)|2019年4月|996|[猎聘网](https://jobs.zhaopin.com/CC508620126J00303154805.htm)|
 |深圳|[紫优科技](https://www.zhipin.com/gongsir/7610a4892e11cc781XZ_09i1FA~~.html?ka=company-jobs)|2019年4月|9116| [公司老板发的招聘信息](img/深圳紫优科技.jpg)|
+|大连|[大连大连海大赢海科技有限公司](http://www.yinghaikeji.com/)|2019年9月|强制996、大小周| [内部群1](img/赢海科技-内部群截图1.png) [内部群2](img/赢海科技-内部群截图2.png) [内部群3](img/赢海科技-内部群截图3.png)|
 |上海/西安|[华勤通讯技术有限公司](http://www.huaqin.com/)|2019年4月|996| [看准网](https://www.kanzhun.com/gso238619.html?ka=com1-title) [知乎](https://www.zhihu.com/question/49628909/answer/522467068)|
 |北京|[小猪短租](http://www.xiaozhu.com/)|-----|997|4.22-5.10连续上班,晚上默认加班,不加班领导会找谈话。[工作截图](img/小猪短租.jpg)|
 |深圳|深圳市蓝色海洋教育科技有限公司|2019年4月|996|一家2019年4月新成立的公司，明确996招聘 [招聘截图](img/lansehaiyang-boss.jpeg)|
