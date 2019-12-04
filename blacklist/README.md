@@ -44,6 +44,7 @@
 ---
 |所在城市|公司名字|曝光/施行时间|制度描述|证据内容|
 |:---:|:---:|:---:|:---:|:---:|
+|上海|[昱境](http://www.ronixtools.com.cn)|2019年9月|9106|晚上10+不限，领导安排[boss直聘](https://www.zhipin.com/gongsi/3fc23f02796ba28c1Hx6092_.html?ka=job-detail-company-logo_custompage)|
 |上海|[百安居](https://www.bthome.com/)|2019年6月|996|领导口头描述|
 |上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
