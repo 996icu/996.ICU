@@ -43,7 +43,8 @@ Voices
 ---
 
 ### State Media
-- [The 996 shall disappear](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+- **Xinhua News**: [The 996 shall disappear](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+- **The People's Daily**: [Encourage hard-working doesn't means to force 996](https://baijiahao.baidu.com/s?id=1630774179249573422)
 
 
 ### Capitalists
