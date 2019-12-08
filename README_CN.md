@@ -43,7 +43,8 @@
 ---
 
 ### 官媒
-- [996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+- **新华社**: [996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+- **人民日报**: [崇尚奋斗，不等于强制996](https://baijiahao.baidu.com/s?id=1630774179249573422)
 
 ### 资本家
 - **马云, 阿里巴巴创始人**: `“996”是一种福报`。
@@ -52,7 +53,7 @@
 - **白鸦, 有赞CEO**: `几年后回看，这次绝对是好事`。
 
 ### 开发者
-- Guido van Rossum, Python之父: [`"996"工作制是不人道的`](https://twitter.com/gvanrossum/status/1111628076801236993).
+- **Guido van Rossum, Python之父**: [`"996"工作制是不人道的`](https://twitter.com/gvanrossum/status/1111628076801236993).
 
 原则和目的
 ---
