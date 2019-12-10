@@ -80,7 +80,6 @@
 |北京|[首约科技（北京）有限公司](https://www.01zhuanche.com/)|2019年3月|996|工作日无加班费无调休、加班时长作为KPI评估标准|
 |北京|[Boss直聘(北京华品博睿网络技术有限公司)](https://www.zhipin.com/)|2019年4月2日|大小周|[OFFER邮件(已处理图片和关键字过滤)](https://upload.cc/i1/2019/04/03/1wfI7o.png) + 亲历|
 |北京|[北京游奕互动软件有限公司](http://www.uegame.com/)|2016年3月|986|加班不给钱的那种，用这个来卡大家项目上线分红[打卡记录](img/yyhd.png)|
-|北京|[小米](https://www.mi.com)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr347791.html?ka=com-blocker1-review#co_tab)|[知乎](https://www.zhihu.com/question/270788307/answer/356518575)|
 |北京|[亚信(AsiaInfo)](https://www.asiainfo.com)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr19887tl56.html?ka=review-label13)|
 |北京|[猎聘网](https://www.liepin.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr1087027.html?ka=com-blocker1-review#co_tab)|[知乎](https://www.zhihu.com/question/23950520/answer/135634297)|
 |北京|[百度](https://www.baidu.com/)|2019年4月7日|996|[看准网](https://www.kanzhun.com/gsr11514tl56.html?ka=review-label17)|[知乎](https://www.zhihu.com/question/20489266/answer/15775901)|
