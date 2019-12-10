@@ -60,7 +60,7 @@
 
 [成都市举报热线](http://cdhrss.chengdu.gov.cn/cdrsj/c109978/2016-11/01/content_bd7b6c80953f4ce5b0e26263641b9039.shtml)
 
-[北京市举报热线](http://www.bjrbj.gov.cn/bmfw/jgml/201907/t20190723_83744.html)
+[北京市举报热线](http://rsj.beijing.gov.cn/bmfw/jgml/201907/t20190723_83744.html)
 
 [上海市举报热线](http://project.ykqnl.com/shsbj/)
 
