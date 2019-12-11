@@ -4,7 +4,7 @@
 
 * [中文版](./README_CN.md)
 
-The name `996.ICU` refers to **"Work the '996', sick in ICU"**, an ironic saying among China's developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
+The name `996.ICU` refers to **"Works the '996', sick in ICU"**, an ironic saying among China's developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
