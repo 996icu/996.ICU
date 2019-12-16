@@ -4,7 +4,7 @@
 
 * [English version](./README.md)
 
-`996.ICU`  是指“工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
+`996.ICU`  是指“工作 996， 生病 ICU” 。这是中国程序员的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
