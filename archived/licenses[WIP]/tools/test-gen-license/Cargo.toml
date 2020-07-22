@@ -1,0 +1,10 @@
+[package]
+name = "test-gen-license"
+version = "0.1.0"
+authors = ["VitalyR <vitalyankh@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+assert_cmd = "0.11.1"
+dir-diff = "0.3.1"
+tempdir = "0.3.7"
