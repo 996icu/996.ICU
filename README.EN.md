@@ -1,4 +1,4 @@
-### [繁體中文](https://github.com/996icu/996.ICU/blob/master/i18n/README.md) | [简体中文](./README.md)
+### [简体中文](./README.md) | [繁體中文](./README.TW.md) | English
 
 [996.ICU](https://996.icu/#/en_US)
 =======

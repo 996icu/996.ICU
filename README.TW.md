@@ -1,4 +1,4 @@
-### [简体中文](README.md) | [English](./README.EN.md)
+### [简体中文](README.md) | 繁體中文 | [English](./README.EN.md)
 
 # [996.ICU](https://996.icu/#/zh_CN)
 
