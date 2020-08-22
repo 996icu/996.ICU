@@ -1,116 +1,122 @@
-[996.ICU](https://996.icu/#/en_US)
-=======
-**Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
+### [繁體中文](README.TW.md) | [English](./README.EN.md)
 
-* [中文版](./README_CN.md)
+# [996.ICU](https://996.icu/#/zh_CN)
 
-The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
+**请注意 996.ICU 没有除域名和库以外的任何官方账号、app、周边，请勿给予有心之人可乘之机。**
 
-[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
+`996.ICU`  是指“工作 996， 生病 ICU” 。这是中国程序员之间的一种自嘲说法，意思是如果按照 996 的模式工作，那以后就得进 ICU 了。
+
+[![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
 [![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
 
 
-Related press coverage:
----
-* *RadiiChina:* [GitHub Protest Over Chinese Tech Companies’ “996” Culture Goes Viral](https://radiichina.com/github-protest-chinese-tech-996/)
-* *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1)
-* *Wired:* [How github is helping overworked Chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
-
-See a [full list of press](externals/news_EN.md)
+## 相关报道
 
 
+- 《共青团中央》：[工作996，生病ICU？关注：年轻人该如何奋斗。](https://mp.weixin.qq.com/s/e5qaW6ED_WUunNYG-q7frg)
+- 《中国青年报》：[被“996”工作制围困的年轻人：像是定好闹钟的机器。](http://zqb.cyol.com/html/2019-04/02/nw.D110000zgqnb_20190402_1-02.htm)
+- 《半月谈评论》：[996与奋斗无关，与利益有关。](http://www.banyuetan.org/dyp/detail/20190415/1000200033134991555306789054254821_1.html)
 
-What is 996?
----
-
-A "996" work schedule refers to an unofficial work schedule (9 a.m.&ndash;9 p.m., 6 days per week) that has been gaining popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
-Visit [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system) on Wikipedia for more details.
-
-
-What can I do?
----
-
-- Update this [list](blacklist/README.md) with evidence to help every worker.  [Third party perfect list channel](https://www.996action.com/index.php/889799)
-- Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
-- License your awesome projects with the [Anti 996 License](LICENSE).  
-- Add [proposals](proposal/README.md) to give advice about the development of 996.ICU.
-- Go home at 6 pm without feeling sorry.
+点击此处查看相关报道的[完整列表](/externals/news.md)
 
 
-Voices
----
-
-### State Media
-- [The 996 shall disappear](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+## 什么是996？
 
 
-### Capitalists
-- **Jack Ma, founder of Alibaba**: `It is a huge blessing to be able to '996'`.
-- **Richard Liu, founder of JD.com**: `We will never force our employee to work as '996'`.
-(However, as a result many anonymous employees claim that there is a **list** of departments which **ranked** them by overtime hours. The shortest will take punishments. And the leaders never leave evidences when asking employees to work as '996'.)
-- **Bai Ya, founder of Youzan**: `This will definitely be a right decision when we look back in a few years.`
-
-### Developers
-- **Guido van Rossum, founder of Python**: [`The '996' working schedule is inhumane.`](https://twitter.com/gvanrossum/status/1111628076801236993)
+“996”工作制，指的是一种越来越流行的非官方工作制（早上 9 点 ~ 晚上 9 点，每周 6 天）。在一个实行“996”工作制的公司工作就意味着每周至少要工作 60 个小时。
 
 
-Principles and purposes
----
+## 我能做什么？
 
-* 996.ICU is an initiative initiated by IT practitioners. We welcome people from other fields and other countries to join the discussion.
-
-* This is not a political movement. We firmly uphold the labor law and request employers to respect the legitimate rights and interests of their employees.
-
-* It is great progress from closed source to open source, and it will also be great progress from open source to emphasizing labor rights at the same time. What we want is to create an open source software license that advocates workers' rights.
-
-* We are willing to hear all positive and constructive proposals and advocate mature and responsible speech.
-
-
-Expanding influence
----
-
-Please feel free to [translate 996.ICU's contents](i18n/README.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
-
-Community powers
----
-
- - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work-life balanced companies.
- - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
- - [996.law](https://github.com/CPdogson/996.law) This is a manual for workers who want to conduct labor arbitration and litigation on their own.
- - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, current another anonymous voting list.
- - [996.Leave](https://github.com/623637646/996.Leave) encourages & introduces working overseas.
- - [996.RIP](https://996.rip) Old news never vanished.
- - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
- - [996.action](https://github.com/CPdogson/996action) Supporters are encouraged to participate in public supervision.
- - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
- - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
- - [996.Q](https://github.com/alexddhuang/996.Q) A repository to collect mocks, jokes, or gags about 996. 
- - [996.survey](https://github.com/0594mazhiyuan/996.survey) A survey of the status of 996.
- - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU
- - [996.Blockchain](https://github.com/996BC/996.Blockchain) Blockchain for the 996 evidence
- - [996.Error](https://github.com/MagicLu550/996Error) Collect "996" exceptions written in various languages and can be used directly in the project.
-
-Where are the issues?
----
-
-Even with interaction limits on, the issues area was totally out of control.
-So I **personally** decided to switch it off, not by GitHub or others.
+- 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位工作者。我们为**不熟悉GitHub的贡献者**准备了[提交渠道](https://www.996action.com/index.php/889799)。
+- 把这个[徽章](externals/instruction.md)添加到你的项目来支持 996.ICU。
+- 为你的项目添加[反996许可证](LICENSE_CN)。
+- 给社区与项目发展提出新的[议案](proposal/README.md)。
+- 下午6点钟下班回家。
+- 企业和群众可以登录中国政府网（www.gov.cn） 或下载国务院客户端，进入国务院“互联网+督查”专栏，也可以关注中国政府网微信公众号，进入国务院“互联网+督查”小程序提供线索、反映问题、提出建议。国务院办公厅将对收到的问题线索和意见建议进行汇总整理，督促有关地方、部门处理。对企业和群众反映强烈、带有普遍性的重要问题线索，国务院办公厅督查室将直接派员督查。经查证属实、较为典型的问题，将予以公开曝光、严肃处理。 
+- 互助式举报，通过群聊频道[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTA5NTc3MTk0MDRlMzIzNTI3ZDk1Y2IxNzQzZmM0NGQzNmI0NDA3MWE2ZWQyY2RlNjhkN2ViYjYyMDAzMGVmNjQ) 找到有相似举报需求的加班受害者，相互举报对方公司的违法事实，根据《劳动保障监察条例》第一章第九条 “任何组织或者个人对违反劳动保障法律、法规或者规章的行为，有权向劳动保障行政部门举报。” 通过电话以朋友的名义向当地劳动监察大队举报，以便更稳妥的保护当事人身份信息。详细内容请见[互助式举报说明细项](externals/mutual_help.md)
 
 
-License
----
+## 各界声音
 
-[Anti-996 License](LICENSE)
+### 官媒
+- [996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
 
- - The purpose of this license is to prevent anti-labour-law companies from using the software or codes under the license, and force those companies to weigh their way of working
- - See a [full list of projects](awesomelist/README.md) under Anti-996 License
+### 资本家
+- **马云, 阿里巴巴创始人**: “996”是一种福报。
+- **刘强东，京东创始人**: 京东不会强制995或者996。但是有许多员工匿名表示，公司内部有一个“加班排名表”，列举了各个部门的加班情况排名，排名低的部门会受到惩罚。领导们安排996工作时，也会注意不留下证据。
+- **白鸦, 有赞CEO**: 几年后回看，这次绝对是好事。
 
- - This draft is adapted from the MIT license. For a more detailed explanation, please see [Wiki](https://github.com/kattgu7/996-License-Draft/wiki). This license is designed to be compatible with all major open source licenses.  
- - For law professionals or anyone who is willing to contribute to future version directly, please go to [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft). Thank you.
+### 开发者
+- Guido van Rossum, Python之父: [996工作制是不人道的](https://twitter.com/gvanrossum/status/1111628076801236993)（中国境内需要翻墙）。
+
+## 原则和目的
+
+
+* 首先需要申明的是这不是一个政治运动，我们每个人都坚定维护劳动法，但我们同时要求雇主也要尊重雇员的合法权益。
+
+* 996.ICU 是中国众多的 IT 从业者发起的一项倡议，我们欢迎其他领域、其他国家的人士加入讨论。
+
+* 从闭源到开源是一次伟大的进步，从开源到同时强调保护劳工权益也将是一次伟大的进步，我们想要创造一个主张保护劳动者权益的开源软件许可证。
+
+* 我们欢迎一切积极的、具有建设性意义的建议，倡导成熟、负责任以及有价值的发言。
+
+## 扩大影响
+
+
+[996.ICU 内容翻译](i18n/README.md)，请自由发挥你的能力，调整格式、添加内容或修正语法。不过要注意，添加过多的翻译版本并非我们的目标。
+
+
+## 社区
+
+
+ - [965良好工作制度公司名单] (https://github.com/zrzjohn/996.ICU/tree/master/whitelist)
+
+ - [955.WLB](https://github.com/formulahendry/955.WLB) 955 公司白名单，旨在让更多的人逃离 996，加入 955 的行列。
+
+ - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
  
-Contact
----
+ - [996.law](https://github.com/CPdogson/996.law) 面向所有劳动者的一份劳动仲裁与劳动诉讼的攻略手册，看完它之后你甚至不用找律师。并且倡导劳动者在工作中随时取证以备后患。
 
-You can reach me by [E-mail](mailto:996icu.repo@gmail.com) if you need.
+ - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
+
+ - [996.Leave](https://github.com/623637646/996.Leave) 介绍与鼓励海外工作。
+
+ - [996.RIP](https://996.rip) 企业可能会忘，但我们不会忘。
+
+ - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
+
+ - [996.action](https://github.com/CPdogson/996action) 强调用行动抗议996的板块，向政府信息公开火热进行中，#向马云寄劳动法#行为艺术式，除此之外还有许多行动选择。
+ 
+ - [996.avengers](https://github.com/996-icu-avengers/Natasha) 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
+ 
+ - [996.OD](https://github.com/zheolong/996.OD.git) 程序员长期996导致的职业病，为广大程序员兄弟提供可以查询的常见职业病信息，为职业病防治法的立法改进提供依据。
+ 
+ - [996.Q](https://github.com/alexddhuang/996.Q) 收集有关 996 的自嘲、笑话、段子。
+ 
+  - [996.survey](https://github.com/0594mazhiyuan/996.survey) 一份对于 996 现状的调查。
+ 
+  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) 微软与GitHub员工自发组织 实名签名 支持 996.ICU
+  
+  - [699cn](https://github.com/996-699/996.699) 一键存证微信小程序，免安装永久免费，完全公益性质。一键采集员工当前经纬度和打卡时间存证到服务器，未来目标是期望更多志愿者加入团队，建设成为基于分布式账本技术的存证平台，只要地球上还有程序员，证据就永远存在。
+
+  - [996.Blockchain](https://github.com/996BC/996.Blockchain) 一个存储加班证据摘要的区块链项目
+
+  - [996.Error](https://github.com/MagicLu550/996Error) 收集各种语言写的“996”异常,可以在项目中直接使用
+ 
+## Issues 去哪了？
+
+
+即使有互动限制，Issues 区依然完全失去了控制。因此我**个人**决定关闭 Issues，这与 GitHub 或其他方面无关。
+
+## 许可证
+
+
+[反 996 许可证](LICENSE)
+
+ - 此许可证的目的是阻止违反劳动法的公司使用许可证下的软件或代码，并强迫这些公司权衡他们的行为。
+ - 在此处查看反 996 许可证下的[完整项目列表](awesomelist/README.md)
+ - 该草案改编自 MIT 许可证，如需更多信息请查看 [Wiki](https://github.com/kattgu7/996-License-Draft/wiki)。此许可证旨在与所有主流开源许可证兼容。
+ - 如果你是法律专业人士，或是任何愿意为未来版本做出直接贡献的人，请访问 [Anti-996-License-1.0](https://github.com/kattgu7/996-License-Draft)。感谢你的帮助。

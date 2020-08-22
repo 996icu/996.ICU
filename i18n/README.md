@@ -1,14 +1,14 @@
-Translations of 996.ICU's contents
+Translations of 996.ICU Contents
 ===
 
-* [简体中文](zh-Hans.md)
 * [English](en_US.md)
+* [简体中文](zh-Hans.md)
+* [繁體中文](zh-Hant.md)
 * [हिन्दी](hin.md)
 * [Español](es_MX.md)
 * [Русский](ru_RU.md)
 * [Português](pt_PT.md)
 * [Français](fr_FR.md)
-* [繁體中文](zh-Hant.md)
 * [Deutsch](de_DE.md)
 * [Ελληνικά](el_GR.md)
 * [Italiano](it_IT.md)
@@ -22,8 +22,8 @@ Translations of 996.ICU's contents
 * [Türkçe](tr_TR.md)
 * [Gaeilge na hÉireann](ga.md)
 * [Esperanto](epo.md)
-* [文言-简体中文](zh-lzh-Hans.md)
-* [文言-繁體中文](zh-lzh-Hant.md)
+* [文言——简体中文](zh-lzh-Hans.md)
+* [文言——繁體中文](zh-lzh-Hant.md)
 * [tlhIngan Hol](tlh.md)
 * [Suomi](fi_FI.md)
 * [Svenska](se_SE.md)
