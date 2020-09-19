@@ -105,6 +105,8 @@
   - [996.Blockchain](https://github.com/996BC/996.Blockchain) 一个存储加班证据摘要的区块链项目
 
   - [996.Error](https://github.com/MagicLu550/996Error) 收集各种语言写的“996”异常,可以在项目中直接使用
+
+  - [996.blacklist]996企业信息数据黑名单，基于slack频道和discord频道提供
  
 Issues 去哪了？
 ---
