@@ -38,6 +38,10 @@ What can I do?
 - Add [proposals](proposal/README.md) to give advice about the development of 996.ICU.
 - Go home at 6 pm without feeling sorry.
 
+Support Anti Campaign
+---
+- [Anti Corgin Murder](https://github.com/atcmorg/anticorgimurder)
+
 
 Voices
 ---
