@@ -40,7 +40,9 @@ What can I do?
 
 Support Anti Campaign
 ---
-- [Anti Corgin Murder](https://github.com/atcmorg/anticorgimurder)
+### Anti Corgi Murder
+- Project: [Anti Corgi Murder](https://github.com/atcmorg/anticorgimurder)
+- **Introduction**: 为了保护中国境内的柯基群体，更好的追踪历史信息、保持完整的时间线，保证公开、透明，不因神秘力量而消失，借助社区的力量，我们发起了这个项目，用于曝光和追踪中国境内的各种残害柯基的行为和活动，包括但不仅限于黑心犬舍、繁殖场、宠物店等。我们热切希望每一个喜欢小柯基的朋友参与到我们的活动里面来，为营造小柯基们更好的生存环境贡献自己的力量。ction 
 
 
 Voices
