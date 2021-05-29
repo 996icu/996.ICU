@@ -118,6 +118,7 @@
 |北京|[51talk](http://www.51talk.com/)|2019年4月|早11晚10一周6天，领导不高兴就不放假或者让你晚上12点走|[看准网](https://www.kanzhun.com/question/769860.html)|
 |南京|[苏宁](http://www.suning.com)|2019年3月|996|[如何评价今年苏宁正式实行996工作制?](https://www.zhihu.com/question/314152843/answer/613149536)|
 |厦门|[4399游戏](www.4399.com/)|2019年4月7日|10106|[看准网](https://www.kanzhun.com/gsr3284tl56.html?ka=review-label13)|[知乎](https://www.zhihu.com/question/20608889/answer/15623928)|
+|厦门|[联生活科技集团](https://www.lsh1688.cn/)|2021年5月29日|大小周+经常加班+拖欠工资+不缴纳一金|[BOSS直聘](https://www.zhipin.com/gongsi/7fd7ad361f562fae1nZ82Nm4ElY~.html?ka=company-intro)[截图1](img/联生活1.png)[截图2](img/联生活2.png)[截图3](img/联生活3.png)|
 |嘉兴/广州|[蓝鸽集团有限公司](http://www.chinalancoo.com)|2019年4月4日|每月仅加班需满50小时|曾经一个月加班60小时被喝茶、[知乎爆料](https://www.zhihu.com/question/40782949)、[工资中的一半是要靠加班和绩效才能取得](https://tieba.baidu.com/f?kz=4421231059&mo_device=1&ssid=0&from=844b&uid=0&pu=usm@2\|sz@320_1001\|ta@iphone_2_7.0_24_67.0&bd_page_type=1&baiduid=16C9EAE1D7D54FAC1A178F5882C9EBD3&tj=h5_mobile_1_0_10_l4&referer=m.baidu.com?pn=0&)|
 |大连|[大连东软集团](https://www.neusoft.com/cn/)|2019年4月|9106|[看准网](https://www.kanzhun.com/pl5758283.html?ka=review-item2)、[看准网](https://www.kanzhun.com/pl5892120.html?ka=review-item10)|
 |大连|[大连同方软银科技股份有限公司](http://www.tfrunning.com.cn)|2019年4月|996|[看准网](https://www.kanzhun.com/pl5661184.html?ka=review-item6)、[看准网](https://www.kanzhun.com/pl7170642.html?ka=review-item-ckqw)|
