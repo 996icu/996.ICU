@@ -95,7 +95,7 @@ Community powers
 Where are the issues?
 ---
 
-Even with interaction limits on, the issues area was totally out of control.
+Even with interaction limits on the issues area was totally out of control.
 So I **personally** decided to switch it off, not by GitHub or others.
 
 
