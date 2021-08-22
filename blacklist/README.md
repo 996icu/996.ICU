@@ -44,6 +44,7 @@
 ---
 |所在城市|公司名字|曝光/施行时间|制度描述|证据内容|
 |:---:|:---:|:---:|:---:|:---:|
+|天津|[云账户](https://www.yunzhanghu.com/)|2019年6月|大小周|[公司邮件](https://i.loli.net/2021/08/22/PKcnGhmfQ64OT18.png)|
 |上海|[百安居](https://www.bthome.com/)|2019年6月|996|领导口头描述|
 |上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
