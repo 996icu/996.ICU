@@ -44,6 +44,7 @@
 ---
 |所在城市|公司名字|曝光/施行时间|制度描述|证据内容|
 |:---:|:---:|:---:|:---:|:---:|
+|北京|[中国农业银行研发中心]|2018年|996无偿加班，降薪|![WechatIMG2001](https://user-images.githubusercontent.com/23695444/131816397-07b3203f-ed41-447b-b034-0f6ad41b9997.jpeg)![WechatIMG1986](https://user-images.githubusercontent.com/23695444/131816417-ed38bc2e-14b1-4b3b-89e4-c1af3d1fe78f.jpeg)|
 |上海|[百安居](https://www.bthome.com/)|2019年6月|996|领导口头描述|
 |上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
