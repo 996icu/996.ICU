@@ -40,6 +40,7 @@
 |北京|必胜课||||a53f1aa6747a6fe4e27cb3475551875aa17bf11d|[盖章文件](img/必胜课取消证据01.png)|
 |杭州|[一喂](http://www.yivizd.com)|2017年5月|996|[PR](https://github.com/996icu/996.ICU/pull/25841)|
 
+
 名单列表
 ---
 |所在城市|公司名字|曝光/施行时间|制度描述|证据内容|
@@ -69,7 +70,6 @@
 |北京|[58同城](https://www.58.com)|2019年4月7日|996|[58同城实行全员996工作制 被指意图逼员工主动辞职](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml)<br>[看准网](https://www.kanzhun.com/gsr10329.html?ka=com-blocker1-review#co_tab)|[知乎](https://www.zhihu.com/question/50217184/answer/121096322)|
 |北京|[途家网](https://www.tujia.com)|2017年12月|897|[暴力裁员、996加班、发感冒冲剂、搭睡觉帐篷、诉讼材料](https://www.tujia.xyz/)|
 |北京|[每日优鲜](https://www.missfresh.cn/)|-----|007/996|[app更新记录,大肆鼓吹996](img/每日优鲜鼓吹996.png)|
-|北京|[字节跳动](https://bytedance.com)|2017年7月|996|[看准网1](https://www.kanzhun.com/gsr5622411tl56.html)、[看准网2](https://www.kanzhun.com/pl6583181.html)、[搜狐](https://www.sohu.com/a/256795805_231667)|
 |北京|[用友](http://www.yonyou.com/)|2018年12月|997|[在用友工作是怎样一番体验？ - 知乎](https://www.zhihu.com/question/26683235)|
 |北京|[神策数据](https://www.sensorsdata.cn/)|2019年3月|大小周|[看准网](https://www.kanzhun.com/pl6409927.html)|
 |北京|[中软国际](http://www.chinasofti.com/)|2019年3月|996|[智联招聘](https://jobs.zhaopin.com/CC508620126J00303154805.htm)|
