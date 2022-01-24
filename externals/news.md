@@ -168,6 +168,8 @@
 
 - Abacus：[Chinese browsers block protest against China’s 996 overtime work culture](https://www.abacusnews.com/digital-life/chinese-browsers-block-protest-against-chinas-996-overtime-work-culture/article/3004543)
 
+- Abacus：[Experience the damaging reality of China’s 996 work culture in a new game](https://www.abacusnews.com/games/experience-damaging-reality-chinas-996-work-culture-new-game/article/3077591)
+
 - The Irish Times：[China tech worker protest against long working hours goes viral](https://www.irishtimes.com/business/technology/china-tech-worker-protest-against-long-working-hours-goes-viral-1.3848463)
 
 - The Verge：[Chinese developers use GitHub to protest long work hours](https://www.theverge.com/2019/4/2/18291035/chinese-developers-github-protest-long-work-hours)
