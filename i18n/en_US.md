@@ -88,7 +88,7 @@ A "996" work schedule is a **direct violation** to the Constitution of the Peopl
 
   > "[Our company culture is] the wholehearted devotion of ourselves [to achieve the business objectives]."
 
-This work schedule is only gaining publicity recently. However, it has log been practiced as an "open secret" in many companies in China.
+This work schedule is only gaining publicity recently. However, it has long been practiced as an "open secret" in many companies in China.
 
 ## Compensation and benefits
 
