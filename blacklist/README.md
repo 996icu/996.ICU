@@ -258,7 +258,7 @@
 |山东临沂|临沂沂川网络科技有限公司|2019年4月|请假1天扣双倍工资,定修4天(即使某月有5个周日)|[规定照片](https://i.loli.net/2019/07/16/5d2d7f8d4d4a955770.jpg)|
 |山东临沂|临沂沂川电子有限公司|2015年9月|沂川网络招聘用的皮包公司|附录内3个视频,关键证据:视频内宣传板上印有2公司logo|
 |南京|法奔科技|2018年|996,阴阳合同,强制加班,扣离职工资,老板律师知法犯法|正在整理,附上仲裁书|
-|上海|普道科技|2019年7月|晚上11点,早上10点,一周6天|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)
+|上海|普道科技|2020年8月|晚上11点,早上10点,一周6天,有的组一周7天，不让请事假病假，周六加班请假有惩罚|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)，[群聊不让请假](https://i.loli.net/2020/08/14/XncgmSvibza7ITw.jpg)，[群聊请假惩罚1](https://i.loli.net/2020/08/14/YoUMTQfc78rq6ZD.jpg)，[群聊请假惩罚2](https://i.loli.net/2020/08/14/BlzhiJEYxpMLauU.jpg)
 |上海|上海栈略数据技术有限公司|2019年8月|时间不定, 基本8点, 扬言加班也得做完, 并没有任何补偿|[看准网](https://www.kanzhun.com/gso6488393.html?ka=com1-title)
 |北京|东方国信|2019年8月|晚上9点,早上9点,一周6天|[看准网](https://www.kanzhun.com/gsr621338tl56.html)，[打卡](https://sm.ms/image/wogVyArL9udaTjF)
 |北京-长沙|映客直播|2019年8月|晚上隐性加班,一周6天|[工作群截图](https://sm.ms/image/aQu5Z7olYmPX3BU)
