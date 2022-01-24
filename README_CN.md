@@ -9,7 +9,7 @@
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
-[![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F996icu%2F996.ICU&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 相关报道
@@ -44,6 +44,8 @@
 
 ### 官媒
 - [996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+### 部委机关
+- [人力资源社会保障部、最高人民法院联合发布超时加班劳动人事争议典型案例](http://www.court.gov.cn/zixun-xiangqing-319161.html)
 
 ### 资本家
 - **马云, 阿里巴巴创始人**: `“996”是一种福报`。
@@ -105,6 +107,8 @@
   - [996.Blockchain](https://github.com/996BC/996.Blockchain) 一个存储加班证据摘要的区块链项目
 
   - [996.Error](https://github.com/MagicLu550/996Error) 收集各种语言写的“996”异常,可以在项目中直接使用
+
+  - [996.blacklist]996企业信息数据黑名单，基于slack频道和discord频道提供。已经更新996icu内部的blacklist数据
  
 Issues 去哪了？
 ---
