@@ -47,7 +47,7 @@
 |天津|[云账户](https://www.yunzhanghu.com/)|2019年6月|大小周|[公司邮件](https://i.loli.net/2021/08/22/PKcnGhmfQ64OT18.png)|
 |北京|[中国农业银行研发中心](http://www.abchina.com/cn/)|2015年1月|996无偿加班，降薪|[脉脉员工发多个帖子1300+评论](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNzlhYTRlOWIwYTIxMTFlYzg4NTBlNDQzNGIyZmE4ODgiLCJ1IjoyMjU2OTYxNTcsImlkIjoyOTM1MjMxOH0.Hrz8kApYUk4jt8-AG8daEbT7s6Dy6jvX56m3YNVVblo&share_channel=2&_share_channel=wechat) / [帖子2](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiZGM0MmFkYmQwYmJhMTFlY2JkZTZlNDQzNGIyZmE4ODgiLCJ1Ijo3NzA0NDc0MSwiaWQiOjI5MzYwODA2fQ._s1E-UBE0b_BIyDjJJOqYBU6UOnHMNO3F6QERm-K3qw&share_channel=2&_share_channel=wechat) / [知乎帖子](https://www.zhihu.com/question/484172369?utm_source=wechat_session&utm_medium=social&utm_oi=1101404494474088448&utm_content=group1_supplementQuestions&utm_campaign=shareopn)|
 |上海|[百安居](https://www.bthome.com/)|2019年6月|996|领导口头描述|
-|上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html)|
+|上海|[拼多多](https://www.pinduoduo.com//)|2019年2月|11116、两班倒|[996还不敷，拼多多又玩两班倒，员工大喊：比富士康还狠](http://www.taobao92.com/thread-1313-1-1.html), [如何看待网传拼多多员工加班后猝死一事？拼多多需要承担哪些责任？](https://www.zhihu.com/question/437702180)|
 |上海|[盛赫游戏](http://www.shengheyouxi.com)|2019年3月|大小周|[boss直聘](https://www.zhipin.com/gongsi/c57418b66b0cf3bf0nd52928.html?ka=brand_list_company_9)|
 |上海|[砸立](https://m.eyee.com/)|2019年1月|996|[看准网](https://www.kanzhun.com/gsr5728610tl526.html?ka=review-label2)|
 |上海|[游族网络](https://www.youzu.com/)|2018年3月|996|[你为什么从游族离职?-知乎](https://www.zhihu.com/question/22411680?sort=created)|
