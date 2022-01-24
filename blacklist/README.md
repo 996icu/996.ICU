@@ -246,7 +246,7 @@
 |桐庐|海康威视|2019年9月|777大小周|[知乎](https://www.zhihu.com/question/36922386/answer/545711911)|
 |杭州|吾诺瀚卓||8:30-18:00，一周6天|https://baijiahao.baidu.com/s?id=1640013112742652456&wfr=spider&for=pc|
 |临沂|临沂乐卓软件开发有限公司|未知，应该是从成立开始|86.56|仅工作一日无证据，早八点到晚六点半为正常上班时间。|
-|郑州|宇通客车股份有限公司|2019年9月|887|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
+|郑州|宇通客车股份有限公司|2019年9月|887|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)
 |东莞|[华勤通讯](http://www.huaqin.com/)|2019年7月|996，每天加班|[知乎](https://www.zhihu.com/question/49628909/answer/522467068)
 |杭州|安徽凯才信息有限公司(呆萝卜)杭州研发中心|2019年6月|996|[内部群通知](https://i.loli.net/2019/07/18/5d2f4d561cc2672533.jpeg)|
 |山东临沂|临沂沂川网络科技有限公司|2019年7月|强制加班|[工作群截图](https://i.loli.net/2019/07/16/5d2d7ea1e938a30364.png)|
@@ -255,11 +255,12 @@
 |山东临沂|临沂沂川网络科技有限公司|2019年4月|请假1天扣双倍工资,定修4天(即使某月有5个周日)|[规定照片](https://i.loli.net/2019/07/16/5d2d7f8d4d4a955770.jpg)|
 |山东临沂|临沂沂川电子有限公司|2015年9月|沂川网络招聘用的皮包公司|附录内3个视频,关键证据:视频内宣传板上印有2公司logo|
 |南京|法奔科技|2018年|996,阴阳合同,强制加班,扣离职工资,老板律师知法犯法|正在整理,附上仲裁书|
-|上海|普道科技|2019年7月|晚上11点,早上10点,一周6天|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)}
-|上海|上海栈略数据技术有限公司|2019年8月|时间不定, 基本8点, 扬言加班也得做完, 并没有任何补偿|[看准网](https://www.kanzhun.com/gso6488393.html?ka=com1-title)}
-|北京|东方国信|2019年8月|晚上9点,早上9点,一周6天|[看准网](https://www.kanzhun.com/gsr621338tl56.html)，[打卡](https://sm.ms/image/wogVyArL9udaTjF)}
-|北京-长沙|映客直播|2019年8月|晚上隐性加班,一周6天|[工作群截图](https://sm.ms/image/aQu5Z7olYmPX3BU)}
+|上海|普道科技|2019年7月|晚上11点,早上10点,一周6天|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)
+|上海|上海栈略数据技术有限公司|2019年8月|时间不定, 基本8点, 扬言加班也得做完, 并没有任何补偿|[看准网](https://www.kanzhun.com/gso6488393.html?ka=com1-title)
+|北京|东方国信|2019年8月|晚上9点,早上9点,一周6天|[看准网](https://www.kanzhun.com/gsr621338tl56.html)，[打卡](https://sm.ms/image/wogVyArL9udaTjF)
+|北京-长沙|映客直播|2019年8月|晚上隐性加班,一周6天|[工作群截图](https://sm.ms/image/aQu5Z7olYmPX3BU)
 |北京|澎思智能|2019年7月|996|[微信截图](https://github.com/wangleipes/996.ICU/blob/master/blacklist/img/%E6%BE%8E%E6%80%9D.png)|
 |南京|[中设设计集团子公司纬信工程咨询公司](http://www.js-wx.com.cn/lxwm.asp)|自公司成立|领导明令8106，工作前三年无年假|[群聊截图1](img/道桥部群聊截图.jpg)，[群聊截图2](img/道桥部群聊截图1.jpg)，[群聊截图3](img/道桥部群聊截图2.jpg)，[签到表7.31](img/签到表7.31.jpg)，[签到表8.1](img/签到表8.1.jpg)|
 |北京|畅捷通信息技术股份有限公司|2019年8月,9月|领导明令996, 每周二四固定加班|[邮件截图](img/畅捷通-996-mail-m.jpg)，[群聊截图](img/畅捷通-996-m.jpg)|
 |上海|上海电信CRM项目组|2019年5月|每天至少工作12小时，周末采取大小周|[群聊截图1](img/上海电信CRM1.png)，[群聊截图2](img/上海电信CRM2.png)，[报道链接](http://www.shftth.com/news/2019-6-13/981.html)|
+|广州|北京滴普科技有限公司|2019年10月底|群里宣布10106/996,请假还需报备|[聊天记录截图1](img/dipu996record1.jpg),[聊天记录截图2](img/dipu996record2.jpg),[看准网](https://www.kanzhun.com/gso7687290.html?ka=com1-title)|
