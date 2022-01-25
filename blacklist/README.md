@@ -38,7 +38,7 @@
 |北京|首约汽车||||bde8b2d8c89418b5553b199d91ba9394ccacc867|被无故取消，没有提交证据，希望提交证据|
 |六安|六安人论坛||||c18807f14ade6b12fc1042077a77ca9bd8de02d3|没有任何证据|
 |北京|必胜课||||a53f1aa6747a6fe4e27cb3475551875aa17bf11d|[盖章文件](img/必胜课取消证据01.png)|
-|杭州|[一喂](http://www.yivizd.com)|2017年5月|996|[PR](https://github.com/996icu/996.ICU/pull/25841)|
+|杭州|[杭州一喂智能科技有限公司](http://www.yivicar.com)|2017年5月|996|[关于杭州一喂出现在黑名单的反馈(注意pull时间)](https://github.com/996icu/996.ICU/pull/25841)|
 
 名单列表
 ---
