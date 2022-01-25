@@ -1,6 +1,6 @@
 [996.ICU](https://996.icu/#/zh_CN)
 =======
-### **请注意 996.ICU 没有除域名和库以外的任何官方账号、app、周边，请勿给予有心之人可乘之机。**
+**请注意 996.ICU 没有除域名和库以外的任何官方账号、app、周边，请勿给予有心之人可乘之机。**
 
 * [English version](./README.md)
 
@@ -8,8 +8,8 @@
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/zh_CN)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNTg4MjA3MzA1MzgxLWQyYzM5M2IyZmIyMTVjMzU5NTE5MGI5Y2Y2YjgwMmJiMWMxMWMzNGU3NDJmOTdhNmRlYjJlNjk5ZWZhNWIwZGM)
-[![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
+[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTkyMGViNmJiZjYwOWVlNzQ3NmQ4NTQyMDRiZTNmOWFkMzYxZWNmZGI0NDA4MWIwOGVhOThhMzc3NGQyMDBhZDc)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F996icu%2F996.ICU&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 相关报道
@@ -27,17 +27,37 @@
 
 “996”工作制，指的是一种越来越流行的非官方工作制（早上 9 点 ~ 晚上 9 点，每周 6 天）。在一个实行“996”工作制的公司工作就意味着每周至少要工作 60 个小时。
 
+
 我能做什么？
 ---
-- 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位工作者。
+- 更新这个[名单](blacklist/README.md)（注附带证据），来帮助每一位工作者。[为不熟悉GitHub劳动者准备的提交渠道](https://www.996action.com/index.php/889799)
 - 把这个[徽章](externals/instruction.md)添加到你的项目来支持 996.ICU
 - 为你的项目添加[反 996 许可证](LICENSE_CN)。
 - 给社区与项目发展提出新的[议案](proposal/README.md)。
 - 下午6点钟下班回家。
+- 企业和群众可以登录中国政府网（www.gov.cn） 或下载国务院客户端，进入国务院“互联网+督查”专栏，也可以关注中国政府网微信公众号，进入国务院“互联网+督查”小程序提供线索、反映问题、提出建议。国务院办公厅将对收到的问题线索和意见建议进行汇总整理，督促有关地方、部门处理。对企业和群众反映强烈、带有普遍性的重要问题线索，国务院办公厅督查室将直接派员督查。经查证属实、较为典型的问题，将予以公开曝光、严肃处理。 
+- 互助式举报，通过群聊频道[![Slack](https://img.shields.io/badge/slack-996icu-green.svg?style=flat-square)](https://join.slack.com/t/996icu/shared_invite/enQtNjI0MjEzMTUxNDI0LTA5NTc3MTk0MDRlMzIzNTI3ZDk1Y2IxNzQzZmM0NGQzNmI0NDA3MWE2ZWQyY2RlNjhkN2ViYjYyMDAzMGVmNjQ) 找到有相似举报需求的加班受害者，相互举报对方公司的违法事实，根据《劳动保障监察条例》第一章第九条 “任何组织或者个人对违反劳动保障法律、法规或者规章的行为，有权向劳动保障行政部门举报。” 通过电话以朋友的名义向当地劳动监察大队举报，以便更稳妥的保护当事人身份信息。详细内容请见[互助式举报说明细项](externals/mutual_help.md)
+
+
+各界声音
+---
+
+### 官媒
+- [996当退场](http://www.xinhuanet.com/politics/2019-04/15/c_1124370790.htm)
+### 部委机关
+- [人力资源社会保障部、最高人民法院联合发布超时加班劳动人事争议典型案例](http://www.court.gov.cn/zixun-xiangqing-319161.html)
+
+### 资本家
+- **马云, 阿里巴巴创始人**: `“996”是一种福报`。
+- **刘强东，京东创始人**: `京东不会强制995或者996`。
+但是有许多员工匿名表示，公司内部有一个“加班排名表”，列举了各个部门的加班情况排名，排名低的部门会受到惩罚。领导们安排996工作时，也会注意不留下证据。
+- **白鸦, 有赞CEO**: `几年后回看，这次绝对是好事`。
+
+### 开发者
+- Guido van Rossum, Python之父: [`"996"工作制是不人道的`](https://twitter.com/gvanrossum/status/1111628076801236993).
 
 原则和目的
 ---
-
 
 * 首先需要申明的是这不是一个政治运动，我们每个人都坚定维护劳动法，但我们同时要求雇主也要尊重雇员的合法权益。
 
@@ -76,7 +96,19 @@
  
  - [996.OD](https://github.com/zheolong/996.OD.git) 程序员长期996导致的职业病，为广大程序员兄弟提供可以查询的常见职业病信息，为职业病防治法的立法改进提供依据。
  
+ - [996.Q](https://github.com/alexddhuang/996.Q) 收集有关 996 的自嘲、笑话、段子。
+ 
+  - [996.survey](https://github.com/0594mazhiyuan/996.survey) 一份对于 996 现状的调查。
+ 
   - [support.996.ICU](https://github.com/msworkers/support.996.ICU) 微软与GitHub员工自发组织 实名签名 支持 996.ICU
+  
+  - [699cn](https://github.com/996-699/996.699) 一键存证微信小程序，免安装永久免费，完全公益性质。一键采集员工当前经纬度和打卡时间存证到服务器，未来目标是期望更多志愿者加入团队，建设成为基于分布式账本技术的存证平台，只要地球上还有程序员，证据就永远存在。
+
+  - [996.Blockchain](https://github.com/996BC/996.Blockchain) 一个存储加班证据摘要的区块链项目
+
+  - [996.Error](https://github.com/MagicLu550/996Error) 收集各种语言写的“996”异常,可以在项目中直接使用
+
+  - [996.blacklist]996企业信息数据黑名单，基于slack频道和discord频道提供。已经更新996icu内部的blacklist数据
  
 Issues 去哪了？
 ---
