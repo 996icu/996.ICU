@@ -73,6 +73,8 @@ Expanding influence
 
 Please feel free to [translate 996.ICU's contents](i18n/README.md), adjust the format, add some contents or fix grammatical errors. Please note that adding too many translations is getting off the track.
 
+I am manman. My Douyin is 慢慢青年，微博@慢慢青年 
+
 Community powers
 ---
 
