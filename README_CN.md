@@ -110,11 +110,10 @@
 
   - [996.blacklist](https://github.com/996icu/996.ICU/tree/master/blacklist) 996企业信息数据黑名单，基于slack频道和discord频道提供。已经更新996icu内部的blacklist数据
  
-Issues 去哪了？
+Issues is coming back!
 ---
 
-即使有互动限制，Issues 区依然完全失去了控制。
-因此我**个人**决定关闭 Issues，这与 GitHub 或其他方面无关。
+**慢慢**决定重开 Issues
 
 License
 ---
