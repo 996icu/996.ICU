@@ -131,4 +131,4 @@ Donations will be used to sustain/maintain the website.
 Contact
 ---
 
-You can reach me by [E-mail](mailto:996icu.repo@gmail.com) if you need.
+You can reach me by [E-mail](mailto:manmanstudio@outlook.com) if you need.
