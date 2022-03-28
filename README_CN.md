@@ -56,6 +56,9 @@
 ### 开发者
 - Guido van Rossum, Python之父: [`"996"工作制是不人道的`](https://twitter.com/gvanrossum/status/1111628076801236993).
 
+### 微信某公众号
+- [一段电话录音，被公开了（值得一听）](https://mp.weixin.qq.com/s/RxV-CC4c0FiyVUlWf7rjwQ)
+
 原则和目的
 ---
 
