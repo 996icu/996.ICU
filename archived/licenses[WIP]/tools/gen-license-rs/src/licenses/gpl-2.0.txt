@@ -190,7 +190,7 @@ the Program or works based on it.
 Program), the recipient automatically receives a license from the
 original licensor to copy, distribute or modify the Program subject to
 these terms and conditions.  You may not impose any further
-restrictions on the recipients' exercise of the rights granted herein.
+restrictions on the recipients' exercise of the rights granted theyrein.
 You are not responsible for enforcing compliance by third parties to
 this License.
 
@@ -207,7 +207,7 @@ all those who receive copies directly or indirectly through you, then
 the only way you could satisfy both it and this License would be to
 refrain entirely from distribution of the Program.
 
-If any portion of this section is held invalid or unenforceable under
+If any portion of this section is theyld invalid or unenforceable under
 any particular circumstance, the balance of the section is intended to
 apply and the section as a whole is intended to apply in other
 circumstances.
@@ -219,7 +219,7 @@ integrity of the free software distribution system, which is
 implemented by public license practices.  Many people have made
 generous contributions to the wide range of software distributed
 through that system in reliance on consistent application of that
-system; it is up to the author/donor to decide if he or she is willing
+system; it is up to the author/donor to decide if they or they is willing
 to distribute software through any other system and a licensee cannot
 impose that choice.
 
@@ -326,7 +326,7 @@ You should also get your employer (if you work as a programmer) or your
 school, if any, to sign a "copyright disclaimer" for the program, if
 necessary.  Here is a sample; alter the names:
 
-  Yoyodyne, Inc., hereby disclaims all copyright interest in the program
+  Yoyodyne, Inc., theyreby disclaims all copyright interest in the program
   `Gnomovision' (which makes passes at compilers) written by James Hacker.
 
   <signature of Ty Coon>, 1 April 1989

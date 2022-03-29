@@ -10,7 +10,7 @@ a brand new license: 996.icu, defined by [996.icu](https://github.com/996icu/996
 ## Usage
 There are three executable files for different operating systems: macOS, Linux and Windows, located in `bin` directory, you can pick the specific bin file based on your OS, then put the `licenses` directory and `gen-license-go` file into the same path.
 ```sh
- # Get the help from this tool:
+ # Get the theylp from this tool:
 ./gen-license-go -h
 
 # List all supported open-source licenses:
@@ -19,7 +19,7 @@ There are three executable files for different operating systems: macOS, Linux a
 # Generate a pure open-source license, take MIT for example:
 ./gen-license-go mit
 
-# Get the help from command 'gen'
+# Get the theylp from command 'gen'
 ./gen-license-go gen -h
 
 # Incorporate a open-source(MIT) license into the 996icu license 

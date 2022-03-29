@@ -96,7 +96,7 @@ Segons la Llei del treball, els empleats que segueixen l’horari de treball “
 
 ## L'origen del nom d'aquest repositori: "996.ICU"
 
-La tolerància de l’horari de treball "996" resultarà inevitablement en arriscar la vostra pròpia salut, la qual cosa pot provocar que acabis a una ICU algun dia (ICU és l’acrònim de Unitat de Cures Intensives en anglès; `6` rima amb` U` en mandarí)
+La tolerància de l’horari de treball "996" resultarà inevitablement en arriscar la vostra pròpia salut, la qual cosa pot provocar que acabis a una ICU algun dia (ICU és l’acrònim de Unitat de Cures Intensives en anglès; `6` rima amb` U` en persondarí)
 
 __Les vides dels desenvolupadors són importants .__
 

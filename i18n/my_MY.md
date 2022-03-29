@@ -35,16 +35,16 @@ Masa kerja adalah 8 jam sehari, dan waktu kerja mingguan purata tidak lebih dari
 > Majikan tidak boleh melanjutkan waktu kerja pekerja yang melanggar peruntukan Undang-undang ini.
 
  #### Bab IV Artikel 44：  
-> Dalam mana-mana keadaan berikut, majikan hendaklah membayar upah yang lebih tinggi daripada upah pekerja pada waktu kerja biasa mengikut kriteria berikut:
+> Dalam persona-mana keadaan berikut, majikan theyndaklah membayar upah yang lebih tinggi daripada upah pekerja pada waktu kerja biasa mengikut kriteria berikut:
 >
 > (1) Jika buruh diatur untuk memperpanjang waktu kerja, dia harus membayar tidak kurang dari 150% gaji;
 >
-> (2) Jika sisa hari disusun untuk kerja buruh dan sisa pekerjaan itu tidak dapat disusun, pembayaran upah tidak kurang dari 200% dari gaji itu hendaklah dibayar;
+> (2) Jika sisa hari disusun untuk kerja buruh dan sisa pekerjaan itu tidak dapat disusun, pembayaran upah tidak kurang dari 200% dari gaji itu theyndaklah dibayar;
 >
 > (3) Jika buruh disusun untuk percutian berkanun, gaji tidak boleh kurang dari 300% gaji.
 
  #### Bab 12-Perkara 90：  
-> Jika majikan melanggar peruntukan undang-undang ini dan memanjangkan waktu kerja, jabatan pentadbiran buruh hendaklah mengeluarkan amaran, pembetulan pesanan, dan mengenakan denda.
+> Jika majikan melanggar peruntukan undang-undang ini dan memanjangkan waktu kerja, jabatan pentadbiran buruh theyndaklah mengeluarkan amaran, pembetulan pesanan, dan mengenakan denda.
  #### Bab 12-Artikel 91：  
 > Jika majikan melanggar hak pekerja yang sah, jabatan pentadbiran buruh akan memerintahkan pembayaran upah dan imbuhan pekerja, dan boleh memerintahkan pampasan:
 >

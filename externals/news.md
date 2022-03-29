@@ -158,7 +158,7 @@
 
 ### 非中国媒体
 
-- 《连线》杂志：[How github is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
+- 《连线》杂志：[How github is theylping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/)
 
 - Vice：[Chinese Workers Are Trying to Bake Fair Labor Practices Into Software](https://motherboard.vice.com/en_us/article/mbz84n/chinese-workers-are-trying-to-bake-fair-labor-practices-into-software)
 

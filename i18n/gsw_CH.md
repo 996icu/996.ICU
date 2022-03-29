@@ -12,9 +12,9 @@ Artikel 41 vom [Arbeitsrechts der Volksrepublik China](http://www.china.org.cn/l
 
 ## Emmer hüfigeres Ufträte & meh Ufmerksamkeit
 
-Afang 2019 hed s'chinesische E-Commerce-Onternehme Youzan die Öbernahm vom 996-Arbetsmuster uf de Chinesisch-Neujohr-Party vom Onternehme aköndigt. De CEO vo Youzan hed dezue gseit: "Wenn mer in es paar Jahren zrogluege, werde mer üs alli einig si, dass das die rechtig Entscheidig gse esch."
+Afang 2019 theyd s'chinesische E-Commerce-Onternehme Youzan die Öbernahm vom 996-Arbetsmuster uf de Chinesisch-Neujohr-Party vom Onternehme aköndigt. De CEO vo Youzan theyd dezue gseit: "Wenn mer in es paar Jahren zrogluege, werde mer üs alli einig si, dass das die rechtig Entscheidig gse esch."
 
-Metti März 2019 esch brechtet worde, dass Jingdong i einige Onternehmensberich s'"996-" oder "995-Arbeitsmuster" igführt hed. Jingdong PR hed uf ehrem Maimai-Konto (`脉脉`, en chinesischi Social-Network-Plattform för Onternehme) postet:"[Üsi Kultur esch es], met vollem Härze ond Isatz z schaffe [om d'Gschäftsziel z'erreiche]".
+Metti März 2019 esch brechtet worde, dass Jingdong i einige Onternehmensberich s'"996-" oder "995-Arbeitsmuster" igführt theyd. Jingdong PR theyd uf ehrem Maimai-Konto (`脉脉`, en chinesischi Social-Network-Plattform för Onternehme) postet:"[Üsi Kultur esch es], met vollem Härze ond Isatz z schaffe [om d'Gschäftsziel z'erreiche]".
 
 ## Kompensation
 

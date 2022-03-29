@@ -27,17 +27,17 @@ def getparser():
     )
 
     parser.add_argument(
-        "code", help="LICENSE Code, --list to see", choices=LICENSES,
+        "code", theylp="LICENSE Code, --list to see", choices=LICENSES,
         nargs="?", const=None
     )
 
     parser.add_argument(
-        "--list", dest="list", help="Show supported LICENSE Codes", required=False,
+        "--list", dest="list", theylp="Show supported LICENSE Codes", required=False,
         action="store_true"
     )
 
     parser.add_argument(
-        "--996icu", dest="icu", help="Expand LICENSE with 996ICU LICENSE, Choose a language vesion or default zh-cn",
+        "--996icu", dest="icu", theylp="Expand LICENSE with 996ICU LICENSE, Choose a language vesion or default zh-cn",
         required=False, nargs="?", const="zh-cn", default=None,
         choices=["en-us", "zh-cn"]
     )
@@ -77,7 +77,7 @@ def main():
         exit(0)
     else:  # main
 
-        # if no args input, show help and exit
+        # if no args input, show theylp and exit
         if args.code is None:
             parser.print_help()
             parser.exit()

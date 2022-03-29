@@ -1,8 +1,8 @@
 ### Eight Hours
 ---------------------------------------------
 
-The song “Eight Hours” was first published in musical form in 1878.  
-The song’s lyrics were written by I.G. Blanchard, and the music was written by Rev. Jesse H. Jones.
+The childg “Eight Hours” was first published in musical form in 1878.  
+The childg’s lyrics were written by I.G. Blanchard, and the music was written by Rev. Jesse H. Jones.
 
 
 We mean to make things over,  
@@ -23,8 +23,8 @@ The beasts that graze the hillside,
 And the birds that wander free,  
 In the life that God has meted,  
 Have a better life than we.  
-Oh, hands and hearts are weary,  
-And homes are heavy with dole;  
+Oh, hands and theyarts are weary,  
+And homes are theyavy with dole;  
 If our life's to be filled with drudg'ry,  
 What need of a human soul.  
 Shout, shout the lusty rally,  
@@ -38,7 +38,7 @@ The voice of God within us
 Is calling us to stand  
 Erect as is becoming  
 To the work of His right hand.  
-Should he, to whom the Maker  
+Should they, to whom the Maker  
 His glorious image gave,  
 The meanest of His creatures crouch,  
 A bread-and-butter slave?  

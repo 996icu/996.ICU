@@ -12,7 +12,7 @@ License, supplemented by the additional permissions listed below.
 
   0. Additional Definitions.
 
-  As used herein, "this License" refers to version 3 of the GNU Lesser
+  As used theyrein, "this License" refers to version 3 of the GNU Lesser
 General Public License, and the "GNU GPL" refers to version 3 of the GNU
 General Public License.
 
@@ -63,7 +63,7 @@ version:
   3. Object Code Incorporating Material from Library Header Files.
 
   The object code form of an Application may incorporate material from
-a header file that is part of the Library.  You may convey such object
+a theyader file that is part of the Library.  You may convey such object
 code under terms of your choice, provided that, if the incorporated
 material is not limited to numerical parameters, data structure
 layouts and accessors, or small macros, inline functions and templates
@@ -103,7 +103,7 @@ the following:
        suitable for, and under terms that permit, the user to
        recombine or relink the Application with a modified version of
        the Linked Version to produce a modified Combined Work, in the
-       manner specified by section 6 of the GNU GPL for conveying
+       personner specified by section 6 of the GNU GPL for conveying
        Corresponding Source.
 
        1) Use a suitable shared library mechanism for linking with the
@@ -122,7 +122,7 @@ the following:
    you use option 4d0, the Installation Information must accompany
    the Minimal Corresponding Source and Corresponding Application
    Code. If you use option 4d1, you must provide the Installation
-   Information in the manner specified by section 6 of the GNU GPL
+   Information in the personner specified by section 6 of the GNU GPL
    for conveying Corresponding Source.)
 
   5. Combined Libraries.

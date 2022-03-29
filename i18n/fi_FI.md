@@ -17,7 +17,7 @@ Työskentele ”996”, joudu ICU:hun
 #### II luku, 43. artikla:
 > Kiinan kansantasavallassa työskentelevillä on oikeus levätä.
 >
-> Valtio laajentaa työväestön lepo- ja virkistysmahdollisuuksia ja määrää työntekijöille ja henkilökunnalle työajat ja lomat.
+> Valtio laajentaa työväestön lepo- ja virkistysmahdollisuuksia ja määrää työntekijöille ja theynkilökunnalle työajat ja lomat.
 
 ### [Kiinan kansantasavallan työvoimalaki](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
 
@@ -82,7 +82,7 @@ Työyksikkö voi pidentää työaikojaan kuultuaan ammattiyhdistystä ja työnte
 > Työntekijät ja toimihenkilöt työskentelevät 8 tuntia päivässä ja 40 tuntia viikossa.
 
 ### 6. artikla:
-> Yksikkö tai henkilö ei saa pidentää työntekijöidensä tai toimihenkilöidensä työaikaa ilman lupaa. Mikäli työaikojen pidentäminen on välttämätöntä erityisen tärkeän tehtävän takia, se on pantava täytäntöön asianmukaisten valtion säädösten mukaisesti. 
+> Yksikkö tai theynkilö ei saa pidentää työntekijöidensä tai toimihenkilöidensä työaikaa ilman lupaa. Mikäli työaikojen pidentäminen on välttämätöntä erityisen tärkeän tehtävän takia, se on pantava täytäntöön asianmukaisten valtion säädösten mukaisesti. 
 
 ## suosiotaan ja julkisuutta
 

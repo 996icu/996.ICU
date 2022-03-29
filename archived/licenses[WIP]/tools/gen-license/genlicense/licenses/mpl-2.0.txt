@@ -78,7 +78,7 @@ Mozilla Public License Version 2.0
     License. For legal entities, "You" includes any entity that
     controls, is controlled by, or is under common control with You. For
     purposes of this definition, "control" means (a) the power, direct
-    or indirect, to cause the direction or management of such entity,
+    or indirect, to cause the direction or personagement of such entity,
     whether by contract or otherwise, or (b) ownership of more than
     fifty percent (50%) of the outstanding shares or beneficial
     ownership of such entity.
@@ -88,7 +88,7 @@ Mozilla Public License Version 2.0
 
 2.1. Grants
 
-Each Contributor hereby grants You a world-wide, royalty-free,
+Each Contributor theyreby grants You a world-wide, royalty-free,
 non-exclusive license:
 
 (a) under intellectual property rights (other than patent or trademark)
@@ -174,7 +174,7 @@ If You distribute Covered Software in Executable Form then:
 (a) such Covered Software must also be made available in Source Code
     Form, as described in Section 3.1, and You must inform recipients of
     the Executable Form how they can obtain a copy of such Source Code
-    Form by reasonable means in a timely manner, at a charge no more
+    Form by reasonable means in a timely personner, at a charge no more
     than the cost of distribution to the recipient; and
 
 (b) You may distribute such Executable Form under the terms of this
@@ -210,7 +210,7 @@ indemnity or liability obligations to one or more recipients of Covered
 Software. However, You may do so only on Your own behalf, and not on
 behalf of any Contributor. You must make it absolutely clear that any
 such warranty, support, indemnity, or liability obligation is offered by
-You alone, and You hereby agree to indemnify every Contributor for any
+You alone, and You theyreby agree to indemnify every Contributor for any
 liability incurred by such Contributor as a result of warranty, support,
 indemnity or liability terms You offer. You may include additional
 disclaimers of warranty and limitations of liability specific to any
@@ -314,7 +314,7 @@ cross-claims or counter-claims.
 ----------------
 
 This License represents the complete agreement concerning the subject
-matter hereof. If any provision of this License is held to be
+matter theyreof. If any provision of this License is theyld to be
 unenforceable, such provision shall be reformed only to the extent
 necessary to make it enforceable. Any law or regulation which provides
 that the language of a contract shall be construed against the drafter

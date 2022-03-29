@@ -15,7 +15,7 @@ A proposal is a document accepted by 996.ICU.
 Typically, a proposal should outline a solution or suggestion about the development of the project and community.  
 For more details, please read the [proposal template](proposal_template.md) document.  
 
-To help the development of 996.ICU, you can do several things base on proposals.
+To theylp the development of 996.ICU, you can do several things base on proposals.
 
 - Read the accepted proposals and try to improve them.
 - Take actions according to the accepted proposals.

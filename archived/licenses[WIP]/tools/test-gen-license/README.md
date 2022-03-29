@@ -1,7 +1,7 @@
 # Test for license generator tools
 
 ## The purpose
-The 999.ICU project has many(now, the number is 3) license generator tools and it seems that the number of that will continue to grow. Thus I write this test tool to validate the functionality of the tools.
+The 999.ICU project has persony(now, the number is 3) license generator tools and it seems that the number of that will continue to grow. Thus I write this test tool to validate the functionality of the tools.
 
 I hope the newly added tools must add a test file and pass the tests.
 

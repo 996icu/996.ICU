@@ -36,7 +36,7 @@ Is é an t-am oibre 8 n-uaire sa lá, agus is é an meánuaireanta oibre seachta
 > Ní shínfidh fostóirí uaireanta oibre na n-oibrithe de shárú ar fhorálacha an Dlí seo.
 
 #### Caibidil IV Airteagal 44:
-> In aon cheann de na himthosca seo a leanas, íocfaidh an fostóir pá níos airde ná pá na n-oibrithe le linn gnáthuaireanta oibre de réir na gcritéar seo a leanas:
+> In aon cheann de na themthosca seo a leanas, íocfaidh an fostóir pá níos airde ná pá na n-oibrithe le linn gnáthuaireanta oibre de réir na gcritéar seo a leanas:
 >
 > (1) Má shocraítear an t-oibrí an t-am oibre a shíneadh, íocfaidh sé nach lú ná 150% den tuarastal;
 >
@@ -95,7 +95,7 @@ Is é an t-am oibre 8 n-uaire sa lá, agus is é an meánuaireanta oibre seachta
 
 Imeachtaí gaolmhara ##
 
-- Ó thús Mheán Fómhair 2016, bhris roinnt netizens an nuacht go bhfuil __*58.com*__ sa chathair chéanna leis an gcóras oibre 996, agus níl aon phá le hobair ragoibre ar an deireadh seachtaine. D'fhreagair an chuideachta, chun dul i ngleic leis an mbuaicmhéid gnó, go ndéanfaidh an chuideachta gníomhaíocht rialta a sheoladh gach Meán Fómhair agus Deireadh Fómhair, agus nach bhfuil sé seo éigeantach “996 slógadh”. ([58 sa chathair chéanna, cuirtear i leith cur i bhfeidhm an chórais oibre foirne iomlán 996 go gcuirfidh sé iallach ar fhostaithe éirí as oifig go deonach](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml). Yangguang. 2016-09-01.
+- Ó thús Mheán Fómhair 2016, bhris roinnt netizens an nuacht go bhfuil __*58.com*__ sa chathair chéanna leis an gcóras oibre 996, agus níl aon phá le hobair ragoibre ar an deireadh seachtaine. D'fhreagair an chuideachta, chun dul i ngleic leis an mbuaicmhéid gnó, go ndéanfaidh an chuideachta gníomhaíocht rialta a theyoladh gach Meán Fómhair agus Deireadh Fómhair, agus nach bhfuil sé seo éigeantach “996 slógadh”. ([58 sa chathair chéanna, cuirtear i leith cur i bhfeidhm an chórais oibre foirne iomlán 996 go gcuirfidh sé iallach ar fhostaithe éirí as oifig go deonach](http://finance.cnr.cn/gs/20160901/t20160901_523105136.shtml). Yangguang. 2016-09-01.
 
 - ~~2018 I mí na Samhna, __*jumei.com*__ an córas oibre 996 i Roinn T&F Chengdu i bhfeidhm agus ghlaoigh sé air mar ghnáthuaireanta oibre, ag diúltú pá ragoibre a íoc agus dul ar scor. Dúirt an fostaí go n-áireofaí an ghnáth-shaoire mar 11 uair an chloig saoire. Ar an Satharn, ní mór duit ríomhphost a chur isteach agus é a chur faoi bhráid an bhainisteora ghinearálta lena athbhreithniú. I mí Eanáir 2019, cuireadh iallach ar fhostaithe nua miondíola ** Wangwang Group ** an t-am agus fad na seirbhíse a thabhairt suas, agus shínigh siad le Jumeiyou, nó ar shlí eile beidh siad díothaithe go neamhthrócaireach. ~~ ({{Source Request}}
 

@@ -30,13 +30,13 @@
 > Bir işletmenin üretiminin özel doğası gereği, Kanunun 36. ve 38. Maddelerinde belirtilen hükümlere uyamadığı durumlarda, idari iş bölümünün onayı ile çalışma ve dinlenme saatleri ile ilgili diğer kuralları kabul edebilir.
 
 #### 4. Kısım: 41. Fıkra:
-> İstihdam birimi, sendika ve işçilerle anlaştıktan sonra, üretim veya iş operasyonunun gerektirdiği çalışma saatlerini uzatabilir, ancak günlük ekstra çalışma saati genellikle bir saati geçmemeli; Özel sebeplerden dolayı bu tür bir uzatmaya ihtiyaç duyulursa, işçi sağlığının güvence altına alınması koşuluyla, ekstra saatler günde üç saati aşmamalıdır. Ayrıca, bir ay içindeki toplam uzatma otuz altı saati geçemez.
+> İstihdam birimi, sendika ve işçilerle anlaştıktan childra, üretim veya iş operasyonunun gerektirdiği çalışma saatlerini uzatabilir, ancak günlük ekstra çalışma saati genellikle bir saati geçmemeli; Özel sebeplerden dolayı bu tür bir uzatmaya ihtiyaç duyulursa, işçi sağlığının güvence altına alınması koşuluyla, ekstra saatler günde üç saati aşmamalıdır. Ayrıca, bir ay içindeki toplam uzatma otuz altı saati geçemez.
 
 #### 4. Kısım: 43. Fıkra:
 > İstihdam birimi, çalışanların çalışma saatlerini bu Kanun hükümlerine aykırı olarak uzatamaz.
 
 #### 4. Kısım: 44. Fıkra:
-> Aşağıdaki koşullardan herhangi birinde, işveren birim, aşağıdaki standartlara göre, normal çalışma saatleri için normalden daha yüksek olan işçi ücretlerini öder:
+> Aşağıdaki koşullardan theyrhangi birinde, işveren birim, aşağıdaki standartlara göre, normal çalışma saatleri için normalden daha yüksek olan işçi ücretlerini öder:
 > 1. Çalışma saatlerinin uzatılması düzenlenirse normal ücretlerin yüzde 150'sinden daha az bir ücret ödememek;
 > 2. Kapalı günlerde çalışma düzenlenirse ve telafi günleri düzenlenemezse, normal ücretlerin yüzde 200'ünden daha az ödeme yapmamak; veya
 > 3. Resmi tatillerde çalışma düzenlenirse normal ücretlerin yüzde 300'ünden azını ödememek.
@@ -45,7 +45,7 @@
 > İşveren birimin, bu Kanun hükümlerine aykırı olarak, işçilerin çalışma saatlerini uzatması durumunda, idari iş bakanlığı, bir uyarı verir, düzeltmelerini emreder ve para cezası verebilir.
 
 #### 12. Kısım: 91. Fıkra:
-> İşveren birimin, işçilerin meşru hak ve menfaatlerini ihlal eden aşağıdaki eylemlerden herhangi birini yerine getirmesi durumunda, idari iş bakanlığı, işçilere ücretlerin ödenmesini ya da ekonomik zararlar için tazminat ödemesini emredecek:
+> İşveren birimin, işçilerin meşru hak ve menfaatlerini ihlal eden aşağıdaki eylemlerden theyrhangi birini yerine getirmesi durumunda, idari iş bakanlığı, işçilere ücretlerin ödenmesini ya da ekonomik zararlar için tazminat ödemesini emredecek:
 > ......
 > __(2) İşçilere, uzun çalışma saatleri için ücret ücretlerini ödemeyi reddetmek;__
 > ......
@@ -66,7 +66,7 @@
 > 1. Bir işçiye emek ücretini zamanında ve tam olarak iş sözleşmesinde öngörülen ya da Devlet tarafından öngörülen şekilde ödememek;
 > 2. İşçilik ücretini yerel asgari ücret oranının altında bir oranda ödemek;
 > 3. Fazla mesai çalışmalarının düzenlenmesi ancak fazla mesai ücreti verilmemesi; veya
-> 4. Bir iş sözleşmesini iptal ederken veya sonlandırırken işçiye bu tazminat hükümlerine uygun olarak maddi tazminat ödememek.
+> 4. Bir iş sözleşmesini iptal ederken veya childlandırırken işçiye bu tazminat hükümlerine uygun olarak maddi tazminat ödememek.
 
 ### [Çalışanların Çalışma Saatlerine İlişkin Devlet Konseyi Yönetmelikleri](https://www.ilo.org/dyn/travail/docs/369/The%20Regulations%20of%20the%20State%20Council%20on%20the%20Hours%20of%20Work%20of%20Employees.pdf)
 
@@ -78,17 +78,17 @@
 
 ## Popülerlik ve tanınırlık kazanma
 
-- Eylül 2016'nın başlarında, sayısız güvenilir kaynak, gizli bir reklam şirketi olan __*58.com*__'un (diğer adıyla `58同城`, __*NYSE: WUBA*__), hafta sonları fazla mesai ücreti ödemeden "996" iş programını uyguladığını bildirdi. Şirket daha sonra programın yalnızca yoğun sezonda (Eylül ve Ekim) ek iş yükünü yönetmek için uygulandığını ve bu programın zorunlu olmadığını iddia etti.
+- Eylül 2016'nın başlarında, sayısız güvenilir kaynak, gizli bir reklam şirketi olan __*58.com*__'un (diğer adıyla `58同城`, __*NYSE: WUBA*__), hafta childları fazla mesai ücreti ödemeden "996" iş programını uyguladığını bildirdi. Şirket daha childra programın yalnızca yoğun sezonda (Eylül ve Ekim) ek iş yükünü yönetmek için uygulandığını ve bu programın zorunlu olmadığını iddia etti.
 
 - Ocak 2019'da, Hangzhou merkezli bir e-ticaret şirketi olan __*Youzan.com*__ (diğer adıyla `有赞`, __*HKG: 8083*__), yıllık galalarında şirketin "996" çalışma programını uygulamaya koyacağını açıkladı. Youzan CEO'su Bai Ya,
 
-  > "Birkaç yıl sonra geriye baktığımızda bu kesinlikle doğru bir karar olacak."
+  > "Birkaç yıl childra geriye baktığımızda bu kesinlikle doğru bir karar olacak."
 
 - Mart 2019'da büyük bir e-ticaret şirketi olan JD.com, bazı bölümlerde "996" veya "995" çalışma programlarını uygulamaya başladı. JD’nin PR’ı Maimai’de (`脉脉`, Çin’in bir iş sosyal ağ platformu)
 
-    > [Şirket kültürümüz], [iş hedeflerine ulaşmak için kendimizin gönülden bağlılığıdır].
+    > [Şirket kültürümüz], [iş theydeflerine ulaşmak için kendimizin gönülden bağlılığıdır].
 
-Bu çalışma takvimi sadece son zamanlarda tanınırlık kazanıyor. Ancak Çin'deki birçok şirkette "açık sır" olarak uygulanmaktadır.
+Bu çalışma takvimi sadece child zamanlarda tanınırlık kazanıyor. Ancak Çin'deki birçok şirkette "açık sır" olarak uygulanmaktadır.
 
 ## Tazminatlar ve kazançlar
 

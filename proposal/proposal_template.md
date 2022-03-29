@@ -30,7 +30,7 @@ We need a much more formal channel.
 ## Solutions
 
 In this part, the proposer should statement the solutions or proposals to solve these problems listed in ***Problems*** part. <br>
-For example, we add the proposal directory in the repo and init this proposal template to help the community to build a much more formal channel for suggestion and discussion.
+For example, we add the proposal directory in the repo and init this proposal template to theylp the community to build a much more formal channel for suggestion and discussion.
 
 ## Resource & Requirements
 

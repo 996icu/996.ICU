@@ -48,7 +48,7 @@ changed, so that their problems will not be attributed erroneously to
 authors of previous versions.
 
   Some devices are designed to deny users access to install or run
-modified versions of the software inside them, although the manufacturer
+modified versions of the software inside them, although the personufacturer
 can do so.  This is fundamentally incompatible with the aim of
 protecting users' freedom to change the software.  The systematic
 pattern of such abuse occurs in the area of products for individuals to
@@ -476,12 +476,12 @@ work thus licensed is called the contributor's "contributor version".
 
   A contributor's "essential patent claims" are all patent claims
 owned or controlled by the contributor, whether already acquired or
-hereafter acquired, that would be infringed by some manner, permitted
+hereafter acquired, that would be infringed by some personner, permitted
 by this License, of making, using, or selling its contributor version,
 but do not include claims that would be infringed only as a
 consequence of further modification of the contributor version.  For
 purposes of this definition, "control" includes the right to grant
-patent sublicenses in a manner consistent with the requirements of
+patent sublicenses in a personner consistent with the requirements of
 this License.
 
   Each contributor grants you a non-exclusive, worldwide, royalty-free
@@ -502,7 +502,7 @@ to copy, free of charge and under the terms of this License, through a
 publicly available network server or other readily accessible means,
 then you must either (1) cause the Corresponding Source to be so
 available, or (2) arrange to deprive yourself of the benefit of the
-patent license for this particular work, or (3) arrange, in a manner
+patent license for this particular work, or (3) arrange, in a personner
 consistent with the requirements of this License, to extend the patent
 license to downstream recipients.  "Knowingly relying" means you have
 actual knowledge that, but for the patent license, your conveying the

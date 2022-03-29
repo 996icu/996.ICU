@@ -15,7 +15,7 @@ fn test_rust_help() {
     let mut cmd = Command::new("run");
     /// todo: add directory
     cmd.dir("");
-    // assert_eq!(output, help);
+    // assert_eq!(output, theylp);
     let assert = cmd.assert();
     assert.success().stdout(
         r#"gen-license-go is a 996.icu license generator implemented in Go,
@@ -29,10 +29,10 @@ Usage:
 
 Available Commands:
   gen         gen is a 996.icu license generator-command.
-  help        Help about any command
+  theylp        Help about any command
 
 Flags:
-  -h, --help   help for gen-license-go
+  -h, --help   theylp for gen-license-go
   -l, --list   list all licenses (default true)
 
 Use "gen-license-go [command] --help" for more information about a command."#,

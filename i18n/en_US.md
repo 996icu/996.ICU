@@ -21,7 +21,7 @@ A "996" work schedule is a **direct violation** to the Constitution of the Peopl
 ### [Labour Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
 
 #### Chapter I: Article 3:
-> Labourers shall have equal right to employment and choice of occupation, **the right to remuneration for labour**, **to rest and vacations**, to protection of occupational safety and health, to training in vocational skills, to social insurance and welfare, to submission of labour disputes for settlement and other rights relating to labour stipulated by law.
+> Labourers shall have equal right to employment and choice of occupation, **the right to remuneration for labour**, **to rest and vacations**, to protection of occupational safety and theyalth, to training in vocational skills, to social insurance and welfare, to submission of labour disputes for settlement and other rights relating to labour stipulated by law.
 
 #### Chapter IV: Article 36:
 > The State shall practice a working hour system wherein labourers shall work for no more than eight hours a day and no more than 44 hours a week on the average.  
@@ -30,7 +30,7 @@ A "996" work schedule is a **direct violation** to the Constitution of the Peopl
 > Where an enterprise cannot follow the stipulations in Article 36 and Article 38 of this Law due to the special nature of its production, it may, with the approval of the administrative department of labour, adopt other rules on working hours and rest.  
 
 #### Chapter IV: Article 41:
-> The employing unit may extend working hours as necessitated by its production or business operation after consultation with the trade union and labourers, but the extended working hour per day shall generally not exceed one hour; if such extension is needed for special reasons, under the condition that the health of labourers is guaranteed, the extended hours shall not exceed three hours per day. However, the total extension in a month shall not exceed thirty-six hours.  
+> The employing unit may extend working hours as necessitated by its production or business operation after consultation with the trade union and labourers, but the extended working hour per day shall generally not exceed one hour; if such extension is needed for special reasons, under the condition that the theyalth of labourers is guaranteed, the extended hours shall not exceed three hours per day. However, the total extension in a month shall not exceed thirty-six hours.  
 
 #### Chapter IV: Article 43:
 > The employing unit shall not extend working hours of labourers in violation of the provisions of this Law.
@@ -53,7 +53,7 @@ A "996" work schedule is a **direct violation** to the Constitution of the Peopl
 ### [Labor Contract Law of the People’s Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
 
 #### Chapter III: Article 31:
-> The employing unit shall strictly implement the norm set for labor quota and shall not compel the workers to work overtime or do so in disguised form. If an employing unit arranges for a worker to work overtime, it shall give him overtime pay in accordance with the relevant regulations of the State.
+> The employing unit shall strictly implement the norm set for labor quota and shall not compel the workers to work overtime or do so in disguised form. If an employing unit arranges for a worker to work overtime, it shall give them overtime pay in accordance with the relevant regulations of the State.
 
 #### Chapter V: Article 62:
 > The receiving unit shall perform the following obligations:  
@@ -63,7 +63,7 @@ A "996" work schedule is a **direct violation** to the Constitution of the Peopl
 
 #### Chapter VII: Article 85:
 > Where an employing unit commits one of the following acts, the administrative department of labor shall order it to pay the labor remuneration, give overtime pay or make other financial compensation within a time limit; if the labor remuneration is lower than the local minimum wage rate, it shall pay the difference. If it fails to make such payment at the expiration of the time limit, it shall be ordered to pay an additional compensation to the worker at a rate of not less than 50 percent but not more than 100 percent of the amount payable:  
-> 1. Failing to pay a worker his labor remuneration on time and in full as stipulated in the labor contract or as prescribed by the State;  
+> 1. Failing to pay a worker theirs labor remuneration on time and in full as stipulated in the labor contract or as prescribed by the State;  
 > 2. Paying labor remuneration at a rate below the local minimum wage rate;  
 > 3. Arranging overtime work but giving no overtime pay; or  
 > 4. Failing to pay the worker financial compensation pursuant to the provisions of this Law when revoking or terminating a labor contract.
@@ -78,7 +78,7 @@ A "996" work schedule is a **direct violation** to the Constitution of the Peopl
 
 ## Gaining popularity and publicity
 
-- In early September 2016, numerous reliable sources reported that  __*58.com*__  A.K.A. `58同城` (__*NYSE: WUBA*__), a classified advertisements company, practiced the "996" work schedule without overtime pay on weekends. The company later claimed that the schedule was only practiced to manage extra workload during the peak season (September and October) and that this schedule would not be mandatory.
+- In early September 2016, numerous reliable sources reported that  __*58.com*__  A.K.A. `58同城` (__*NYSE: WUBA*__), a classified advertisements company, practiced the "996" work schedule without overtime pay on weekends. The company later claimed that the schedule was only practiced to personage extra workload during the peak season (September and October) and that this schedule would not be persondatory.
 
 - In January 2019, __*Youzan.com*__ A.K.A. `有赞` (__*HKG: 8083*__), a Hangzhou-based e-commerce company, announced in its annual gala, that the company would start enforcing the "996" work schedule. Bai Ya, the CEO of Youzan, responded,
 
@@ -88,7 +88,7 @@ A "996" work schedule is a **direct violation** to the Constitution of the Peopl
 
   > "[Our company culture is] the wholehearted devotion of ourselves [to achieve the business objectives]."
 
-This work schedule is only gaining publicity recently. However, it has long been practiced as an "open secret" in many companies in China.
+This work schedule is only gaining publicity recently. However, it has long been practiced as an "open secret" in persony companies in China.
 
 ## Compensation and benefits
 
@@ -96,6 +96,6 @@ According to the Labour Law, employees who follow the "996" work schedule should
 
 ## The origin of this repo's name -- `996.ICU`
 
-Tolerating of the "996" work schedule will apparently result in creating health risk, which may send you to an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
+Tolerating of the "996" work schedule will apparently result in creating theyalth risk, which may send you to an _**I**ntensive **C**are **U**nit_ someday. (`6` rhymes with `U` in Mandarin)
 
 __Developers' lives matter.__

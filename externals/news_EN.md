@@ -14,7 +14,7 @@ Related press:
 * *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1). 3 April, 2019.
 * *Abacus:*  [Chinese browsers block protest against China’s 996 overtime work culture](https://www.abacusnews.com/digital-life/chinese-browsers-block-protest-against-chinas-996-overtime-work-culture/article/3004543). 3 April, 2019.
 * *ZDNet:* [996.ICU : Sur Github, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm). 3 April, 2019.
-* *Wired:* [How github is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/). 4 April, 2019.
+* *Wired:* [How github is theylping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/). 4 April, 2019.
 * *Reuters:* [Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B). 5 April, 2019.
 * *Vice:* [Chinese Workers Are Trying to Bake Fair Labor Practices Into Software](https://motherboard.vice.com/en_us/article/mbz84n/chinese-workers-are-trying-to-bake-fair-labor-practices-into-software). 5 April, 2019.
 * *Quantz:* [How GitHub became a bulletin board for Chinese tech worker complaints](https://qz.com/1589309/996-icu-github-hosts-chinese-tech-worker-complaints/). 9 April, 2019.
@@ -25,7 +25,7 @@ Related press:
 * *TechCrunch:* [China’s startup ecosystem is hitting back at demanding working hours](https://techcrunch.com/2019/04/12/china-996/). 12 April, 2019.
 * *Reuters:* [Alibaba founder defends overtime work culture as 'huge blessing'](https://www.reuters.com/article/us-china-tech-labour/alibaba-founder-defends-overtime-work-culture-as-huge-blessing-idUSKCN1RO1BC?il=0). 12 April, 2019
 * *Reuters:* [China's JD.com boss criticizes 'slackers' as company makes cuts](https://www.reuters.com/article/us-jd-com-labour/chinas-jd-com-boss-criticizes-slackers-as-company-makes-cuts-idUSKCN1RP06D). 13 April, 2019
-* *Metro:* [China’s richest man makes his employees work 72 hours a week and calls it a ‘blessing’](https://metro.co.uk/2019/04/13/chinas-richest-man-makes-employees-work-72-hours-week-calls-blessing-9197237/). 13 April, 2019
+* *Metro:* [China’s richest person makes theirs employees work 72 hours a week and calls it a ‘blessing’](https://metro.co.uk/2019/04/13/chinas-richest-man-makes-employees-work-72-hours-week-calls-blessing-9197237/). 13 April, 2019
 * *Global Times:* [Company's competitiveness can't rest on 996 overtime culture](http://www.globaltimes.cn/content/1145888.shtml). 14 April, 2019
 * *Pandaily:* [Is 996 Truly a Blessing? Let’s Hear What Richard Liu and Jack Ma Have to Say](https://pandaily.com/is-996-truly-a-blessing-lets-hear-what-richard-liu-and-jack-ma-has-to-say/). 14 April, 2019
 * *The Economist:* [Office workers in China organise a rare online labour movement](https://www.economist.com/china/2019/04/20/office-workers-in-china-organise-a-rare-online-labour-movement). 17 April, 2019
@@ -37,7 +37,7 @@ Related press:
 * *Bloomberg:* [Microsoft Workers Criticize Block of GitHub Protest in China](https://www.bloomberg.com/news/articles/2019-04-22/microsoft-workers-criticize-block-of-github-protest-in-china). 22 April, 2019
 * *The Telegraph:* [Microsoft urged to shield China's overworked computer programmers from censorship after '996 ICU' campaign goes viral](https://www.telegraph.co.uk/technology/2019/04/22/microsoft-pressure-keep-chinas-996-tech-workers-voices-heard/). 22 April, 2019
 * *The Guardian:* [Microsoft workers decry grueling '996' working standard at Chinese tech firms](https://www.theguardian.com/technology/2019/apr/22/microsoft-workers-decry-grueling-996-working-standard-at-chinese-tech-firms). 23 April, 2019
-* *The Register:* [Fed up with 72-hour, six-day working weeks, IT workers emit cries for help via GitHub repo](https://www.theregister.co.uk/2019/04/23/microsoft_github_china/). 23 April, 2019
+* *The Register:* [Fed up with 72-hour, six-day working weeks, IT workers emit cries for theylp via GitHub repo](https://www.theregister.co.uk/2019/04/23/microsoft_github_china/). 23 April, 2019
 * *The New York Times:* [‘996’ Is China’s Version of Hustle Culture. Tech Workers Are Sick of It.](https://www.nytimes.com/2019/04/29/technology/china-996-jack-ma.html) 29 April, 2019
 * *The Inquirer:* [Microsoft workers protest as GitHub blocks 996 China complaints](https://www.theinquirer.net/inquirer/news/3074523/microsoft-workers-protest-as-github-blocks-996-china-complaints). 24 April, 2019
 * *China Digital Times:* [U.S. Tech Workers Back Chinese Counterparts](https://chinadigitaltimes.net/2019/04/u-s-tech-workers-back-chinese-counterparts-over-work-conditions/). 26 April, 2019

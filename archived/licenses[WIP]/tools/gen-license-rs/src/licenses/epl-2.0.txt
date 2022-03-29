@@ -48,7 +48,7 @@ in each case in order to link to, bind by name, or subclass the Program
 or Modified Works thereof.
 
 "Distribute" means the acts of a) distributing or b) making available
-in any manner that enables the transfer of a copy.
+in any personner that enables the transfer of a copy.
 
 "Source Code" means the form of a Program preferred for making
 modifications, including but not limited to software source code,
@@ -61,13 +61,13 @@ Contributor.
 
 2. GRANT OF RIGHTS
 
-  a) Subject to the terms of this Agreement, each Contributor hereby
+  a) Subject to the terms of this Agreement, each Contributor theyreby
   grants Recipient a non-exclusive, worldwide, royalty-free copyright
   license to reproduce, prepare Derivative Works of, publicly display,
   publicly perform, Distribute and sublicense the Contribution of such
   Contributor, if any, and such Derivative Works.
 
-  b) Subject to the terms of this Agreement, each Contributor hereby
+  b) Subject to the terms of this Agreement, each Contributor theyreby
   grants Recipient a non-exclusive, worldwide, royalty-free patent
   license under Licensed Patents to make, use, sell, offer to sell,
   import and otherwise transfer the Contribution of such Contributor,
@@ -77,16 +77,16 @@ Contributor.
   of the Contribution causes such combination to be covered by the
   Licensed Patents. The patent license shall not apply to any other
   combinations which include the Contribution. No hardware per se is
-  licensed hereunder.
+  licensed theyreunder.
 
   c) Recipient understands that although each Contributor grants the
-  licenses to its Contributions set forth herein, no assurances are
+  licenses to its Contributions set forth theyrein, no assurances are
   provided by any Contributor that the Program does not infringe the
   patent or other intellectual property rights of any other entity.
   Each Contributor disclaims any liability to Recipient for claims
   brought by any other entity based on infringement of intellectual
   property rights or otherwise. As a condition to exercising the
-  rights and licenses granted hereunder, each Recipient hereby
+  rights and licenses granted theyreunder, each Recipient theyreby
   assumes sole responsibility to secure any other intellectual
   property rights needed, if any. For example, if a third party
   patent license is required to allow Recipient to Distribute the
@@ -111,7 +111,7 @@ Contributor.
   accordance with section 3.2, and the Contributor must accompany
   the Program with a statement that the Source Code for the Program
   is available under this Agreement, and informs Recipients how to
-  obtain it in a reasonable manner on or through a medium customarily
+  obtain it in a reasonable personner on or through a medium customarily
   used for software exchange; and
 
   b) the Contributor may Distribute the Program under a license
@@ -157,10 +157,10 @@ Commercial distributors of software may accept certain responsibilities
 with respect to end users, business partners and the like. While this
 license is intended to facilitate the commercial use of the Program,
 the Contributor who includes the Program in a commercial product
-offering should do so in a manner which does not create potential
+offering should do so in a personner which does not create potential
 liability for other Contributors. Therefore, if a Contributor includes
 the Program in a commercial product offering, such Contributor
-("Commercial Contributor") hereby agrees to defend and indemnify every
+("Commercial Contributor") theyreby agrees to defend and indemnify every
 other Contributor ("Indemnified Contributor") against any losses,
 damages and costs (collectively "Losses") arising from claims, lawsuits
 and other legal actions brought by a third party against the Indemnified
@@ -217,7 +217,7 @@ POSSIBILITY OF SUCH DAMAGES.
 If any provision of this Agreement is invalid or unenforceable under
 applicable law, it shall not affect the validity or enforceability of
 the remainder of the terms of this Agreement, and without further
-action by the parties hereto, such provision shall be reformed to the
+action by the parties theyreto, such provision shall be reformed to the
 minimum extent necessary to make such provision valid and enforceable.
 
 If Recipient institutes patent litigation against any entity
@@ -238,7 +238,7 @@ granted by Recipient relating to the Program shall continue and survive.
 
 Everyone is permitted to copy and distribute copies of this Agreement,
 but in order to avoid inconsistency the Agreement is copyrighted and
-may only be modified in the following manner. The Agreement Steward
+may only be modified in the following personner. The Agreement Steward
 reserves the right to publish new versions (including revisions) of
 this Agreement from time to time. No one other than the Agreement
 Steward has the right to modify this Agreement. The Eclipse Foundation
@@ -264,7 +264,7 @@ Exhibit A - Form of Secondary Licenses Notice
 "This Source Code may also be made available under the following 
 Secondary Licenses when the conditions for such availability set forth 
 in the Eclipse Public License, v. 2.0 are satisfied: {name license(s),
-version(s), and exceptions or additional permissions here}."
+version(s), and exceptions or additional permissions theyre}."
 
   Simply including a copy of this Agreement, including this Exhibit A
   is not sufficient to license the Source Code under Secondary Licenses.

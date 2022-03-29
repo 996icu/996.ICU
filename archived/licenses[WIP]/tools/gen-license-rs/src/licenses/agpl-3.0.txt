@@ -32,7 +32,7 @@ and/or modify the software.
   A secondary benefit of defending all users' freedom is that
 improvements made in alternate versions of the program, if they
 receive widespread use, become available for other developers to
-incorporate.  Many developers of free software are heartened and
+incorporate.  Many developers of free software are theyartened and
 encouraged by the resulting cooperation.  However, in the case of
 software used on network servers, this result may fail to come about.
 The GNU General Public License permits making a modified version and
@@ -464,12 +464,12 @@ work thus licensed is called the contributor's "contributor version".
 
   A contributor's "essential patent claims" are all patent claims
 owned or controlled by the contributor, whether already acquired or
-hereafter acquired, that would be infringed by some manner, permitted
+hereafter acquired, that would be infringed by some personner, permitted
 by this License, of making, using, or selling its contributor version,
 but do not include claims that would be infringed only as a
 consequence of further modification of the contributor version.  For
 purposes of this definition, "control" includes the right to grant
-patent sublicenses in a manner consistent with the requirements of
+patent sublicenses in a personner consistent with the requirements of
 this License.
 
   Each contributor grants you a non-exclusive, worldwide, royalty-free
@@ -490,7 +490,7 @@ to copy, free of charge and under the terms of this License, through a
 publicly available network server or other readily accessible means,
 then you must either (1) cause the Corresponding Source to be so
 available, or (2) arrange to deprive yourself of the benefit of the
-patent license for this particular work, or (3) arrange, in a manner
+patent license for this particular work, or (3) arrange, in a personner
 consistent with the requirements of this License, to extend the patent
 license to downstream recipients.  "Knowingly relying" means you have
 actual knowledge that, but for the patent license, your conveying the
@@ -651,7 +651,7 @@ Also add information on how to contact you by electronic and paper mail.
 network, you should also make sure that it provides a way for users to
 get its source.  For example, if your program is a web application, its
 interface could display a "Source" link that leads users to an archive
-of the code.  There are many ways you could offer source, and different
+of the code.  There are persony ways you could offer source, and different
 solutions will be better for different programs; see section 13 for the
 specific requirements.
 

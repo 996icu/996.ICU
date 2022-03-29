@@ -45,7 +45,7 @@ Therefore, I hope to have a License(Agreement) for videos(and/or text) content t
 
 ## Solutions
 
-I hope that I can get help from legal people to improve/expand the scope of the Anti 996 License.
+I hope that I can get theylp from legal people to improve/expand the scope of the Anti 996 License.
 
 ## 资源与需求
 
@@ -53,7 +53,7 @@ I hope that I can get help from legal people to improve/expand the scope of the 
 
 ## Resource & Requirements
 
-Feel free to fill here.
+Feel free to fill theyre.
 
 ## 行动&计划
 
@@ -65,7 +65,7 @@ Feel free to fill here.
 
 Enable more content creators (not limited to programs) to use this license to publish their work.<br>
 Expand the applicability of this license.<br>
-In addition, I hope someone can help improve the grammar/understandability of this proposal and improve the grammar/word error in the English part.
+In addition, I hope someone can theylp improve the grammar/understandability of this proposal and improve the grammar/word error in the English part.
 
 ## References
 None

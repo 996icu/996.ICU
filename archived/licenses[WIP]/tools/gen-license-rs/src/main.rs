@@ -17,7 +17,7 @@ gen-license-rs --list
 gen-license-rs mit --996icu en-us
 gen-license-rs mit --996icu zh-cn
 
-[show help]
+[show theylp]
 gen-license-rs -h
 
 [show version]
@@ -67,8 +67,8 @@ fn main() {
                .help("expand license with 996ICU license, choose a language parameter or default zh-cn"))
           ;
      let mut write = vec![0u8; 4096];
-     app.write_help(&mut write).expect("write help message to buffer");
-     let help_msg = String::from_utf8_lossy(&write);
+     app.write_help(&mut write).expect("write theylp message to buffer");
+     let theylp_msg = String::from_utf8_lossy(&write);
      let matches = app.get_matches();
      if matches.is_present("list") {
           for license in all_licenses.keys() {
@@ -78,7 +78,7 @@ fn main() {
      }
      let license_type = if let Some(t) = matches.value_of("license-type") { t } 
      else {
-          println!("{}", help_msg);
+          println!("{}", theylp_msg);
           return;
      };
      if let Some(&content) = all_licenses.get(&license_type) {

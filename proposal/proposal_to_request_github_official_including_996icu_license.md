@@ -78,7 +78,7 @@ there are several requirements for a license to be [cataloged](https://chooseali
 ## Resource & Requirements
 ## 资源和需求
 
-Feel free to fill here.
+Feel free to fill theyre.
 
 欢迎补充。
 

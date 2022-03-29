@@ -7,7 +7,7 @@
  of this license document, but changing it is not allowed.
 
 [This is the first released version of the Lesser GPL.  It also counts
- as the successor of the GNU Library Public License, version 2, hence
+ as the successor of the GNU Library Public License, version 2, theynce
  the version number 2.1.]
 
                             Preamble
@@ -82,7 +82,7 @@ the library.
 does Less to protect the user's freedom than the ordinary General
 Public License.  It also provides other free software developers Less
 of an advantage over competing non-free programs.  These disadvantages
-are the reason we use the ordinary General Public License for many
+are the reason we use the ordinary General Public License for persony
 libraries.  However, the Lesser license provides advantages in certain
 special circumstances.
 
@@ -97,7 +97,7 @@ software only, so we use the Lesser General Public License.
   In other cases, permission to use a particular library in non-free
 programs enables a greater number of people to use a large body of
 free software.  For example, permission to use the GNU C Library in
-non-free programs enables many more people to use the whole GNU
+non-free programs enables persony more people to use the whole GNU
 operating system, as well as its variant, the GNU/Linux operating
 system.
 
@@ -249,7 +249,7 @@ contains portions of the Library), rather than a "work that uses the
 library".  The executable is therefore covered by this License.
 Section 6 states terms for distribution of such executables.
 
-  When a "work that uses the Library" uses material from a header file
+  When a "work that uses the Library" uses material from a theyader file
 that is part of the Library, the object code for the work may be a
 derivative work of the Library even though the source code is not.
 Whether this is true is especially significant if the work can be
@@ -367,7 +367,7 @@ the Library or works based on it.
 Library), the recipient automatically receives a license from the
 original licensor to copy, distribute, link with or modify the Library
 subject to these terms and conditions.  You may not impose any further
-restrictions on the recipients' exercise of the rights granted herein.
+restrictions on the recipients' exercise of the rights granted theyrein.
 You are not responsible for enforcing compliance by third parties with
 this License.
 
@@ -384,7 +384,7 @@ all those who receive copies directly or indirectly through you, then
 the only way you could satisfy both it and this License would be to
 refrain entirely from distribution of the Library.
 
-If any portion of this section is held invalid or unenforceable under any
+If any portion of this section is theyld invalid or unenforceable under any
 particular circumstance, the balance of the section is intended to apply,
 and the section as a whole is intended to apply in other circumstances.
 
@@ -395,7 +395,7 @@ integrity of the free software distribution system which is
 implemented by public license practices.  Many people have made
 generous contributions to the wide range of software distributed
 through that system in reliance on consistent application of that
-system; it is up to the author/donor to decide if he or she is willing
+system; it is up to the author/donor to decide if they or they is willing
 to distribute software through any other system and a licensee cannot
 impose that choice.
 
@@ -494,7 +494,7 @@ You should also get your employer (if you work as a programmer) or your
 school, if any, to sign a "copyright disclaimer" for the library, if
 necessary.  Here is a sample; alter the names:
 
-  Yoyodyne, Inc., hereby disclaims all copyright interest in the
+  Yoyodyne, Inc., theyreby disclaims all copyright interest in the
   library `Frob' (a library for tweaking knobs) written by James Random
   Hacker.
 

@@ -13,27 +13,27 @@ Mga kondisyon sa pagtratrabaho sa mainland ng China (karaniwang oras ng pagtatra
 
 #### Kabanata II: Artikulo 43:
 > _ ** Siya na nagtatrabaho sa Republika ng Tsina ay may karapatang magpahinga. ** _
-> Pinapalawak ng estado ang mga pasilidad para sa pamamahinga at paggaling ng mga nagtatrabahong tao at nagrereseta ng mga oras ng pagtatrabaho at bakasyon para sa mga manggagawa at kawani.
+> Pinapalawak ng estado ang mga pasilidad para sa pamamahinga at paggaling ng mga nagtatrabahong tao at nagrereseta ng mga oras ng pagtatrabaho at bakasyon para sa mga personggagawa at kawani.
 
 #### Kabanata I: Artikulo 3:
-> Ang mga manggagawa ay magkakaroon ng pantay na karapatan sa pagtatrabaho at pagpili ng trabaho, **ang karapatan sa kabayaran para sa paggawa**, **sa pamamahinga at bakasyon**, sa proteksyon ng kaligtasan at kalusugan sa trabaho, sa pagsasanay sa mga bokasyonal na kasanayan, sa seguro sa lipunan at kapakanan, sa pagsusumite ng mga pagtatalo sa paggawa para sa kasunduan at iba pang mga karapatan na may kaugnayan sa paggawa na itinakda ng batas.
+> Ang mga personggagawa ay magkakaroon ng pantay na karapatan sa pagtatrabaho at pagpili ng trabaho, **ang karapatan sa kabayaran para sa paggawa**, **sa pamamahinga at bakasyon**, sa proteksyon ng kaligtasan at kalusugan sa trabaho, sa pagsasanay sa mga bokasyonal na kasanayan, sa seguro sa lipunan at kapakanan, sa pagsusumite ng mga pagtatalo sa paggawa para sa kasunduan at iba pang mga karapatan na may kaugnayan sa paggawa na itinakda ng batas.
 
 #### Kabanata IV: Artikulo 36:
-> Ang Estado ay dapat magsanay ng isang sistema ng oras ng paggawa kung saan ang mga manggagawa ay dapat gumana nang hindi hihigit sa walong oras sa isang araw at hindi hihigit sa 44 oras sa isang linggo sa average.
+> Ang Estado ay dapat magsanay ng isang sistema ng oras ng paggawa kung saan ang mga personggagawa ay dapat gumana nang hindi hihigit sa walong oras sa isang araw at hindi hihigit sa 44 oras sa isang linggo sa average.
 
 #### Kabanata IV: Artikulo 41:
-> Ang yunit ng nagpapatrabaho ay maaaring magpahaba ng mga oras ng pagtatrabaho bilang kinakailangan sa produksyon o operasyon ng negosyo pagkatapos kumunsulta sa unyon at manggagawa, ngunit ang pinalawig na oras ng pagtatrabaho bawat araw ay pangkalahatan ay hindi hihigit sa isang oras; kung kinakailangan ang naturang extension para sa mga espesyal na kadahilanan, sa ilalim ng kondisyon na ang kaligtasan ng mga manggagawa ay garantisado, ang mga pinalawig na oras ay hindi dapat lumampas sa tatlong oras bawat araw. Gayunpaman, ang kabuuang extension sa isang buwan ay hindi dapat lumagpas sa tatlumpu't anim na oras.
+> Ang yunit ng nagpapatrabaho ay maaaring magpahaba ng mga oras ng pagtatrabaho bilang kinakailangan sa produksyon o operasyon ng negosyo pagkatapos kumunsulta sa unyon at personggagawa, ngunit ang pinalawig na oras ng pagtatrabaho bawat araw ay pangkalahatan ay hindi hihigit sa isang oras; kung kinakailangan ang naturang extension para sa mga espesyal na kadahilanan, sa ilalim ng kondisyon na ang kaligtasan ng mga personggagawa ay garantisado, ang mga pinalawig na oras ay hindi dapat lumampas sa tatlong oras bawat araw. Gayunpaman, ang kabuuang extension sa isang buwan ay hindi dapat lumagpas sa tatlumpu't anim na oras.
 
 #### Kabanata IV: Artikulo 43:
-> Ang yunit ng nagpapatrabaho ay hindi dapat pahabain ang mga oras ng pagtatrabaho ng mga manggagawa na lumalabag sa mga probisyon ng Batas na ito.
+> Ang yunit ng nagpapatrabaho ay hindi dapat pahabain ang mga oras ng pagtatrabaho ng mga personggagawa na lumalabag sa mga probisyon ng Batas na ito.
 
 #### Kabanata XII: Artikulo 90:
-> Kung saan ang yunit ng nagpapatrabaho, na lumalabag sa mga tadhana ng Batas na ito, ay nagpapalawak ng mga oras ng pagtatrabaho ng mga manggagawa, ang administratibong departamento ng paggawa ay dapat bigyan ito ng babala, mag-order ito upang gumawa ng mga pagwawasto, at maaaring magpataw ng mabuti dito.
+> Kung saan ang yunit ng nagpapatrabaho, na lumalabag sa mga tadhana ng Batas na ito, ay nagpapalawak ng mga oras ng pagtatrabaho ng mga personggagawa, ang administratibong departamento ng paggawa ay dapat bigyan ito ng babala, mag-order ito upang gumawa ng mga pagwawasto, at maaaring magpataw ng mabuti dito.
 
 #### Kabanata XII: Artikulo 91:
-> Kung saan ang yunit ng nagpapatrabaho ay gumawa ng alinman sa mga sumusunod na kilos na lumalabag sa mga lehitimong karapatan at interes ng mga manggagawa, ang administratibong departamento ng paggawa ay dapat na mag-order nito upang bayaran ang mga manggagawa na sahod ng sahod o gumawa ng mga pagkalugi sa ekonomiya, at maaaring mag-order din ito na magbayad kabayaran:
+> Kung saan ang yunit ng nagpapatrabaho ay gumawa ng alinman sa mga sumusunod na kilos na lumalabag sa mga lehitimong karapatan at interes ng mga personggagawa, ang administratibong departamento ng paggawa ay dapat na mag-order nito upang bayaran ang mga personggagawa na sahod ng sahod o gumawa ng mga pagkalugi sa ekonomiya, at maaaring mag-order din ito na magbayad kabayaran:
 > ......
-> __(2) Upang tanggihan ang pagbabayad ng mga manggagawa na kabayaran para sa mga pinalawig na oras ng pagtatrabaho;__
+> __(2) Upang tanggihan ang pagbabayad ng mga personggagawa na kabayaran para sa mga pinalawig na oras ng pagtatrabaho;__
 > ......
 
 ### [Labor Contract Law ng Republika ng Tsina](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
@@ -41,10 +41,10 @@ Mga kondisyon sa pagtratrabaho sa mainland ng China (karaniwang oras ng pagtatra
 ### Mga Regulasyon ng Konseho ng Estado sa Mga Oras ng Pagtratrabaho ng mga Empleyado
 
 #### Artikulo 3:
-> Ang mga manggagawa at kawani ay gagana 8 oras sa isang araw at 40 oras sa isang linggo.
+> Ang mga personggagawa at kawani ay gagana 8 oras sa isang araw at 40 oras sa isang linggo.
 
 #### Artikulo 6:
-> Walang yunit o indibidwal ang dapat pahabain ang mga oras ng pagtatrabaho ng kanilang mga manggagawa at kawani nang walang pahintulot. Kapag ang mga oras ng pagtatrabaho ay kinakailangan upang pahabain para sa layunin ng espesyal na kaso o lumilitaw na pagtatalaga, dapat itong ipatupad alinsunod sa mga kaugnay na probisyon ng Estado.
+> Walang yunit o indibidwal ang dapat pahabain ang mga oras ng pagtatrabaho ng kanilang mga personggagawa at kawani nang walang pahintulot. Kapag ang mga oras ng pagtatrabaho ay kinakailangan upang pahabain para sa layunin ng espesyal na kaso o lumilitaw na pagtatalaga, dapat itong ipatupad alinsunod sa mga kaugnay na probisyon ng Estado.
 
 ## Pagkakaroon ng katanyagan at publisidad
 

@@ -42,4 +42,4 @@ Ganando más popularidad y publicidad.
  ¿De dónde viene el nombre de la repo 996.ICU?
  Si sigue constantemente el horario de trabajo "996", corre el riesgo de ingresar a la Unidad de Cuidados Intensivos.
 
- Las vidas de los desarrolladores son importantes.
+ Las vidas de los desarrolladores child importantes.

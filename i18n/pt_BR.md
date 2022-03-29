@@ -4,7 +4,7 @@
 ## O que é o "996"?
 996 trabalhando, ICU esperando.
 
-O horário de trabalho "996" é uma referência, não oficial,  ao horário de trabalho (das 9 da manhã - às 9 da noite, 6 dias por semana) que vem ganhando popularidade.
+O horário de trabalho "996" é uma referência, não oficial,  ao horário de trabalho (das 9 da personhã - às 9 da noite, 6 dias por semana) que vem ganhando popularidade.
 Trabalhar em um empresa que incentive o horário de trabalho "996" normalmente significa trabalhar pelo menos 60 horas semanais.
 
 Citado em [Leis do Trabalho da República Popular Chinesa](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
