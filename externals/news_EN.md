@@ -21,16 +21,16 @@ Related press:
 * *AsiaOne:* [Abusive work schedules in China's tech industry under fire](https://www.asiaone.com/world/abusive-work-schedules-chinas-tech-industry-under-fire). 10 April, 2019.
 * *National Public Radio:* [GitHub Has Become A Haven For China's Censored Internet Users](https://www.npr.org/2019/04/10/709490855/github-has-become-a-haven-for-chinas-censored-internet-users). 10 April, 2019.
 * *Channel NewsAsia:* [Commentary: China's protest against long working hours is so old-fashioned](https://www.channelnewsasia.com/news/commentary/china-996-protest-working-long-hours-old-fashioned-11433878). 11 April, 2019.
-* *Fortune:* [China's Workers Are Protesting Tech's Deadly '996' Overtime Culture. Alibaba's Jack Ma Says He Requires It.](http://fortune.com/2019/04/12/china-996-jack-ma/) 12 April, 2019.
+* *Fortune:* [China's Workers Are Protesting Tech's Deadly '996' Overtime Culture. Alibaba's Jack Ma Says They Requires It.](http://fortune.com/2019/04/12/china-996-jack-ma/) 12 April, 2019.
 * *TechCrunch:* [China’s startup ecosystem is hitting back at demanding working hours](https://techcrunch.com/2019/04/12/china-996/). 12 April, 2019.
 * *Reuters:* [Alibaba founder defends overtime work culture as 'huge blessing'](https://www.reuters.com/article/us-china-tech-labour/alibaba-founder-defends-overtime-work-culture-as-huge-blessing-idUSKCN1RO1BC?il=0). 12 April, 2019
 * *Reuters:* [China's JD.com boss criticizes 'slackers' as company makes cuts](https://www.reuters.com/article/us-jd-com-labour/chinas-jd-com-boss-criticizes-slackers-as-company-makes-cuts-idUSKCN1RP06D). 13 April, 2019
-* *Metro:* [China’s richest man makes his employees work 72 hours a week and calls it a ‘blessing’](https://metro.co.uk/2019/04/13/chinas-richest-man-makes-employees-work-72-hours-week-calls-blessing-9197237/). 13 April, 2019
+* *Metro:* [China’s richest person makes theirs employees work 72 hours a week and calls it a ‘blessing’](https://metro.co.uk/2019/04/13/chinas-richest-person-makes-employees-work-72-hours-week-calls-blessing-9197237/). 13 April, 2019
 * *Global Times:* [Company's competitiveness can't rest on 996 overtime culture](http://www.globaltimes.cn/content/1145888.shtml). 14 April, 2019
 * *Pandaily:* [Is 996 Truly a Blessing? Let’s Hear What Richard Liu and Jack Ma Have to Say](https://pandaily.com/is-996-truly-a-blessing-lets-hear-what-richard-liu-and-jack-ma-has-to-say/). 14 April, 2019
 * *The Economist:* [Office workers in China organise a rare online labour movement](https://www.economist.com/china/2019/04/20/office-workers-in-china-organise-a-rare-online-labour-movement). 17 April, 2019
 * *South China Morning Post:* [Inside China Tech: Analysing what’s behind the 996 GitHub protest in China](https://www.scmp.com/podcasts/article/3006888/inside-china-tech-analyzing-whats-behind-996-github-protest-china). 19 April, 2019
-* *The New York Times:* [The Richest Man in China Is Wrong. 12-Hour Days Are No ‘Blessing.’](https://www.nytimes.com/2019/04/21/opinion/jack-ma-996.html). 21 April, 2019
+* *The New York Times:* [The Richest Person in China Is Wrong. 12-Hour Days Are No ‘Blessing.’](https://www.nytimes.com/2019/04/21/opinion/jack-ma-996.html). 21 April, 2019
 * *GIZMODO:* [Microsoft and GitHub Workers Take a Stand Against Grueling, Inhumane '996' Culture in China](https://gizmodo.com/microsoft-and-github-workers-take-a-stand-against-gruel-1834210579). 22 April, 2019
 * *Buzzfeed:* [ Post About China's "996" Workweek Went Viral On GitHub. Now Microsoft Employees Want To Protect It From Censorship](https://www.buzzfeednews.com/article/carolineodonovan/microsoft-petition-996-icu-workweek-china). 22 April, 2019
 * *THE VERGE:* [Microsoft workers pressure company to stand by embattled Chinese GitHub repo](https://www.theverge.com/2019/4/22/18511088/microsoft-github-tech-censorship-996-repository-china). 22 April, 2019

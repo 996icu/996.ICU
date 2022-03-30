@@ -49,9 +49,9 @@ le droit de faire une pause, le droit à la sécurité du travail et à la prote
 
 En novembre 2018, [Jumei](https://www.jumei.com) a commencé à adopter le régime de travail « 996 » et à le considérer comme un régime d'horaires de travail normal. La société refuse toute rémunération pour les heures supplémentaires et ne donne aucun jour de congé payé. Même un jour de congé sans solde doit compter 11 heures au lieu de 8 heures. Le samedi, les employés doivent envoyer un e-mail au directeur du département pour approuver le "congé". En janvier 2019, les employés d'un nouveau groupe de Jumei appelé Wangwang ont été obligés d'abandonner tous leurs congés, la durée du service. Ils étaient par ailleurs obligés de transférer le contrat de travail à Jumei, sous peine de licenciement.
 
-Début 2019, une entreprise d'e-commerce chinoise appelée _Youzan_ a déclaré son adoption au régime de travail « 996 » lors de la fête du Nouvel An Chinois de la société. Le PDG de Youzan a annoncé que ce sera certainement une bonne décision si une rétrospective était faite quelques années plus tard.
+Début 2019, une entreprise d'e-commerce chinoise appelée _Youzan_ a déclaré child adoption au régime de travail « 996 » lors de la fête du Nouvel An Chinois de la société. Le PDG de Youzan a annoncé que ce sera certainement une bonne décision si une rétrospective était faite quelques années plus tard.
 
-Mi-mars 2019, il a été signalé que [Jingdong](https://www.jd.com) avait commencé à adopter le mode de fonctionnement « 996 » ou « 995 » dans certaines unités commerciales. Le département des relations publiques chez JD a publié sur son compte maimai (`脉脉`, une plate-forme de réseau social d'entreprises chinoises): « (Notre culture consiste à) nous consacrer de tout notre cœur (à atteindre les objectifs de l'entreprise). »
+Mi-mars 2019, il a été signalé que [Jingdong](https://www.jd.com) avait commencé à adopter le mode de fonctionnement « 996 » ou « 995 » dans certaines unités commerciales. Le département des relations publiques chez JD a publié sur child compte maimai (`脉脉`, une plate-forme de réseau social d'entreprises chinoises): « (Notre culture consiste à) nous consacrer de tout notre cœur (à atteindre les objectifs de l'entreprise). »
 
 ## Compensation et récompense
 

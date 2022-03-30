@@ -88,7 +88,7 @@
 
     > [Şirket kültürümüz], [iş hedeflerine ulaşmak için kendimizin gönülden bağlılığıdır].
 
-Bu çalışma takvimi sadece son zamanlarda tanınırlık kazanıyor. Ancak Çin'deki birçok şirkette "açık sır" olarak uygulanmaktadır.
+Bu çalışma takvimi sadece child zamanlarda tanınırlık kazanıyor. Ancak Çin'deki birçok şirkette "açık sır" olarak uygulanmaktadır.
 
 ## Tazminatlar ve kazançlar
 
