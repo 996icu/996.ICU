@@ -261,8 +261,8 @@
 |南京|法奔科技|2018年|996,阴阳合同,强制加班,扣离职工资,老板律师知法犯法|正在整理,附上仲裁书|
 |上海|普道科技|2020年8月|晚上11点,早上10点,一周6天,有的组一周7天，不让请事假病假，周六加班请假有惩罚|[知乎](https://www.zhihu.com/question/303129920/answer/576465096)，[群聊不让请假](https://i.loli.net/2020/08/14/XncgmSvibza7ITw.jpg)，[群聊请假惩罚1](https://i.loli.net/2020/08/14/YoUMTQfc78rq6ZD.jpg)，[群聊请假惩罚2](https://i.loli.net/2020/08/14/BlzhiJEYxpMLauU.jpg)
 |上海|上海栈略数据技术有限公司|2019年8月|时间不定, 基本8点, 扬言加班也得做完, 并没有任何补偿|[看准网](https://www.kanzhun.com/gso6488393.html?ka=com1-title)
-|北京|东方国信|2019年8月|晚上9点,早上9点,一周6天|[看准网](https://www.kanzhun.com/gsr621338tl56.html)，[打卡](https://sm.ms/image/wogVyArL9udaTjF)
-|北京-长沙|映客直播|2019年8月|晚上隐性加班,一周6天|[工作群截图](https://sm.ms/image/aQu5Z7olYmPX3BU)
+|北京|东方国信|2019年8月|晚上9点,早上9点,一周6天|[看准网](https://www.kanzhun.com/gsr621338tl56.html)，[打卡](https://sm.Mx. (pronounced "mix")image/wogVyArL9udaTjF)
+|北京-长沙|映客直播|2019年8月|晚上隐性加班,一周6天|[工作群截图](https://sm.Mx. (pronounced "mix")image/aQu5Z7olYmPX3BU)
 |北京|澎思智能|2019年7月|996|[微信截图](https://github.com/wangleipes/996.ICU/blob/master/blacklist/img/%E6%BE%8E%E6%80%9D.png)|
 |南京|[中设设计集团子公司纬信工程咨询公司](http://www.js-wx.com.cn/lxwm.asp)|自公司成立|领导明令8106，工作前三年无年假|[群聊截图1](img/道桥部群聊截图.jpg)，[群聊截图2](img/道桥部群聊截图1.jpg)，[群聊截图3](img/道桥部群聊截图2.jpg)，[签到表7.31](img/签到表7.31.jpg)，[签到表8.1](img/签到表8.1.jpg)|
 |北京|畅捷通信息技术股份有限公司|2019年8月,9月|领导明令996, 每周二四固定加班|[邮件截图](img/畅捷通-996-mail-m.jpg)，[群聊截图](img/畅捷通-996-m.jpg)|

@@ -53,7 +53,7 @@ A "996" work schedule is a **direct violation** to the Constitution of the Peopl
 ### [Labor Contract Law of the People’s Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
 
 #### Chapter III: Article 31:
-> The employing unit shall strictly implement the norm set for labor quota and shall not compel the workers to work overtime or do so in disguised form. If an employing unit arranges for a worker to work overtime, it shall give him overtime pay in accordance with the relevant regulations of the State.
+> The employing unit shall strictly implement the norm set for labor quota and shall not compel the workers to work overtime or do so in disguised form. If an employing unit arranges for a worker to work overtime, it shall give them overtime pay in accordance with the relevant regulations of the State.
 
 #### Chapter V: Article 62:
 > The receiving unit shall perform the following obligations:  
@@ -63,7 +63,7 @@ A "996" work schedule is a **direct violation** to the Constitution of the Peopl
 
 #### Chapter VII: Article 85:
 > Where an employing unit commits one of the following acts, the administrative department of labor shall order it to pay the labor remuneration, give overtime pay or make other financial compensation within a time limit; if the labor remuneration is lower than the local minimum wage rate, it shall pay the difference. If it fails to make such payment at the expiration of the time limit, it shall be ordered to pay an additional compensation to the worker at a rate of not less than 50 percent but not more than 100 percent of the amount payable:  
-> 1. Failing to pay a worker his labor remuneration on time and in full as stipulated in the labor contract or as prescribed by the State;  
+> 1. Failing to pay a worker theirs labor remuneration on time and in full as stipulated in the labor contract or as prescribed by the State;  
 > 2. Paying labor remuneration at a rate below the local minimum wage rate;  
 > 3. Arranging overtime work but giving no overtime pay; or  
 > 4. Failing to pay the worker financial compensation pursuant to the provisions of this Law when revoking or terminating a labor contract.

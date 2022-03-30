@@ -37,10 +37,10 @@ Eight hours for what we will.
 The voice of God within us  
 Is calling us to stand  
 Erect as is becoming  
-To the work of His right hand.  
-Should he, to whom the Maker  
-His glorious image gave,  
-The meanest of His creatures crouch,  
+To the work of theirs right hand.  
+Should they, to whom the Maker  
+theirs glorious image gave,  
+The meanest of theirs creatures crouch,  
 A bread-and-butter slave?  
 Let the shout ring down the valleys  
 And echo from every hill.  
