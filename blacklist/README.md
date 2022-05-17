@@ -44,6 +44,8 @@
 ---
 |所在城市|公司名字|曝光/施行时间|制度描述|证据内容|
 |:---:|:---:|:---:|:---:|:---:|
+|广州|[开利网络科技有限公司](www.wzgd.net/)|2021年10月|996这是家坑人的公司，招人只是临时解决技术难题，不会让你转正的，省了社保，试用期工资不是全额，老板就靠这个省钱，等你申请转正时就找理由开了你，然后招下一个。里面的开发就一个人（技术主管），一定要用的存储过程，不按格式写代码就别想在那混|本人真实经历|
+|广州|[鸿亿防伪产品有限公司](www.mtcdn.cn/)|2020年6月|996这是家坑人的公司，他们解决不了的问题，就招人进去，问题解决了就随便找人理由开掉。进去开发不会给源码，完全靠猜，有一个人做了个项目没源码看完成不了，项目黄了，就把人家开了。开发部的几个管理的没技术，只会存储过程。技术总监整天板着张死人脸，开会只他一个说，没人敢反驳，反驳的都开了|本人真实经历|
 |天津|[云账户](https://www.yunzhanghu.com/)|2019年6月|大小周|[公司邮件](https://i.loli.net/2021/08/22/PKcnGhmfQ64OT18.png)|
 |北京|[中国农业银行研发中心](http://www.abchina.com/cn/)|2015年1月|996无偿加班，降薪|[脉脉员工发多个帖子1300+评论](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiNzlhYTRlOWIwYTIxMTFlYzg4NTBlNDQzNGIyZmE4ODgiLCJ1IjoyMjU2OTYxNTcsImlkIjoyOTM1MjMxOH0.Hrz8kApYUk4jt8-AG8daEbT7s6Dy6jvX56m3YNVVblo&share_channel=2&_share_channel=wechat) / [帖子2](https://maimai.cn/web/gossip_detail?src=app&webid=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlZ2lkIjoiZGM0MmFkYmQwYmJhMTFlY2JkZTZlNDQzNGIyZmE4ODgiLCJ1Ijo3NzA0NDc0MSwiaWQiOjI5MzYwODA2fQ._s1E-UBE0b_BIyDjJJOqYBU6UOnHMNO3F6QERm-K3qw&share_channel=2&_share_channel=wechat) / [知乎帖子](https://www.zhihu.com/question/484172369?utm_source=wechat_session&utm_medium=social&utm_oi=1101404494474088448&utm_content=group1_supplementQuestions&utm_campaign=shareopn)|
 |上海|[百安居](https://www.bthome.com/)|2019年6月|996|领导口头描述|
