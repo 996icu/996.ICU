@@ -78,19 +78,18 @@ Community powers
 
  - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work-life balanced companies.
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
- - [996.law](https://github.com/CPdogson/996.law) This is a manual for workers who want to conduct labor arbitration and litigation on their own.
- - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, current another anonymous voting list.
+ - [996.law](https://github.com/CPdogson/996.law) is a manual for workers who want to conduct labor arbitration and litigation on their own.
+ - [996.YAOCL](https://github.com/boycott996/yaocl) is Yet Another Overtime Corps List, current another anonymous voting list.
  - [996.Leave](https://github.com/623637646/996.Leave) encourages & introduces working overseas.
- - [996.RIP](https://996.rip) Old news never vanished.
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
- - [996.action](https://github.com/CPdogson/996action) Supporters are encouraged to participate in public supervision.
+ - [996.action](https://github.com/CPdogson/996action) encourages supporters to participate in public supervision.
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
- - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
- - [996.Q](https://github.com/alexddhuang/996.Q) A repository to collect mocks, jokes, or gags about 996. 
- - [996.survey](https://github.com/0594mazhiyuan/996.survey) A survey of the status of 996.
- - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU
- - [996.Blockchain](https://github.com/996BC/996.Blockchain) Blockchain for the 996 evidence
- - [996.Error](https://github.com/MagicLu550/996Error) Collect "996" exceptions written in various languages and can be used directly in the project.
+ - [996.OD](https://github.com/zheolong/996.OD.git) lists various occupational diseases which are the forewarning of ICU.
+ - [996.Q](https://github.com/alexddhuang/996.Q) is a repository that collects mocks, jokes, or gags about 996. 
+ - [996.survey](https://github.com/0594mazhiyuan/996.survey) is a survey of the status of 996.
+ - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU.
+ - [996.Blockchain](https://github.com/996BC/996.Blockchain) is a blockchain for the 996 evidence.
+ - [996.Error](https://github.com/MagicLu550/996Error) collects "996" exceptions written in various languages and can be used directly in the project.
 
 Where are the issues?
 ---
