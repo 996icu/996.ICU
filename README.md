@@ -126,6 +126,16 @@ We accept following crypto currencies:
 
 Donations will be used to sustain/maintain the website.
 
+Collect your badge
+---
+After exposing any 996 companies(after the PR is merged), you can collect a badge to your ethereum wallet which show that you are a fighter against 996 here:
+
+[996.ICU Fighter ZK Badge](https://playground.sismo.io/996-icu-fighters)
+
+<a href="https://playground.sismo.io/996-icu-fighters">
+<img src="https://sismo-playground-hub-static.s3.eu-west-1.amazonaws.com/badges/996_icu.svg" data-canonical-src="https://sismo-playground-hub-static.s3.eu-west-1.amazonaws.com/badges/996_icu.svg" width="200" height="200" />
+</a>
+
 Contact
 ---
 
