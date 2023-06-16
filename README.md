@@ -6,7 +6,7 @@ To dispel rumors:
 3. I have not received any funding or donations. Everything can be traced on the blockchain.
 
 
-[Everything can be traced on the blockchain.996.ICU](https://996.icu/#/en_US)
+[996.ICU](https://996.icu/#/en_US)
 =======
 **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
 
