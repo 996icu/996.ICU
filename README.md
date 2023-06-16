@@ -1,6 +1,12 @@
 ⚠️ Due to some recent drama, this repository will be temporarily archived.
 
-[996.ICU](https://996.icu/#/en_US)
+To dispel rumors:
+1. I am an individual, not a team.
+2. I am at home, not in prison.
+3. I have not received any funding or donations. Everything can be traced on the blockchain.
+
+
+[Everything can be traced on the blockchain.996.ICU](https://996.icu/#/en_US)
 =======
 **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
 
