@@ -2,7 +2,7 @@
 =======
 **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
 
-* [中文版](./README_CN.md)
+* [中文版 ](./README_CN.md)
 
 The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
 
