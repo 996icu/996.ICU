@@ -1,4 +1,18 @@
 [996.ICU](https://996.icu/#/en_US)
+
+编程随想软件最新版本同步密码
+BQDQF2CBGPH6MR2JHOFJRJZJPVYBLAJEH
+
+免翻墙下载翻墙软件
+https://github.com/hello-world-1989/temp
+
+李老师推文离线PDF版本， 2022年11月-2023年5月
+免翻墙下载地址，方便不能翻墙的国内朋友阅读和传播
+https://github.com/hello-world-1989/whyyoutouzhele
+
+拆墙运动推特
+https://twitter.com/end_gfw
+
 =======
 **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
 
