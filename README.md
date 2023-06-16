@@ -124,7 +124,7 @@ We accept following crypto currencies:
 
 - **DOGE**(DOGE Mainnet): `DBKMT687qwHPERyvtkw1bocEetBKqfrRkd`
 
-Donations will be used to sustain/maintain the website.
+Donations will be used to sustain/maintain the project.
 
 Contact
 ---
