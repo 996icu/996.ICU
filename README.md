@@ -87,7 +87,7 @@ Community powers
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, current another anonymous voting list.
  - [996.Leave](https://github.com/623637646/996.Leave) encourages & introduces working overseas.
- - [996.RIP](https://996.rip) Old news never vanished.
+ - [996.RIP](https://web.archive.org/web/20190422174052/https://996.rip/) Old news never vanished.
  - [996.Petition](https://github.com/xokctah/996.petition) initiates petitions by sending open letters to relevant government departments.
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) adds `996ICU` and `955WLB` tags on recruitment websites.
  - [996.OD](https://github.com/zheolong/996.OD.git) occupational diseases are the forewarning of ICU.
