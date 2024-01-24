@@ -1,3 +1,9 @@
+为承德程序员所遭受的不公正待遇发声，此案影响深远，严重性远超 996 问题。
+
+链接：[翻墙访问国际互联网打工被处罚百万](https://v2ex.com/t/976757)
+
+![image](https://github.com/996icu/996.ICU/assets/48942249/4e1906eb-ac5b-4b33-9470-bf422a345fba)
+
 [996.ICU](https://996.icu/#/zh_CN)
 =======
 **请注意 996.ICU 没有除域名和库以外的任何官方账号、app、周边，请勿给予有心之人可乘之机。**
@@ -79,8 +85,6 @@
  - [955.WLB](https://github.com/formulahendry/955.WLB) 955 公司白名单，旨在让更多的人逃离 996，加入 955 的行列。
 
  - [996.LIST](https://github.com/fengT-T/996_list) 此 repo 为 996 和 955 的匿名投票列表。
- 
- - [996.law](https://github.com/CPdogson/996.law) 面向所有劳动者的一份劳动仲裁与劳动诉讼的攻略手册，看完它之后你甚至不用找律师。并且倡导劳动者在工作中随时取证以备后患。
 
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, 另外一个匿名投票列表
 
@@ -89,8 +93,6 @@
  - [996.RIP](https://996.rip) 企业可能会忘，但我们不会忘。
 
  - [996.Petition](https://github.com/xokctah/996.petition) 向相关政府主管单位投递公开信，请求主管单位采取行动。
-
- - [996.action](https://github.com/CPdogson/996action) 强调用行动抗议996的板块，向政府信息公开火热进行中，#向马云寄劳动法#行为艺术式，除此之外还有许多行动选择。
  
  - [996.avengers](https://github.com/996-icu-avengers/Natasha) 旨在各大招聘网站标记996.ICU和955.WLB上榜公司。
  
