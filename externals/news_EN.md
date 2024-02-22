@@ -13,8 +13,8 @@ Related press:
 * *THE VERGE:* [Tencent and Xiaomi may be censoring a GitHub page for airing worker grievances](https://www.theverge.com/2019/4/3/18294030/tencent-xiaomi-china-censorship-browser-block-github-page-worker-grievances). 3 April, 2019.
 * *Financial Times:*  [China tech worker protest against long working hours goes viral](https://www.ft.com/content/72754638-55d1-11e9-91f9-b6515a54c5b1). 3 April, 2019.
 * *Abacus:*  [Chinese browsers block protest against China’s 996 overtime work culture](https://www.abacusnews.com/digital-life/chinese-browsers-block-protest-against-chinas-996-overtime-work-culture/article/3004543). 3 April, 2019.
-* *ZDNet:* [996.ICU : Sur Github, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm). 3 April, 2019.
-* *Wired:* [How github is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/). 4 April, 2019.
+* *ZDNet:* [996.ICU : Sur GitHub, les développeurs chinois donnent de la voix](https://www.zdnet.fr/actualites/996icu-sur-github-les-developpeurs-chinois-donnent-de-la-voix-39882985.htm). 3 April, 2019.
+* *Wired:* [How GitHub is helping overworked chinese programmers](https://www.wired.com/story/how-github-helping-overworked-chinese-programmers/). 4 April, 2019.
 * *Reuters:* [Rare overtime protest by China tech workers goes viral](https://www.reuters.com/article/us-china-tech-labour/rare-overtime-protest-by-china-tech-workers-goes-viral-idUSKCN1RH12B). 5 April, 2019.
 * *Vice:* [Chinese Workers Are Trying to Bake Fair Labor Practices Into Software](https://motherboard.vice.com/en_us/article/mbz84n/chinese-workers-are-trying-to-bake-fair-labor-practices-into-software). 5 April, 2019.
 * *Quantz:* [How GitHub became a bulletin board for Chinese tech worker complaints](https://qz.com/1589309/996-icu-github-hosts-chinese-tech-worker-complaints/). 9 April, 2019.
