@@ -111,6 +111,8 @@
   - [996.Error](https://github.com/MagicLu550/996Error) 收集各种语言写的“996”异常,可以在项目中直接使用
 
   - [996.blacklist](https://github.com/996icu/996.ICU/tree/master/blacklist) 996企业信息数据黑名单，基于slack频道和discord频道提供。已经更新996icu内部的blacklist数据
+
+  - [996.ninja](https://996.ninja/) 无法逃离996，那就学会摸鱼技巧，成为996忍者
  
 Issues 去哪了？
 ---
