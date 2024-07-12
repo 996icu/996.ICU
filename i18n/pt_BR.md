@@ -43,8 +43,8 @@ Apesar de estar ganhando mais popularidade apenas recentemente, essa escala de t
 
 De acordo com a Lei do Trabalho, os empregados que seguem a escala de trabalho "996" tem direito ao pagamento de 2,275 vezes o seu sálario base. Infelizmente, esses empregados raramente recebem esse pagamento.
 
-## De onde vem o nome do repositório "996.ICU"?
+## Origem do nome do repositório
 
-Qualquer um que siga o horário de trabalho "996", corre o risco de ir parar na Unidade de Tratamento Intensivo ou **I**ntensive **C**are **U**nit em inglês.
+Em português, **996.UTI**, significa: 996 trabalhando, UTI esperando, onde UTI é **U**nidade de **T**ratamento **I**ntensivo. Dizendo que suportar a escala de trabalho "996" prejudica a saúde do trabalhador, e pode mandá-lo pra UTI.
 
-A vida dos programadores importa.
+**Vidas de desenvolvedores importam.**
