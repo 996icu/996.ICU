@@ -29,13 +29,15 @@ Extraído das [Leis do Trabalho da República Popular Chinesa](http://www.china.
 ### Artigo 91:
 > (2) Recusa de pagar aos trabalhadores remunerações por trabalhar horas prolongadas;
 
-## Ganhar mais popularidade e publicidade
+## Ganhando popularidade e publicidade
 
-No início de 2019, a empresa Chinesa no sector do E-commerice chamada _Youzan_ anunciou a adoção do horário de trabalho "996" no futuro, durante a festa anual da empresa. O CEO da Youzan respondeu: "Isto certamente é uma boa decisão se olharmos para trás no tempo alguns anos.".
+- Em janeiro de 2019, a empresa chinesa de comércio eletrônico ***Youzan.com*** anunciou, em sua festa anual, a adoção da escala de trabalho "996". Bai Ya, diretor-executivo da Youzan, disse:
+> "Isto certamente terá sido uma decisão certa quando olharmos para trás daqui a alguns anos."
 
-Em meados de Março de 2019, foi reportado que a JD.com começou a adotar o horário de trabalho "996" ou "995" em alguns departamentos. O representante público da JD.com postou no seu Maimai (`脉脉`, um nome real de uma rede social chinesa focada nas empresas): "(A nossa cultura é) dar tudo de nós e dos nossos corações (para alcançar os objectivos de negócio)".
+- Em março de 2019, a ***JD.com***, uma gigante do comércio eletrônico, começou a adotar as escalas de trabalho "996" ou "995" em alguns departamentos. O representante público da empresa postou em seu *Maimai* (uma rede social chinesa para negócios):
+> "[A cultura da nossa empresa é] a entrega total de nosso ser [para alcançar os objectivos do negócio]."
 
-Apesar de estar ganhando mais popularidade recentemente, este horário de trabalho é um "segredo" comumente conhecido e praticado por várias empresa na China.
+Apesar de estar ganhando mais popularidade apenas recentemente, essa escala de trabalho é praticada há muito tempo como um "segredo público" em muitas empresas na China.
 
 ## Compensações e benefícios
 
