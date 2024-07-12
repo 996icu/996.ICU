@@ -9,21 +9,21 @@ Trabalhar em um empresa que incentive o horário de trabalho "996" normalmente s
 
 Citado em [Leis do Trabalho da República Popular Chinesa](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
 
-**Artigo 36**:  
+**Artigo 36**:
 > O Estado deve praticar um sistema horário de trabalho onde os colaboradores não devem trabalhar mais que nove horas por dia e não mais de 44 horas por semana, em média.
 
-**Artigo 39**:  
+**Artigo 39**:
 > Se uma empresa não seguir as estipulações do Artigo 36 e do Artigo 38 desta Lei devido a características especiais da sua produção pode adotar-se outras regras desde que aprovado pelo Ministério do Trabalho.
 
-**Artigo 41**:  
+**Artigo 41**:
 > O empregador pode prolongar as horas de trabalho devido a necessidades de produção ou de negócios depois de consulta aos sindicatos e colaboradores. No caso das horas de trabalho serem prolongadas, não deve-se ultrapassar mais que uma hora por dia. Se o prolongamento for necessário por razões especiais não deve ultrapassar mais que três horas por dia sempre garantindo as condições de saúde dos colaboradores. Se prolongado, as horas extras mensais não podem ultrapassar 36 horas.
 
-**Artigo 43**:  
+**Artigo 43**:
 > O empregador não pode prolongar as horas de trabalho dos empregados se violar as regras establecidas por Lei.
 
-**Artigo 90**:  
+**Artigo 90**:
 
-> Se o empregador prolongar as horas de trabalho em violação do que se encontra estipulado na Lei, os departamentos administrativos de trabalho podem dar aviso, ordernar correções e impor multas.  
+> Se o empregador prolongar as horas de trabalho em violação do que se encontra estipulado na Lei, os departamentos administrativos de trabalho podem dar aviso, ordernar correções e impor multas.
 
 **Artigo 91**:
 > (2) Recusa de pagar aos trabalhadores remunerações por trabalhar horas prolongadas;
