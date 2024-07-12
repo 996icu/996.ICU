@@ -41,7 +41,7 @@ Apesar de estar ganhando mais popularidade apenas recentemente, essa escala de t
 
 ## Compensações e benefícios
 
-De acordo com a Lei do Trabalho, os empregados que seguem o horário de trabalho "996" tem direito ao pagamento de 2.275 vezes o seu sálario base. Infelizmente, os trabalhadores que trabalham sob o "996" raramente recebem as horas extras.
+De acordo com a Lei do Trabalho, os empregados que seguem a escala de trabalho "996" tem direito ao pagamento de 2,275 vezes o seu sálario base. Infelizmente, esses empregados raramente recebem esse pagamento.
 
 ## De onde vem o nome do repositório "996.ICU"?
 
