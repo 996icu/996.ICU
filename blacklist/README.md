@@ -277,3 +277,4 @@
 |上海|上海电信CRM项目组|2019年5月|每天至少工作12小时，周末采取大小周|[群聊截图1](img/上海电信CRM1.png)，[群聊截图2](img/上海电信CRM2.png)，[报道链接](http://www.shftth.com/news/2019-6-13/981.html)|
 |广州|北京滴普科技有限公司|2019年10月底|群里宣布10106/996,请假还需报备|[聊天记录截图1](img/dipu996record1.jpg),[聊天记录截图2](img/dipu996record2.jpg),[看准网](https://www.kanzhun.com/gso7687290.html?ka=com1-title)|  
 |北京|北京信安世纪科技股份有限公司 / 北京华耀科技有限公司|2023年4月|985，明确表明20:00前的加班不算加班，不统计进调休时间内。|[内部邮件](https://s2.loli.net/2023/07/15/ZxDV1dOP4pzj5cS.png), [OA打卡记录](https://s2.loli.net/2023/07/15/Yzxy16MepKkZXbn.png)|
+|杭州|[杭州领飞科技有限公司](https://aiqicha.baidu.com/company_detail_29828852794147)|2024年12月9日|996、无加班费|[聊天记录截图](img/杭州领飞聊天截图.jpg)|
