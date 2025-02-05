@@ -1,0 +1,370 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}gh repo clone Cabinet716/996.ICU
+/*
+ * GIT - The information manager from hell
+ *
+ * Copyright (C) Linus Torvalds, 2005
+ */
+#include "cache.h"
+
+#include <pwd.h>
+#include <time.h>
+#include <string.h>
+#include <ctype.h>
+#include <time.h>
+
+#define BLOCKING (1ul << 14)
+#define ORIG_OFFSET (40)
+
+/*
+ * Leave space at the beginning to insert the tag
+ * once we know how big things are.
+ *
+ * FIXME! Share the code with "write-tree.c"
+ */
+static void init_buffer(char **bufp, unsigned int *sizep)
+{
+	char *buf = malloc(BLOCKING);
+	memset(buf, 0, ORIG_OFFSET);
+	*sizep = ORIG_OFFSET;
+	*bufp = buf;
+}
+
+static void add_buffer(char **bufp, unsigned int *sizep, const char *fmt, ...)
+{
+	char one_line[2048];
+	va_list args;
+	int len;
+	unsigned long alloc, size, newsize;
+	char *buf;
+
+	va_start(args, fmt);
+	len = vsnprintf(one_line, sizeof(one_line), fmt, args);
+	va_end(args);
+	size = *sizep;
+	newsize = size + len;
+	alloc = (size + 32767) & ~32767;
+	buf = *bufp;
+	if (newsize > alloc) {
+		alloc = (newsize + 32767) & ~32767;
+		buf = realloc(buf, alloc);
+		*bufp = buf;
+	}
+	*sizep = newsize;
+	memcpy(buf + size, one_line, len);
+}
+
+static int prepend_integer(char *buffer, unsigned val, int i)
+{
+	buffer[--i] = '\0';
+	do {
+		buffer[--i] = '0' + (val % 10);
+		val /= 10;
+	} while (val);
+	return i;
+}
+
+static void finish_buffer(char *tag, char **bufp, unsigned int *sizep)
+{
+	int taglen;
+	int offset;
+	char *buf = *bufp;
+	unsigned int size = *sizep;
+
+	offset = prepend_integer(buf, size - ORIG_OFFSET, ORIG_OFFSET);
+	taglen = strlen(tag);
+	offset -= taglen;
+	buf += offset;
+	size -= offset;
+	memcpy(buf, tag, taglen);
+
+	*bufp = buf;
+	*sizep = size;
+}
+
+static void remove_special(char *p)
+{
+	char c;
+	char *dst = p, *src = p;
+
+	for (;;) {
+		c = *src;
+		src++;
+		switch(c) {
+		case '\n': case '<': case '>':
+			continue;
+		}
+		*dst++ = c;
+		if (!c)
+			break;
+	}
+
+	/*
+	 * Go back, and remove crud from the end: some people
+	 * have commas etc in their gecos field
+	 */
+	dst--;
+	while (--dst >= p) {
+		unsigned char c = *dst;
+		switch (c) {
+		case ',': case ';': case '.':
+			*dst = 0;
+			continue;
+		}
+		break;
+	}
+}
+
+static const char *month_names[] = {
+        "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+        "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"
+};
+
+static const char *weekday_names[] = {
+        "Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"
+};
+
+
+static char *skipfws(char *str)
+{
+	while (isspace(*str))
+		str++;
+	return str;
+}
+
+	
+/* Gr. strptime is crap for this; it doesn't have a way to require RFC2822
+   (i.e. English) day/month names, and it doesn't work correctly with %z. */
+static void parse_rfc2822_date(char *date, char *result, int maxlen)
+{
+	struct tm tm;
+	char *p;
+	int i, offset;
+	time_t then;
+
+	memset(&tm, 0, sizeof(tm));
+
+	/* Skip day-name */
+	p = skipfws(date);
+	if (!isdigit(*p)) {
+		for (i=0; i<7; i++) {
+			if (!strncmp(p,weekday_names[i],3) && p[3] == ',') {
+				p = skipfws(p+4);
+				goto day;
+			}
+		}
+		return;
+	}					
+
+	/* day */
+ day:
+	tm.tm_mday = strtoul(p, &p, 10);
+
+	if (tm.tm_mday < 1 || tm.tm_mday > 31)
+		return;
+
+	if (!isspace(*p))
+		return;
+
+	p = skipfws(p);
+
+	/* month */
+
+	for (i=0; i<12; i++) {
+		if (!strncmp(p, month_names[i], 3) && isspace(p[3])) {
+			tm.tm_mon = i;
+			p = skipfws(p+strlen(month_names[i]));
+			goto year;
+		}
+	}
+	return; /* Error -- bad month */
+
+	/* year */
+ year:	
+	tm.tm_year = strtoul(p, &p, 10);
+
+	if (!tm.tm_year && !isspace(*p))
+		return;
+
+	if (tm.tm_year > 1900)
+		tm.tm_year -= 1900;
+		
+	p=skipfws(p);
+
+	/* hour */
+	if (!isdigit(*p))
+		return;
+	tm.tm_hour = strtoul(p, &p, 10);
+	
+	if (!tm.tm_hour > 23)
+		return;
+
+	if (*p != ':')
+		return; /* Error -- bad time */
+	p++;
+
+	/* minute */
+	if (!isdigit(*p))
+		return;
+	tm.tm_min = strtoul(p, &p, 10);
+	
+	if (!tm.tm_min > 59)
+		return;
+
+	if (isspace(*p))
+		goto zone;
+
+	if (*p != ':')
+		return; /* Error -- bad time */
+	p++;
+
+	/* second */
+	if (!isdigit(*p))
+		return;
+	tm.tm_sec = strtoul(p, &p, 10);
+	
+	if (!tm.tm_sec > 59)
+		return;
+
+	if (!isspace(*p))
+		return;
+
+ zone:
+	p = skipfws(p);
+
+	if (*p == '-')
+		offset = -60;
+	else if (*p == '+')
+		offset = 60;
+	else
+	       return;
+
+	if (!isdigit(p[1]) || !isdigit(p[2]) || !isdigit(p[3]) || !isdigit(p[4]))
+		return;
+
+	i = strtoul(p+1, NULL, 10);
+	offset *= ((i % 100) + ((i / 100) * 60));
+
+	if (*(skipfws(p + 5)))
+		return;
+
+	then = mktime(&tm); /* mktime appears to ignore the GMT offset, stupidly */
+	if (then == -1)
+		return;
+
+	then -= offset;
+
+	snprintf(result, maxlen, "%lu %5.5s", then, p);
+}
+
+static void check_valid(unsigned char *sha1, const char *expect)
+{
+	void *buf;
+	char type[20];
+	unsigned long size;
+
+	buf = read_sha1_file(sha1, type, &size);
+	if (!buf || strcmp(type, expect))
+		die("%s is not a valid '%s' object", sha1_to_hex(sha1), expect);
+	free(buf);
+}
+
+/*
+ * Having more than two parents may be strange, but hey, there's
+ * no conceptual reason why the file format couldn't accept multi-way
+ * merges. It might be the "union" of several packages, for example.
+ *
+ * I don't really expect that to happen, but this is here to make
+ * it clear that _conceptually_ it's ok..
+ */
+#define MAXPARENT (16)
+
+int main(int argc, char **argv)
+{
+	int i, len;
+	int parents = 0;
+	unsigned char tree_sha1[20];
+	unsigned char parent_sha1[MAXPARENT][20];
+	unsigned char commit_sha1[20];
+	char *gecos, *realgecos, *commitgecos;
+	char *email, *commitemail, realemail[1000];
+	char date[20], realdate[20];
+	char *audate;
+	char comment[1000];
+	struct passwd *pw;
+	time_t now;
+	struct tm *tm;
+	char *buffer;
+	unsigned int size;
+
+	if (argc < 2 || get_sha1_hex(argv[1], tree_sha1) < 0)
+		usage("commit-tree <sha1> [-p <sha1>]* < changelog");
+
+	check_valid(tree_sha1, "tree");
+	for (i = 2; i < argc; i += 2) {
+		char *a, *b;
+		a = argv[i]; b = argv[i+1];
+		if (!b || strcmp(a, "-p") || get_sha1_hex(b, parent_sha1[parents]))
+			usage("commit-tree <sha1> [-p <sha1>]* < changelog");
+		check_valid(parent_sha1[parents], "commit");
+		parents++;
+	}
+	if (!parents)
+		fprintf(stderr, "Committing initial tree %s\n", argv[1]);
+	pw = getpwuid(getuid());
+	if (!pw)
+		die("You don't exist. Go away!");
+	realgecos = pw->pw_gecos;
+	len = strlen(pw->pw_name);
+	memcpy(realemail, pw->pw_name, len);
+	realemail[len] = '@';
+	gethostname(realemail+len+1, sizeof(realemail)-len-1);
+	if (!strchr(realemail+len+1, '.')) {
+		strcat(realemail, ".");
+		getdomainname(realemail+strlen(realemail), sizeof(realemail)-strlen(realemail)-1);
+	}
+	time(&now);
+	tm = localtime(&now);
+
+	strftime(realdate, sizeof(realdate), "%s %z", tm);
+	strcpy(date, realdate);
+
+	commitgecos = getenv("COMMIT_AUTHOR_NAME") ? : realgecos;
+	commitemail = getenv("COMMIT_AUTHOR_EMAIL") ? : realemail;
+	gecos = getenv("AUTHOR_NAME") ? : realgecos;
+	email = getenv("AUTHOR_EMAIL") ? : realemail;
+	audate = getenv("AUTHOR_DATE");
+	if (audate)
+		parse_rfc2822_date(audate, date, sizeof(date));
+
+	remove_special(gecos); remove_special(realgecos); remove_special(commitgecos);
+	remove_special(email); remove_special(realemail); remove_special(commitemail);
+
+	init_buffer(&buffer, &size);
+	add_buffer(&buffer, &size, "tree %s\n", sha1_to_hex(tree_sha1));
+
+	/*
+	 * NOTE! This ordering means that the same exact tree merged with a
+	 * different order of parents will be a _different_ changeset even
+	 * if everything else stays the same.
+	 */
+	for (i = 0; i < parents; i++)
+		add_buffer(&buffer, &size, "parent %s\n", sha1_to_hex(parent_sha1[i]));
+
+	/* Person/date information */
+	add_buffer(&buffer, &size, "author %s <%s> %s\n", gecos, email, date);
+	add_buffer(&buffer, &size, "committer %s <%s> %s\n\n", commitgecos, commitemail, realdate);
+
+	/* And add the comment */
+	while (fgets(comment, sizeof(comment), stdin) != NULL)
+		add_buffer(&buffer, &size, "%s", comment);
+
+	finish_buffer("commit ", &buffer, &size);
+
+	write_sha1_file(buffer, size, commit_sha1);
+	printf("%s\n", sha1_to_hex(commit_sha1));
+	return 0;
+}
