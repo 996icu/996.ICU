@@ -110,7 +110,7 @@ License
 
 Donate
 ---
-We accept following crypto currencies:
+We accept following cryptocurrencies:
 
 - **ETH**: `0x57a7e421c8edfc7f13612f68a54365fc729f2355`
 
