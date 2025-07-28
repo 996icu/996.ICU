@@ -36,7 +36,8 @@ What can I do?
 - Add this [badge](externals/instruction.md) to your project to support 996.ICU.  
 - License your awesome projects with the [Anti 996 License](LICENSE).  
 - Add [proposals](proposal/README.md) to give advice about the development of 996.ICU.
-- Go home at 6 pm without feeling sorry.
+- Go home at 6 PM without feeling sorry.
+- Live by [the Trinity Workstation](https://github.com/james4ever0/trinity) to further enhance your well being
 
 
 Voices
