@@ -2,7 +2,15 @@
 =======
 **Please note that there exists NO other official account, app or merchandise except for the official domain and this repository.**
 
-* [中文版](./README_CN.md)
+<!-- Keep these links. Translations will automatically update with the README. -->
+[中文版](./README_CN.md) | 
+[Deutsch](https://www.readme-i18n.com/996icu/996.ICU?lang=de) | 
+[Español](https://www.readme-i18n.com/996icu/996.ICU?lang=es) | 
+[français](https://www.readme-i18n.com/996icu/996.ICU?lang=fr) | 
+[日本語](https://www.readme-i18n.com/996icu/996.ICU?lang=ja) | 
+[한국어](https://www.readme-i18n.com/996icu/996.ICU?lang=ko) | 
+[Português](https://www.readme-i18n.com/996icu/996.ICU?lang=pt) | 
+[Русский](https://www.readme-i18n.com/996icu/996.ICU?lang=ru) 
 
 The name `996.ICU` refers to **"Work by '996', sick in ICU"**, an ironic saying among Chinese developers, which means that by following the "996" work schedule, you are risking yourself getting into the ICU (Intensive Care Unit).
 
