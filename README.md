@@ -124,3 +124,11 @@ Contact
 ---
 
 You can reach me by [E-mail](mailto:996icu.repo@gmail.com) if you need.
+
+
+
+Hi! We really appreciate the passion and effort you put into your work and would love to support you.
+
+Could you please share your Solana wallet address with us? We’ve created a token to support you:
+**CA:** BMtq3fFxrCwJij4VZsL1mgHYsojCuRtpBwZKGAsTpump
+
