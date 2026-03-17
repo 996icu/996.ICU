@@ -89,6 +89,7 @@ Community powers
  - [support.996.ICU](https://github.com/msworkers/support.996.ICU) Microsoft and GitHub Workers Support 996.ICU
  - [996.Blockchain](https://github.com/996BC/996.Blockchain) Blockchain for the 996 evidence.
  - [996.Error](https://github.com/MagicLu550/996Error) Collect "996" exceptions written in various languages and can be used directly in the project.
+ - [human_first_ai](https://github.com/human1ai/human_first_ai) AI is quietly reducing employment opportunities, even the lucky 996 cannot be saved
 
 Where are the issues?
 ---
