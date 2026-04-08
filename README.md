@@ -124,3 +124,38 @@ Contact
 ---
 
 You can reach me by [E-mail](mailto:996icu.repo@gmail.com) if you need.
+
+---
+
+## 🚀 Project Overview
+Enhanced README documentation for clarity, badges, and contribution guidance.
+
+## ✨ Features
+- Improved documentation structure
+- Repository metadata and badges
+- Automated activity insights
+- Contribution guidance
+
+## 🤝 Contributing
+Contributions are welcome.  
+Feel free to open issues or submit pull requests.
+
+## 📊 Repository Statistics
+![Stars](https://img.shields.io/github/stars/996icu/996.ICU)
+![Forks](https://img.shields.io/github/forks/996icu/996.ICU)
+![Issues](https://img.shields.io/github/issues/996icu/996.ICU)
+![License](https://img.shields.io/github/license/996icu/996.ICU)
+
+## 📜 Recent Repository Activity
+- f5e35f4 Merge pull request #26143 from shaymolcho/master (996icu, 2025-08-22)
+- 78c11d1 Merge pull request #26142 from RunsCode/master (996icu, 2025-08-22)
+- edb9448 Merge pull request #26149 from vforfree/master (996icu, 2025-08-22)
+- ccce134 Merge pull request #26151 from Olexandr88/patch-1 (996icu, 2025-08-22)
+- 6013a3f Update README.md (Olexandr88, 2025-06-18)
+
+## 🕒 Last Updated
+Wed Apr  8 02:49:38 +04 2026
+
+---
+
+### 🤖 Automated Documentation Update
