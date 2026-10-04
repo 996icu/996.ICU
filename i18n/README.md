@@ -1,6 +1,5 @@
 Translations of 996.ICU's contents
 ===
-
 * [简体中文](zh-Hans.md)
 * [English](en_US.md)
 * [हिन्दी](hin.md)
