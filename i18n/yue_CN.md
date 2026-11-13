@@ -53,6 +53,6 @@
 
 乜嘢系 996.ICU？返工 996，病咗 ICU。
 
-附上法律链接：[中华人民共和国劳动法（2018年修订版）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
+附上法律链接：[中华人民共和国劳动法（2018年修订版）](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_296651.html)
 
 Developers' lives matter.

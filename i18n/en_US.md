@@ -12,13 +12,13 @@ Serving in a company that encourages the "996" work schedule usually means worki
 
 A "996" work schedule is a **direct violation** to the Constitution of the People's Republic of China along with multiple other legislations:
 
-### [The Constitution of the People's Republic of China](http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm)
+### [The Constitution of the People's Republic of China](http://www.npc.gov.cn/englishnpc/constitution2019/201911/t20191120_384295.html)
 
 #### Chapter II: Article 43:
 > _**Working people in the People’s Republic of China have the right to rest.**_  
 > The state expands facilities for rest and recuperation of working people and prescribes working hours and vacations for workers and staff.
 
-### [Labour Law of the People's Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
+### [Labour Law of the People's Republic of China](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/12/content_1383754.htm)
 
 #### Chapter I: Article 3:
 > Labourers shall have equal right to employment and choice of occupation, **the right to remuneration for labour**, **to rest and vacations**, to protection of occupational safety and health, to training in vocational skills, to social insurance and welfare, to submission of labour disputes for settlement and other rights relating to labour stipulated by law.
@@ -50,7 +50,7 @@ A "996" work schedule is a **direct violation** to the Constitution of the Peopl
 > __(2) To refuse to pay labourers remuneration of wages for the extended working hours;__  
 > ......
 
-### [Labor Contract Law of the People’s Republic of China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
+### [Labor Contract Law of the People’s Republic of China](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2009-02/20/content_1471106.htm)
 
 #### Chapter III: Article 31:
 > The employing unit shall strictly implement the norm set for labor quota and shall not compel the workers to work overtime or do so in disguised form. If an employing unit arranges for a worker to work overtime, it shall give him overtime pay in accordance with the relevant regulations of the State.

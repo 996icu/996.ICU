@@ -3,7 +3,7 @@
 
 “996”者、是谓朝九时作，夜九时归。一周七日，一日能息之制也。
 
-### [《中华人民共和国宪法》](http://www.npc.gov.cn/npc/xinwen/2018-03/22/content_2052489.htm)
+### [《中华人民共和国宪法》](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_281393.html)
 
 #### 第二章第四十三条：
 
@@ -53,6 +53,6 @@
 
 996.ICU者、何之谓也？工作996、致疾ICU也。
 
-附：[中华人民共和国劳动法（2018年修订版）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
+附：[中华人民共和国劳动法（2018年修订版）](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_296651.html)
 
 Developers' lives matter. 夫开发者，其弗生哉？

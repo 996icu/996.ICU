@@ -12,13 +12,13 @@
 
 "996" iş programı, Çin Halk Cumhuriyeti Anayasası'na ve birçok diğer mevzuatın **doğrudan ihlal** edilmesidir:
 
-### [Çin Halk Cumhuriyeti Anayasası](http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm)
+### [Çin Halk Cumhuriyeti Anayasası](http://www.npc.gov.cn/englishnpc/constitution2019/201911/t20191120_384295.html)
 
 #### 2. Kısım: 43. Fıkra
 >_**Çin Halk Cumhuriyeti’nde çalışan insanlar dinlenme hakkına sahiptir.**_
 > Devlet, çalışanların istirahat ve toparlanma tesislerini genişletmekle ve işçiler ve çalışanlar için çalışma saatleri ve tatiller düzenlemekle yükümlüdür.
 
-### [Çin Halk Cumhuriyeti İş Kanunu](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
+### [Çin Halk Cumhuriyeti İş Kanunu](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/12/content_1383754.htm)
 
 #### 1. Kısım: 3. Fıkra:
 > İşçiler, istihdam ve meslek seçimi, emek için ücret alma, dinlenme ve tatil yapma, iş güvenliği ve sağlığını koruma, mesleki beceri eğitimi, sosyal sigorta ve refah, kanunla öngörülmüş işçilikle ilgili iskan ve diğer haklar konusunda eşit hakka sahip olmalıdır.
@@ -50,7 +50,7 @@
 > __(2) İşçilere, uzun çalışma saatleri için ücret ücretlerini ödemeyi reddetmek;__
 > ......
 
-### [Çin Halk Cumhuriyeti İş Sözleşmesi Kanunu](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
+### [Çin Halk Cumhuriyeti İş Sözleşmesi Kanunu](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2009-02/20/content_1471106.htm)
 
 #### 3. Kısım: 31. Fıkra:
 > İşveren birim, emek kotası için belirlenen normları kesinlikle uygular ve işçileri fazla mesai yapmaya veya üstü örtülü bir biçimde yapmaya zorlamaz. Eğer bir çalışan birim, bir işçinin fazla mesai yapmasını isterse, Devletin ilgili düzenlemelerine uygun olarak fazla mesai ücreti verir.

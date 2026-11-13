@@ -12,14 +12,14 @@ Työskentele ”996”, joudu ICU:hun
 
 ”996” -työaikataulu **rikkoo suoraan** Kiinan kansantasavallan perustuslakia setä monia muita lakeja
 
-### [Kiinan kansantasavallan perustuslaki](http://www.npc.gov.cn/englishnpc/Constitution/node_2825.htm)
+### [Kiinan kansantasavallan perustuslaki](http://www.npc.gov.cn/englishnpc/constitution2019/201911/t20191120_384295.html)
 
 #### II luku, 43. artikla:
 > Kiinan kansantasavallassa työskentelevillä on oikeus levätä.
 >
 > Valtio laajentaa työväestön lepo- ja virkistysmahdollisuuksia ja määrää työntekijöille ja henkilökunnalle työajat ja lomat.
 
-### [Kiinan kansantasavallan työvoimalaki](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
+### [Kiinan kansantasavallan työvoimalaki](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/12/content_1383754.htm)
 
 #### I luku, 3. artikla:
 > Työntekijöillä on yhtäläiset oikeudet työhön ja ammatinvalintaan, **oikeus korvaukseen työstä**, **lepoon ja lomaan**, työturvallisuuden ja -terveyden suojeluun, ammatillisten taitojen koulutukseen, sosiaaliturvaan, hyvinvointiin ja työtaistelujen sovitteluun, sekä muita lain määräämiä työhön liittyviä oikeuksia.
@@ -57,7 +57,7 @@ Työyksikkö voi pidentää työaikojaan kuultuaan ammattiyhdistystä ja työnte
 >
 > ......
 
-### [Kiinan kansantasavallan työsopimuslaki](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
+### [Kiinan kansantasavallan työsopimuslaki](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2009-02/20/content_1471106.htm)
 
 #### III luku, 31. artikla:
 > Työyksikön on tarkasti noudatettava työkiintiöstä asetettua normia, eikä se saa pakottaa työntekijöitään tekemään ylitöitä tai huijata ylitöihin. Mikäli työyksikkö järjestää työntekijän tekemään ylitöitä, sen on maksettava ylityökorvausta asianmukaisten valtion säädösten mukaisesti.

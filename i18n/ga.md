@@ -10,7 +10,7 @@ Is é an t-am oibre 8 n-uaire sa lá, agus is é an meánuaireanta oibre seachta
 
 ## Rialacháin ghaolmhara
 
-### [Bunreacht Phoblacht na Síne](http://www.npc.gov.cn/npc/xinwen/2018-03/22/content_2052489.htm)
+### [Bunreacht Phoblacht na Síne](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_281393.html)
 
 #### Caibidil 2 Airteagal 43:
 
@@ -18,7 +18,7 @@ Is é an t-am oibre 8 n-uaire sa lá, agus is é an meánuaireanta oibre seachta
 >
 > Forbraíonn an Stát áiseanna le haghaidh scíthe agus aisghabhála oibrithe, agus ordaíonn sé na huaireanta oibre agus an córas laethanta saoire d'fhostaithe.
 
-### ["Dlí Saothair Phoblacht na Síne"](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
+### ["Dlí Saothair Phoblacht na Síne"](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_296651.html)
 
 #### Caibidil 1 Airteagal 3:
 > Tá cearta comhionanna ag oibrithe oibriú agus gairm a roghnú, ** an ceart chun luach saothair a fháil **, ** an ceart chun sosa agus saoire **, an ceart chun oibre sábháilteacht agus cosaint sláinte, an ceart oiliúint scileanna gairme, árachas sóisialta agus An ceart chun leasa, an ceart chun díospóidí saothair, agus cearta saothair eile a láimhseáil mar atá leagtha síos sa dlí.
@@ -56,7 +56,7 @@ Is é an t-am oibre 8 n-uaire sa lá, agus is é an meánuaireanta oibre seachta
 >
 > ……
 
-### ["Dlí Conartha Saothair Phoblacht na Síne"](http://www.npc.gov.cn/wxzl/gongbao/2013-04/15/content_1811058.htm)
+### ["Dlí Conartha Saothair Phoblacht na Síne"](http://www.npc.gov.cn/npc/c2/c183/c198/201905/t20190522_26978.html)
 
 #### Caibidil III Airteagal 31:
 > Ba chóir d'fhostóirí caighdeáin cuóta saothair a fhorfheidhmiú go dian agus níor chóir dóibh oibritheoirí a chur i bhfeidhm nó a cheilt chun ragobair a dhéanamh. Má eagraíonn an fostóir obair ragoibre, íocfaidh sé ragobair leis an oibrí de réir rialacháin ábhartha stáit.
@@ -81,7 +81,7 @@ Is é an t-am oibre 8 n-uaire sa lá, agus is é an meánuaireanta oibre seachta
 >
 ......
 
-### ["Rialacháin na Comhairle Stáit ar Uaireanta Oibre Foirne agus Oibrithe"](http://www.mohrss.gov.cn/SYrlzyhshbzb/zcfg/flfg/xzfg/201604/t20160412_237909.html)
+### ["Rialacháin na Comhairle Stáit ar Uaireanta Oibre Foirne agus Oibrithe"](https://xzfg.moj.gov.cn/front/law/detail?LawID=629)
 
 #### Tríú Airteagal:
 > Oibríonn fostaithe 8 n-uaire sa lá agus 40 uair sa tseachtain.

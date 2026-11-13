@@ -36,7 +36,7 @@ Mga kondisyon sa pagtratrabaho sa mainland ng China (karaniwang oras ng pagtatra
 > __(2) Upang tanggihan ang pagbabayad ng mga manggagawa na kabayaran para sa mga pinalawig na oras ng pagtatrabaho;__
 > ......
 
-### [Labor Contract Law ng Republika ng Tsina](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
+### [Labor Contract Law ng Republika ng Tsina](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2009-02/20/content_1471106.htm)
 
 ### Mga Regulasyon ng Konseho ng Estado sa Mga Oras ng Pagtratrabaho ng mga Empleyado
 

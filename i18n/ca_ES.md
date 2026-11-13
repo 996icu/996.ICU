@@ -18,7 +18,7 @@ Un horari de treball “996” es considera, juntament a altres legislacions, un
 > _**Qui treballa a la República Popular de la Xina té el dret a descansar.**_  
 > L’estat amplia les instal·lacions per el descans i la recuperació dels treballadors i prescriu els horaris laborals i de vacances per a treballadors i personal.
 
-### [Dret laboral de la República Popular de la Xina](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
+### [Dret laboral de la República Popular de la Xina](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/12/content_1383754.htm)
 
 #### Capítol I: Article 3:
 > Els treballadors tindran el mateix dret a l’ocupació, a l’elecció de l’ocupació, **el dret de remuneració del treball**, **al descans i les vacances**, a la protecció de la salut i seguretat al treball, a formació en habilitats vocacionals, a la seguretat social i benestar, la presentació de conflictes laborals per a la seva solució i altres drets relacionats amb el treball previst per la llei.
@@ -50,7 +50,7 @@ La unitat de treballador pot estendre les hores de treball necessàries per la s
 > __(2) Negar-se a pagar als treballadors una remuneració dels salaris durant les hores de treball esteses;__  
 > ......
 
-### [Dret laboral de la República Popular de la Xina](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
+### [Dret laboral de la República Popular de la Xina](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2009-02/20/content_1471106.htm)
 
 #### Capítol III: Article 31:
 > La unitat contractant aplicarà estrictament la norma establerta per a la quota laboral i no obligarà els treballadors a treballar hores extraordinàries ni a fer-ho de forma dissimulada. Si una unitat ocupadora organitza un treballador per treballar hores extraordinàries, haurà de pagar la pròrroga en funció de la normativa pertinent de l'Estat.

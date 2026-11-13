@@ -9,13 +9,13 @@ Masa kerja adalah 8 jam sehari, dan waktu kerja mingguan purata tidak lebih dari
 
  ## Peraturan berkaitan
 
- ### [Perlembagaan Republik Rakyat](http://www.npc.gov.cn/npc/xinwen/2018-03/22/content_2052489.htm)
+ ### [Perlembagaan Republik Rakyat](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_281393.html)
 
  #### Bab II, Perkara 43：
 
  > Pekerja di Republik Rakyat China mempunyai hak untuk berehat.
 > Negara membangun kemudahan untuk berehat dan pemulihan pekerja, dan menetapkan waktu kerja dan sistem percutian untuk pekerja. 
- ### [Undang-undang Buruh Republik Rakyat](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
+ ### [Undang-undang Buruh Republik Rakyat](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_296651.html)
 
  #### Bab 1 Perkara 3：
 > Pekerja mempunyai hak yang sama untuk bekerja dan memilih profesion, ** hak untuk imbuhan untuk kerja **, ** hak untuk berehat dan meninggalkan **, hak untuk bekerja keselamatan dan perlindungan kesihatan, hak untuk menerima latihan kemahiran vokasional, insurans sosial dan Hak untuk kebajikan, hak untuk menangani pertikaian buruh, dan hak buruh lain sebagaimana yang ditetapkan oleh undang-undang.
@@ -52,7 +52,7 @@ Masa kerja adalah 8 jam sehari, dan waktu kerja mingguan purata tidak lebih dari
 >  （二）Tidak mahu membayar pekerja untuk melanjutkan waktu kerja 
 >  ……  
 >
- ### [Undang-undang Kontrak Buruh Republik Rakyat China](http://www.npc.gov.cn/wxzl/gongbao/2013-04/15/content_1811058.htm)
+ ### [Undang-undang Kontrak Buruh Republik Rakyat China](http://www.npc.gov.cn/npc/c2/c183/c198/201905/t20190522_26978.html)
  #### Bab III Perkara 31：
 > Majikan mesti menguatkuasakan standard kuota buruh dan tidak boleh memaksa pekerja untuk bekerja lebih masa. Jika majikan meminta lebih banyak masa, mereka perlu membayar lebih banyak untuk tenaga kerja mengikut peraturan negeri.
 
@@ -70,7 +70,7 @@ Masa kerja adalah 8 jam sehari, dan waktu kerja mingguan purata tidak lebih dari
 >  （二）Bayar kurang daripada gaji minimum tempatan untuk membayar pekerja；  
 >  （三）Memerlukan pekerja bekerja lebih masa tanpa pampasan；  
 ……  
- ### [《Peraturan Majlis Negeri pada jam kerja pekerja》](http://www.mohrss.gov.cn/SYrlzyhshbzb/zcfg/flfg/xzfg/201604/t20160412_237909.html)
+ ### [《Peraturan Majlis Negeri pada jam kerja pekerja》](https://xzfg.moj.gov.cn/front/law/detail?LawID=629)
  #### Perkara 3：
 > Pekerja bekerja 8 jam sehari dan bekerja 40 jam seminggu.
  #### Perkara 6：
