@@ -18,7 +18,7 @@ Een "996" werkschema staat in **botte schending** van de grondwet van de Volksre
 > _**Werkende mensen in de Volksrepubliek China hebben recht op rust.**_
 > De staat breidt faciliteiten uit voor rust en herstel van werkende mensen en schrijft werkuren en vakanties voor werknemers en personeel voor.
 
-### [Arbeidsrecht van de Volksrepubliek China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042473.htm)
+### [Arbeidsrecht van de Volksrepubliek China](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2007-12/12/content_1383754.htm)
 
 #### Hoofdstuk I: Artikel 3:
 > Arbeiders hebben hetzelfde recht op werk en beroepskeuze, **het recht op loon voor arbeid**, **op rust en vakanties**, op bescherming van veiligheid en gezondheid op het werk, op opleiding in beroepsvaardigheden, op sociale zekerheid en welzijn, tot het indienen van arbeidsconflicten voor schikking en andere rechten met betrekking tot arbeid bepaald door de wet.
@@ -50,7 +50,7 @@ Een "996" werkschema staat in **botte schending** van de grondwet van de Volksre
 > __(2) Om te weigeren arbeiders te betalen loon van de verlengde werktijden;__.  
 > ......
 
-### [Arbeidsovereenkomstenwet van de Volksrepubliek China](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
+### [Arbeidsovereenkomstenwet van de Volksrepubliek China](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2009-02/20/content_1471106.htm)
 
 #### Hoofdstuk III: Artikel 31:
 > De werkeenheid moet de norm die voor arbeidsquota is vastgesteld strikt uitvoeren en mag de werknemers niet dwingen om overuren te maken of dit in verkapte vorm doen. Als een werkeenheid ervoor zorgt dat een werknemer overwerkt, moet hij hem overuren betalen overeenkomstig de relevante voorschriften van de staat.

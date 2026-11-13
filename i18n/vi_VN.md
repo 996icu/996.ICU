@@ -50,7 +50,7 @@ Lịch làm việc "996" là **vi phạm** _**Hiến pháp Cộng hòa Nhân dâ
 > __(2) Từ chối trả lương cho người lao động khi khi người lao động làm việc nhiều giờ hơn quy định;__  
 > ......
 
-### [Luật hợp đồng Lao động của Cộng hòa Nhân dân Trung Quốc](http://english.gov.cn/archive/laws_regulations/2014/08/23/content_281474983042501.htm)
+### [Luật hợp đồng Lao động của Cộng hòa Nhân dân Trung Quốc](http://www.npc.gov.cn/zgrdw/englishnpc/Law/2009-02/20/content_1471106.htm)
 
 #### Chương III - Mục 31:
 > Đơn vị sử dụng lao động phải thực hiện nghiêm túc định mức quy định cho hạn ngạch lao động và không được phép bắt buộc người lao động phải làm thêm giờ hoặc làm dưới dạng ngụy trang. Nếu một đơn vị sử dụng lao động sắp xếp cho một công nhân làm thêm giờ, họ sẽ trả cho anh ta tiền làm thêm giờ theo quy định có liên quan của Nhà nước.

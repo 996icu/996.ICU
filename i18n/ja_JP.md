@@ -52,7 +52,7 @@ JDの広報部門が脉脉（maimai、中国のビジネスSNS）で「全身全
 **996.ICUとは？仕事は996なら、病気はICUへ。**
 
 参考：
-1. [中華人民共和国労働法（2018年改訂）](http://www.npc.gov.cn/npc/xinwen/2019-01/07/content_2070261.htm)
+1. [中華人民共和国労働法（2018年改訂）](http://www.npc.gov.cn/npc/c2/c30834/201905/t20190521_296651.html)
 2. [中華人民共和国労働法（日本語訳）](https://www.jil.go.jp/foreign/jihou/2004_7/china_01_01.html)
 
 **労働者の命は何よりも大切である。**
